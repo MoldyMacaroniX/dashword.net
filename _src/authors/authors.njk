@@ -1,0 +1,30 @@
+---
+title: Authors
+# permalink: /authors/
+
+pagination:
+  data: authors
+  size: 20
+  alias: authors
+permalink: "authors/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+
+layout: base.njk
+---
+
+<h1 class="heading">Authors</h1>
+
+<div class="author-previews grid-2">
+{% for author in authors %} {# | sort(attribute='name') #}
+<a href="/authors/{{ author.key }}/" class="author-preview">
+<div class="author-preview-photo"><img src="{{ author.photo | url }}" alt="{{ author.name }}'s Profile Photo"></div>
+<div class="author-preview-name">
+    {{ author.name }}
+    {% if author.verified %}<span class="badge ri-checkbox-circle-fill" data-tooltip="Verified" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></span>{% endif %}
+</div>
+</a>
+{% endfor %}
+</div>
+
+{% set paged = pagination.href %}
+{% set nestedPagination = false %}
+{% include "partials/paginator.njk" %}

@@ -1,0 +1,13 @@
+---
+title: Latest Geometry Dash News
+showFeaturedPosts: true
+layout: base.njk
+---
+
+<h1 class="heading">Latest Geometry Dash Stories</h1>
+
+{% for post in collections.posts | head(10) %}
+{% include "partials/posts.njk" %}
+{% endfor %}
+
+<a href="/posts/2/" class="button button-wide">More Stories</a>

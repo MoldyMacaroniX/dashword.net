@@ -1,0 +1,45 @@
+---
+pagination:
+  data: collections.pagedAuthorPosts
+  size: 1
+  alias: category
+permalink: authors/{{ category.slug }}/index.html
+
+pageID: authorPosts
+layout: base.njk
+---
+
+{% set myAuthor = authors | getAuthor(category.title) %}
+
+<h1 class="heading">Articles by {{ myAuthor.name }}</h1>
+
+<div class="cols author-profile">
+  <div class="author-photo">
+    <img src="{{ myAuthor.photo }}">
+  </div>
+  <div class="col">
+    <span class="author-name">
+      {{ myAuthor.name }}
+      {% if myAuthor.verified %}<span class="badge ri-checkbox-circle-fill" data-tooltip="Verified" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></span>{% endif %}
+    </span>
+    <span class="author-desc">{{ myAuthor.bio }}</span>
+    <div class="author-socials">
+      {% if myAuthor.youtube %}<a href="https://www.youtube.com/{% if myAuthor.customyt %}c{% else %}channel{% endif %}/{{ myAuthor.youtube }}" class="ri-youtube-fill" data-tooltip="YouTube" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></a>{% endif %}
+        {% if myAuthor.twitch %}<a href="https://www.twitch.tv/{{ myAuthor.twitch }}" class="ri-twitch-fill" data-tooltip="Twitch" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></a>{% endif %}
+        {% if myAuthor.twitter %}<a href="https://twitter.com/{{ myAuthor.twitter }}" class="ri-twitter-fill" data-tooltip="Twitter" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></a>{% endif %}
+        {% if myAuthor.discord %}<a href="https://discord.gg/{{ myAuthor.discord }}" class="ri-discord-fill" data-tooltip="Discord" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></a>{% endif %}
+        {% if myAuthor.gdbrowser %}<a href="https://gdbrowser.com/u/{{ myAuthor.gdbrowser }}" class="ri-global-fill" data-tooltip="GDBrowser" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></a>{% endif %}
+    </div>
+  </div>
+</div>
+
+{% for post in category.items %}
+{% include "partials/posts.njk" %}
+{% endfor %}
+
+<br>
+
+{% set paged = category.pageSlugs %}
+{% set nestedPagination = true %}
+{% set authorPagination = true %}
+{% include "partials/paginator.njk" %}

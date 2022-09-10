@@ -1,0 +1,28 @@
+---
+title: Tags
+permalink: /categories/
+
+#pagination:
+#  data: collections.tagList
+#  size: 3
+#  alias: tags
+#permalink: "categories/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+
+layout: base.njk
+---
+
+<h1 class="heading">All Topics</h1>
+
+<div class="tag-previews grid-3">
+{% for tag in collections.tagList %}
+{% set tagUrl %}/categories/{{ tag | slug }}/{% endset %}
+<a href="{{ tagUrl | url }}" class="tag-preview">
+  <div class="tag-preview-icon">
+    <i class="ri-price-tag-3-line"></i>
+  </div>
+  <div class="tag-preview-name">{{ tag | capitalize }}</div>
+</a>
+{% endfor %}
+</div>
+
+<a href="/posts/" class="button button-wide">More Stories</a>

@@ -1,0 +1,213 @@
+[
+	{
+		"key":"gdcs",
+		"name":"Creator School",
+		"bio": "The Geometry Dash Creator School is a place where aspiring creators can turn into experienced level makers!",
+		"photo":"/assets/img/gdcspfp.jpg",
+		"youtube":"GDCreatorSchool",
+		"customyt":"true",
+		"twitter":"GDCreatorSchool",
+		"discord":"gdcs",
+		"verified": "true"
+	},
+	{
+		"key":"moldymacaronix",
+		"name":"MoldyMacaroniX",
+		"bio": "I am Moldy. Not literally, of course.",
+		"photo":"https://yt3.ggpht.com/ytc/AKedOLQr8KPiI594vmcI02OJ-1eIHRwESVuzCRm1bsauNA=s900-c-k-c0x00ffffff-no-rj",
+		"youtube":"moldymacaronix",
+		"customyt":"true",
+		"twitch":"moldymacaronix",
+		"twitter":"moldymacaronix",
+		"discord":"PqTUgx6",
+		"gdbrowser":"CreatorMoldy",
+		"verified": "true"
+	},
+	{
+		"key":"esmik",
+		"name":"EsmiK",
+		"bio":"I'm a Czech GD YouTuber, artist, editor and pretty much mediocre at everything!",
+		"photo":"https://yt3.ggpht.com/s5TCwDCEl3seKisfyTRk0EqU5hoEn6Qc1T970GSqwE5TO-tlc3N2-zGbN9cSv1A4cRpJ-j7G",
+		"youtube":"UCc-MJ1ijeGtfFdMwRdSGlqw",
+		"twitter":"Esmik15",
+		"discord":"ZUcF8UvUgM",
+		"gdbrowser":"esmik64"
+	},
+	{
+		"key":"cob",
+		"name":"Cob",
+		"bio":"BERP BERP BERP",
+		"photo":"https://yt3.ggpht.com/A7KsEjA1NPKNjZD4idAWyuwjkVIYiV_OnHG11G9ht3CovG6HJVw7b4DNyY-Hla9on-BXQC8C=s900-c-k-c0x00ffffff-no-rj",
+		"youtube":"Cobgd",
+		"twitch":"gdcob",
+		"twitter":"gdcob2",
+		"discord":"bZcjgYUqHB",
+		"gdbrowser":"gdcob",
+		"verified": "true"
+	},
+	{
+		"key":"omegafalcon",
+		"name":"OmegaFalcon",
+		"photo":"https://yt3.ggpht.com/-ZYyIMdhNwHKdMjZcfsUAuTXgQcinpfUptfvVi95Yzf95WqqmVdk7h4GRde1M1DUc1WlukXwwA=s88-c-k-c0x00ffffff-no-rj",
+		"youtube":"OmegaFalcon",
+		"customyt":"true",
+		"twitter":"OmegaFalcon_",
+		"gdbrowser":"OmegaFalcon",
+		"verified": "true"
+	},
+	{
+		"key":"ryli",
+		"name":"Ryli",
+		"bio":"Hey! My name is Ryli, I'm a 16 year old trans girl from Canada. I'm a GD creator and an aspiring in-game moderator.",
+		"photo":"https://yt3.ggpht.com/ytc/AKedOLSiJtREXIl22h_HIif1xJWadekhzjhPRjO68ArbpA=s900-c-k-c0x00ffffff-no-rj",
+		"youtube":"Ryli06",
+		"twitch":"rily06",
+		"gdbrowser":"Ryli06"
+	},
+	{
+		"key":"mosquitogirl",
+		"name":"Mosquito Girl",
+		"bio":"I talk about words sometimes.",
+		"photo":"https://cdn.discordapp.com/attachments/933985129695694848/938963688835145748/unknown.png",
+		"youtube":"UC2zAF2O_LmmkpxBcWfhhz7g",
+		"twitter":"Mosquito__Girl",
+		"gdbrowser":"MosquitoGirl"
+	},
+	{
+		"key":"airplaneniner",
+		"name":"AirplaneNiner",
+		"bio":"An aviation enthusiast and a software programmer.",
+		"photo":"https://yt3.ggpht.com/yti/APfAmoFkAG2YFSdG4X8QUXVEc9CDSiqZ8wH8oPlJEgHTvg",
+		"youtube":"UC-hJIJWWxRn9ha-rhGtk7hA",
+		"discord":"MFP4CPVjC9",
+		"gdbrowser":"Airplaneguy9"
+	},
+	{
+		"key":"emperorxeq",
+		"name":"Xeqoir",
+		"bio":"I'm a GD creator and server owner.",
+		"photo":"https://i.imgur.com/wosH7ic.png",
+		"youtube":"UCR19Dn-90bX_zNZzGr1Ewrg",
+		"discord":"9mAPF444Fa",
+		"gdbrowser":"Dashphamy"
+	},
+	{
+		"key":"bizaare",
+		"name":"Bizaare",
+		"photo":"https://cdn.discordapp.com/attachments/633802902867148800/932017847092260934/unknown.png",
+		"youtube":"UCRMOkByfpjmyu609tHi3apA",
+		"twitch":"bizaaregd",
+		"twitter":"BizaareGD",
+		"discord":"58HnfZKH4d",
+		"gdbrowser":"Bizaare",
+		"verified": "true"
+	},
+	{
+		"key":"isla",
+		"name":"Isla",
+		"bio":"15 y/o Dasher",
+		"photo":"https://i.imgur.com/q5I65nW.png",
+		"youtube":"UCwtpP1jVQxyCvCjrtiIV5gA",
+		"twitter":"islatw"
+	},
+	{
+   		"key":"lundshurk",
+   		"name":"Lundshurk",
+   		"bio": "geometry dash gamer 2014",
+   		"photo":"https://cdn.discordapp.com/attachments/927485717133811762/938991246364528710/regular_pfp.jpg",
+   		"youtube":"UCiJXfE3_a5c36TA64iK3hvw",
+   		"twitch":"lundshurk",
+   		"gdbrowser":"lundshurk"
+	},
+	{
+		"key":"jordantrs",
+		"name":"JordanTRS",
+		"photo": "https://cdn.discordapp.com/attachments/934230708602413126/939014629592535092/unknown.png",
+		"youtube":"UCoqfw6GG_VlaUlJ2UIgHR7g",
+		"twitch":"realjordantrs",
+		"twitter":"jordantrs1",
+		"discord":"YegB7N9upM",
+		"gdbrowser":"JordanTRS"
+	},
+	{
+		"key":"enzote",
+		"name":"Enzote",
+		"bio": "Enzote, aka: MikaKC, is a C++ and Web developer who plays Geometry Dash!",
+		"photo":"https://github.com/MikaKC/mikakc.github.io/blob/main/assets/pfp.png?raw=true",
+		"gdbrowser":"Enzote"
+	},
+	{
+		"key":"c649007",
+		"name":"Clustifle649",
+		"bio":"Dashword.net author. Geometry Dash YouTuber and also was a layout creator.",
+		"photo": "https://media.discordapp.net/attachments/935696485566267392/939132276715958363/2022_01_30_100_Kleki.png?width=465&height=465",
+		"youtube":"UCljTW_HL82F30ejqscmXEBA",
+		"twitter":"clustifle649",
+		"gdbrowser":"Clustifle649"
+	},
+	{
+		"key":"yuval52",
+		"name":"Yuval52",
+		"bio": "An israeli GD player who also plays beat saber.",
+		"photo":"https://i.imgur.com/83md0ly.png",
+		"youtube":"UC87DP3YdG2ngrvDsEL8Qsyw",
+		"twitch":"yuval522 ",
+		"twitter":"yuval521",
+		"gdbrowser":"yuval52"
+	},
+	{
+		"key":"adya",
+		"name":"Adya",
+		"bio": "I'm a Moroccan 17 year old that has been playing gd for 6 years.",
+		"photo":"https://yt3.ggpht.com/E78iw_kY4X64Zl56mPEQ1zVzSPfToMQggvEDNJaZtdM5mcc9DdF0Y_53ZAVuS6tyS20LJqsN=s176-c-k-c0x00ffffff-no-rj",
+		"twitter":"AdyaGD",
+		"gdbrowser":"Adya"
+	},
+	{
+		"key":"fr0stedm4c",
+		"name":"Fr0stedM4c",
+		"bio": "Beat it or you dont need it...",
+		"photo":"https://i.imgur.com/MUupQo9.png",
+		"youtube":"UCQyHS0gyRljnI5VzDo3cEyg",
+		"twitch":"fr0stedm4c",
+		"twitter":"Fr0stedM4c",
+		"discord":"T7aj9Ymnre",
+		"gdbrowser":"Fr0stedM4c"
+	},
+	{
+		"key":"thestupiddodo",
+		"name":"TheStupidDodo",
+		"bio": "I am a Youtuber and Twitch streamer just tryna show people my stuff :)",
+		"photo":"https://i.ibb.co/L981t8C/Untitled-design-5.jpg",
+		"youtube":"TheStupidDodo",
+		"customyt":"true",
+		"twitch":"TheStupidDodo",
+		"discord":"Pnt5dcmMjJ",
+		"gdbrowser":"TheStupidDodo"
+	},
+	{
+		"key":"kylu",
+		"name":"Kylu",
+		"bio": "Experienced teenage Geometry Dash player that loves writing and has big goals in life.",
+		"photo":"https://i.imgur.com/78tZSZ7.jpeg",
+		"youtube":"UCTQtP4DP5TBy0oOi2BnsJnA",
+		"twitch":"kylarc621",
+		"twitter":"Kylu15822370",
+		"gdbrowser":"Kylu"
+	},
+	{
+		"key": "dolphin_02",
+		"name": "Dolphin_02",
+		"bio": "Youtuber with no subs and creator with no cp... Look what do you want from me",
+		"photo": "https://i.imgur.com/rnceKcf.jpeg",
+		"youtube": "UCqhF9FFFbP2HNGv5Dn4_5WA",
+		"gdbrowser": "Dolphin02"
+	},
+	{
+		"key": "dashword",
+		"name": "Dashword Staff",
+		"bio": "Latest posts from the Dashword team!",
+		"photo": "/assets/img/icon.png",
+		"verified":"true"
+	}
+]

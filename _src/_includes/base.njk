@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!--
+        Hey, you! If interested in checking out the source code,
+        you will probably be interested in helping us code the site.
+        You can view this website on GitHub:
+        
+        https://github.com/MoldyMacaroniX/gd-website
+
+        Feel free to help us with its codebase or just check it out if
+        you want to see how this site works!
+    -->
+
+    {# <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F49Q9CS7F8"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-F49Q9CS7F8');
+    </script> #}
+
+    <!-- Sitemap -->
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+
+    {% if pageID == "authorPosts" %}{% set myAuthor = authors | getAuthor(category.title) %}{% endif %}
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {% if page404 %}
+    <!-- If 404 -->
+    <meta name="robots" content="noindex,follow">
+    {% endif %}
+
+    <meta name="theme-color" content="#2D88FF">
+    <link rel="icon" href="/assets/img/icon.png">
+
+    <!-- Metadata -->
+    <title>
+    {% if pageID !== "authorPosts" %}{{ title or metadata.title }}{% else %}{{ myAuthor.name }}{% endif %} | {{ metadata.title }}
+    </title>
+    <meta name="title" content="{% if pageID !== "authorPosts" %}{{ title or metadata.title }}{% else %}{{ myAuthor.name }}{% endif %} | {{ metadata.title }}">
+    <meta name="description" content="{% if pageID !== "authorPosts" %}{{ desc or metadata.desc }}{% else %}{{ myAuthor.bio }}{% endif %}">
+    {% if date %}<meta name="date" content="{{ page.date | readableDate }}">{% endif %}
+
+    <!-- MAIN CSS -->
+    <link rel="stylesheet" href="/assets/css/index.css">
+
+    <!-- ICON CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+
+    <!-- Toastify JS -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+
+    <!-- Opengraph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ metadata.url }}">
+    <meta property="og:title" content="{% if pageID !== "authorPosts" %}{{ title or metadata.title }}{% else %}{{ myAuthor.name }}{% endif %} | {{ metadata.title }}">
+    <meta property="og:description" content="{% if pageID !== "authorPosts" %}{{ desc or metadata.desc }}{% else %}{{ myAuthor.bio }}{% endif %}">
+    <meta property="og:image" content="{{ image or metadata.image }}">
+
+    <!-- Twitter since they're different or something -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="{{ metadata.url }}">
+    <meta property="twitter:title" content="{% if pageID !== "authorPosts" %}{{ title or metadata.title }}{% else %}{{ myAuthor.name }}{% endif %} | {{ metadata.title }}">
+    <meta property="twitter:description" content="{% if pageID !== "authorPosts" %}{{ desc or metadata.desc }}{% else %}{{ myAuthor.bio }}{% endif %}">
+    <meta property="twitter:image" content="{{ image or metadata.image }}">
+</head>
+<body>
+
+    <!-- SCROLL LINK START -->
+    <div class="scroll" id="scrollTop" onclick="up()">
+        <i class="ri-arrow-up-line"></i>
+    </div>
+    <!-- SCROLL LINK END -->
+
+    <!-- MOBILE NAV START -->
+    <div class="mobile" id="menu">
+        <i class="ri-close-fill close" onclick="closeMobile()"></i>
+        <a href="/" class="mobile-item">Home</a>
+        <a href="/categories/2.2/" class="mobile-item">2.2</a>
+        <a href="/posts/" class="mobile-item">Articles</a>
+        <a href="/categories/" class="mobile-item">Topics</a>
+        <a href="/authors/" class="mobile-item">Authors</a>
+    </div>
+    <div class="mobile-bg" id="menu-bg" onclick="closeMobile()"></div>
+    <!-- MOBILE NAV END -->
+
+    <!-- NAVBAR START -->
+    <div class="navbar-wrapper">
+        <div class="container">
+            <div class="navbar">
+                <div class="left">
+                    <a href="/" class="logo"><img src="/assets/img/icon.svg" alt="">Dashword</a>
+                    <i class="ri-menu-line menu" onclick="openMobile()"></i>
+                    <div class="items hide-on-phone">
+                        <a href="/" class="item">Home</a>
+                        <a href="/categories/2.2/" class="item">2.2</a>
+                        <a href="/posts/" class="item">Articles</a>
+                        <a href="/categories/" class="item">Topics</a>
+                        <a href="/authors/" class="item">Authors</a>
+                    </div>
+                </div>
+                <div class="right">
+                    <div class="items">
+                        <a href="/contribute/" class="button">Contribute</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="navbar-spacer"></div>
+    <!-- NAVBAR END -->
+
+    {% if showFeaturedPosts %}
+    <!-- FEATURED POSTS START -->
+    {% include 'partials/featuredPosts.njk'%}
+    <!-- FEATURED POSTS END -->
+    {% endif %}
+
+    <!-- MAIN CONTENT AREA START -->
+    <div class="container section" id="sidebar-wrapper">
+        <div class="cols main-content">
+            <div class="col">
+
+                {{ content | safe }}
+
+            </div>
+            <div id="sidebar" class="sidebar">
+                <div id="innder-sidebar">
+
+                    <h1 class="heading">Featured</h1>
+
+                    {% include 'partials/featuredPostsSidebar.njk' %}
+
+                    <a href="/categories/featured/" class="button button-wide">View More</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- MAIN CONTENT AREA END -->
+
+    <!-- FOOTER START -->
+    <div class="footer-wrapper">
+        <div class="footer container">
+            <div class="cols">
+
+                <div class="col">
+                    <h1>Dashword</h1>
+                    <p>
+                        {{ metadata.desc }}
+                    </p>
+                </div>
+
+                <div class="col">
+                    <h1>Navigation</h1>
+                    <p>
+                        <a href="/">Home</a>
+                        <a href="/categories/2.2/">2.2</a>
+                        <a href="/posts/">Articles</a>
+                        <a href="/categories/">Topics</a>
+                        <a href="/authors/">Authors</a>
+                    </p>
+                </div>
+
+                <div class="col">
+                    <h1>Contribute</h1>
+                    <p>
+                        <a href="https://github.com/moldymacaronix/gd-website/tree/master/{{ page.inputPath }}">Edit This Page</a>
+                        <a href="/contribute/">Contribute (writer or developer)</a>
+                        <a href="/editor/">Article Editor</a>
+                        <a href="https://discord.gg/SqZuGCpHMm">Discord Server</a>
+                    </p>
+                </div>
+
+            </div>
+            <div class="footer-end">
+                <p>Copyright © 2021-2022 Dashword.net</p>
+                <p>Dashword.net is not associated with RobTopGames AB ®</p>
+            </div>
+        </div>
+    </div>
+    <!-- FOOTER END -->
+
+    <!-- SCRIPTS START -->
+    <!-- Sidebar -->
+    <script type="text/javascript" src="/assets/js/sidebar.js"></script>
+    <script>
+    var sidebar = new StickySidebar('#sidebar', {
+        containerSelector: '#sidebar-wrapper',
+        innerWrapperSelector: '#sidebar-inner',
+        topSpacing: 100,
+        bottomSpacing: 20,
+        minWidth: 700
+    });
+    </script>
+
+    <!-- Mobile Navigation -->
+    <script>
+    var menu = document.getElementById("menu");
+    var menuBg = document.getElementById("menu-bg");
+
+    function openMobile() {
+        document.body.style.overflow = "hidden";
+        menu.style.display = "flex";
+        menuBg.style.display = "block";
+        setTimeout(function(){
+            menu.style.transform = "translateX(0%)";
+            menuBg.style.opacity = "1";
+        }, 10);
+    }
+
+    function closeMobile() {
+        document.body.style.overflow = "unset";
+        menu.style.transform = "translateX(-110%)";
+        menuBg.style.opacity = "0";
+        setTimeout(function(){
+            menu.style.display = "none";
+            menuBg.style.display = "none";
+        }, 250);
+    }
+    </script>
+
+    <!-- Scroll to top button -->
+    <script>
+    // Scroll top button var
+    var scrollTopButton = document.getElementById("scrollTop");
+
+    // Scroll top amount var
+    var scrollTopAmmount = 150;
+
+    // Show Button
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+        if (document.body.scrollTop > scrollTopAmmount || document.documentElement.scrollTop > scrollTopAmmount) {
+            scrollTopButton.style.transform = "translateX(0%)";
+        } else {
+            scrollTopButton.style.transform = "translateX(200%)";
+        }
+    }
+
+    // Scroll to top of page button
+    function up() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
+    </script>
+
+    <!-- Copy text to clipboard -->
+    <script>
+    // https://stackoverflow.com/a/48542290
+    function copy(text) {
+        var dummy = document.createElement("textarea");
+        document.body.appendChild(dummy);
+        dummy.value = text;
+        dummy.select();
+        document.execCommand("copy");
+        document.body.removeChild(dummy);
+        toast("Copied text to clipboard.");
+    }
+    </script>
+
+    <!-- Toastify JS -->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script>
+    function toast(text) {
+        Toastify({
+        text: text,
+        duration: 3000,
+        newWindow: true,
+        gravity: "bottom", // `top` or `bottom`
+        position: "left", // `left`, `center` or `right`
+        stopOnFocus: true, // Prevents dismissing of toast on hover
+        style: {
+            background: "var(--primary)",
+            color: "var(--white)",
+            fontFamily: "'Montserrat', sans-serif",
+            borderRadius: "4px",
+            boxShadow: "0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)",
+            textAlign: "center",
+        },
+        onClick: function(){} // Callback after click
+        }).showToast();
+    }
+    </script>
+    <!-- SCRIPTS END -->
+    
+</body>
+</html>

@@ -1,0 +1,22 @@
+---
+title: Posts
+desc: The latest Geometry Dash news, guides, reviews, opinions, lists, and stories.
+
+pagination:
+  data: collections.posts
+  size: 10
+  alias: posts
+permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+
+layout: base.njk
+---
+
+<h1 class="heading">All Geometry Dash Stories</h1>
+
+{% for post in posts %}
+{% include "partials/posts.njk" %}
+{% endfor %}
+
+{% set paged = pagination.href %}
+{% set nestedPagination = false %}
+{% include "partials/paginator.njk" %}

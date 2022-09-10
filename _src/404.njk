@@ -1,0 +1,23 @@
+---
+title: "404"
+desc: That page couldn't be found.
+permalink: 404.html
+layout: base.njk
+page404: true
+---
+
+<div class="wrapper-404">
+    <h1 class="heading-404">404</h1>
+
+    <p class="subheading-404">That page doesn't exist. It has likely moved or been deleted.</p>
+
+    <a href="/" class="button-404 button">Go back home</a>
+</div>
+
+{# <h1 class="heading">Latest Geometry Dash News</h1> #}
+
+{% for post in collections.posts | head(10) %}
+{% include "partials/posts.njk" %}
+{% endfor %}
+
+<a href="/posts/2/" class="button button-wide">More Stories</a>

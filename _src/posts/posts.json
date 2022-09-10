@@ -1,0 +1,5 @@
+{
+    "layout":"templates/post.njk",
+    "article":true,
+    "image":"/assets/img/main.jpg"
+}

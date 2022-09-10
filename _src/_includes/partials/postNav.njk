@@ -1,0 +1,18 @@
+{% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+{% set nextPost = collections.posts | getNextCollectionItem(page) %}
+
+{% if not previousPost %}
+{% set post = collections.posts[2] %}
+{% else %}
+{% set post = previousPost %}
+{% endif %}
+
+{% include 'partials/posts.njk' %}
+
+{% if not nextPost %}
+{% set post = collections.posts[0] %}
+{% else %}
+{% set post = nextPost %}
+{% endif %}
+
+{% include 'partials/posts.njk' %}

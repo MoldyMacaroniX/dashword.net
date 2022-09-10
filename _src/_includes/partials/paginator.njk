@@ -1,0 +1,71 @@
+{#
+
+I am so sorry for how horrible this is
+This is based on a proof of concept and therefore, the code is very hacky and complicated.
+
+#}
+
+<div style="display: flex; gap: 25px; justify-content: space-between; margin-top: 25px;">
+
+{# "PREVIOUS" LINKS #}
+{% if not tagPagination %}
+    {% if paged.previous and (pagination.href.previous | length ) %}
+    <div><a href="{{ pagination.href.previous }}" class="button"><i class="ri-arrow-left-line"></i> Previous</a></div>
+    {% else %}
+    <div><a href="{{ page.url }}" class="button button-selected"><i class="ri-arrow-left-line"></i> Previous</a></div>
+    {% endif %}
+{% else %}
+    {% if (tag.pageNumber + 1) !== 1 %}
+    <div><a href="{{ pagination.href.previous }}" class="button"><i class="ri-arrow-left-line"></i> Previous</a></div>
+    {% else %}
+    <div><a href="{{ page.url }}" class="button button-selected"><i class="ri-arrow-left-line"></i> Previous</a></div>
+    {% endif %}
+{% endif %}
+
+
+{# "PAGE NUMBER" LINKS #}
+{% if not nestedPagination %}
+
+    {%- for pageEntry in pagination.pages %}
+    <!-- <div><a class="button{% if page.url == pagination.hrefs[ loop.index0 ] %} button-selected{% endif %}" href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>{{ loop.index }}</a></div> -->
+    {%- endfor %}
+
+{% else %}
+
+    {% if tagPagination %}
+    {% set index = [] %}
+    {% for item in collections.pagedTags %}
+        {% if tag.tagName === item.tagName %}
+            <!-- <div><a class="button{% if page.url == pagination.hrefs[ loop.index0 ] %} button-selected{% endif %}"href="{{ item.path }}"{% if page.url == item.path %} aria-current="page"{% endif %}>{{ item.pageNumber + 1 }}</a></div> -->
+            {% set index = (index.push(1), index) %}
+        {% endif %}
+    {% endfor %}
+    {% endif %}
+
+    {% if authorPagination %}
+    {% for item in collections.pagedAuthorPosts %}
+        {% if category.title === item.title %}
+            <!-- <div><a class="button {% if (page.url == ("/authors/" + category.title + "/" + (item.pageNumber + 1) + "/")) or ((item.pageNumber == 0) and (page.url == ("/authors/" + category.title + "/"))) %}button-selected{% endif %}" href="/authors/{{ category.title }}/{% if item.pageNumber > 0 %}{{ item.pageNumber + 1 }}/{% endif %}"{% if (page.url == ("/authors/" + category.title + "/" + (item.pageNumber + 1) + "/")) or ((item.pageNumber == 0) and (page.url == ("/authors/" + category.title + "/"))) %} aria-current="page"{% endif %}>{{ item.pageNumber + 1 }}</a></div> -->
+        {% endif %}
+    {% endfor %}
+    {% endif %}
+
+{% endif %}
+
+
+{# "NEXT" LINKS #}
+{% if not tagPagination %}
+    {% if paged.next and (pagination.href.next | length ) %}
+    <div><a href="{{ pagination.href.next }}" class="button">Next <i class="ri-arrow-right-line"></i></a></div>
+    {% else %}
+    <div><a href="{{ page.url }}" class="button button-selected">Next <i class="ri-arrow-right-line"></i></a></div>
+    {% endif %}
+{% else %}
+    {% if (tag.pageNumber + 1) !== index|length %}
+    <div><a href="{{ pagination.href.next }}" class="button">Next <i class="ri-arrow-right-line"></i></a></div>
+    {% else %}
+    <div><a href="{{ page.url }}" class="button button-selected">Next <i class="ri-arrow-right-line"></i></a></div>
+    {% endif %}
+{% endif %}
+
+</div>

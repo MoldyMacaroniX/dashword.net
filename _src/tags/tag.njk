@@ -1,0 +1,25 @@
+---
+pagination:
+  data: collections.pagedTags
+  size: 1
+  alias: tag
+  addAllPagesToCollections: true
+permalink: categories/{{ tag.tagName }}/{{ (tag.pageNumber + 1) + "/" if tag.pageNumber }}
+eleventyComputed:
+  title: "{{ tag.tagName | capitalize }}"
+
+layout: base.njk
+---
+
+<h1 class="heading">Posted in {{ tag.tagName | capitalize }}</h1>
+
+{% for post in tag.templateObjets %}
+{% include "partials/posts.njk" %}
+{% endfor %}
+
+<br>
+
+{% set paged = tag %}
+{% set nestedPagination = true %}
+{% set tagPagination = true %}
+{% include "partials/paginator.njk" %}

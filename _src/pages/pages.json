@@ -1,0 +1,4 @@
+{
+    "layout":"templates/post.njk",
+    "image":"/assets/img/main.jpg"
+}

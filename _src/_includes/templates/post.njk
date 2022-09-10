@@ -1,0 +1,36 @@
+---
+layout: base.njk
+---
+
+<h1 class="article-heading" style="text-transform: capitalize">{% if title %}{{ title }}{% else %}No post title provided.{% endif %}</h1>
+
+{% if article %}
+<div class="article-meta">
+	{% if author %}{% set myAuthor = authors | getAuthor(author) %}By <a class="article-meta-author" href="/authors/{{ myAuthor.key }}">{{ myAuthor.name }}</a>{% else %}Posted{% endif %} on <span class="article-meta-date">{% if date %}{{ date | readableDate }}{% else %}[no post publish date provided]{% endif %}</span>{% if tags %} in <span class="article-meta-date">{% for tag in tags %} <a href="/categories/{{ tag | slug }}/">{{ tag | capitalize }}</a>{% endfor %}</span>{% endif %}.
+</div>
+{% endif %}
+
+<div class="article-cover">
+	<div class="aspect">
+		<img src="{{ image }}" alt="">
+	</div>
+	{% if imageSource %}<a href="{{ imageSource }}" class="article-cover-source">Cover Source</a>{% endif %}
+</div>
+
+{% if alert %}
+	{% alert %}
+		<p>{{ alert }}</p>
+	{% endalert %}
+{% endif %}
+
+<article class="article">
+{{ content | safe }}
+</article>
+
+{% if article %}
+<h1 class="heading">Up Next</h1>
+
+{% include "partials/postNav.njk" %}
+
+<a href="/posts/" class="button button-wide">More Stories</a>
+{% endif %}
