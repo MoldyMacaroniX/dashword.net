@@ -34,6 +34,6 @@ But why write for Dashword?
 
 # Developer (help code the website)
 
-Dashword.net is a [Node.js]() application. If you are familiar with JavaScript, then you'll likely understand the codebase behind the website.
+Dashword.net is a [Node.js](https://nodejs.org/en/) application. If you are familiar with JavaScript, then you'll likely understand the codebase behind the website.
 
-[Dashword is 100% open source]()! That link leads to the project's GitHub repository, where you can help out. How the website works is documented there, so I recommend reading the README if you want to contribute to the codebase. The project documentation is in the `docs/` folder.
+[Dashword is 100% open source](https://github.com/MoldyMacaroniX/dashword.net)! That link leads to the project's GitHub repository, where you can help out. How the website works is documented there, so I recommend reading the README if you want to contribute to the codebase. The project documentation is in the `docs/` folder.

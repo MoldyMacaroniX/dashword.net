@@ -6,8 +6,8 @@
 
 If you're a developer and want to help out, that's great! Here's some of what you need to know:
 
-- Dashword.net is a [Node.js]() application.
-- The website is built using [Eleventy](). This allows us to convert markdown files into pages on the website.
+- Dashword.net is a [Node.js](https://nodejs.org/en/) application.
+- The website is built using [Eleventy](https://www.11ty.dev/). This allows us to convert markdown files into pages on the website.
 
 In general, we need developers to:
 
