@@ -18,9 +18,11 @@ layout: base.njk
 </div>
 
 {% if alert %}
+<div style="margin-top: -15px;">
 	{% alert %}
 		<p>{{ alert }}</p>
 	{% endalert %}
+</div>
 {% endif %}
 
 <article class="article">

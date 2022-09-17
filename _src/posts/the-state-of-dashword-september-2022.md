@@ -2,7 +2,7 @@
 title: "The State Of Dashword: September 2022"
 desc: "The state of Dashword as of September 2022 and what the future holds for this website!"
 image: /assets/img/dashword.png
-date: 2022-09-11
+date: 2022-09-18
 tags:
     - editorial
 author: dashword
@@ -14,7 +14,7 @@ This is not the fault of our writers. We recieved submissions in this time but c
 
 This has been a problem with our publication process for a while.
 
-In order to post content on this website, it needs to be written in a special language called [Markdown](). However, since not many of our writers knew how to write in Markdown, our developers had to rewrite their content in markdown. Because of so, publishing an article was not easy.
+In order to post content on this website, it needs to be written in a special language called [Markdown](https://www.markdownguide.org/basic-syntax/). However, since not many of our writers knew how to write in Markdown, our developers had to rewrite their content in markdown. Because of so, publishing an article was not easy.
 
 But now, that has changed.
 
@@ -32,10 +32,18 @@ Along with this massive change, here is a complete changelog of everything that'
     * Comments
     * Author scores
     * Dark mode (only for the time being!)
-* A lot of pages in our original content handbook have been removed for simplicity. Now, it can all be found [under our simple contribution guide]().
+* A lot of pages in our original content handbook have been removed for simplicity. Now, it can all be found [under our simple contribution guide](/contribute/).
 * Author profiles now show every one of their posts, instead of just the latest three.
 * The [list of authors](/authors/) is no longer ordered by author score (which has been removed). This is because we don't want to encourage competition amongst our writers. Now, the order is based roughly on when the profile was created.
 * Author profiles will no longer exist without the author having at least one post.
+
+# New Publication System
+
+The way we publish content has changed. Before, anybody could submit an article and we would publish it if we liked it. Now, the process will be slightly more reserved, but we still want it to be possible for anyone to get their content published here.
+
+Now, rather than relying on the generosity of passersby, we are putting together our own team of writers to write content for Dashword. This will mean content is published more consistantly, rather than randomly.
+
+**If you want to apply to join this new team of writers,** check out our [contribution guide](/contribute/)!
 
 # The Future
 
@@ -59,4 +67,4 @@ I will not be accepting donations at this moment. If you have money you want to 
 
 # Conclusion
 
-**[MoldyMacaroniX]:** I hope down the line, no matter what happens, Dashword continues to be a resource for Geometry Dash players. I hope Dashword can be a place for new players to learn a thing or two and experienced players to share their writing.
+We hope down the line, no matter what happens, Dashword continues to be a resource for Geometry Dash players. We hope Dashword can be a place for new players to learn a thing or two and experienced players to share their writing.

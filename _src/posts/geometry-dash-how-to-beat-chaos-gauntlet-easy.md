@@ -3,7 +3,7 @@ title: "Geometry Dash Chaos Gauntlet: Easy Tips To Beat The Chaos Gauntlet"
 desc: The Geometry Dash Chaos Gauntlet is one of the hardest gauntlets. However, with these easy tips, we think you can beat it in no time!
 image: https://i.ytimg.com/vi/Atqy00ndStk/maxresdefault.jpg
 imageSource: https://youtu.be/Atqy00ndStk
-date: 2022-09-10
+date: 2022-09-17
 tags:
     - featured
     - guide

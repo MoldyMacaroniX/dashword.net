@@ -3,7 +3,7 @@ title: "Easiest Geometry Dash User Coins: Free & Easy Levels To Get User Coins (
 desc: Geometry Dash 3 free and 9 easy silver user coins! With silver user coins, you can unlock a lot of Geometry Dash icons, ships, UFOs, and more.
 image: https://img.youtube.com/vi/VL6XnGPSxhc/maxresdefault.jpg
 imageSource: https://www.youtube.com/watch?v=VL6XnGPSxhc
-date: 2022-09-10
+date: 2022-09-17
 tags:
     - featured
     - guide

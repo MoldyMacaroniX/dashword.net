@@ -36,6 +36,7 @@ Designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Baill
 html {
     font-size: var(--font-size);
     scroll-behavior: smooth;
+    scroll-padding-top: calc(var(--navheight) + 3px);
 }
 
 body {
@@ -601,7 +602,7 @@ h1.heading {
 }
 
 .article p:first-child {
-    margin: 25px 0;
+    margin: 15px 0;
     font-weight: bold;
     font-size: 1.25rem;
     line-height: 1.35;
@@ -681,11 +682,6 @@ h1.heading {
     margin-top:1em;
 }
 
-.alert {
-    color: var(--primary);
-    border-bottom: 2px solid var(--primary);
-}
-
 .alert p {
     font-weight: bold !important;
     font-size: 1rem !important;
@@ -693,8 +689,10 @@ h1.heading {
 
 .alert {
     display: flex !important;
-    /* align-items: center; */
     gap: 15px;
+    color: var(--primary);
+    border-bottom: 2px solid var(--primary);
+    margin-top: -10px;
 }
 
 .alert .alert-icon {
@@ -703,6 +701,117 @@ h1.heading {
     display: flex;
     /* align-items: center; */
     margin: 12px 0;
+}
+
+/* Percent */
+
+.percent {
+    max-width: 400px;
+    /* margin: auto; */
+    padding: 25px;
+    border: 1px solid var(--grey);
+    border-radius: var(--radius);
+    margin-bottom: 15px;
+}
+
+.percent-title {
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin: 0;
+    margin-bottom: 20px;
+    display: block;
+}
+
+.percent-bar {
+    background-color: var(--grey);
+    width: 100%;
+    height: 15px;
+    position: relative;
+    border-radius: var(--radius);
+    overflow: hidden;
+}
+
+.percent-value {
+    height: 100%;
+    background-color: var(--primary);
+}
+
+.percent-mini {
+    padding: 17px;
+    max-width: 500px;
+}
+
+.percent-mini .percent-title {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+}
+
+.percent-mini .percent-bar {
+    height: 10px;
+}
+
+/* Details */
+
+.summary p {
+    font-size: 1.5rem;
+    font-style: italic;
+}
+
+.summary hr {
+    margin-top: 5px !important;
+    margin-bottom: 20px !important;
+}
+
+summary {
+    list-style: none
+}
+
+summary::-webkit-details-marker {
+    display: none;
+}
+
+.article details {
+    display: block;
+    background-color: var(--bg);
+    border-radius: var(--radius);
+    padding: 20px;
+    border: 1px solid var(--grey);
+}
+
+.article summary {
+    cursor: pointer;
+    font-family: Georgia, serif;
+    font-size: 1.3rem;
+}
+
+.details-summary {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.details-icon {
+    margin-left: auto;
+}
+
+.details-icon.ri-add-line:before {
+    content: "\ea13";
+}
+
+details[open] .details-icon.ri-add-line:before {
+    content: "\f1af";
+}
+
+.details-title {
+    display: inline-block;
+    width: fit-content;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.article details[open] summary {
+    margin-bottom: 15px;
 }
 
 /* Author */

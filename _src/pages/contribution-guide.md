@@ -13,15 +13,16 @@ Here are the available ways you can contribute.
 
 # Writer (write articles)
 
-Dashword is looking for Geometry Dash related news, guides, and stories, specifically targetted towards new players. Most experienced players don't need a website to tell them [how to unlock The Vault](/posts/geometry-dash-all-vaults-and-secrets-2022/), or [how to beat the Chaos Gauntlet]().
+Dashword is looking for Geometry Dash related news, guides, and stories, specifically targetted towards new players. Most experienced players don't need a website to tell them [how to unlock The Vault](/posts/geometry-dash-all-vaults-and-secrets-2022/), or [how to beat the Chaos Gauntlet](/posts/geometry-dash-how-to-beat-chaos-gauntlet-easy/).
 
 But new players do, and that's where Dashword comes in.
 
-You can [apply to be a writer using this form](). Here are some example articles to give you an idea of what we're looking for:
+You can [apply to be a writer using this form](https://forms.gle/GE4NmbumkzNQxntu7). Here are some example articles to give you an idea of what we're looking for:
 
 1. [Geometry Dash Vaults & Secets: How To Unlock Every Secret Area (2022)](/posts/geometry-dash-all-vaults-and-secrets-2022/)
 2. [New Geometry Dash 2.2 Sneak Peek: "Explorers" Analysis](/posts/geometry-dash-new-sneak-peek-analysis/)
 3. [Easiest Geometry Dash User Coins: Easy Levels To Get User Coins (2022)](/posts/geometry-dash-how-to-get-user-coins-easy/)
+4. [How To Get The 2.2 Editor In Geometry Dash](/posts/how-to-get-the-2-2-editor/)
 
 But why write for Dashword?
 
@@ -29,8 +30,6 @@ But why write for Dashword?
 - Dashword gets thousands of clicks every month.
 - Dashword gets tens of thousands of impressions every month.
 - Dashword on average ranks at position 15 in Google Search results for the search term "Geometry Dash" and is increasing every month!
-
-*Psst.* For making it this far, here's a [neat guide that tells you exactly what we're looking for when accepting writers](/write-an-article/).
 
 # Developer (help code the website)
 

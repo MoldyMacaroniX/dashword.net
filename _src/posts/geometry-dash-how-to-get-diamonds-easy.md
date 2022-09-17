@@ -2,7 +2,7 @@
 title: "Geometry Dash Diamonds: 5 Easy Ways To Collect Diamonds"
 desc: Geometry Dash diamonds are required to unlock many secrets in the game, such as the Vault of Secrets and the Secret Shop.
 image: https://media.discordapp.net/attachments/392087938239954950/1018251147720532068/unknown.png?width=1202&height=676
-date: 2022-09-10
+date: 2022-09-17
 tags:
     - guide
 author: moldymacaronix

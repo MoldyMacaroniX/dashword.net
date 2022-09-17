@@ -52,7 +52,7 @@ simplemde.codemirror.on("change", function(){
             Content is autosaved to your cookies every 10 seconds. However, this should not be used as your primary method of saving your work.
         </li>
         <li>
-            Generally, don't use keep your articles here if you want to save them. Copy and paste them into a text file on your machine once you are done editing. Autosaving is only a last resort.
+            Generally, don't keep your articles here if you want to save them. Copy and paste them into a text file on your machine once you are done editing. Autosaving is only a last resort.
         </li>
         <li>
             To submit an article, copy and paste the contents of your article into a text file and submit the text file using the submission form below.
@@ -63,4 +63,4 @@ simplemde.codemirror.on("change", function(){
     </ul>
 </article>
 
-<a href="/posts/2/" class="button button-wide">Submit An Article</a>
+<a href="/posts/2/" class="button button-wide" href="https://forms.gle/GE4NmbumkzNQxntu7">Submit An Article Draft</a>

@@ -12,7 +12,7 @@ author: moldymacaronix
 
 RobTop has released a new Geometry Dash 2.2 sneak peek, showcasing the level "Explorers." This is the second 2.2 level showcased so far.
 
-Being first previewed over five years ago [with this image](https://imgur.com/a/4ccvsBW), RobTop has [finally previewed](https://youtu.be/CtEQ_EGlbQc) this half-a-decade old level. However, what previous 2.2 leaks shows us is that this level was only started very recently.
+Being first previewed over five years ago [with this image](https://imgur.com/a/4ccvsBW), RobTop has [finally previewed](https://youtu.be/CtEQ_EGlbQc) this half-a-decade old level. However, what previous 2.2 leaks show us is that this level was only started very recently.
 
 Many of the features it uses, such as the spider orbs, keyframes, and new animations were only developed recently. RobTop [also confirmed this](https://twitter.com/today_gd/status/1566908093388443648) when he posted about it on the Geometry Dash Discord server.
 

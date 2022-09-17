@@ -2,7 +2,7 @@
 title: "Geometry Dash Vaults & Secets: How To Unlock Every Secret Area (2022)"
 desc: If you're looking for free icons, colors, and rewards, every Geometry Dash secret area has something to offer.
 image: https://media.discordapp.net/attachments/392087938239954950/1013589026709712996/unknown.png?width=1202&height=676
-date: 2022-09-11
+date: 2022-09-18
 tags:
     - featured
     - guide
