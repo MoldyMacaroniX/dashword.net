@@ -72,14 +72,14 @@
 <body>
 
     <!-- SCROLL LINK START -->
-    <div class="scroll" id="scrollTop" onclick="up()">
+    <div class="scroll" id="scrollTop" onclick="up()" onkeydown="if (event.keyCode === 13) {up()}" tabindex="0">
         <i class="ri-arrow-up-line"></i>
     </div>
     <!-- SCROLL LINK END -->
 
     <!-- MOBILE NAV START -->
     <div class="mobile" id="menu">
-        <i class="ri-close-fill close" onclick="closeMobile()"></i>
+        <i class="ri-close-fill close" id="close" onclick="closeMobile()" onkeydown="if (event.keyCode === 13) {closeMobile()}" tabindex="0"></i>
         <a href="/" class="mobile-item">Home</a>
         <a href="/categories/2.2/" class="mobile-item">2.2</a>
         <a href="/categories/news/" class="mobile-item">News</a>
@@ -96,7 +96,7 @@
             <div class="navbar">
                 <div class="left">
                     <a href="/" class="logo"><img src="/assets/img/icon.svg" alt="">Dashword</a>
-                    <i class="ri-menu-line menu" onclick="openMobile()"></i>
+                    <i class="ri-menu-line menu" id="open" onclick="openMobile()" onkeydown="if (event.keyCode === 13) {openMobile()}" tabindex="0"></i>
                     <div class="items hide-on-phone">
                         <a href="/" class="item">Home</a>
 
@@ -319,6 +319,7 @@
         setTimeout(function(){
             menu.style.transform = "translateX(0%)";
             menuBg.style.opacity = "1";
+            document.getElementById("close").focus();
         }, 10);
     }
 
@@ -329,6 +330,7 @@
         setTimeout(function(){
             menu.style.display = "none";
             menuBg.style.display = "none";
+            document.getElementById("open").focus();
         }, 250);
     }
     </script>
