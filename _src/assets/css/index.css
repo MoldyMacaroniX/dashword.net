@@ -120,6 +120,14 @@ a.item {
     display: flex;
     align-items: center;
     padding: 0 13px;
+    transition: background-color 0.25s ease;
+    color: inherit;
+    z-index: 950;
+    position: relative;
+}
+
+a.item:hover {
+    background-color: rgba(150, 150, 150, 0.15);
 }
 
 .navbar-spacer {
