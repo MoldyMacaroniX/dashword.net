@@ -5,6 +5,7 @@ image: https://media.discordapp.net/attachments/867835875278585857/9332270911582
 date: 2022-01-25
 tags:
     - news
+    - demonlist
 author: cob
 ---
 

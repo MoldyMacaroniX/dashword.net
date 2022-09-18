@@ -98,10 +98,117 @@
                     <i class="ri-menu-line menu" onclick="openMobile()"></i>
                     <div class="items hide-on-phone">
                         <a href="/" class="item">Home</a>
-                        <a href="/categories/2.2/" class="item">2.2</a>
-                        <a href="/posts/" class="item">Articles</a>
-                        <a href="/categories/" class="item">Topics</a>
-                        <a href="/authors/" class="item">Authors</a>
+
+                        <div class="megamenu">
+                            <a href="/categories/2.2/" class="item">2.2</a>
+                            <div class="megamenu-content">
+                                <div class="container cols">
+                                    {% for post in collections[ "2.2" ] | reverse | head(3) %}
+                                    <div class="col">
+                                        <div class="post-sidebar">
+                                            <a class="image" href="{{ post.url }}">
+                                                <div class="aspect">
+                                                    <img src="{{ post.data.image | url }}" alt="">
+                                                </div>
+                                            </a>
+                                            <div class="content col">
+                                                <a href="{{ post.url }}" class="title" style="text-transform: capitalize">{% if post.data.title %}{{ post.data.title }}{% else %}No post title provided{% endif %}</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    {% endfor %}
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="megamenu">
+                            <a href="/categories/news/" class="item">News</a>
+                            <div class="megamenu-content">
+                                <div class="container cols">
+                                    {% for post in collections[ "news" ] | reverse | head(3) %}
+                                    <div class="col">
+                                        <div class="post-sidebar">
+                                            <a class="image" href="{{ post.url }}">
+                                                <div class="aspect">
+                                                    <img src="{{ post.data.image | url }}" alt="">
+                                                </div>
+                                            </a>
+                                            <div class="content col">
+                                                <a href="{{ post.url }}" class="title" style="text-transform: capitalize">{% if post.data.title %}{{ post.data.title }}{% else %}No post title provided{% endif %}</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    {% endfor %}
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="megamenu">
+                            <a href="/categories/demonlist/" class="item">Demonlist</a>
+                            <div class="megamenu-content">
+                                <div class="container cols">
+                                    {% for post in collections[ "demonlist" ] | reverse | head(3) %}
+                                    <div class="col">
+                                        <div class="post-sidebar">
+                                            <a class="image" href="{{ post.url }}">
+                                                <div class="aspect">
+                                                    <img src="{{ post.data.image | url }}" alt="">
+                                                </div>
+                                            </a>
+                                            <div class="content col">
+                                                <a href="{{ post.url }}" class="title" style="text-transform: capitalize">{% if post.data.title %}{{ post.data.title }}{% else %}No post title provided{% endif %}</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    {% endfor %}
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="megamenu">
+                            <a href="/categories/guide/" class="item">Guide</a>
+                            <div class="megamenu-content">
+                                <div class="container cols">
+                                    {% for post in collections[ "guide" ] | reverse | head(3) %}
+                                    <div class="col">
+                                        <div class="post-sidebar">
+                                            <a class="image" href="{{ post.url }}">
+                                                <div class="aspect">
+                                                    <img src="{{ post.data.image | url }}" alt="">
+                                                </div>
+                                            </a>
+                                            <div class="content col">
+                                                <a href="{{ post.url }}" class="title" style="text-transform: capitalize">{% if post.data.title %}{{ post.data.title }}{% else %}No post title provided{% endif %}</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    {% endfor %}
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="megamenu">
+                            <a href="/categories/review/" class="item">Review</a>
+                            <div class="megamenu-content">
+                                <div class="container cols">
+                                    {% for post in collections[ "review" ] | reverse | head(3) %}
+                                    <div class="col">
+                                        <div class="post-sidebar">
+                                            <a class="image" href="{{ post.url }}">
+                                                <div class="aspect">
+                                                    <img src="{{ post.data.image | url }}" alt="">
+                                                </div>
+                                            </a>
+                                            <div class="content col">
+                                                <a href="{{ post.url }}" class="title" style="text-transform: capitalize">{% if post.data.title %}{{ post.data.title }}{% else %}No post title provided{% endif %}</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    {% endfor %}
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
                 <div class="right">
@@ -160,7 +267,6 @@
                     <h1>Navigation</h1>
                     <p>
                         <a href="/">Home</a>
-                        <a href="/categories/2.2/">2.2</a>
                         <a href="/posts/">Articles</a>
                         <a href="/categories/">Topics</a>
                         <a href="/authors/">Authors</a>

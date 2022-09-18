@@ -99,7 +99,6 @@ img {
 
 .items {
     display: flex;
-    gap: var(--gap);
 }
 
 a.logo {
@@ -120,6 +119,7 @@ a.item {
     height: var(--navheight);
     display: flex;
     align-items: center;
+    padding: 0 13px;
 }
 
 .navbar-spacer {
@@ -133,6 +133,29 @@ a.item {
     font-size: 1.25rem;
     cursor: pointer;
     padding: 0 15px;
+}
+
+/* Megamenu */
+
+.megamenu-content {
+    display: none;
+    position: absolute;
+    background-color: var(--bg);
+    left: 0;
+    width: 100%;
+    border-bottom: 1px solid var(--grey);
+    padding-bottom: 30px;
+    margin-top: -15px;
+    opacity: 0;
+}
+
+.megamenu .megamenu-content {
+    transition: opacity 0.25s ease;
+}
+
+.megamenu:hover .megamenu-content {
+    display: block;
+    opacity: 1;
 }
 
 /* Mobile Nav */

@@ -5,6 +5,7 @@ image: https://imagizer.imageshack.com/v2/1600x1200q90/923/Nqif8z.png
 date: 2022-05-03
 tags:
     - news
+    - demonlist
 author: c649007
 ---
 
