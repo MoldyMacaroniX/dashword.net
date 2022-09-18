@@ -12,7 +12,7 @@ layout: base.njk
 
 <div class="article-cover">
 	<div class="aspect">
-		<img src="{{ image }}" alt="">
+		<img src="{{ image }}" alt="{% if title %}{{ title }}{% else %}No post title provided.{% endif %}" loading="lazy">
 	</div>
 	{% if imageSource %}<a href="{{ imageSource }}" class="article-cover-source">Cover Source</a>{% endif %}
 </div>

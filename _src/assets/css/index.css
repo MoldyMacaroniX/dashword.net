@@ -14,7 +14,7 @@ Designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Baill
     --white: white;
     --black: black;
     --grey: rgba(192, 192, 192, 0.596);
-    --primary: rgb(45,136,255);
+    --primary: rgb(0, 103, 238); /* OG: rgb(45,136,255) */
 
     /* Spacing valyes */
     --gap: 25px;
@@ -298,6 +298,35 @@ a.mobile-item {
     color: var(--white);
 }
 
+/* Meta Details */
+
+.meta {
+    margin-top: 10px !important;
+}
+
+.author, .date, .tags {
+    height: 30px;
+    padding-top: 15px;
+}
+
+.tags a {
+    height: 30px;
+    display: flex;
+    align-items: center;
+}
+
+/* .tags a {
+    height: 40px;
+    padding: 5px 0;
+    padding-right: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.tags {
+    gap: 0 !important;
+} */
+
 /* Featured Main */
 
 .featured-side .title, .post .title, .post-sidebar .title, .author-preview, .tag-preview {
@@ -362,7 +391,7 @@ a.mobile-item {
     display: flex;
     font-size: 0.9rem;
     margin-top: 10px;
-    gap: 5px var(--gap);
+    gap: 0 var(--gap);
     flex-wrap: wrap;
 }
 
@@ -868,6 +897,11 @@ details[open] .details-icon.ri-add-line:before {
     color: rgb(138, 138, 138);
     margin-top: 5px;
     font-size: 1.2rem;
+}
+
+.author-socials a {
+    padding: 10px;
+    padding-left: 0;
 }
 
 .badge {

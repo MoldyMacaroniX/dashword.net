@@ -2,7 +2,7 @@
 <div class="post-sidebar">
     <a class="image" href="{{ post.url }}">
         <div class="aspect">
-            <img src="{{ post.data.image | url }}" alt="">
+            <img src="{{ post.data.image | url }}" alt="{% if post.data.title %}{{ post.data.title }}{% else %}No post title provided{% endif %}" loading="lazy">
         </div>
     </a>
     <div class="content col">
