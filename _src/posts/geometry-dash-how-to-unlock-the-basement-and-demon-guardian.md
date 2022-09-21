@@ -1,6 +1,6 @@
 ---
 title: "Geometry Dash: How To Unlock The Basement And Free The Demon Guardian"
-desc: After over 5 years of waiting, RobTop confirmed a release time for Geometry Dash 2.2.
+desc: "How to unlock the secret Geometry Dash area called \"The Basement\" and free the monster called the \"Demon Guardian.\""
 image: https://i.ytimg.com/vi/Lmsqt7m14GI/maxresdefault.jpg
 date: 2022-09-21
 tags:
