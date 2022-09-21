@@ -39,4 +39,4 @@ Every Geometry Dash icon can be unlocked by doing all of the following.
 
 Use [these codes to solve the vaults](/posts/geometry-dash-all-vault-codes-2022/). Here are some guides to [collect user coins](/posts/geometry-dash-how-to-get-user-coins-easy/), [collect diamonds](/posts/geometry-dash-how-to-get-diamonds-easy/), and [unlock all secret areas](/posts/geometry-dash-all-vaults-and-secrets-2022/).
 
-For a specific list of how to get every achieve in the game, [see this list](https://gdbrowser.com/achievements). Use the filters to find the icon you want and it will tell you how to unlock it.
+For a specific list of how to get every achievement in the game, [see this list](https://gdbrowser.com/achievements). Use the filters to find the icon you want and it will tell you how to unlock it.
