@@ -36,4 +36,4 @@ Ads should be disabled on pages that:
 
 ## Disabling Ads On The Entire Site
 
-Simply set `metadata.isAds: false` in `_src/_data/metadata.json`. Ideally this should never be done on the live site, only when required for testing in a local development environment.
+Simply set `"isAds": false` in `_src/_data/metadata.json`. Ideally this should never be done on the live site, only when required for testing in a local development environment.
