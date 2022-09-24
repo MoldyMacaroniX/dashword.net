@@ -11,7 +11,7 @@ Horizontal Ad, Vertical Ad, and Feed Ad code are found at `_src/_includes/format
 
 Article Ad code is found in `.eleventy.js`.
 
-# Where Ads Are Shown
+## Where Ads Are Shown
 
 Unless the specific page has ads disabled, ads will be shown on the following pages.
 
@@ -20,11 +20,11 @@ Unless the specific page has ads disabled, ads will be shown on the following pa
 - Feed ads are shown on any page where you can browse posts, such as category and author pages.
 - Article Ads are shown in any page using the `_src/_includes/templates/post.njk` template.
 
-# Article Ads Algorithm
+## Article Ads Algorithm
 
 Excluding pages with ads disabled, article ads are shown between `<article>` tages on ANY page with them. But by default, the only pages with them use the `_src/_includes/templates/post.njk` template.
 
-# Disabling Ads On A Certain Page
+## Disabling Ads On A Certain Page
 
 Simply set `hideAds: true` in the frontmatter of that page.
 
@@ -34,6 +34,6 @@ Ads should be disabled on pages that:
 - "Legal" pages (e.g. the privacy policy)
 - Pages discussing sensitive topics
 
-# Disabling Ads On The Entire Site
+## Disabling Ads On The Entire Site
 
 Simply set `metadata.isAds: false` in `_src/_data/metadata.json`. Ideally this should never be done on the live site, only when required for testing in a local development environment.
