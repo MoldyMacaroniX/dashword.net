@@ -277,6 +277,11 @@ a.mobile-item {
     opacity: 0.50;
 }
 
+.button-selected:focus {
+    outline: transparent 0px solid;
+    outline-offset: 2px;
+}
+
 .button-wide {
     display: block;
     margin-top: 25px;
