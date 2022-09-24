@@ -8,6 +8,9 @@ layout: base.njk
 
 {% for post in collections.posts | head(10) %}
 {% include "partials/posts.njk" %}
+    {% if (loop.index == 3) or (loop.index == 6) or (loop.index == 9) %}
+    {% include "formats/feed.njk" %}
+    {% endif %}
 {% endfor %}
 
 <a href="/posts/2/" class="button button-wide">More Stories</a>

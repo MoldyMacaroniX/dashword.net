@@ -1,6 +1,7 @@
 const { DateTime } = require("luxon");
 const lodashChunk = require('lodash.chunk');
 const lodash = require("./lodash");
+const cheerio = require("cheerio");
 
 function getAllKeyValues(collectionArray, key) {
     // get all values from collection
@@ -58,6 +59,21 @@ module.exports = (config) => {
 
     // END // Put this code in the module.exports function for `.eleventy.js`
     // ***
+
+    // Inject ads
+    // https://github.com/pdehaan/11ty-2355
+    // https://github.com/11ty/eleventy/discussions/2355
+    config.addTransform("inject-ads", function (content) {
+        if (!this.outputPath?.endsWith(".html")) {
+          console.log("abort early:", this.outputPath);
+          return content;
+        }
+        const $ = cheerio.load(content);
+        // Inject ads after 2nd <p> tag, then after 8,16,24,32, etc.
+        const r = $("article p:nth-of-type(3), article p:nth-of-type(3n)");
+        $(r).after('<div style="background-color: grey; max-width: 1300px;" class="inline-slot"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7684383246101791" crossorigin="anonymous"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7684383246101791" data-ad-slot="2412607707"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>');
+        return $.html();
+    });
 
     config.addPassthroughCopy('_src/assets');
     config.addPassthroughCopy('_src/_data');

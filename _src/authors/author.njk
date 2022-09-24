@@ -35,6 +35,9 @@ layout: base.njk
 
 {% for post in category.items %}
 {% include "partials/posts.njk" %}
+  {% if (loop.index == 3) or (loop.index == 6) or (loop.index == 9) %}
+  {% include "formats/feed.njk" %}
+  {% endif %}
 {% endfor %}
 
 <br>

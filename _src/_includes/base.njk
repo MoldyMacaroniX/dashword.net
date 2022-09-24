@@ -13,6 +13,17 @@
         you want to see how this site works!
     -->
 
+    {% if metadata.isAds and not hideAds %}
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7684383246101791"
+     crossorigin="anonymous"></script>
+    {% else %}
+    <style>
+        .inline-slot {
+            display: none;
+        }
+    </style>
+    {% endif %}
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F49Q9CS7F8"></script>
     <script>
@@ -243,10 +254,14 @@
     <!-- FEATURED POSTS END -->
     {% endif %}
 
+    <div class="container section">
+    {% include 'formats/display-horizontal.njk'%}
+    </div>
+
     <!-- MAIN CONTENT AREA START -->
     <div class="container section" id="sidebar-wrapper">
         <div class="cols main-content">
-            <div class="col">
+            <div class="main-content-safe">
 
                 {{ content | safe }}
 
@@ -260,11 +275,17 @@
 
                     <a href="/categories/featured/" class="button button-wide">View More</a>
 
+                    {% include 'formats/display-vertical.njk'%}
+
                 </div>
             </div>
         </div>
     </div>
     <!-- MAIN CONTENT AREA END -->
+
+    <div class="container section">
+    {% include 'formats/display-horizontal.njk'%}
+    </div>
 
     <!-- FOOTER START -->
     <div class="footer-wrapper">
@@ -343,6 +364,7 @@
     </script>
 
     <!-- Sidebar -->
+    <script type="text/javascript" src="/assets/js/resize-sensor.js"></script>
     <script type="text/javascript" src="/assets/js/sidebar.js"></script>
     <script>
     var sidebar = new StickySidebar('#sidebar', {

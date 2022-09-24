@@ -13,8 +13,25 @@ layout: base.njk
 
 <h1 class="heading">All Geometry Dash Stories</h1>
 
+{# {% if metadata.isAds == true %}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7684383246101791"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-f9+5v+4m-d8+7b"
+     data-ad-client="ca-pub-7684383246101791"
+     data-ad-slot="7350073762"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+{% endif %} #}
+
 {% for post in posts %}
 {% include "partials/posts.njk" %}
+  {% if (loop.index == 3) or (loop.index == 6) or (loop.index == 9) %}
+  {% include "formats/feed.njk" %}
+  {% endif %}
 {% endfor %}
 
 {% set paged = pagination.href %}

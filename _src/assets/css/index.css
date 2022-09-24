@@ -69,6 +69,14 @@ img {
     margin-top: 25px;
 }
 
+.main-content-safe {
+    width: calc(100% - 28% - 25px) !important;
+}
+
+.main-content {
+    overflow: hidden;
+}
+
 /* Navbar */
 
 .navbar-wrapper {
@@ -1054,8 +1062,14 @@ details[open] .details-icon.ri-add-line:before {
 }
 
 @media only screen and (max-width: 800px) {
+    .sidebar-hide {
+        display: none;
+    }
     .sidebar {
         width: 100%;
+    }
+    .main-content-safe {
+        width: 100% !important;
     }
     .main-content.cols {
         flex-direction: column;

@@ -13,6 +13,7 @@
     "@11ty/eleventy": "^1.0.0"
   },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
     "lodash.chunk": "^4.2.0",
     "luxon": "^2.3.1"
   }
