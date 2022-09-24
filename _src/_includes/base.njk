@@ -22,6 +22,9 @@
     gtag('config', 'G-F49Q9CS7F8');
     </script>
 
+    <!-- https://stackoverflow.com/a/20505898 -->
+    <script src="/assets/js/ads-prebid.js"></script>
+
     <!-- Sitemap -->
     <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
 
@@ -70,6 +73,17 @@
     <meta property="twitter:image" content="{{ image or metadata.image }}">
 </head>
 <body>
+
+    <!-- NOTIF ALERT START -->
+    <div class="notif cols" id="notif">
+        <div class="notif-content col">
+            <p>Dashword uses the revenue generated from ads to cover its costs. You are free to keep your ad blocker on, but if you want to help us continue to share high quality Geometry Dash news, we comfortably ask you to consider disabling your ad blocker on this website.</p>
+        </div>
+        <div>
+            <button class="button" onclick="closeNotif()">Close</button>
+        </div>
+    </div>
+    <!-- NOTIF ALERT END -->
 
     <!-- SCROLL LINK START -->
     <div class="scroll" id="scrollTop" onclick="up()" onkeydown="if (event.keyCode === 13) {up()}" tabindex="0">
@@ -296,6 +310,37 @@
     <!-- FOOTER END -->
 
     <!-- SCRIPTS START -->
+    <!-- Barn.js (for easy working with localstorage) -->
+    <script type="text/javascript" src="/assets/js/barn.js"></script>
+
+    <!-- Notif ( https://stackoverflow.com/a/20505898 ) -->
+    <script>
+    let barn = new Barn(localStorage);
+    var notif = document.getElementById("notif");
+
+    if( window.adsAreWithUs === undefined ) {
+        showNotif();
+    }
+
+    function showNotif() {
+        if (barn.get("showNotif") == null || barn.get("showNotif") == true ) {
+
+            barn.set("showNotif", true);
+            notif.style.display = "flex";
+
+        } else if (barn.get("showNotif") == false) {
+
+            closeNotif();
+
+        }
+    }
+
+    function closeNotif() {
+        barn.set("showNotif", false);
+        notif.style.display = "none";
+    }
+    </script>
+
     <!-- Sidebar -->
     <script type="text/javascript" src="/assets/js/sidebar.js"></script>
     <script>
