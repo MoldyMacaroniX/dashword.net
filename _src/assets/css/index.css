@@ -1037,6 +1037,10 @@ details[open] .details-icon.ri-add-line:before {
     display: none;
 }
 
+.up-next-show {
+    display: none;
+}
+
 @media only screen and (max-width: 1200px) {
     .featured-main .title {
         font-size: 1.5rem;
@@ -1061,6 +1065,9 @@ details[open] .details-icon.ri-add-line:before {
 @media only screen and (max-width: 800px) {
     .sidebar-hide {
         display: none;
+    }
+    .up-next-show {
+        display: block;
     }
     .sidebar {
         width: 100%;

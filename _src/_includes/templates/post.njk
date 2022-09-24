@@ -37,4 +37,9 @@ layout: base.njk
 {% include "partials/postNav.njk" %}
 
 <a href="/posts/" class="button button-wide">More Stories</a>
+	{% if metadata.isAds and not hideAds %}
+	<div class="up-next-show">
+	{% include "formats/feed.njk" %}
+	</div>
+	{% endif %}
 {% endif %}
