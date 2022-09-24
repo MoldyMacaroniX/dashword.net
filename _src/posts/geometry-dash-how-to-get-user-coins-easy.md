@@ -45,7 +45,7 @@ Here are how to get all three coins in ReTraY:
 
 # Dark Paradise by Roli GD (11280109)
 
-Roli is another easy level, but the first two coins are a little more hidden and the last coin is a little hard. I recommend utilizing practice mode to see how to get the coins. Some parts in the level can also be hard to see at times.
+Dark Paradise is another easy level, but the first two coins are a little more hidden and the last coin is a little hard. I recommend utilizing practice mode to see how to get the coins. Some parts in the level can also be hard to see at times.
 
 Here are how to get all three coins in Dark Paradise:
 

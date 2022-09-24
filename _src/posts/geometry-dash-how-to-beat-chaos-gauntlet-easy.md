@@ -99,4 +99,4 @@ Here is a [video walkthrough](https://youtu.be/lWCgfFWP2bQ) for how to beat Dark
 
 ---
 
-And there you go, a bunch of tips and trips for completing each level in the Chaos Gauntlet.
+And there you go, a bunch of tips and tricks for completing each level in the Chaos Gauntlet.
