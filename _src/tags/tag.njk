@@ -16,7 +16,7 @@ layout: base.njk
 
 {% for post in tag.templateObjets %}
 {% include "partials/posts.njk" %}
-  {% if (loop.index == 3) or (loop.index == 6) or (loop.index == 9) %}
+  {% if (loop.index == 2) or (loop.index == 4) or (loop.index == 6) or (loop.index == 8) %}
   {% include "formats/feed.njk" %}
   {% endif %}
 {% endfor %}

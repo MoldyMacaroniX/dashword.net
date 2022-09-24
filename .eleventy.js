@@ -69,7 +69,7 @@ module.exports = (config) => {
           return content;
         }
         const $ = cheerio.load(content);
-        // Inject ads after 2nd <p> tag, then after 8,16,24,32, etc.
+        // Inject ads after 3rd <p> tag, then after every 3
         const r = $("article p:nth-of-type(3), article p:nth-of-type(3n)");
         $(r).after('<div style="background-color: grey; max-width: 1300px;" class="inline-slot"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7684383246101791" crossorigin="anonymous"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7684383246101791" data-ad-slot="2412607707"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>');
         return $.html();
