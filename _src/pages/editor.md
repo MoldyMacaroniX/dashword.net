@@ -63,4 +63,4 @@ simplemde.codemirror.on("change", function(){
     </ul>
 </article>
 
-<a href="/posts/2/" class="button button-wide" href="https://forms.gle/GE4NmbumkzNQxntu7">Submit An Article Draft</a>
+<a class="button button-wide" href="/contribute/">Submit An Article Draft</a>

@@ -73,10 +73,6 @@ img {
     width: calc(100% - 28% - 25px) !important;
 }
 
-.main-content {
-    overflow: hidden;
-}
-
 /* Navbar */
 
 .navbar-wrapper {
