@@ -7,6 +7,7 @@ tags:
     - featured
     - opinion
 author: esmik
+hideAds: true
 ---
 
 In the last couple of years, I as a veteran noticed that with the expansion of the GD community, which is of course a good thing, came with a lot more struggle than we ever thought. We all started playing the game because a friend from school or work suggested it, but that doesn't matter. The one who brought the game to you enjoyed it and wanted you to feel the same. We started making space on new social platforms so we could discuss stuff around our favourite game. Twitter, GWF, Reddit, YouTube, and more. That doesn't matter much, as just we wanted to share our amazing experience with the game. 

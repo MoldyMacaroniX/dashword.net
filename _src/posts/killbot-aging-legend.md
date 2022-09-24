@@ -7,6 +7,7 @@ tags:
     - featured
     - review
 author: ryli
+hideAds: true
 ---
 
 Nowadays, there's a lot of Geometry Dash content to watch. One form of content that has seen a surge of popularity in recent years is level reviews. People taking a level, dissecting it, and giving their opinion on it. It's a very simple concept and I think that's part of the reason why it's become so popular as more and more new levels are released. A lot of these level reviews focus on levels that are unknown, unconventional, or have some sort of shock value that will make it interesting. While I think that this is a great way to shed a new perspective on an unconventional level or garner attention for an unknown one, oftentimes levels that are more popular are overlooked. I think there's a lot of missing potential there. So today, I'm going to be doing an in-depth analysis on a well known, popular, and very unique extreme demon; Killbot.
