@@ -1,5 +1,5 @@
 ---
-title: "A Formal Guide to Megacollabs"
+title: "A Formal Guide to Megacollabs in Geometry Dash"
 desc: "With creator ambition being sky high, many new creators are having trouble. To combat this, most turn to megacollabs."
 image: https://64.media.tumblr.com/44cb0cd01ca6093b2df3a5b4630572e9/ff0359c8bfbb48d5-40/s540x810/6f3e219bd1c9693da5e8dffc1ccf3a32429742ce.png
 date: 2022-02-06

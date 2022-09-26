@@ -1,5 +1,5 @@
 ---
-title: "The History of Nine Circles Levels"
+title: "The History of Geometry Dash Nine Circles Levels"
 desc: "There have been hundreds of trends that have come across Geometry Dash over the years, but non as important as the Nine Circles trend."
 image: https://i.imgur.com/iaSLN9t.png
 date: 2022-02-11

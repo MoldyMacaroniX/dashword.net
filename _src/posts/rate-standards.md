@@ -1,6 +1,6 @@
 ---
-title: "We Do Not Make The Rate Standards"
-desc: "Something as a community that we do not understand, is that we do not make the rate standards."
+title: "We Do Not Make The Geometry Dash Rate Standards"
+desc: "Something as a community that we do not understand, is that we do not make the Geometry Dash rate standards."
 image: https://i.ytimg.com/vi/-mCX9ogzs54/maxresdefault.jpg
 date: 2022-01-18
 tags:

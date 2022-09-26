@@ -1,6 +1,6 @@
 ---
-title: "Why do so many rated levels look exactly the same?"
-desc: "Too many rated levels nowadays look too similar. Why does this keep happening and what can we do about it?"
+title: "Why do so many rated Geometry Dash levels look exactly the same?"
+desc: "Too many rated Geometry Dash levels nowadays look too similar. Why does this keep happening and what can we do about it?"
 image: "https://cdn.discordapp.com/attachments/860367301160992778/938946962135322644/whyratedlevels.jpg"
 date: 2022-02-10
 tags:

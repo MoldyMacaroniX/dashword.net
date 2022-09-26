@@ -1,6 +1,6 @@
 ---
-title: "The Brand New Playstyles of 2.2"
-desc: "Geometry Dash's upcoming platformer mode is pretty controversial for one main reason."
+title: "The Brand New Playstyles of Geometry Dash 2.2"
+desc: "Geometry Dash 2.2's upcoming platformer mode is pretty controversial for one main reason."
 image: https://pbs.twimg.com/media/FJluaj9VIAAIYLP?format=jpg&name=medium
 date: 2022-01-31
 tags:

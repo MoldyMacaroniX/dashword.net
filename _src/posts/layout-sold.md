@@ -1,6 +1,6 @@
 ---
-title: "He sold his layout for $120"
-desc: "Just A GD Player has sold his layout Vulture to qMystic for $120."
+title: "He sold his Geometry Dash layout for $120"
+desc: "Just A GD Player has sold his Geometry Dash layout Vulture to qMystic for $120."
 image: https://i.imgur.com/D9mX84f.jpg
 date: 2022-03-02
 tags:

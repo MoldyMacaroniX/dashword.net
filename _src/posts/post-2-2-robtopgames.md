@@ -1,6 +1,6 @@
 ---
 title: "What Could A Post-2.2 RobTop Games Look Like?"
-desc: "With 2.2 on the horizon, it seems that RobTop could take on more developers to enable updates to release faster. Here are the best names for the team."
+desc: "With Geometry Dash 2.2 on the horizon, it seems that RobTop could take on more developers to enable updates to release faster. Here are the best names for the team."
 image: https://i.imgur.com/2QlLeZU.jpg
 date: 2022-02-04
 tags: list

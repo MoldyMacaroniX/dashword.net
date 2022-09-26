@@ -1,6 +1,6 @@
 ---
-title: "I got a Featured Level in 3 Hours"
-desc: "Grinding creator points is something I have never been into. But nevertheless, I challenged myself to make a featured level in 3 hours."
+title: "I got a Geometry Dash Featured Level in 3 Hours"
+desc: "Grinding Geometry Dash creator points is something I have never been into. But nevertheless, I challenged myself to make a featured level in 3 hours."
 image: https://i.imgur.com/R7cajVs.jpeg
 date: 2022-01-29
 tags:

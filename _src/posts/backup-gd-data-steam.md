@@ -1,5 +1,5 @@
 ---
-title: "How To Backup Your Save Data"
+title: "How To Backup Your Geometry Dash Save Data"
 desc: "If you have ever used Geometry Dash's cloud save system, you are probably aware of its lack of functionality."
 image: https://cdn.akamai.steamstatic.com/steam/apps/322170/capsule_616x353.jpg?t=1624472273
 date: 2022-01-31

@@ -1,6 +1,6 @@
 ---
-title: "Why We Need Glow Levels"
-desc: "I decided to mentally keep track of how many levels I got in the various different styles that have become prevalent over the years. I was never requested a single glow level."
+title: "Why We Need Glow Levels In Geometry Dash"
+desc: "I decided to mentally keep track of how many Geometry Dash levels I got in the various different styles that have become prevalent over the years. I was never requested a single glow level."
 image: https://i.imgur.com/paPZvif.png
 date: 2022-02-06
 tags:

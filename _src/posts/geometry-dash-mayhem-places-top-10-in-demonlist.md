@@ -24,6 +24,6 @@ Acheron is taking the spotlight, allowing less room for Mayhem to appear in the 
 
 # Demonlist: Overrating Difficulty Of Levels
 
-That being said, this sparks another discussion. It has been made clear that YouTubers often overestimate the difficulty of levels in their video titles. This is to help attract attention to this video, but as the negative affect of distorting public opinion.
+That being said, this sparks another discussion. It has been made clear that YouTubers often overestimate the difficulty of levels in their video titles. This is to help attract attention to their video, but has the negative affect of distorting public opinion.
 
 This has lead to levels like Sakupen Circles and Abyss of Darkness [taking the number 1 spot from Slaughterhouse](/posts/geometry-dash-slaughterhouse-top-1/), despite not being harder in hindsight.

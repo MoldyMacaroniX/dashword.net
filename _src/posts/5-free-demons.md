@@ -1,5 +1,5 @@
 ---
-title: "5 Free Demons No One is Talking About"
+title: "5 Free Geometry Dash Demons No One is Talking About"
 desc: "In this list, I found 5 extremely easy demons, and some tips on how to beat them!"
 image: https://steamuserimages-a.akamaihd.net/ugc/110732988915356301/50767ED0B615D39F46E92446ACF4B01B159CBD67/
 date: 2022-01-29

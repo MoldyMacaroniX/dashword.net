@@ -1,6 +1,6 @@
 ---
 title: "Stereo Madness: A Critical Analysis"
-desc: "Stereo Madness never gets the recognition for creativity it deserves. I want to fill that void."
+desc: "Geometry Dash's first level Stereo Madness never gets the recognition for creativity it deserves. I want to fill that void."
 image: https://cdn.discordapp.com/attachments/933985129695694848/938962449313456228/unknown.png
 date: 2022-02-04
 tags:

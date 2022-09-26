@@ -1,6 +1,6 @@
 ---
 title: "Speedrun: The Best Extreme Demon in Geometry Dash"
-desc: "Speedrun was one of the most unique levels for its time. It is a very fun and enjoyable level."
+desc: "Speedrun was one of the most unique Geometry Dash levels for its time. It is a very fun and enjoyable level."
 image: https://i.imgur.com/GwnZrf5.png
 date: 2022-02-06
 tags:
