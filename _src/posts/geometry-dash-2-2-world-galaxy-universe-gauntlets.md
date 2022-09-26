@@ -4,6 +4,7 @@ desc: "Geometry Dash 2.2 will be getting 3 new confirmed Gauntlets: the World Ga
 image: https://i.imgur.com/ltxjnIN.png
 date: 2022-09-26
 tags:
+    - featured
     - news
     - "2.2"
 author: moldymacaronix
