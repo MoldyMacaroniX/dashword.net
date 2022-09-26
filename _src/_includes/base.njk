@@ -263,6 +263,12 @@
 
                 {{ content | safe }}
 
+                {% if metadata.isAds and not hideAds %}
+                <div class="up-next-show">
+                {% include "formats/feed.njk" %}
+                </div>
+                {% endif %}
+
             </div>
             <div id="sidebar" class="sidebar">
                 <div id="sidebar-inner">
