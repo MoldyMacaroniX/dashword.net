@@ -22,8 +22,6 @@ The [demonlist responded in saying](https://twitter.com/demonlistgd/status/15746
 
 > Due to a lack of reliable opinions, this placement is highly subject to change.
 
-<!-- ongoing controversy as of late - make link to my article on demonlist controversy once published -->
-
-Another thing to note is that the ongoing demonlist controversy as of late is likely playing a role in the Geometry Dash community's backlash.
+Another thing to note is that the [ongoing demonlist controversy as of late](/posts/geometry-dash-the-problem-with-the-demonlist/) is likely playing a role in the Geometry Dash community's backlash.
 
 It is also worth noting that this situation is much similar to [what happened to the top 5 extreme demon Mayhem](/posts/geometry-dash-mayhem-places-top-10-in-demonlist/), which suffered a similar fate.
