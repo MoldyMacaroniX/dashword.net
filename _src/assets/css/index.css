@@ -687,7 +687,7 @@ h1.heading {
 
 .article p, .article li, .article li p:first-child, .article blockquote p:first-child, .article.article-ta p:first-child {
     font-size: 1.1rem;
-    line-height: 1.5;
+    line-height: 1.7;
     font-weight: normal;
     margin: 15px 0;
 }
@@ -746,6 +746,12 @@ h1.heading {
     margin-bottom: 25px;
 }
 
+.article-notice {
+    opacity: 0.5;
+    text-align: center;
+    font-style: italic;
+}
+
 .article blockquote::before {
     font-family:Arial;
     content: "\201C";
@@ -762,7 +768,7 @@ h1.heading {
     font-style: italic;
     padding: 0.8em 20px 0.8em 65px;
     border-left: 8px solid var(--primary);
-    line-height:1.6;
+    line-height: 1.5;
     position: relative;
 }
 
