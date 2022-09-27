@@ -40,7 +40,7 @@ I have the utmost respect for the demonlist staff. They manage to work well desp
 
 Instead, the problem is with the Geometry Dash community's *mentality* towards the demonlist.
 
-As Geometry Dash YouTuber [Stormfly argues in his critique](), **the demonlist will never be accurate.** But the community's attitude towards it suggests that it is.
+As Geometry Dash YouTuber [Stormfly argues in his critique](https://youtu.be/ffHtlzthU3s), **the demonlist will never be accurate.** But the community's attitude towards it suggests that it is.
 
 The truth is, the demonlist shouldn't be thought so highly of. It should be considered *one* ranking of the hardest levels, not *the only* ranking of the hardest levels.
 
