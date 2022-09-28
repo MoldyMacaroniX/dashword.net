@@ -96,13 +96,15 @@
     </div>
     <!-- NOTIF ALERT END -->
 
+    {% if metadata.isAds and not hideAds %}
     <!-- FIXED SLOT START -->
     <div class="fixed-slot">
-        <div>
+        <div style="margin: auto;">
             {% include 'formats/display-wide.njk'%}
         </div>
     </div>
     <!-- FIXED SLOT END -->
+    {% endif %}
 
     <!-- SCROLL LINK START -->
     <div class="scroll" id="scrollTop" onclick="up()" onkeydown="if (event.keyCode === 13) {up()}" tabindex="0">
