@@ -1,6 +1,6 @@
 ---
 title: "BREAKING: Acheron Places #2 On Geometry Dash Demonlist"
-desc: "Geometry Dash Acheron, the top 1 hardest extreme demon, has placed #2 on the Pointercrate demonlist following controversial decision by the list moderators."
+desc: "Geometry Dash Acheron, the supposed top 1 hardest extreme demon, has placed #2 on the Pointercrate demonlist following controversial decision by the list moderators."
 image: https://media.discordapp.net/attachments/392087938239954950/1024175963375935548/IMG_0355.webp
 imageSource: https://geometry-dash-fan.fandom.com/wiki/Acheron
 date: 2022-09-27
