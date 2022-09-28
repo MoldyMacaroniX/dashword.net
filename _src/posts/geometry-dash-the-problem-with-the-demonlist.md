@@ -32,7 +32,7 @@ The Geometry Dash Demonlist problem is caused by the following:
 
 But ultimately, **the problem with the demonlist is the monopolization of extreme demons.**
 
-With the surge of demonlist discussion, many points have been argued. Much of these are fair critiques, but are far from being a central answer for the problem with the Geometry Dash demonlist. Instead, I believe the problem with the demonlist is **the mentality of the Geometry Dash community.**
+With the surge of demonlist discussion, many points have been argued. Much of these are fair critiques, but are far from being a central cause for the problem with the Geometry Dash demonlist. Instead, I believe the cause of the demonlist's problems is **the mentality of the Geometry Dash community.**
 
 # Demonlist Mentality
 
