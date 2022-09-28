@@ -1,5 +1,5 @@
 ---
-title: "3 New Geometry Dash 2.2 Gauntlets Confirmed: World, Galaxy & Universe Gauntlets"
+title: "3 New Geometry Dash 2.2 Gauntlets Confirmed: World, Galaxy, & Universe Gauntlets"
 desc: "Geometry Dash 2.2 will be getting 3 new confirmed Gauntlets: the World Gauntlet, Galaxy Gauntlet, and Universe Gauntlet."
 image: https://i.imgur.com/ltxjnIN.png
 date: 2022-09-26
