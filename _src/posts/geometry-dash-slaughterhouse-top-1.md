@@ -1,6 +1,6 @@
 ---
 title: "Slaughterhouse: The Top 1 Demon In Geometry Dash For Almost A Year Still Reigns Strong"
-desc: The hardest level ever made in Geometry Dash still reigns strong after almost a year. But when will it fall?
+desc: Geometry Dash Slaughterhouse, the hardest level ever made still reigns strong after almost a year. But when will it fall?
 image: https://i.ytimg.com/vi/MQVvbcIf0Es/maxresdefault.jpg
 imageSource: https://youtu.be/MQVvbcIf0Es
 date: 2022-09-19
