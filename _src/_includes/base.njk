@@ -96,6 +96,14 @@
     </div>
     <!-- NOTIF ALERT END -->
 
+    <!-- FIXED SLOT START -->
+    <div class="fixed-slot">
+        <div class="container">
+            {% include 'formats/display-wide.njk'%}
+        </div>
+    </div>
+    <!-- FIXED SLOT END -->
+
     <!-- SCROLL LINK START -->
     <div class="scroll" id="scrollTop" onclick="up()" onkeydown="if (event.keyCode === 13) {up()}" tabindex="0">
         <i class="ri-arrow-up-line"></i>
@@ -373,7 +381,7 @@
         containerSelector: '#sidebar-wrapper',
         innerWrapperSelector: '#sidebar-inner',
         topSpacing: 100,
-        bottomSpacing: 20,
+        bottomSpacing: 120, // og: 20, with ad bar: 20 + 100 = 120
         minWidth: 800
     });
     </script>

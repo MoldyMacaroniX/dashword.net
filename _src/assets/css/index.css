@@ -233,7 +233,7 @@ a.mobile-item {
     justify-content: center;
     align-items: center;
     z-index: 525;
-    bottom: 0;
+    bottom: 100px; /* 0 */
     right: 0;
     background-color: var(--primary);
     color: var(--white);
@@ -245,6 +245,17 @@ a.mobile-item {
 
 .scroll:focus {
     transform: translateX(0%);
+}
+
+/* Fixed Slot */
+
+.fixed-slot {
+    height: fit-content;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    z-index: 325;
+    background-color: var(--grey);
 }
 
 /* Button */
@@ -564,6 +575,7 @@ h1.heading {
     background-color: var(--bg-dim);
     margin-top: 50px;
     padding: 25px 0;
+    padding-bottom: calc(25px + 100px); /* for banner ad to not cover footer links */
 }
 
 .footer-end {
