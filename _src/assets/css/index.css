@@ -1070,7 +1070,7 @@ details[open] .details-icon.ri-add-line:before {
     }
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1050px) {
     .featured-main .desc {
         display: none;
     }

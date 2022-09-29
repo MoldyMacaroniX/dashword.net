@@ -120,6 +120,7 @@
         <a href="/categories/news/" class="mobile-item">News</a>
         <a href="/categories/demonlist/" class="mobile-item">Demonlist</a>
         <a href="/categories/guide/" class="mobile-item">Guide</a>
+        <a href="/categories/opinion/" class="mobile-item">Opinion</a>
         <a href="/categories/review/" class="mobile-item">Review</a>
     </div>
     <div class="mobile-bg" id="menu-bg" onclick="closeMobile()"></div>
@@ -206,6 +207,28 @@
                             <div class="megamenu-content">
                                 <div class="container cols">
                                     {% for post in collections[ "guide" ] | reverse | head(3) %}
+                                    <div class="col">
+                                        <div class="post-sidebar">
+                                            <a class="image" href="{{ post.url }}">
+                                                <div class="aspect">
+                                                    <img src="{{ post.data.image | url }}" alt="">
+                                                </div>
+                                            </a>
+                                            <div class="content col">
+                                                <a href="{{ post.url }}" class="title" style="text-transform: capitalize">{% if post.data.title %}{{ post.data.title }}{% else %}No post title provided{% endif %}</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    {% endfor %}
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="megamenu">
+                            <a href="/categories/opinion/" class="item">Opinion</a>
+                            <div class="megamenu-content">
+                                <div class="container cols">
+                                    {% for post in collections[ "opinion" ] | reverse | head(3) %}
                                     <div class="col">
                                         <div class="post-sidebar">
                                             <a class="image" href="{{ post.url }}">
