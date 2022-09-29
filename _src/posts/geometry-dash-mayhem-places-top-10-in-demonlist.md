@@ -20,7 +20,7 @@ However, the demonlist team failed to agree with this high placement, adding the
 
 Surprisingly, this controversial placement hasn't sparked nearly as much drama as one might expect. This is mainly due to the fact that Acheron, the recently verified top 1 hardest level in the game, has yet to be placed.
 
-Acheron is taking the spotlight, allowing less room for Mayhem to appear in the public eye. Expect Dashword to release more news once Acheron is placed on the demonlist.
+Acheron is taking the spotlight, allowing less room for Mayhem to appear in the public eye. Expect Dashword to release more news once [Acheron is placed on the demonlist](/posts/geometry-dash-acheron-places-top-2-on-demonlist/).
 
 # Demonlist: Overrating Difficulty Of Levels
 
