@@ -26,10 +26,10 @@ You can [apply to be a writer using this form](https://forms.gle/GE4NmbumkzNQxnt
 
 But why write for Dashword?
 
-- Dashword has over 1600 monthly users.
+- Dashword has over 2500 monthly users.
 - Dashword gets thousands of clicks every month.
 - Dashword gets tens of thousands of impressions every month.
-- Dashword on average ranks at position 15 in Google Search results for the search term "Geometry Dash" and is increasing every month!
+- Dashword ranks high in Google Search results for terms like "Geometry Dash" and "Geometry Dash 2.2" and is increasing every month!
 
 # Developer (help code the website)
 
