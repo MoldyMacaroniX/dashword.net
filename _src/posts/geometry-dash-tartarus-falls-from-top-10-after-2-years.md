@@ -3,6 +3,7 @@ title: "Geometry Dash Extreme Demon Tartarus Falls Out Of Top 10 After 2 Years O
 desc: "Geometry Dash Tartarus has fallen out of the top 10 hardest levels ever made on the Pointercrate demonlist."
 image: https://img.youtube.com/vi/eCy7RO1ctGQ/maxresdefault.jpg
 imageSource: https://youtu.be/eCy7RO1ctGQ
+date: 2022-10-01
 tags:
     - news
     - demonlist
