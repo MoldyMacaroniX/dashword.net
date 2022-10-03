@@ -18,3 +18,4 @@ collections:
       - {label: "Author ID", name: "author", widget: "string" }
       - {label: "Image", name: "image", widget: "string" }
       - {label: "Image Source URL", name: "imageSource", widget: "string" }
+      - {label: "Body", name: "body", widget: "markdown" }
