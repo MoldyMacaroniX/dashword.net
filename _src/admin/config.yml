@@ -14,8 +14,9 @@ collections:
       - {label: "Title", name: "title", widget: "string" }
       - {label: "Description", name: "desc", widget: "string" }
       - {label: "Date", name: "date", widget: "datetime" }
-      - {label: "Tags (separate by commas and a space)", name: "tags", widget: "list" }
+      - {label: "Tags (separate with commas, optional)", name: "tags", widget: "list", required: false }
       - {label: "Author ID", name: "author", widget: "string" }
-      - {label: "Image", name: "image", widget: "string" }
-      - {label: "Image Source URL (Optional)", name: "imageSource", widget: "string" }
+      - {label: "Image URL", name: "image", widget: "string" }
+      - {label: "Image Source URL (Optional)", name: "imageSource", widget: "string", required: false }
       - {label: "Body", name: "body", widget: "markdown" }
+logo_url: https://www.dashword.net/assets/img/icon.svg
