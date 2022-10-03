@@ -14,8 +14,8 @@ collections:
       - {label: "Title", name: "title", widget: "string" }
       - {label: "Description", name: "desc", widget: "string" }
       - {label: "Date", name: "date", widget: "datetime" }
-      - {label: "Tags", name: "tags", widget: "list" }
+      - {label: "Tags (separate by commas and a space)", name: "tags", widget: "list" }
       - {label: "Author ID", name: "author", widget: "string" }
       - {label: "Image", name: "image", widget: "string" }
-      - {label: "Image Source URL", name: "imageSource", widget: "string" }
+      - {label: "Image Source URL (Optional)", name: "imageSource", widget: "string" }
       - {label: "Body", name: "body", widget: "markdown" }
