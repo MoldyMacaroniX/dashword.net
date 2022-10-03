@@ -82,6 +82,10 @@
     <meta property="twitter:title" content="{% if pageID !== "authorPosts" %}{{ title or metadata.title }}{% else %}{{ myAuthor.name }}{% endif %} | {{ metadata.title }}">
     <meta property="twitter:description" content="{% if pageID !== "authorPosts" %}{{ desc or metadata.desc }}{% else %}{{ myAuthor.bio }}{% endif %}">
     <meta property="twitter:image" content="{{ image or metadata.image }}">
+
+    <!-- Netlify CMS -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
 </head>
 <body>
 
@@ -500,6 +504,19 @@
         },
         onClick: function(){} // Callback after click
         }).showToast();
+    }
+    </script>
+
+    <!-- Netlify CMS -->
+    <script>
+    if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+        if (!user) {
+            window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+            });
+        }
+        });
     }
     </script>
     <!-- SCRIPTS END -->

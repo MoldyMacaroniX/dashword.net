@@ -77,6 +77,7 @@ module.exports = (config) => {
 
     config.addPassthroughCopy('_src/assets');
     config.addPassthroughCopy('_src/_data');
+    config.addPassthroughCopy('_src/admin');
     config.addPassthroughCopy({'_src/static':  '.'});
 
     config.addCollection("posts", function(collection) {
