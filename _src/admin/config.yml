@@ -13,7 +13,6 @@ collections:
     fields: 
       - {label: "Title", name: "title", widget: "string" }
       - {label: "Description", name: "desc", widget: "string" }
-      - {label: "Description", name: "desc", widget: "string" }
       - {label: "Date", name: "date", widget: "datetime" }
       - {label: "Tags", name: "tags", widget: "list" }
       - {label: "Author ID", name: "author", widget: "string" }
