@@ -15,8 +15,8 @@ collections:
       - {label: "Title", name: "title", widget: "string" }
       - {label: "Description", name: "desc", widget: "string" }
       - {label: "Date", name: "date", widget: "datetime" }
-      - {label: "Tags (separate with commas, optional)", name: "tags", widget: "list", required: false, comment: "Separate tags with commas. This field is optional." }
+      - {label: "Tags, separate with commas", name: "tags", widget: "list" }
       - {label: "Author ID", name: "author", widget: "string" }
-      - {label: "Image URL", name: "image", widget: "string", comment: "Must be a valid URL. This field is optional." }
-      - {label: "Image Source URL (Optional)", name: "imageSource", widget: "string", required: false, comment: "The URL to the webpage you got the image from, not the image itself. This field is optional." }
-      - {label: "Body", name: "body", widget: "markdown", comment: "To show image, include the image URL. Do not upload images to the media folder." }
+      - {label: "Image URL", name: "image", widget: "string" }
+      - {label: "Image Source URL", name: "imageSource", widget: "string", required: false }
+      - {label: "Body", name: "body", widget: "markdown" }
