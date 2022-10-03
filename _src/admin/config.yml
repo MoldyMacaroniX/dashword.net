@@ -22,5 +22,5 @@ collections:
       - {label: "Image Source URL (Optional)", name: "imageSource", widget: "string", required: false }
         comment: "The URL to the webpage you got the image from, not the image itself. This field is optional."
       - {label: "Body", name: "body", widget: "markdown" }
-        comment: "To show image, include the image URL. Do not upload images to the media folder.""
+        comment: "To show image, include the image URL. Do not upload images to the media folder."
 logo_url: https://www.dashword.net/assets/img/icon.svg
