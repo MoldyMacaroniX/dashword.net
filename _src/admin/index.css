@@ -2,14 +2,117 @@
 Designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Bailly */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+:root {
+    --grey: rgba(192, 192, 192, 0.596);
+    --primary: rgb(0, 103, 238); /* OG: rgb(45,136,255) */
+}
+
 html, body {
     color: rgb(0, 0, 0);
-    font-size: 18px;
+    font-size: 16px;
     word-wrap: break-word;
     font-family: 'Montserrat', sans-serif;
-    line-height: 1.7;
 }
 
 body {
     padding: 20px;
+}
+
+p, li, img, h1, h2, h3, h4, h5, h6, .alert {
+    display: block;
+    margin: 15px 0;
+}
+
+img {
+    margin: auto;
+}
+
+
+p, li, li p:first-child, blockquote p:first-child, .article.article-ta p:first-child {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    font-weight: normal;
+    margin: 15px 0;
+}
+
+.alert p:first-child {
+    line-height: 1.5 !important;
+    margin: 15px 0 !important;
+}
+
+p:first-child {
+    margin: 15px 0;
+    font-weight: bold;
+    font-size: 1.25rem;
+    line-height: 1.35;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+ul {
+    list-style-type: square;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+ol {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+li {
+    display:list-item;
+}
+
+a {
+    color: rgb(0, 89, 255);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+hr {
+    border: solid 0px transparent;
+    background-color: var(--grey);
+    height: 1px;
+    margin: 35px 0;
+}
+
+blockquote::before {
+    font-family:Arial;
+    content: "\201C";
+    color: var(--primary);
+    font-size:4em;
+    position: absolute;
+    left: 10px;
+    top:-10px;
+}
+
+blockquote {
+    font-size: 1.4rem;
+    margin: 25px auto;
+    font-style: italic;
+    padding: 0.8em 20px 0.8em 65px;
+    border-left: 8px solid var(--primary);
+    line-height: 1.5;
+    position: relative;
+}
+
+blockquote p {
+    display: inline;
+}
+
+blockquote cite {
+    display:block;
+    color:#333333;
+    font-style: normal;
+    font-weight: bold;
+    margin-top:1em;
 }
