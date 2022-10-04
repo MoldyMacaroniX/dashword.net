@@ -1,0 +1,15 @@
+/* Montserrat
+Designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Bailly */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+html, body {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    word-wrap: break-word;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.7;
+}
+
+body {
+    padding: 20px;
+}
