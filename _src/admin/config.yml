@@ -2,6 +2,7 @@ backend:
   name: git-gateway
   branch: master
 publish_mode: editorial_workflow
+display_url: https://www.dashword.net
 media_folder: "_src/assets/img"
 public_folder: "/assets/img"
 logo_url: https://www.dashword.net/assets/img/icon.svg
