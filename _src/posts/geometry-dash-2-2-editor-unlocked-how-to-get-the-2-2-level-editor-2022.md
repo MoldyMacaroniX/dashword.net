@@ -14,6 +14,8 @@ The Geometry Dash 2.2 editor has become available after modders restored it from
 
 But first, its important to note that this is not the official 2.2 update, [as we've covered before](/posts/how-to-get-the-2-2-editor/). What most people are using to try out the 2.2 editor is a **Geometry Dash Private Server (GDPS)** called **GDPS Editor.**
 
+We've written an article on this before, so [check that out] for more information](/posts/how-to-get-the-2-2-editor/). This article is an updated guide on how to install the 2.2 private server, GDPS Editor.
+
 The latest version of GDPS Editor uses the latest version of 2.2, which is from Geometry Dash Lite. It contains the following 2.2 features, among many others:
 
 * Swing copter
