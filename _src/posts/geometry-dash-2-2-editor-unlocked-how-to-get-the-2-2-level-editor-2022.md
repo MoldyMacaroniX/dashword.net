@@ -16,7 +16,7 @@ But first, its important to note that this is not the official 2.2 update, [as w
 
 We've written an article on this before, so [check that out for more information](/posts/how-to-get-the-2-2-editor/). What you are reading now is an updated guide on how to install the 2.2 private server, GDPS Editor.
 
-- [Available Geometry Dash 2.2 Editor Features]()
+* [Available Geometry Dash 2.2 Editor Features](<>)
 
 # Available Geometry Dash 2.2 Editor Features
 
@@ -27,3 +27,15 @@ The latest version of GDPS Editor uses the latest version of 2.2, which is from 
 * Camera controls
 * Reverse controls
 * Arrow trigger
+
+# How To Install The Geometry Dash 2.2 Editor
+
+B﻿ody
+
+# G﻿eometry Dash 2.2 Resources
+
+B﻿ody
+
+-﻿--
+
+A﻿nd there you have it, a complete guide on how to get the beta Geometry Dash 2.2 editor!
