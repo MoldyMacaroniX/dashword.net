@@ -36,6 +36,6 @@ B﻿ody
 
 B﻿ody
 
--﻿--
+- - -
 
-A﻿nd there you have it, a complete guide on how to get the beta Geometry Dash 2.2 editor!
+A﻿nd there you have it, a complete guide on how to get the beta **Geometry Dash 2.2 editor!**
