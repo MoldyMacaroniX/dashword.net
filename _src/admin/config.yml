@@ -11,9 +11,8 @@ collections:
     label: "Posts"
     folder: "_src/posts"
     create: true
-    slug: "{{address}}"
+    slug: "{{slug}}"
     fields: 
-      - {label: "Address, using only lowercase letters, numbers, and hyphens", name: "address", widget: "string" }
       - {label: "Title", name: "title", widget: "string" }
       - {label: "Description", name: "desc", widget: "string" }
       - {label: "Date", name: "date", widget: "datetime" }
