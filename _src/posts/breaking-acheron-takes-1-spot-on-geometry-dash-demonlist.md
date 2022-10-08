@@ -1,4 +1,5 @@
 ---
+address: geometry-dash-acheron-places-top-1-on-demonlist
 title: "BREAKING: Acheron Takes #1 Spot On Geometry Dash Demonlist"
 desc: Geometry Dash extreme demon Acheron moves from top 2 to top 1 spot on the
   Pointercrate demonlist, dethroning Slaughterhouse.
