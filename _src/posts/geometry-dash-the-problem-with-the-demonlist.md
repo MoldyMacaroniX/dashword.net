@@ -1,6 +1,6 @@
 ---
-title: "Geometry Dash Extreme Demons: The Problem With The Demonlist"
-desc: The hardest levels ever made in Geometry Dash are extreme demons and they are ranked on the Pointercrate demonlist. However, as of late, it has become incredibly controversial.
+title: "Geometry Dash Extreme Demons: The Problem With The Demon List"
+desc: The hardest levels ever made in Geometry Dash are extreme demons and they are ranked on the Pointercrate Demon List. However, as of late, it has become incredibly controversial.
 image: https://i.ytimg.com/vi/l8BYnU457O0/maxresdefault.jpg
 imageSource: https://youtu.be/l8BYnU457O0
 date: 2022-09-27
@@ -10,49 +10,49 @@ tags:
 author: moldymacaronix
 ---
 
-The hardest levels ever made in Geometry Dash are extreme demons and they are ranked on the Pointercrate demonlist. However, as of late, it has become incredibly controversial.
+The hardest levels ever made in Geometry Dash are extreme demons and they are ranked on the Pointercrate Demon List. However, as of late, it has become incredibly controversial.
 
-This started when many Geometry Dash YouTubers began expressing their criticisms about the demonlist and top 1 extreme demons overall. However, even in all the banter, the question still remains:
+This started when many Geometry Dash YouTubers began expressing their criticisms about the Demon List and top 1 extreme demons overall. However, even in all the banter, the question still remains:
 
-**What is the problem with the demonlist?**
+**What is the problem with the Demon List?**
 
-What are people even arguing when they critique the demonlist? That is what I will be revealing in the rest of this article.
+What are people even arguing when they critique the Demon List? That is what I will be revealing in the rest of this article.
 
-* [The Geometry Dash Demonlist Problem](#the-geometry-dash-demonlist-problem)
-* [Demonlist Mentality](#demonlist-mentality)
+* [The Geometry Dash Demon List Problem](#the-geometry-dash-demon-list-problem)
+* [Demon List Mentality](#demon-list-mentality)
 * [Extreme Demon Mentality](#extreme-demon-mentality)
-* [How To Fix The Demonlist](#how-to-fix-the-demonlist)
+* [How To Fix The Demon List](#how-to-fix-the-demon-list)
 
-# The Geometry Dash Demonlist Problem
+# The Geometry Dash Demon List Problem
 
-The Geometry Dash Demonlist problem is caused by the following:
+The Geometry Dash Demon List problem is caused by the following:
 
-* The mentality towards the demonlist
+* The mentality towards the Demon List
 * The mentality towards extreme demons
 
-But ultimately, **the problem with the demonlist is the monopolization of extreme demons.**
+But ultimately, **the problem with the Demon List is the monopolization of extreme demons.**
 
-With the surge of demonlist discussion, many points have been argued. Much of these are fair critiques, but are far from being a central cause for the problem with the Geometry Dash demonlist. Instead, I believe the cause of the demonlist's problems is **the mentality of the Geometry Dash community.**
+With the surge of Demon List discussion, many points have been argued. Much of these are fair critiques, but are far from being a central cause for the problem with the Geometry Dash Demon List. Instead, I believe the cause of the Demon List's problems is **the mentality of the Geometry Dash community.**
 
-# Demonlist Mentality
+# Demon List Mentality
 
-I have the utmost respect for the demonlist staff. They manage to work well despite the high expectations placed upon them by the Geometry Dash community. None of the problems with the demonlist or extreme demons is caused by them.
+I have the utmost respect for the Demon List staff. They manage to work well despite the high expectations placed upon them by the Geometry Dash community. None of the problems with the Demon List or extreme demons is caused by them.
 
-Instead, the problem is with the Geometry Dash community's *mentality* towards the demonlist.
+Instead, the problem is with the Geometry Dash community's *mentality* towards the Demon List.
 
-As Geometry Dash YouTuber [Stormfly argues in his critique](https://youtu.be/ffHtlzthU3s), **the demonlist will never be accurate.** But the community's attitude towards it suggests that it is.
+As Geometry Dash YouTuber [Stormfly argues in his critique](https://youtu.be/ffHtlzthU3s), **the Demon List will never be accurate.** But the community's attitude towards it suggests that it is.
 
-The truth is, the demonlist shouldn't be thought so highly of. It should be considered *one* ranking of the hardest levels, not *the only* ranking of the hardest levels.
+The truth is, the Demon List shouldn't be thought so highly of. It should be considered *one* ranking of the hardest levels, not *the only* ranking of the hardest levels.
 
-However, this absolute mentality towards the demonlist is just the cause of the main problem with the demonlist: the mentality towards Geometry Dash extreme demons.
+However, this absolute mentality towards the Demon List is just the cause of the main problem with the Demon List: the mentality towards Geometry Dash extreme demons.
 
-Instead, the demonlist should be, well *a list!* It should be seen as a list of the hardest demons, not an accurate ranking of the hardest demons.
+Instead, the Demon List should be, well *a list!* It should be seen as a list of the hardest demons, not an accurate ranking of the hardest demons.
 
 Stormfly, in his critique, then goes on to argue that the GDDP (Geometry Dash Demon Progression) is a much better way to rate extreme demons. In the GDDP, levels are grouped by difficulty. There isn't a top 1 hardest level, but a top 1 group of the hardest levels.
 
 # Extreme Demon Mentality
 
-With the way the community sees the demonlist, one thing is clear: **the top 1 extreme demon isn't a level to be taken lightly.** Because of so, everyone wants to have their level in the top.
+With the way the community sees the Demon List, one thing is clear: **the top 1 extreme demon isn't a level to be taken lightly.** Because of so, everyone wants to have their level in the top.
 
 This has led to the monopolization of extreme demons.
 
@@ -106,7 +106,7 @@ So, it becomes obvious: **making a good level doesn't bring in money and fame. M
 
 The top extreme demons were made by players to astound the community—not always in regards to difficulty, but even in regards to decoration and gameplay.
 
-But as the community has begun viewing the Pointercrate demonlist to such a high standard, players began making extreme demons solely to top that. Extreme demons nowadays don't feature original ideas, concepts, and styles because they don't have to. They only need to be difficult.
+But as the community has begun viewing the Pointercrate Demon List to such a high standard, players began making extreme demons solely to top that. Extreme demons nowadays don't feature original ideas, concepts, and styles because they don't have to. They only need to be difficult.
 
 Seriously—how many upcoming *original* top extreme demons can you think of? Personally, I think of **Limbo.** And that's about it.
 
@@ -114,19 +114,19 @@ Seriously—how many upcoming *original* top extreme demons can you think of? Pe
 
 People don't care about good extreme demons anymore. They only care about its difficulty. They don't care about the level. They care about the difficulty.
 
-# How To Fix The Demonlist
+# How To Fix The Demon List
 
-Let me make sure this is clear: this is not the fault of the demonlist team. In fact, I for one think they do a fantastic job running the list. I also think the list has many positives, such as:
+Let me make sure this is clear: this is not the fault of the Demon List team. In fact, I for one think they do a fantastic job running the list. I also think the list has many positives, such as:
 
 1. Allowing for competition amongst the most skilled players
 2. Bringing attention to players who beat the hardest levels
 3. Giving the community hype [while we wait for 2.2](/posts/2-2-revolutionary/)
 
-That being said, there are still ways we as a community can fix how we view the demonlist.
+That being said, there are still ways we as a community can fix how we view the Demon List.
 
 * We need to recognize that it is a list, not a ranking. While the team puts a lot of effort into making it as accurate as possible, it being 100% accurate is not possible, especially once you approach the top 5.
 * We need to raise our extreme demon standards. We shouldn't give praise to the extreme demons that do the bare minimum to be top 1. Instead, we should promote creative, original, and unique top extreme demons, [such as Limbo](/posts/limbo-analysis/).
 
 ---
 
-In conclusion, I think the demonlist has done great things for the community. However, I also believe that it has led to one of the worst trends in this game: the monopolization of extreme demons. But if we change our mentality, we can fix things.
+In conclusion, I think the Demon List has done great things for the community. However, I also believe that it has led to one of the worst trends in this game: the monopolization of extreme demons. But if we change our mentality, we can fix things.

@@ -37,15 +37,15 @@ With that, is becomes clear that the community overestimated the difficulty of S
 
 After Slaughterhouse reclaimed the top 1 spot after defeating Sakupen Circles, Abyss of Darkness was verified. Like with Sakupen Circles before, it was placed at the number 1 spot.
 
-However, it appears that the demonlist team learned their lesson, as it took only one month to move it below Slaughterhouse.
+However, it appears that the Demon List team learned their lesson, as it took only one month to move it below Slaughterhouse.
 
 # Slaughterhouse Competition: Silent Clubstep
 
-With the demonlist team having failed to position both Sakupen Circles and Abyss of Darkness accurately, they took their time with Silent Clubstep. In fact, it took an entire month for it to get placed on the demonlist!
+With the Demon List team having failed to position both Sakupen Circles and Abyss of Darkness accurately, they took their time with Silent Clubstep. In fact, it took an entire month for it to get placed on the Demon List!
 
 Fans from all around the community wanted Silent Clubstep to be number 1. It has a lot of legacy and for that reason, people felt it deserved the top 1 spot. Even I would agree.
 
-But, after the demonlist team got enough reliable opinions, they placed Silent Clubstep at the number 4 spot, below Slaughterhouse.
+But, after the Demon List team got enough reliable opinions, they placed Silent Clubstep at the number 4 spot, below Slaughterhouse.
 
 That being said, [even they admitted to not being fully sure of its placement](https://twitter.com/demonlistgd/status/1557790623276576768).
 
