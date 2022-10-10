@@ -7,8 +7,8 @@ date: 2022-10-06T23:35:11.987Z
 tags:
   - demonlist
 author: moldymacaronix
-image: https://pbs.twimg.com/media/Er5PN3WWMAQxxO3?format=jpg&name=4096x4096
-imageSource: https://twitter.com/vipringd/status/1350604156080422912
+image: https://img.youtube.com/vi/n53AFMkHAe4/maxresdefault.jpg
+imageSource: https://youtu.be/n53AFMkHAe4
 ---
 Geometry Dash is a very difficult game, making it a good candidate for eSports. So, if there was a Geometry Dash eSports tournament, which country would win?
 
