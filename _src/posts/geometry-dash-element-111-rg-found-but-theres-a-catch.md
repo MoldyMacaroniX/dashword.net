@@ -15,11 +15,7 @@ T﻿he data that contains the actual level has been deleted, and all this discov
 
 T﻿hat being said, Restoration Union still calls this an [incredible discovery](https://twitter.com/Restoration_Uni/status/1578737984907935744):
 
-> We found an old save file with 111 RG (no object data however), confirming that the song is Time Machine and also giving us DarkX's userID.
->
-> Now we know 100% that DarkX used the name DarkM and made Theory Of Clutter as his only other known level.
->
-> Thanks to everyone involved!
+> We found an old save file with 111 RG (no object data however), confirming that the song is Time Machine and also giving us DarkX's userID. Now we know 100% that DarkX used the name DarkM and made Theory Of Clutter as his only other known level. Thanks to everyone involved!
 
 H﻿owever, they also say that there is still more information they are waiting on, and suggest that it could lead to the full discovery of Element 111 Rg. If they can find it, we might finally get to see what it looks like.
 
