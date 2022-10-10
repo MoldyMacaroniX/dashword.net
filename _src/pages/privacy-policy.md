@@ -4,6 +4,7 @@ permalink: /privacy-policy/
 image: false
 desc: The privacy policy for Dashword.net.
 hideAds: true
+hideSidebar: true
 ---
 
 <h1>Privacy Policy for Dashword.net</h1>

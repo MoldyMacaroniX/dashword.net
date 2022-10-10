@@ -308,6 +308,7 @@
 
             </div>
             <div id="sidebar" class="sidebar">
+                {% if not hideSidebar %}
                 <div id="sidebar-inner">
 
                     <h1 class="heading">Featured</h1>
@@ -319,6 +320,7 @@
                     {% include 'formats/display-vertical.njk'%}
 
                 </div>
+                {% endif %}
             </div>
         </div>
     </div>
