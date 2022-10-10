@@ -22,7 +22,7 @@ B﻿ut the thing is, one player cannot carry an entire country. So, which countr
 
 # T﻿he Top 10 Best Countries At Geometry Dash
 
-T﻿he top 3 best Geometry Dash countries are:
+T﻿he top 10 best Geometry Dash countries are:
 
 1. United States
 2. U﻿nited Kingdom
