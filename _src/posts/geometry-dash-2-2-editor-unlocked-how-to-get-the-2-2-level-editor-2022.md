@@ -16,9 +16,9 @@ But first, its important to note that this is not the official 2.2 update, [as w
 
 We've written an article on this before, so [check that out for more information](/posts/how-to-get-the-2-2-editor/). What you are reading now is an updated guide on how to install the 2.2 private server, GDPS Editor.
 
-* [Available Geometry Dash 2.2 Editor Features]()
-* [H﻿ow To Install The Geometry Dash 2.2 Editor]()
-* [G﻿eometry Dash 2.2 Resources]()
+* [Available Geometry Dash 2.2 Editor Features](<>)
+* [H﻿ow To Install The Geometry Dash 2.2 Editor](<>)
+* [G﻿eometry Dash 2.2 Resources](<>)
 
 # Available Geometry Dash 2.2 Editor Features
 
@@ -32,11 +32,36 @@ The latest version of GDPS Editor uses the latest version of 2.2, which is from 
 
 # How To Install The Geometry Dash 2.2 Editor
 
-B﻿ody
+The Geometry Dash 2.2 editor (GDPS Editor) is available on Android and PC.
+
+**Geometry Dash 2.2 Editor Android Installation**
+
+1. [Download the GDPS Editor APK](https://gdpseditor.com/os.html)
+2. Install and run it
+
+**Geometry Dash 2.2 Editor PC Installation**
+
+1. [Download the GDPS Editor APK](https://gdpseditor.com/os.html)
+2. [Download and install BlueStacks](https://www.bluestacks.com/bluestacks-5.html)
+3. Open the BlueStacks 5 multi instance manager. If it’s not on your desktop, try searching for it with the Windows search bar.
+4. Press **New Instance** to create a new instance
+5. Press **Fresh Instance**
+6. **Most important step:** make sure you change **Nougat 32** to **Nougat-64** and press **Next**
+7. Choose how many cores and RAM you want to use. Use higher values for higher end PCs and lower values for lower end PCs.
+8. Press **Download**
+9. Open your new instance once it's downloaded
+10. Drag and drop the GDPS Editor APK into the menu to install it
+11. Open GDPS Editor
+
+For more detailed PC installation instructions (with pictures) see [this guide to install GDPS Editor on PC](https://docs.google.com/document/d/1uBYwMdy4vJ3NrZDHQV2uPXfgVg76Ijo5TQrJR9SeEtU/edit?usp=sharing).
 
 # G﻿eometry Dash 2.2 Resources
 
-B﻿ody
+Here are some additional Geometry Dash 2.2 resources:
+
+* [Original Article](/posts/how-to-get-the-2-2-editor/)
+* [GDPS Editor Website](https://gdpseditor.com/os.html)
+* [GDPS Editor PC Installation Guide](https://docs.google.com/document/d/1uBYwMdy4vJ3NrZDHQV2uPXfgVg76Ijo5TQrJR9SeEtU/edit?usp=sharing)
 
 - - -
 
