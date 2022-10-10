@@ -3,7 +3,7 @@ title: Top 10 Best Countries At Geometry Dash
 desc: Geometry Dash is a very difficult game, making it a good candidate for
   eSports. So, if there was a Geometry Dash eSports tournament, which country
   would win?
-date: 2022-10-06T23:35:11.987Z
+date: 2022-10-10T08:06:38.872Z
 tags:
   - demonlist
 author: moldymacaronix
