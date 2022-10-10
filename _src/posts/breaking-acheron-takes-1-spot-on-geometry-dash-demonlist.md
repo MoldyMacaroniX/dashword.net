@@ -6,7 +6,7 @@ desc: Geometry Dash extreme demon Acheron moves from top 2 to top 1 spot on the
 date: 2022-10-08T04:06:44.169Z
 tags:
   - news
-  - Demonlist
+  - demonlist
 author: moldymacaronix
 image: https://i.ytimg.com/vi/8NiVG9VqPlQ/maxresdefault.jpg
 imageSource: https://youtu.be/8NiVG9VqPlQ
