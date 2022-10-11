@@ -1,5 +1,5 @@
 ---
-title: Geometry Dash Demon List Bans Thumbnails
+title: Geometry Dash Demon List Bans Level Thumbnails
 desc: The Geometry Dash Pointercrate Demon List has started banning irrelevant
   thumbnails from their website in response to verifiers using their video
   thumbnails to advertise on the website.
