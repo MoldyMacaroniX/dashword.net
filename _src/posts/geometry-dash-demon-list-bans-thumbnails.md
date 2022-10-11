@@ -19,3 +19,5 @@ For example, many verifiers were changing their video thumbnails in order to sha
 Now, the Pointercrate Demon List staff not only have the ability to remove a thumbnail, but they have the ability to change it to something more fitting.
 
 What do you think of this change? Do you think verifiers should be allowed to change their level's thumbnail on the Demon List, or is this a good change to prevent spam on Pointercrate?
+
+Whatever you think of this change, [does it change your overall opinion on the Demon List](/posts/geometry-dash-the-problem-with-the-demonlist/)?
