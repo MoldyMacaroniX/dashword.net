@@ -7,7 +7,8 @@ date: 2022-10-11T07:34:31.752Z
 tags:
   - demonlist
 author: moldymacaronix
-image: https://media.discordapp.net/attachments/392087938239954950/1029296918280536125/IMG_0396.webp
+image: https://pbs.twimg.com/media/FejvczdX0AMV2CX?format=png&name=900x900
+imageSource: https://twitter.com/piedrita4/status/1578775238611210241
 ---
 The Geometry Dash Pointercrate Demon List has started banning irrelevant thumbnails from their website in response to verifiers using their video thumbnails to advertise on the website.
 
