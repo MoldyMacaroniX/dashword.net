@@ -1,12 +1,15 @@
 ---
 title: "Geometry Dash 2.2 Private Server: Download & Install"
-desc: a
+desc: T﻿he Geometry Dash 2.2 private server is a mod that allows you to play
+  Geometry Dash on version 2.2. You can even upload levels and play levels made
+  by others, all on the private server.
 date: 2022-10-15T06:30:12.585Z
 tags:
-  - a
-author: a
-image: a
-imageSource: a
+  - guide
+  - "2.2"
+author: moldymacaronix
+image: https://external-preview.redd.it/NZMFL9nrkpGXC-y-krEbZjyF2uHHhqNFzN_ZUTn3By0.jpg?format=pjpg&auto=webp&s=86f106121dcdc47f82236819f105c2feb5469ffe
+imageSource: https://www.reddit.com/r/geometrydash/comments/n0indc/geometry_dash_22_private_server_platformer/
 ---
 T﻿he Geometry Dash 2.2 private server is a mod that allows you to play Geometry Dash on version 2.2. You can even upload levels and play levels made by others, all on the private server.
 
@@ -65,6 +68,6 @@ T﻿here are two different sets of instructions to install the Geometry Dash 2.2
 
 F﻿or more detailed PC installation instructions as well as how to install it using BlueStacks 5 instead, [see this guide](https://docs.google.com/document/d/1uBYwMdy4vJ3NrZDHQV2uPXfgVg76Ijo5TQrJR9SeEtU/edit).
 
--﻿--
+- - -
 
 A﻿nd there you have it, a complete guide to install the **Geometry Dash 2.2 private server!**
