@@ -41,3 +41,7 @@ The hardest levels ever made in Geometry Dash are:
 ---
 
 This is according to the [Pointercrate Demon List](/categories/demonlist/), the [most accurate listing of Geometry Dash's top extreme demons](/posts/geometry-dash-slaughterhouse-top-1/) and hardest levels ever made.
+
+For more Geometry Dash Demon List news about the hardest levels ever made, see our other top stories:
+
+[Top 10 Best Countries At Geometry Dash](/posts/top-10-best-countries-at-geometry-dash/) - [The Problem With The Geometry Dash Demon List](/posts/geometry-dash-the-problem-with-the-demonlist/) - [Acheron Places #2 On Geometry Dash Demon List](/posts/geometry-dash-acheron-places-top-2-on-demonlist/) - [Geometry Dash Top 5 Hardest Demon "Mayhem" Places Top 10 On Demon List](/posts/geometry-dash-mayhem-places-top-10-in-demonlist/)
