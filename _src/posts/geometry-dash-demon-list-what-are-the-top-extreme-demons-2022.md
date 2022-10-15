@@ -1,14 +1,19 @@
 ---
 title: "Geometry Dash Demon List: What Are The Top Extreme Demons? (2022)"
-desc: a
-date: 2022-10-15T21:36:40.270Z
+desc: The Geometry Dash Demon List is a list of the hardest levels and extreme
+  demons ever made in Geometry Dash. It is hosted on the Pointercrate website
+  and is considered to be the most accurate rating of the hardest Geometry Dash
+  levels.
+date: 2022-10-15T21:51:11.362Z
 tags:
   - demonlist
-author: a
-image: a
-imageSource: a
+author: moldymacaronix
+image: https://img.youtube.com/vi/0q4toyeYzxA/maxresdefault.jpg
+imageSource: https://youtu.be/0q4toyeYzxA
 ---
 The Geometry Dash Demon List is a list of the hardest levels and extreme demons ever made in Geometry Dash. It is hosted on the Pointercrate website and is considered to be the most accurate rating of the hardest Geometry Dash levels.
+
+It is managed by a team of skilled Geometry Dash players, and because of so, is considered unbiased.
 
 # Geometry Dash Demon List Top 1 Demon
 
