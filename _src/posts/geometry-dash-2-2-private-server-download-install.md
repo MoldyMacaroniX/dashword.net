@@ -6,6 +6,7 @@ desc: T﻿he Geometry Dash 2.2 private server is a mod that allows you to play
 date: 2022-10-15T07:19:06.229Z
 tags:
   - guide
+  - featured
   - "2.2"
 author: moldymacaronix
 image: https://external-preview.redd.it/NZMFL9nrkpGXC-y-krEbZjyF2uHHhqNFzN_ZUTn3By0.jpg?format=pjpg&auto=webp&s=86f106121dcdc47f82236819f105c2feb5469ffe
