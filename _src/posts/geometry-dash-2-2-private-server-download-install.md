@@ -25,11 +25,11 @@ N﻿ow with that, here's how to download and install the Geometry Dash 2.2 priva
 
 **Table of contents:**
 
-* [What Is The Geometry Dash 2.2 Private Server?](<>)
-* [How To Download The Geometry Dash 2.2 Private Server](<>)
-* [How To Install The Geometry Dash 2.2 Private Server](<>)
+* [What Is The Geometry Dash 2.2 Private Server?](#what-is-the-geometry-dash-2-2-private-server%3F)
+* [How To Download The Geometry Dash 2.2 Private Server](#how-to-download-the-geometry-dash-2-2-private-server)
+* [How To Install The Geometry Dash 2.2 Private Server](#how-to-install-the-geometry-dash-2-2-private-server)
 
-# W﻿hat Is The Geometry Dash 2.2 Private Server?
+# What Is The Geometry Dash 2.2 Private Server?
 
 T﻿he Geometry Dash 2.2 private server is a private server that allows access to beta 2.2. It is called "GDPS 2.2 Editor" and gives access to the following features:
 
@@ -43,23 +43,23 @@ N﻿ow, onto how to download and install the Geometry Dash 2.2 private server!
 
 # How To Download The Geometry Dash 2.2 Private Server
 
-H﻿ere is how to download the Geometry Dash 2.2 private server:
+Here is how to download the Geometry Dash 2.2 private server:
 
 1. G﻿o to the [GDPS 2.2 Editor official website](https://gdpseditor.com/os.html).
 2. Go to the [download page](https://gdpseditor.com/download/).
 3. D﻿ownload the APK.
 4. I﻿f you are on PC, also [download LDPlayer 4](https://en.ldplayer.net/). This step is optional if you are on an Android device.
 
-# H﻿ow To Install The Geometry Dash 2.2 Private Server
+# How To Install The Geometry Dash 2.2 Private Server
 
 T﻿here are two different sets of instructions to install the Geometry Dash 2.2 private server. Follow the first set if on Android, and the second set if on PC.
 
 **H﻿ere is how to install the Geometry Dash 2.2 private server on Android:**
 
-1. [D﻿ownload the GDPS 2.2 Editor APK](<>).
+1. [D﻿ownload the GDPS 2.2 Editor APK](#how-to-download-the-geometry-dash-2-2-private-server).
 2. R﻿un the APK like any other app.
 
-**H﻿ere is how to install the Geometry Dash 2.2 private server on PC:**
+**Here is how to install the Geometry Dash 2.2 private server on PC:**
 
 1. I﻿nstall LDPlayer 4. If it asks to install other software, press **Reject**.
 2. O﻿nce installed, open LDPlayer 4.
