@@ -13,13 +13,13 @@ imageSource: https://youtu.be/8NiVG9VqPlQ
 ---
 Geometry Dash extreme demon Acheron was placed at the #2 spot on the Pointercrate Demon List when it was first placed 11 days ago. But now, it has been moved to the top 1 spot, making it the hardest level ever made in Geometry Dash
 
-This change has finally dethroned Slaughterhouse, a Geometry Dash level [notorious for never being dethroned](/posts/geometry-dash-slaughterhouse-top-1/). But will things stay this way?[](/posts/geometry-dash-slaughterhouse-top-1/)
+This change has finally dethroned Slaughterhouse, a Geometry Dash level [notorious for never being dethroned](/posts/geometry-dash-slaughterhouse-top-1/). But will things stay this way?
 
 Slaughterhouse is known for making unprecedented comebacks. Will the same happen this time? Is it only a matter of time before Slaughterhouse regains the top 1 spot?
 
 # D﻿emonlist Controversy Update
 
-T﻿he [Demon List controversy](</posts/geometry-dash-the-problem-with-the-Demon List/>) has died down, which may or may not have affected the Demon List team's decision to make Acheron to the top. However, as is [clearly evident](</geometry-dash-acheron-places-top-2-on-Demon List/>), this is a change that majority of the Geometry Dash community will approve of.
+T﻿he [Demon List controversy](</posts/geometry-dash-the-problem-with-the-Demon List/>) has died down, which may or may not have affected the Demon List team's decision to move Acheron to the top. However, as is [clearly evident](</geometry-dash-acheron-places-top-2-on-Demon List/>), this is a change that majority of the Geometry Dash community will approve of.
 
 B﻿ut we are also left wondering [whether Mayhem can get the same treatment as Acheron](</posts/geometry-dash-mayhem-places-top-10-in-Demon List/>). It is another supposedly top 5 hardest level that got placed at the #10 spot. Like when Acheron was underrated, it sparked some Geometry Dash community backlash.
 
