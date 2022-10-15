@@ -5,6 +5,7 @@ desc: Geometry Dash main levels like Deadlocked and Theory of Everything 2 are
 date: 2022-10-15T18:19:41.056Z
 tags:
   - demonlist
+  - featured
 author: moldymacaronix
 image: https://media.discordapp.net/attachments/392087938239954950/1030912772151726170/image0.jpg
 imageSource: https://youtu.be/ddRR7NA6kKE
