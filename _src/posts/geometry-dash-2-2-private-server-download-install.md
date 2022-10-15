@@ -20,7 +20,7 @@ B﻿ut first, some things to note:
 
 * [This is not the official 2.2 update](/posts/how-to-get-the-2-2-editor/).
 * T﻿his 2.2 private server is based on the most up-to-date beta version of 2.2 available to the community.
-  T﻿he private server is only available on Android and PC, not mobile iOS devices.
+* T﻿he private server is only available on Android and PC, not mobile iOS devices.
 
 N﻿ow with that, here's how to download and install the Geometry Dash 2.2 private server.
 
