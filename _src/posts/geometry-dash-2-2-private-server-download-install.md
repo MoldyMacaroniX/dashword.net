@@ -1,5 +1,5 @@
 ---
-title: "Geometry Dash 2.2 Private Server: How To Download & Install"
+title: "Geometry Dash 2.2 Private Server: How To Download & Install (2022)"
 desc: T﻿he Geometry Dash 2.2 private server is a mod that allows you to play
   Geometry Dash on version 2.2. You can even upload levels and play levels made
   by others, all on the private server.
