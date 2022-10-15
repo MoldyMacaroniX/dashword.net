@@ -25,9 +25,9 @@ N﻿ow with that, here's how to download and install the Geometry Dash 2.2 priva
 
 **Table of contents:**
 
-* [What Is The Geometry Dash 2.2 Private Server?](#what-is-the-geometry-dash-2-2-private-server%3F)
-* [How To Download The Geometry Dash 2.2 Private Server](#how-to-download-the-geometry-dash-2-2-private-server)
-* [How To Install The Geometry Dash 2.2 Private Server](#how-to-install-the-geometry-dash-2-2-private-server)
+* [What Is The Geometry Dash 2.2 Private Server?](#what-is-the-geometry-dash-2.2-private-server%3F)
+* [How To Download The Geometry Dash 2.2 Private Server](#how-to-download-the-geometry-dash-2.2-private-server)
+* [How To Install The Geometry Dash 2.2 Private Server](#how-to-install-the-geometry-dash-2.2-private-server)
 
 # What Is The Geometry Dash 2.2 Private Server?
 
@@ -56,7 +56,7 @@ T﻿here are two different sets of instructions to install the Geometry Dash 2.2
 
 **H﻿ere is how to install the Geometry Dash 2.2 private server on Android:**
 
-1. [D﻿ownload the GDPS 2.2 Editor APK](#how-to-download-the-geometry-dash-2-2-private-server).
+1. [D﻿ownload the GDPS 2.2 Editor APK](#how-to-download-the-geometry-dash-2.2-private-server).
 2. R﻿un the APK like any other app.
 
 **Here is how to install the Geometry Dash 2.2 private server on PC:**
