@@ -1,21 +1,23 @@
 ---
 title: Popular Geometry Dash Player Stormfly is Accused Of Harassing New Creators
-desc: a
-date: 2022-10-15T02:43:10.745Z
+desc: Popular Geometry Dash player Stormfly has been the center of a Twitter
+  boycott against his recent controversial behavior towards new creators.
+date: 2022-10-15T03:16:58.521Z
 tags:
   - news
 author: moldymacaronix
-image: a
+image: https://img.youtube.com/vi/R2XxYX53IbQ/maxresdefault.jpg
+imageSource: https://youtu.be/R2XxYX53IbQ
 ---
 Popular Geometry Dash player Stormfly has been the center of a Twitter boycott against his recent controversial behavior towards new creators.
 
-After becoming a well respected community member for his [stunning documentaries](), after posting 3 controversial videos in a row, he has almost destroyed his once-stunning reputation.
+After becoming a well respected community member for his stunning documentaries, after posting 3 controversial videos in a row, he has almost destroyed his once-stunning reputation.
 
 G﻿eometry Dash players are claiming that in his controversial videos, he is harassing new creators and penalizing them for their past mistakes.
 
 # ﻿How Stormfly Destroyed His Reputation
 
-It all started when Stormfly posted a video outlining what he believed to be the best and worst Geometry Dash extreme demons. The video received a little negative backlash because of how Stormfly expressed his opinions but nothing totally damaging to his reputation.
+It started when Stormfly posted a video outlining what he believed to be the best and worst Geometry Dash extreme demons. The video received a little negative backlash because of how Stormfly expressed his opinions but nothing totally damaging to his reputation.
 
 Twos months later, Stormfly started the first of three controversial videos in a row. To start, he criticized the Geometry Dash community's approach to reviewing levels. Once again, while a little harsh, this wasn't received that badly.
 
@@ -61,4 +63,4 @@ However, the other side is true as well. Should the Geometry Dash community be a
 
 ---
 
-a﻿
+Whether or not you believe in what Stormfly is saying or how he is presenting his arguments, it is clear that he has been damaging his reputation with his recent videos. So the only question left is whether or not he is going to continue uploading his controversial videos or go back to making his documentaries and Super Expert videos.
