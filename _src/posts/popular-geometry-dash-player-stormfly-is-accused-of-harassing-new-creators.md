@@ -19,9 +19,9 @@ G﻿eometry Dash players are claiming that in his controversial videos, he is ha
 
 It started when Stormfly posted a video outlining what he believed to be the best and worst Geometry Dash extreme demons. The video received a little negative backlash because of how Stormfly expressed his opinions but nothing totally damaging to his reputation.
 
-Twos months later, Stormfly started the first of three controversial videos in a row. To start, he criticized the Geometry Dash community's approach to reviewing levels. Once again, while a little harsh, this wasn't received that badly.
+Two months later, Stormfly started the first of three controversial videos in a row. To start, he criticized the Geometry Dash community's approach to reviewing levels. Once again, while a little harsh, this wasn't received that badly.
 
-But then, he released his Demon List critique. He uploaded a video criticizing the Demon List, and this caused the Geometry Dash Twitter community go ablaze.
+But then, he released his Demon List critique. He uploaded a video criticizing the Demon List, and this caused the Geometry Dash Twitter community to go ablaze.
 
 This started the Geometry Dash Demon List controversy, a controversy where many Geometry Dash figures publicly criticized the Pointercrate Demon List.
 
