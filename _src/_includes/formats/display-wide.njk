@@ -1,9 +1,24 @@
 {% if metadata.isAds and not hideAds %}
 <div class="container">
-<div style="display: flex; justify-content: center; align-items: center; overflow: auto;">
-<div style="width: fit-content;">
-     
-{# <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7684383246101791"
+<div style="display: flex; justify-content: center; align-items: center;">
+<div style="width: 100%; height: 100px !important;">
+
+<style>
+.fixed-mobile {
+     display: none;
+}
+@media only screen and (max-width: 800px) {
+     .fixed-mobile {
+          display: block;
+     }
+     .fixed-pc {
+          display: none;
+     }
+}
+</style>
+
+<div class="fixed-pc">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7684383246101791"
      crossorigin="anonymous"></script>
 <!-- Fixed Wide -->
 <ins class="adsbygoogle"
@@ -12,18 +27,21 @@
      data-ad-slot="2921111269"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script> #}
+</script>
+</div>
+
+<div class="fixed-mobile">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7684383246101791"
      crossorigin="anonymous"></script>
-<!-- Fixed Wide -->
+<!-- Mobile Fixed -->
 <ins class="adsbygoogle"
-     style="display:block"
+     style="display:inline-block;width:300px;height:100px"
      data-ad-client="ca-pub-7684383246101791"
-     data-ad-slot="2921111269"
-     data-ad-format="auto"></ins>
+     data-ad-slot="7366785984"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</div>
 
 </div>
 </div>
