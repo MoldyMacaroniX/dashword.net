@@ -4,8 +4,9 @@ desc: The Geometry Dash 2.2 editor has become available after modders restored
   it from Geometry Dash Lite, Meltdown, SubZero, and World.
 date: 2022-10-10T08:25:07.375Z
 tags:
-  - "2.2"
+  - guide
   - featured
+  - "2.2"
 author: moldymacaronix
 image: https://images-ext-1.discordapp.net/external/YF77FjX2P3bFh0kD1wkWupifrtMCDINjuxgVqVp23RI/https/androidprog.com/wp-content/uploads/2021/09/gdpseditor-1.webp
 imageSource: https://androidprog.com/en/gdps-editor/
