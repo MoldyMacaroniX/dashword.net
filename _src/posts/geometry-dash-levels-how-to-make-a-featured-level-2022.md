@@ -78,3 +78,9 @@ Which approach you take depends on which mod you are dealing with. For example, 
 For more information, we recommend checking out the official [Geometry Dash Discord server](https://discord.gg/geometrydash).
 
 # Getting Your Level Featured
+
+All in all, if you make your level feature worthy, upload your level properly, and request your level to Geometry Dash mods, the chances of your level getting featured greatly increase!
+
+-﻿--
+
+I﻿f you have any question on how to get your Geometry Dash level featured, we recommend asking the [Geometry Dash Discord server](https://discord.gg/geometrydash).
