@@ -41,12 +41,40 @@ Here are some featured levels to inspire you:
 
 ![Featured Level #1](https://i.ytimg.com/vi/wFN22hHlrts/maxresdefault.jpg)
 
-*﻿Utopian Delusions by Nahuel2998*
+﻿*Utopian Delusions by Nahuel2998*
 
-!﻿[Featured Level #2](https://img.youtube.com/vi/qMvoYgUAGCQ/maxresdefault.jpg)
+![Featured Level #2](https://img.youtube.com/vi/qMvoYgUAGCQ/maxresdefault.jpg)
+
+*Unruffled by EpicMasta11*
+
+![Featured Level #3](https://img.youtube.com/vi/Tpc0d7Te1QU/maxresdefault.jpg)
+
+*Astral Divinity by Knobbelboy*
+
+![Featured Level #4](https://img.youtube.com/vi/K1r2HucZ-Ww/maxresdefault.jpg)
+
+*Astral Drifter by 123Ev4n*
 
 # Uploading Your Level
 
+After uploading your level, we recommend doing the following to help it get rated:
+
+* Make friends. That way they can play, like, and support you and your level.
+* Showcase your level on sites like YouTube and Discord.
+* Request your level in level request livestreams.
+
+Doing the above will help get your level extra likes, which will increase the chance that RobTop sees it.
+
 # Sending Your Level To Mods
+
+In order to get your Geometry Dash level featured, it has to be sent to mods. Mods have the power to send your level to RobTop for it to get featured. There are many ways to send your level to them, including:
+
+* Sending your level in mod level request livestreams
+* Joining mod Discord servers where you can request they play your level
+* Message mods directly
+
+Which approach you take depends on which mod you are dealing with. For example, some mods take level requests in their private messages but others only take levels requests during level request livestreams.
+
+For more information, we recommend checking out the official [Geometry Dash Discord server](https://discord.gg/geometrydash).
 
 # Getting Your Level Featured
