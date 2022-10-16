@@ -6,6 +6,7 @@ desc: Making a featured level in Geometry Dash may seem like an impossible task
 date: 2022-10-16T05:55:48.372Z
 tags:
   - guide
+  - featured
 author: moldymacaronix
 image: https://i.ytimg.com/vi/wFN22hHlrts/maxresdefault.jpg
 imageSource: https://youtu.be/wFN22hHlrts
@@ -81,6 +82,6 @@ For more information, we recommend checking out the official [Geometry Dash Disc
 
 All in all, if you make your level feature worthy, upload your level properly, and request your level to Geometry Dash mods, the chances of your level getting featured greatly increase!
 
--﻿--
+- - -
 
 I﻿f you have any question on how to get your Geometry Dash level featured, we recommend asking the [Geometry Dash Discord server](https://discord.gg/geometrydash).
