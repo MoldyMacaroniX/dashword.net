@@ -19,7 +19,7 @@ Slaughterhouse is known for making unprecedented comebacks. Will the same happen
 
 # Demonlist Controversy Update
 
-The [Demon List controversy](/posts/geometry-dash-the-problem-with-the-demonlist/) has died down, which may or may not have affected the Demon List team's decision to move Acheron to the top. However, as is [clearly evident](</geometry-dash-acheron-places-top-2-on-demonlist/>), this is a change that majority of the Geometry Dash community will approve of.
+The [Demon List controversy](/posts/geometry-dash-the-problem-with-the-demonlist/) has died down, which may or may not have affected the Demon List team's decision to move Acheron to the top. However, as is [clearly evident](</posts/geometry-dash-acheron-places-top-2-on-demonlist/>), this is a change that majority of the Geometry Dash community will approve of.
 
 But we are also left wondering [whether Mayhem can get the same treatment as Acheron](/posts/geometry-dash-mayhem-places-top-10-in-demonlist/). It is another supposedly top 5 hardest level that got placed at the #10 spot. Like when Acheron was underrated, it sparked some Geometry Dash community backlash.
 
