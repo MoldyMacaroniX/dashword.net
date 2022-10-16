@@ -18,7 +18,7 @@ A﻿ featured level is a level selected by the Geometry Dash developer RobTop Ga
 
 B﻿ut, how do you make a featured level in Geometry Dash?
 
-*﻿*Table of contents:**
+**Table of contents:**
 
 * [Making Your Level](#making-your-level)
 * [Uploading Your Level](#uploading-your-level)
