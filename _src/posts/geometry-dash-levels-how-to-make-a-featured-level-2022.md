@@ -7,8 +7,8 @@ date: 2022-10-16T05:55:48.372Z
 tags:
   - guide
 author: moldymacaronix
-image: https://i.ytimg.com/vi/OpMUMQx_HbQ/maxresdefault.jpg
-imageSource: https://youtu.be/OpMUMQx_HbQ
+image: https://i.ytimg.com/vi/wFN22hHlrts/maxresdefault.jpg
+imageSource: https://youtu.be/wFN22hHlrts
 ---
 Making a featured level in Geometry Dash may seem like an impossible task at first, but getting your level featured is possible. We hope to help you get your level featured with these tips.
 
