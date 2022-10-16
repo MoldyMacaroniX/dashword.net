@@ -84,4 +84,8 @@ All in all, if you make your level feature worthy, upload your level properly, a
 
 - - -
 
-I﻿f you have any question on how to get your Geometry Dash level featured, we recommend asking the [Geometry Dash Discord server](https://discord.gg/geometrydash).
+If you have any question on how to get your Geometry Dash level featured, we recommend asking the [Geometry Dash Discord server](https://discord.gg/geometrydash).
+
+Here are some other related guides on how to get a featured level in Geometry Dash:
+
+[How To Make A Featured Level In Geometry Dash](/posts/featured-level-guide/) - [﻿How The Magic Tab Works In Geometry Dash](/posts/magic-tab-mystery/) - [Getting Experience](/posts/getting-experience/) - [Building For Fun](/posts/building-for-fun/)
