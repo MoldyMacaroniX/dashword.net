@@ -696,6 +696,13 @@ h1.heading {
     margin: auto;
 }
 
+.article pre {
+    overflow: auto;
+    background-color: var(--bg-dim);
+    padding: 15px;
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
 
 .article p, .article li, .article li p:first-child, .article blockquote p:first-child, .article.article-ta p:first-child {
     font-size: 1.1rem;
