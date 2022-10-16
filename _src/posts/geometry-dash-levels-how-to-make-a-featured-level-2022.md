@@ -16,7 +16,7 @@ But first, what is a featured level in Geometry Dash?
 
 A﻿ featured level is a level selected by the Geometry Dash developer RobTop Games to be placed on the in-game featured page. The creator of the level will then receive thousands of likes on the level and at least 2 creator points.
 
-B﻿ut, how do you make a featured level in Geometry Dash?
+But, how do you make a featured level in Geometry Dash?
 
 **Table of contents:**
 
@@ -26,6 +26,16 @@ B﻿ut, how do you make a featured level in Geometry Dash?
 * [Getting Your Level Featured](#getting-your-level-featured)
 
 # Making Your Level
+
+To get your Geometry Dash level featured, make sure it has the following:
+
+* A﻿ good beginning. While every part should be good, first impressions matter!
+* ﻿Good looking design.
+* Fun gameplay.
+* Easy, normal, or Hard difficulty. Harder, Insane, and Demon difficulty is too hard for your first featured level!
+* Long or XL length.
+
+Make sure your level is feature worthy before uploading it by following the criteria above.
 
 # Uploading Your Level
 
