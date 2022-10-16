@@ -16,9 +16,21 @@ The following outlines the writing style we use on Dashword and a template you s
 
 
 
+## Keep paragraphs short, roughly 1-4 sentences long.
+
+**Do:**
+
+After becoming a well respected community member for his stunning documentaries, after posting 3 controversial videos in a row, he has almost destroyed his once-stunning reputation.
+
+Geometry Dash players are claiming that in his controversial videos, he is harassing new creators and penalizing them for their past mistakes.
+
+**Don't:**
+
+After becoming a well respected community member for his stunning documentaries, after posting 3 controversial videos in a row, he has almost destroyed his once-stunning reputation. Geometry Dash players are claiming that in his controversial videos, he is harassing new creators and penalizing them for their past mistakes.
+
+
+
 ## Use straight quotes, not curly quotes.
-
-
 
 **Do:**
 
