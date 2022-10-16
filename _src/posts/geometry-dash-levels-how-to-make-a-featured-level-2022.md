@@ -3,7 +3,7 @@ title: "Geometry Dash Levels: How To Make A Featured Level (2022)"
 desc: Making a featured level in Geometry Dash may seem like an impossible task
   at first, but getting your level featured is totally possible. We hope to help
   you get your level featured with these tips.
-date: 2022-10-16T05:55:48.372Z
+date: 2022-10-16T06:37:29.195Z
 tags:
   - guide
   - featured
