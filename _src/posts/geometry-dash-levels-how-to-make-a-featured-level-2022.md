@@ -37,6 +37,14 @@ To get your Geometry Dash level featured, make sure it has the following:
 
 Make sure your level is feature worthy before uploading it by following the criteria above.
 
+Here are some featured levels to inspire you:
+
+![Featured Level #1](https://i.ytimg.com/vi/wFN22hHlrts/maxresdefault.jpg)
+
+*﻿Utopian Delusions by Nahuel2998*
+
+!﻿[Featured Level #2](https://img.youtube.com/vi/qMvoYgUAGCQ/maxresdefault.jpg)
+
 # Uploading Your Level
 
 # Sending Your Level To Mods
