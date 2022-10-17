@@ -12,7 +12,7 @@ imageSource: https://discord.com/invite/geometrydash
 ---
 The Geometry Dash Discord server is home of the Geometry Dash community and the developer RobTop Games. RobTop occasionally leaks Geometry Dash 2.2 news there.
 
-This is where you want to be if you ever want to see RobTop live and chatting. It is also the game's main area for support with account issues and other questions.
+This is where you want to be [if you ever want to see RobTop live and chatting](/posts/2-2-release-date-confirmed/). It is also the game's main area for support with [account issues](/posts/backup-gd-data-steam/) and other questions.
 
 # How To Join The Geometry Dash Discord Server
 
