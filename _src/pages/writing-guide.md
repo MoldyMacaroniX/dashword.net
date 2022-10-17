@@ -78,7 +78,7 @@ Make a level, verify it and upload it.
 
 
 
-# Use lists when listing items.
+## Use lists when listing items.
 
 **Do:**
 
