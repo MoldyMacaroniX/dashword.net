@@ -11,9 +11,9 @@ author: moldymacaronix
 image: https://i.ytimg.com/vi/g4r6BTdU2M0/maxresdefault.jpg
 imageSource: https://game-solver.com/geometry-dash/testing-update-2-2-platformer-mode/
 ---
-Geometry Dash developer RobTop said the 2.2 platformer mode will "start to really shine" in updates 2.3 and 2.4. However, he still plans to have it available in 2.2.
+Geometry Dash developer RobTop Games said the 2.2 platformer mode will "start to really shine" in updates 2.3 and 2.4. However, he still plans to have it available in 2.2.
 
-Specifically, RobTop said this about the Geometry Dash 2.2 platformer mode:
+Specifically, RobTop said this about the [Geometry Dash 2.2 platformer mode](/posts/the-map-linear-gd/):
 
 >﻿ I think platformer mode will start to really shine in 2.3/2.4
 
@@ -28,3 +28,9 @@ R﻿obTop insists that the Geometry Dash 2.2 platformer mode needs sound effects
 ---
 
 What do you think? Does Geometry Dash 2.2 platformer mode really need sound effects? If so, is 2.3 a reasonable update for it?
+
+RobTop said all of this in the Geometry Dash Discord server, [like he does with other Geometry Dash 2.2 news](/posts/2-2-release-date-confirmed/).
+
+Here is some other Geometry Dash 2.2 news RobTop leaked:
+
+[﻿RobTop Confirms Geometry Dash 2.2 Release Date](/posts/2-2-release-date-confirmed/) - [Geometry Dash 2.2 News: New Pixel Art Blocks Leaked](/posts/geometry-dash-2-2-news-new-pixel-art-blocks-leaked/) - [3 New Geometry Dash 2.2 Gauntlets Confirmed: World, Galaxy, & Universe Gauntlets](/posts/geometry-dash-2-2-world-galaxy-universe-gauntlets/) - [New Geometry Dash 2.2 Sneak Peek: "Explorers" Analysis](/posts/geometry-dash-new-sneak-peek-analysis/) - [RobTop Previewed New Geometry Dash 2.2 Keyframe System](/posts/robtop-previewed-geometry-dash-2-2-keyframe-system/)
