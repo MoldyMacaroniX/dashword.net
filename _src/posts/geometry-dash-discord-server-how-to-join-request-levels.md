@@ -5,6 +5,6 @@ date: 2022-10-17T18:09:05.843Z
 tags:
   - guide
 author: moldymacaronix
-image: g
+image: https://media.discordapp.net/attachments/398631575908253697/852960785705336872/image0.jpg
 ---
 g﻿
