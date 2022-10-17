@@ -1,7 +1,9 @@
 ---
 title: "Geometry Dash Discord Server: How To Join & Request Levels"
-desc: a
-date: 2022-10-17T18:09:05.843Z
+desc: The Geometry Dash Discord server is home of the Geometry Dash community
+  and the developer RobTop Games. RobTop occasionally leaks Geometry Dash 2.2
+  news there.
+date: 2022-10-17T18:36:34.376Z
 tags:
   - guide
 author: moldymacaronix
@@ -31,4 +33,12 @@ Here is how to request your Geometry Dash levels:
 2. Follow the #lvl-req-streams channel and set it to send announcements to your newly created Discord server.
 3. Turn notifications on for your newly created Discord server if they are not already on.
 4. W﻿hen you get a notification from #lvl-req-streams in your newly created Discord server, use the link sent to join the level request stream.
-5. F﻿ollow the instructions the streamer gives to request your level.
+5. Follow the instructions the streamer gives to request your level.
+
+- - -
+
+And there you have it, a complete guide to joining and utilizing the Geometry Dash Discord server, which is where RobTop can be seen!
+
+RobTop commonly shares Geometry Dash 2.2 news in the Geometry Dash Discord server, such as the following:
+
+[Geometry Dash 2.2 Release Date: When Is 2.2 Coming Out?](/posts/geometry-dash-2-2-release-date/) - [﻿RobTop Says Geometry Dash 2.2 Platformer Mode "Will Start To Really Shine" In 2.3](/posts/robtop-says-geometry-dash-2-2-platformer-mode-will-start-to-really-shine-in-2-3/) - [Geometry Dash 2.2 News: New Pixel Art Blocks Leaked](/posts/geometry-dash-2-2-news-new-pixel-art-blocks-leaked/) - [The Hall Of Fame Will Be Removed In Geometry Dash 2.2](/posts/hall-of-fame-will-be-removed/)
