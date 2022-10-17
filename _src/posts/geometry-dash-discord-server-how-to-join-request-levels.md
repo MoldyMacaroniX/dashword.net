@@ -6,5 +6,6 @@ tags:
   - guide
 author: moldymacaronix
 image: https://media.discordapp.net/attachments/398631575908253697/852960785705336872/image0.jpg
+imageSource: https://discord.com/invite/geometrydash
 ---
 g﻿
