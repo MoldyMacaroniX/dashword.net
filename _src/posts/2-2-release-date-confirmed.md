@@ -9,7 +9,7 @@ tags:
 author: moldymacaronix
 ---
 
-After over 5 years of waiting, RobTop confirmed a release time for Geometry Dash 2.2. RobTop comfirmed in the [Geometry Dash Discord server](https://discord.gg/geometrydash) that 2.2 is planned to release this year, although not giving a specific day. This means the update should release sometime between February to December.
+After over 5 years of waiting, RobTop confirmed a release time for Geometry Dash 2.2. RobTop confirmed in the [Geometry Dash Discord server](https://discord.gg/geometrydash) that 2.2 is planned to release this year, although not giving a specific day. This means the update should release sometime between February to December.
 
 ![RobTop confirms that the plan is for 2.2 to release this year](https://media.discordapp.net/attachments/392087938239954950/942907008754004048/unknown.png)
 

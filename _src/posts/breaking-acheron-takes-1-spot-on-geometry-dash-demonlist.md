@@ -17,12 +17,12 @@ This change has finally dethroned Slaughterhouse, a Geometry Dash level [notorio
 
 Slaughterhouse is known for making unprecedented comebacks. Will the same happen this time? Is it only a matter of time before Slaughterhouse regains the top 1 spot?
 
-# D﻿emonlist Controversy Update
+# Demonlist Controversy Update
 
-T﻿he [Demon List controversy](</posts/geometry-dash-the-problem-with-the-Demon List/>) has died down, which may or may not have affected the Demon List team's decision to move Acheron to the top. However, as is [clearly evident](</geometry-dash-acheron-places-top-2-on-Demon List/>), this is a change that majority of the Geometry Dash community will approve of.
+The [Demon List controversy](/posts/geometry-dash-the-problem-with-the-demonlist/) has died down, which may or may not have affected the Demon List team's decision to move Acheron to the top. However, as is [clearly evident](</posts/geometry-dash-acheron-places-top-2-on-demonlist/>), this is a change that majority of the Geometry Dash community will approve of.
 
-B﻿ut we are also left wondering [whether Mayhem can get the same treatment as Acheron](</posts/geometry-dash-mayhem-places-top-10-in-Demon List/>). It is another supposedly top 5 hardest level that got placed at the #10 spot. Like when Acheron was underrated, it sparked some Geometry Dash community backlash.
+But we are also left wondering [whether Mayhem can get the same treatment as Acheron](/posts/geometry-dash-mayhem-places-top-10-in-demonlist/). It is another supposedly top 5 hardest level that got placed at the #10 spot. Like when Acheron was underrated, it sparked some Geometry Dash community backlash.
 
-- - -
+---
 
-S﻿o who knows? Maybe this change is here to stay. Or maybe in due time, Slaughterhouse will take the lead once again.
+So who knows? Maybe this change is here to stay. Or maybe in due time, Slaughterhouse will take the lead once again.
