@@ -20,7 +20,6 @@ eleventyExcludeFromCollections: true
   {# {% set myAuthor = authors | getAuthor(post.data.author) %} #}
   <entry>
     <title>{{ post.data.title }}</title>
-    <description>{{ post.data.desc }}</description>
     <link href="{{ absolutePostUrl }}"/>
     {# <author>{{ myAuthor.name }}</author> #}
     <updated>{{ post.date | dateToRfc3339 }}</updated>
