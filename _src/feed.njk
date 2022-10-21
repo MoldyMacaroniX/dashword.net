@@ -17,11 +17,11 @@ eleventyExcludeFromCollections: true
   </author>
   {%- for post in collections.posts | reverse %}
   {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
-  {% set myAuthor = authors | getAuthor(post.data.author) %}
+  {# {% set myAuthor = authors | getAuthor(post.data.author) %} #}
   <entry>
     <title>{{ post.data.title }}</title>
     <link href="{{ absolutePostUrl }}"/>
-    <author>{{ myAuthor.name }}</author>
+    {# <author>{{ myAuthor.name }}</author> #}
     <updated>{{ post.date | dateToRfc3339 }}</updated>
     <id>{{ absolutePostUrl }}</id>
     <content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
