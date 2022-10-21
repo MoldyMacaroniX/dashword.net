@@ -4,5 +4,16 @@
     "urlWithoutTrailingSlash":"https://dashword.net",
     "desc":"Dashword publishes Geometry Dash news, guides, reviews, opinions, lists, and all kinds of stories. All for free.",
     "image":"/assets/img/main.jpg",
-    "isAds":true
+    "isAds":true,
+    "feed": {
+		"subtitle": "Dashword publishes Geometry Dash news, guides, reviews, opinions, lists, and all kinds of stories. All for free.",
+		"filename": "feed.xml",
+		"path": "/feed/feed.xml",
+		"url": "https://dashword.net/feed/feed.xml",
+		"id": "https://dashword.net/"
+	},
+    "author": {
+        "name":"Dashword.net",
+        "email":"support@dashword.net"
+    }
 }

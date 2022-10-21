@@ -2,6 +2,7 @@ const { DateTime } = require("luxon");
 const lodashChunk = require('lodash.chunk');
 const lodash = require("./lodash");
 const cheerio = require("cheerio");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 function getAllKeyValues(collectionArray, key) {
     // get all values from collection
@@ -26,6 +27,10 @@ module.exports = (config) => {
 
     // === AMOUNT OF POSTS PER PAGE === //
     const postsPerPaginatedPage = 10;
+
+    // Plugins
+
+    config.addPlugin(pluginRss);
 
     // ***
     // Put this code in the module.exports function for `.eleventy.js`

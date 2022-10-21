@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.0"
+    "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy-plugin-rss": "^1.2.0"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
