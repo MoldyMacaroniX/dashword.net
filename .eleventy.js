@@ -84,6 +84,10 @@ module.exports = (config) => {
         return collection.getFilteredByGlob("_src/posts/*.md").reverse();
     });
 
+    config.addCollection("podcasts", function(collection) {
+        return collection.getFilteredByGlob("_src/podcast/*.md").reverse();
+    });
+
     config.addFilter("readableDate", dateObj => {
         return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("LLLL d, yyyy");
     });

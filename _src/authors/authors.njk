@@ -13,15 +13,37 @@ layout: base.njk
 
 <h1 class="heading">Authors</h1>
 
+{% set allSlugs = [] %}
+{% for a in collections.pagedAuthorPosts %}
+{% set allSlugs = (allSlugs.push(a.slug), allSlugs) %}
+{% endfor %}
+
 <div class="author-previews grid-2">
 {% for author in authors %} {# | sort(attribute='name') #}
+
+{% set hasArticles = false %}
+{% for b in allSlugs %}
+  {% if author.key === b and not hasArticles %}
+  {% set hasArticles = true %}
+  {% endif %}
+{% endfor %}
+
+{% if hasArticles %}
 <a href="/authors/{{ author.key }}/" class="author-preview">
+{% else %}
+<span class="author-preview author-no-posts">
+{% endif %}
 <div class="author-preview-photo"><img src="{{ author.photo | url }}" alt="{{ author.name }}'s Profile Photo"></div>
 <div class="author-preview-name">
     {{ author.name }}
     {% if author.verified %}<span class="badge ri-checkbox-circle-fill" data-tooltip="Verified" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></span>{% endif %}
+    {% if not hasArticles %}<span class="author-no-posts-tag">(no articles)</span>{% endif %}
 </div>
+{% if hasArticles %}
 </a>
+{% else %}
+</span>
+{% endif %}
 {% endfor %}
 </div>
 

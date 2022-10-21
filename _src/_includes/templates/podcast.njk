@@ -1,0 +1,56 @@
+---
+layout: templates/post.njk
+---
+
+{% if author %}
+
+    {% set allSlugs = [] %}
+    {% for a in collections.pagedAuthorPosts %}
+    {% set allSlugs = (allSlugs.push(a.slug), allSlugs) %}
+    {% endfor %}
+
+    <div class="article-meta podcast-meta">
+    Featuring
+    {% for author in author %}
+        
+        {% set myAuthor = authors | getAuthor(author) %}
+
+        {% set hasArticles = false %}
+        {% for b in allSlugs %}
+            {% if myAuthor.key === b and not hasArticles %}
+                {% set hasArticles = true %}
+            {% endif %}
+        {% endfor %}
+
+        <span class="article-meta-author podcast-meta-author" style="cursor: text;">{% if hasArticles %}<a href="/authors/{{ myAuthor.key }}/">{% endif %}{{ myAuthor.name }}{% if hasArticles %}</a>{% endif %}</span>{% if not loop.last %},{% endif %}
+    {% endfor %}
+    on <span class="article-meta-date">{{ page.date | readableDate }}</span>.
+</div>
+{% endif %}
+
+{% if audio %}
+<link rel="stylesheet" href="/assets/css/audio-player.css">
+<script src="/assets/js/audio-player.js"></script>
+
+<div class="podcast-player">
+  <audio>
+    <source src="{{ audio }}" type="audio/mpeg">
+  </audio>
+</div>
+{% else %}
+<div style="margin-top: 20px;">
+	{% alert %}
+		<p>This podcast has not been released yet. Stay tuned!</p>
+	{% endalert %}
+</div>
+{% endif %}
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  new GreenAudioPlayer('.podcast-player');
+});
+</script>
+
+<div class="article">
+    {{ content | safe }}
+</div>

@@ -1,0 +1,10 @@
+<div class="podcast post" style="align-items: center;">
+    <a class="play" href="{{ post.url }}"><i class="ri-play-fill"></i></a>
+    <div class="content">
+        <a class="title" href="{{ post.url }}">{{ post.data.title }}</a>
+        <a class="desc" href="{{ post.url }}">{{ post.data.desc }}</a>
+        <span class="meta">
+            <a href="{{ post.url }}" class="date">{{ post.data.date | readableDate }} <i class="ri-time-line"></i></a>
+        </span>
+    </div>
+</div>

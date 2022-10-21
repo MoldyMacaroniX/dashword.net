@@ -1,0 +1,5 @@
+{
+    "layout":"templates/podcast.njk",
+    "image":false,
+    "podcast":true
+}

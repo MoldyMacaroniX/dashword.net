@@ -1,0 +1,32 @@
+{% set previousPost = collections.podcasts | getPreviousCollectionItem(page) %}
+{% set nextPost = collections.podcasts | getNextCollectionItem(page) %}
+
+{% if not previousPost %}
+{% set post = collections.podcasts[2] %}
+{% else %}
+{% set post = previousPost %}
+{% set noPrev = true %}
+{% endif %}
+
+{% if previousPost %}
+{% include 'partials/podcasts.njk' %}
+{% endif %}
+
+{% if not nextPost %}
+{% set post = collections.podcasts[0] %}
+{% else %}
+{% set post = nextPost %}
+{% set noNext = true %}
+{% endif %}
+
+{% if nextPost %}
+{% include 'partials/podcasts.njk' %}
+{% endif %}
+
+{% if not noPrev and not noNext %}
+<div style="margin-top: 20px;">
+	{% alert %}
+		<p>More podcasts are coming soon!</p>
+	{% endalert %}
+</div>
+{% endif %}

@@ -1,0 +1,8 @@
+---
+permalink: /authors-with-articles.json
+eleventyExcludeFromCollections: true
+---
+
+{% for a in collections.pagedAuthorPosts %}
+{{ a.slug }}
+{% endfor %}

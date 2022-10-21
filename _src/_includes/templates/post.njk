@@ -2,6 +2,9 @@
 layout: base.njk
 ---
 
+{% if podcast %}
+<a class="podcast-tag" href="/podcast/">Podcast</a>
+{% endif %}
 <h1 class="article-heading" style="text-transform: capitalize">{% if title %}{{ title }}{% else %}No post title provided.{% endif %}</h1>
 
 {% if article %}
@@ -27,7 +30,7 @@ layout: base.njk
 </div>
 {% endif %}
 
-<article class="article">
+<article{%if not podcast %} class="article"{% endif %}>
 {{ content | safe }}
 </article>
 
@@ -37,4 +40,12 @@ layout: base.njk
 {% include "partials/postNav.njk" %}
 
 <a href="/posts/" class="button button-wide">More Stories</a>
+{% endif %}
+
+{% if podcast %}
+<h1 class="heading">Up Next</h1>
+
+{% include "partials/podcastNav.njk" %}
+
+<a href="/podcast/" class="button button-wide">More Podcasts</a>
 {% endif %}
