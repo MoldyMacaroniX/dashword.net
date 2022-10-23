@@ -19,6 +19,27 @@ layout: base.njk
 		<img src="{{ image }}" alt="{% if title %}{{ title }}{% else %}No post title provided.{% endif %}" loading="lazy">
 	</div>
 	{% if imageSource %}<a href="{{ imageSource }}" class="article-cover-source">Cover Source</a>{% endif %}
+	{% if article %}
+		<div class="post" style="margin-top: 15px;">
+			<span class="meta">
+				<span class="date" style="font-size: 1.1rem;"><span style="font-weight: bold;" id="visits">0</span> Views <i class="ri-user-3-line"></i></span>
+				<span class="date" style="font-size: 1.1rem;"><a href="#disqus_thread" style="font-weight: bold;">0</a> Comments <i class="ri-question-answer-line"></i></span>
+				<span class="date" style="font-size: 0.9rem; line-height: 1.5;">Views and comments are a new feature so will naturally start lower than expected.</span>
+			</span>
+		</div>
+		<div class="article"><hr></div>
+		<script>
+			function cb(response) {
+				document.getElementById('visits').innerText = response.value;
+				/*var x = document.getElementsByClassName('viewcount');
+				for(var i = 0; i < x.length; i++) {
+				var item = x[i];
+				item.innerText = response.value;
+				}*/
+			}
+		</script>
+		<script async src="https://api.countapi.xyz/hit/www.dashword.net/{{ page.fileSlug }}?callback=cb"></script>
+	{% endif %}
 </div>
 {% endif %}
 
@@ -35,6 +56,34 @@ layout: base.njk
 </article>
 
 {% if article %}
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    
+    var disqus_config = function () {
+    this.page.url = "{{ metadata.urlWithoutTrailingSlash }}{{ page.filePathStem }}/";  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = "posts/{{ page.fileSlug }}/"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://dashword-net.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<script id="dsq-count-scr" src="//dashword-net.disqus.com/count.js" async></script>
+
+{% if metadata.isAds and not hideAds %}
+<div style="margin-bottom: 25px;">
+{% include "formats/related.njk" %}
+</div>
+{% endif %}
+
 <h1 class="heading">Up Next</h1>
 
 {% include "partials/postNav.njk" %}
