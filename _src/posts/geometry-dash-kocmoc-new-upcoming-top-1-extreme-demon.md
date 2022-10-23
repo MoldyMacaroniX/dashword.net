@@ -30,6 +30,7 @@ What do you think about this level? Do you like its good design or do you wish i
 
 Here are some more top 1 extreme demons related to KOCMOC:
 
+* [Geometry Dash KOCMOC Song - Where To Listen & More](/posts/geometry-dash-kocmoc-song-where-to-listen-more/)
 * [Slaughterhouse: The Top 1 Demon In Geometry Dash For Almost A Year Still Reigns Strong](/posts/geometry-dash-slaughterhouse-top-1/)
 * [Acheron Takes #1 Spot On Geometry Dash Demon List](/posts/breaking-acheron-takes-1-spot-on-geometry-dash-demonlist/)
 * [Geometry Dash Demon List: What Are The Top Extreme Demons? (2022)](/posts/geometry-dash-demon-list-what-are-the-top-extreme-demons-2022/)
