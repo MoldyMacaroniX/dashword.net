@@ -20,6 +20,7 @@ layout: base.njk
 	</div>
 	{% if imageSource %}<a href="{{ imageSource }}" class="article-cover-source">Cover Source</a>{% endif %}
 	{% if article %}
+		<!--
 		<div class="post" style="margin-top: 15px;">
 			<span class="meta">
 				<span class="date" style="font-size: 1.1rem;"><span style="font-weight: bold;" id="visits">0</span> Views <i class="ri-user-3-line"></i></span>
@@ -28,14 +29,16 @@ layout: base.njk
 			</span>
 		</div>
 		<div class="article"><hr></div>
+		-->
 		<script>
 			function cb(response) {
-				document.getElementById('visits').innerText = response.value;
+				// document.getElementById('visits').innerText = response.value;
 				/*var x = document.getElementsByClassName('viewcount');
 				for(var i = 0; i < x.length; i++) {
 				var item = x[i];
 				item.innerText = response.value;
 				}*/
+				console.log(response.value);
 			}
 		</script>
 		<script async src="https://api.countapi.xyz/hit/www.dashword.net/{{ page.fileSlug.slice(0, 64) }}?callback=cb"></script>
