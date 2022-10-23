@@ -1,6 +1,6 @@
 ---
 title: Geometry Dash KOCMOC Song - Where To Listen & More
-desc: The Geometry Dash community have question what the song is for KOCMOC by
+desc: The Geometry Dash community have questioned what the song is for KOCMOC by
   Cherry Team, an upcoming top 1 extreme demon.
 date: 2022-10-23T18:51:43.362Z
 tags:
@@ -9,7 +9,7 @@ author: moldymacaronix
 image: https://img.youtube.com/vi/2GLGtK5-DDk/maxresdefault.jpg
 imageSource: https://youtu.be/2GLGtK5-DDk
 ---
-The Geometry Dash community have question what the song is for KOCMOC by Cherry Team, an upcoming top 1 extreme demon.
+The Geometry Dash community have questioned what the song is for KOCMOC by Cherry Team, an upcoming top 1 extreme demon.
 
 So the question is: what is the song for KOCMOC and where can you listen to it?
 
