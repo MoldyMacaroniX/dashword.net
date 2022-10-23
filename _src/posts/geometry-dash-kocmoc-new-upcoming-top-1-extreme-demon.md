@@ -1,6 +1,7 @@
 ---
 title: "Geometry Dash KOCMOC: New Upcoming Top 1 Extreme Demon"
-desc: a
+desc: The Geometry Dash level KOCMOC is a Slaughterhouse remake created by
+  Cherry Team. It was just showcased by many top players, all at once.
 date: 2022-10-23T06:35:15.476Z
 tags:
   - news
