@@ -5,6 +5,7 @@ desc: The Geometry Dash community have questioned what the song is for KOCMOC by
 date: 2022-10-23T18:51:43.362Z
 tags:
   - demonlist
+  - featured
 author: moldymacaronix
 image: https://img.youtube.com/vi/2GLGtK5-DDk/maxresdefault.jpg
 imageSource: https://youtu.be/2GLGtK5-DDk
