@@ -1,5 +1,5 @@
 ---
-title: "Geometry Dash Level KOCMOC: What Is It? Questions & Answers"
+title: "Geometry Dash Level KOCMOC: What Is It? - Questions & Answers"
 desc: What is the Geometry Dash level KOCMOC? Where will it place on the Demon
   List, who will verify it, what song does it use, and who made it will all be
   answered in this article.
