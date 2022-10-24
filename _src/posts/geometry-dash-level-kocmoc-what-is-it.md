@@ -3,7 +3,7 @@ title: "Geometry Dash Level KOCMOC: What Is It? - Questions & Answers"
 desc: What is the Geometry Dash level KOCMOC? Where will it place on the Demon
   List, who will verify it, what song does it use, and who made it will all be
   answered in this article.
-date: 2022-10-24T02:14:53.602Z
+date: 2022-10-24T02:57:40.726Z
 tags:
   - demonlist
 author: moldymacaronix
