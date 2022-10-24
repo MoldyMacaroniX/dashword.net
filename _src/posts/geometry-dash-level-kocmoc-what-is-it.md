@@ -38,3 +38,12 @@ K﻿OCMOC uses the song Космос by Axius Link and is in the album Беcко
 # Who Made KOCMOC?
 
 K﻿OCMOC was made by a Geometry Dash creator team known as Cherry Team. They are known for making stunning Geometry Dash top 1 levels, but [KOCMOC might be their best level by far](/posts/geometry-dash-kocmoc-new-upcoming-top-1-extreme-demon/).
+
+---
+
+And there you have it, answers to frequently asked questions about the upcoming top 1 extreme demon KOCMOC.
+
+F﻿or more KOCMOC news, see our other articles:
+
+* [Geometry Dash KOCMOC: New Upcoming Top 1 Extreme Demon](/posts/geometry-dash-kocmoc-new-upcoming-top-1-extreme-demon/)
+* [Geometry Dash KOCMOC Song - Where To Listen & More](/posts/geometry-dash-kocmoc-song-where-to-listen-more/)
