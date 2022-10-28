@@ -19,7 +19,7 @@ Geometry Dash SubZero is available to play on mobile Android and iOS devices as 
 
 * [Play Geometry Dash SubZero on Android](#play-geometry-dash-subzero-on-android)
 * [Play Geometry Dash SubZero on iOS](#play-geometry-dash-subzero-on-ios)
-* [Play Geometry Dash SubZero on PC & Mac](#play-geometry-dash-subzero-on-pc-mac)
+* [Play Geometry Dash SubZero on PC & Mac](#play-geometry-dash-subzero-on-pc-%26-mac)
 
 # Play Geometry Dash SubZero on Android
 
