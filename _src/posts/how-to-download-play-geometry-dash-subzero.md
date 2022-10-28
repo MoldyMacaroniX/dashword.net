@@ -31,7 +31,7 @@ To play Geometry Dash SubZero on your iOS device, download it for free from the 
 
 # Play Geometry Dash SubZero on PC & Mac
 
-G﻿eometry Dash SubZero is natively available on mobile Android and iOS devices but can be played on PC and Mac [with an emulator](https://www.bluestacks.com/apps/arcade/geometry-dash-subzero-on-pc.html). Here are some steps to download and play Geometry Dash SubZero on PC and Mac using BlueStacks:
+Geometry Dash SubZero is natively available on mobile Android and iOS devices but can be played on PC and Mac [with an emulator](https://www.bluestacks.com/apps/arcade/geometry-dash-subzero-on-pc.html). Here are some steps to download and play Geometry Dash SubZero on PC and Mac using BlueStacks:
 
 1. Download and install BlueStacks
 2. Complete Google sign-in.
@@ -40,3 +40,7 @@ G﻿eometry Dash SubZero is natively available on mobile Android and iOS devices
 5. Press the Geometry Dash SubZero icon on home screen.
 
 For more details, [follow these BlueStacks instructions](https://www.bluestacks.com/apps/arcade/geometry-dash-subzero-on-pc.html).
+
+---
+
+Geometry Dash SubZero has many 2.2 features. If you want to access more of them, [you can download and install the Geometry Dash 2.2 private server](/posts/geometry-dash-2-2-private-server-download-install/).
