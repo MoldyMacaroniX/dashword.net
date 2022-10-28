@@ -1,7 +1,7 @@
 ---
 title: How To Download & Play Geometry Dash SubZero For Free
-desc: Geometry Dash SubZero is the third spin-off game of Geometry Dash. It is
-  available to play for free on Android, iOS, PC, and Mac.
+desc: Geometry Dash SubZero is the third free spin-off game of Geometry Dash. It
+  is available to play for free on Android, iOS, PC, and Mac.
 date: 2022-10-28T00:26:52.648Z
 tags:
   - guide
