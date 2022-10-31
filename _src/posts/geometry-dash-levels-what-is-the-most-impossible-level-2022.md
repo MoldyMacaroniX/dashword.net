@@ -72,3 +72,5 @@ While there is no level harder than Nessus, there are many top 1 upcoming hardes
 
 * [Geometry Dash KOCMOC: New Upcoming Top 1 Extreme Demon](/posts/geometry-dash-kocmoc-new-upcoming-top-1-extreme-demon/)
 * [Geometry Dash Top 10 Level Natural Disaster Verified By Helix](/posts/geometry-dash-top-10-level-natural-disaster-verified-by-helix/)
+
+Do you think there will ever be a level harder than Nessus? Let us know what you think!
