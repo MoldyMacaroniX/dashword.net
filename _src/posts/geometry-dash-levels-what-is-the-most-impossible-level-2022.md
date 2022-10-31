@@ -7,8 +7,8 @@ tags:
   - demonlist
   - list
 author: moldymacaronix
-image: https://steamuserimages-a.akamaihd.net/ugc/925918955575355914/5A4037443ED0FEDADAA376480453BAA1B418A079/?imw=512&imh=287&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true
-imageSource: https://steamcommunity.com/sharedfiles/filedetails/?id=1239115877
+image: https://img.youtube.com/vi/_9rtn_Lcq7I/maxresdefault.jpg
+imageSource: https://www.youtube.com/watch?v=_9rtn_Lcq7I
 ---
 Completing a demon level in Geometry Dash is a very difficult task. Completing an extreme demon is something only the top elite players can do. But what about impossible levels?
 
