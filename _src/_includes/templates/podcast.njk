@@ -22,7 +22,7 @@ layout: templates/post.njk
             {% endif %}
         {% endfor %}
 
-        <span class="article-meta-author podcast-meta-author" style="cursor: text;">{% if hasArticles %}<a href="/authors/{{ myAuthor.key }}/">{% endif %}{{ myAuthor.name }}{% if hasArticles %}</a>{% endif %}</span>{% if not loop.last %},{% endif %}
+        {% if loop.last %}and {% endif %}<span class="article-meta-author podcast-meta-author" style="cursor: text;">{% if hasArticles %}<a href="/authors/{{ myAuthor.key }}/">{% endif %}{{ myAuthor.name }}{% if hasArticles %}</a>{% endif %}</span>{% if not loop.last %},{% endif %}
     {% endfor %}
     on <span class="article-meta-date">{{ page.date | readableDate }}</span>.
 </div>

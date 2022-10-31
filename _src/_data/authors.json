@@ -209,5 +209,29 @@
 		"bio": "Latest posts from the Dashword team!",
 		"photo": "/assets/img/icon.png",
 		"verified":"true"
+	},
+	{
+        "key": "ender",
+        "name": "Ender",
+        "photo": "https://yt3.ggpht.com/ytc/AMLnZu-aWjeOk3_7S7eMIawSjPP3hv3xo_-SUElCzL6lrw=s900-c-k-c0x00ffffff-no-rj",
+        "verified":"true"
+    },
+    {
+        "key": "mathgenius",
+        "name": "MathGenius",
+        "photo": "https://yt3.ggpht.com/L-TzwTdpZ45fY6zeOetKEmu-adngQwXSs_RcwZb5gMii772iaBs9ApMSl3O42qyRuMOJfucejAs",
+        "verified":"true"
+    },
+	{
+		"key":"tride",
+		"name":"Tride",
+		"photo":"https://yt3.ggpht.com/tBsA3U91wEOC7RC6pUHOORv6X_ei98o64CKf7FB-KpCkv62FJeIzWrjwls4NxNAdkSrPjRKQOiY=s900-c-k-c0x00ffffff-no-rj",
+		"verified":"true"
+	},
+	{
+		"key":"electrify",
+		"name":"Electrify",
+		"photo":"https://yt3.ggpht.com/ytc/AMLnZu9TwJUtC-8FDu9TaYnShdYFPKAjWy_26c_e01eX9w=s900-c-k-c0x00ffffff-no-rj",
+		"verified":"true"
 	}
 ]
