@@ -6,6 +6,7 @@ desc: Geometry Dash is a very difficult game, making it a good candidate for
 date: 2022-10-10T08:06:38.872Z
 tags:
   - demonlist
+  - list
 author: moldymacaronix
 image: https://img.youtube.com/vi/n53AFMkHAe4/maxresdefault.jpg
 imageSource: https://youtu.be/n53AFMkHAe4
