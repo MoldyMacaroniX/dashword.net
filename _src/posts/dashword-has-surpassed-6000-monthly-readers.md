@@ -20,4 +20,8 @@ Down the line, we are looking for more authors to contribute to our content base
 
 In other news, Dashword will be hosting a new podcast called **The GD Podcast**! The first episode [will be available within the next coming days](/podcast/geometry-dash-kocmoc-demon-list-and-rate-system-drama/) and will feature popular Geometry Dash YouTubers such as **MoldyMacaroniX** and **Tride**. [You can view all podcast episodes here](/podcast/).
 
+Dashword has also reached 95 articles! This will be our 96th, meaning we are only 4 articles from 100. How about you [consider writing for us](/posts/dashword-is-looking-for-authors-share-your-writing-today/) and help us reach this incredible milestone?
+
+---
+
 Thank you for reading our content!
