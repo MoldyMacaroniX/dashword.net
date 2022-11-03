@@ -38,7 +38,7 @@ You can [find out more in this list](/posts/geometry-dash-levels-what-is-the-har
 
 ![Acheron screenshot](https://i.ytimg.com/vi/cOR-j0xQLYA/maxresdefault.jpg)
 
-*Acheron by Rryamu and more, screenshot form [Neiro](https://youtu.be/cOR-j0xQLYA).*
+*Acheron by Ryamu and more, screenshot form [Neiro](https://youtu.be/cOR-j0xQLYA).*
 
 These are the 10 hardest levels ever beaten by a human, but there are other levels that can only be beaten by bots.
 
@@ -72,6 +72,10 @@ This is according to the [Geometry Dash Silent Level List](https://docs.google.c
 # The True Most Impossible Level In Geometry Dash
 
 There exists a Geometry Dash level longer than the lifetime of the universe. This level is Nessus by Skubb and others. It takes roughly [4294967296^1098*4 seconds to beat](https://youtu.be/_9rtn_Lcq7I), which is longer than the lifetime of the entire universe.
+
+![Nessus screenshot](https://i.ytimg.com/vi/_9rtn_Lcq7I/maxresdefault.jpg)
+
+*Nessus by Skubb and more, screenshot from [Pho](https://youtu.be/_9rtn_Lcq7I).*
 
 This means that nobody (or no thing) will ever beat this level, making it truly the most impossible level in Geometry Dash.
 
