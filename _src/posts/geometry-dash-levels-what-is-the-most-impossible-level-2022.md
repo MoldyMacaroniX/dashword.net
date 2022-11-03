@@ -36,6 +36,10 @@ The 10 hardest levels ever beaten in Geometry Dash as of October 2022 are:
 
 You can [find out more in this list](/posts/geometry-dash-levels-what-is-the-hardest-level-ever-made/).
 
+![Acheron screenshot](https://i.ytimg.com/vi/cOR-j0xQLYA/maxresdefault.jpg)
+
+*Acheron by Rryamu and more, screenshot form [Neiro](https://youtu.be/cOR-j0xQLYA).*
+
 These are the 10 hardest levels ever beaten by a human, but there are other levels that can only be beaten by bots.
 
 This is according to the [Geometry Dash Demon List](/posts/geometry-dash-demon-list-what-are-the-top-extreme-demons-2022/), the considered most accurate ranking of the hardest levels ever beaten.
@@ -56,6 +60,10 @@ The 10 most impossible levels in Geometry Dash as of October 2022 are:
 10. WHOLESOMEmetathesis
 
 Notice the abundance of joke level names. It appears Geometry Dash impossible level creators have a sense of humor.
+
+![Back on Track screenshot](https://i.ytimg.com/vi/b0RgkEqJcdQ/maxresdefault.jpg)
+
+*﻿Back on Track by Skubb and Corpulse, screenshot from [fnm04](https://youtu.be/b0RgkEqJcdQ).*
 
 These are the 10 hardest levels ever beaten by a bot. However, there is a level so long that it will never be beaten by a human or a bot, which is the true most impossible level in Geometry Dash.
 
