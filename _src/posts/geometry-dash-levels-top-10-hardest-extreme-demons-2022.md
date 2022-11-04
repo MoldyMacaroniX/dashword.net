@@ -44,6 +44,16 @@ This level is a nice take on classic extreme demon gameplay with modern design!
 
 # #8: Oblivion
 
+The eight hardest level in the game is Oblivion by Benji8080 and more. This extreme demon is a traditional looking extreme demon that focuses on all game modes and skill types.
+
+While it may not look as impressive as other extreme demons on the list, you cannot underestimate its difficulty.
+
+![Oblivion](https://media.discordapp.net/attachments/392087938239954950/1037954823791857664/Verification_Oblivion_by_Benji__More_100_Official_Cognition_Sequel_0-50_screenshot.png?width=1201&height=676)
+
+*﻿Oblivion by Benji8080 and more, screenshot from [Dice88](https://youtu.be/ZcmDAm50BB0).*
+
+This level is also the official Cognition sequel, which is another really difficult extreme demon, but not in the top 10 hardest.
+
 # #7: Arcturus
 
 # #6: Firework
