@@ -56,6 +56,16 @@ This level is also the official Cognition sequel, which is another really diffic
 
 # #7: Arcturus
 
+The seventh hardest level in the game is Arcturus by Maxfs. This level used to be [one of the most impossible levels in the game](/posts/geometry-dash-levels-what-is-the-most-impossible-level-2022/), but it was nerfed so that it could get verified and [place on the Demon List](/posts/geometry-dash-demon-list-what-are-the-top-extreme-demons-2022/).
+
+That being said, you cannot deny that it is still one of the hardest levels ever made in Geometry Dash, even in its nerfed state.
+
+![Arcturus](https://media.discordapp.net/attachments/392087938239954950/1037955685947809803/4K__Arcturus__NEW_TOP_1_by_maxFS_Extreme_Demon___Geometry_Dash_2.11_0-14_screenshot.png?width=1201&height=676)
+
+*﻿Arcturus by Maxfs, screenshot from [Just a GD player](https://youtu.be/wHXFFnmMB1Q).*
+
+Arcturus has a menacing red color scheme which we think fits the atmosphere of the level incredibly well. This is one of the hardest levels in the entire game.
+
 # #6: Firework
 
 # #5: Sakupen Circles
