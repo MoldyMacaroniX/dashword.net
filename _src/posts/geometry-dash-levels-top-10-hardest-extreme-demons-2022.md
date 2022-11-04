@@ -106,7 +106,15 @@ In fact, there is a player called [Vision](https://youtu.be/CeguDFtYl1o) who has
 
 # #3: Abyss of Darkness
 
-We're now entering the top 3!
+We're now entering the top 3! The third hardest level in the game is Abyss of Darkness by Exen and more. This is a modern remake of an older level by the same name that was hack verified.
+
+But for the remake, it was verified legitimately, making it the third hardest level ever beaten.
+
+![Abyss of Darkness](https://cdn.discordapp.com/attachments/392087938239954950/1037965441286557767/IMG_0448.png)
+
+*Abyss of Darkness by Exen and more, screenshot from [Neiro](https://youtu.be/zjJCqqV2410).*
+
+The level features many dark colors, forming this gloomy atmospherel which is a very cool theme for a top 3 extreme demon.
 
 # #2: Slaughterhouse
 
