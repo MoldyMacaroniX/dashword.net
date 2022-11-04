@@ -15,7 +15,7 @@ imageSource: https://youtu.be/hW8qxKi1udY
 ---
 Geometry Dash is one of the hardest mobile platformers out there. While official levels like Deadlocked and Clubstep are hard, extreme demons like Slaughterhouse and Acheron are what only the most elite players even have a chance at completing.
 
-Many people who've ever completed a top 10 extreme demon have put in **hundreds of thousands**  of attempts, making these levels the hardest levels ever made in Geometry Dash.
+[Many people who've ever completed a top 10 extreme demon](/posts/top-10-best-countries-at-geometry-dash/) have put in **hundreds of thousands**  of attempts, making these levels the [hardest levels ever made in Geometry Dash](/posts/geometry-dash-levels-what-is-the-hardest-level-ever-made/).
 
 With that being said, what are the top 10 hardest extreme demons in Geometry Dash?
 
