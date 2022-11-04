@@ -118,7 +118,7 @@ The level features many dark colors, forming this gloomy atmospherel which is a 
 
 # #2: Slaughterhouse
 
-The second hardest level in the game is Slaughterhouse by Endlevel and more. This level was once [stuck at the top 1 spot for almost a year](/posts/geometry-dash-slaughterhouse-top-1/), but has since finally fallen off after a long rule at the top.
+The second hardest level in the game is Slaughterhouse by Endlevel and more. This level was once [stuck at the top 1 spot for almost a year](/posts/geometry-dash-slaughterhouse-top-1/), but has since [finally fallen off](/posts/breaking-acheron-takes-1-spot-on-geometry-dash-demonlist/) after a long rule at the top.
 
 As is evident by this level's long rule as the hardest level in Geometry Dash, this extreme demon is one to be feared.
 
@@ -129,3 +129,17 @@ As is evident by this level's long rule as the hardest level in Geometry Dash, t
 While this level is no longer top 1, it is still of an unimaginable difficulty.
 
 # #1: Acheron
+
+The hardest level ever made in Geometry Dash is Acheron by GrenadeOfTacos and more. It is a Tartarus inspired level, but much harder. Like how [Tartarus was once the top 1 extreme demon by far](/posts/geometry-dash-tartarus-falls-from-top-10-after-2-years/), Acheron is the new top 1 extreme demon.
+
+![Acheron](https://i.ytimg.com/vi/8NiVG9VqPlQ/maxresdefault.jpg)
+
+*Acheron by GrenadeOfTacos and more, screenshot from [Donei GD](https://youtu.be/8NiVG9VqPlQ).*
+
+There is not much that has to be said about this level. It is just ridiculously hard.
+
+---
+
+This lost only includes levels that have been beaten by a human. But we've also covered the [top 10 most impossible levels](/posts/geometry-dash-levels-what-is-the-most-impossible-level-2022/), including a level longer than the expected lifetime of the universe.
+
+We've also covered upcoming top 1 extreme demons that might even overthrow Acheron, [such as KOCMOC](/posts/geometry-dash-level-kocmoc-what-is-it/).
