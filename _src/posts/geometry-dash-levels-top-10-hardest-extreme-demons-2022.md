@@ -8,6 +8,7 @@ date: 2022-11-04T04:40:08.967Z
 tags:
   - demonlist
   - list
+  - featured
 author: moldymacaronix
 image: https://img.youtube.com/vi/hW8qxKi1udY/maxresdefault.jpg
 imageSource: https://youtu.be/hW8qxKi1udY
@@ -142,4 +143,4 @@ There is not much that has to be said about this level. It is just ridiculously 
 
 This lost only includes levels that have been beaten by a human. But we've also covered the [top 10 most impossible levels](/posts/geometry-dash-levels-what-is-the-most-impossible-level-2022/), including a level longer than the expected lifetime of the universe.
 
-We've also covered upcoming top 1 extreme demons that might even overthrow Acheron, [such as KOCMOC](/posts/geometry-dash-level-kocmoc-what-is-it/).
+We've also covered upcoming top 1 extreme demons that [might even overthrow Acheron](/posts/geometry-dash-acheron-places-top-2-on-demonlist/), [such as KOCMOC](/posts/geometry-dash-level-kocmoc-what-is-it/).
