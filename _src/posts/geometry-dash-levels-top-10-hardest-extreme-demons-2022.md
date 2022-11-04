@@ -100,7 +100,7 @@ But seven years later, somebody beat it, making [Geometry Dash history in the pr
 
 *﻿Silent Clubstep by TheRealSailent, screenshot from [Paqoe](https://youtu.be/GR4OMkS3SN8).*
 
-This part (pictured above) is one of the hardest parts by far. It is a very tight ship corridor and takes tens of thousands of attempts to master.
+This part (pictured above) is one of the hardest parts by far. It is a very tight ship corridor and takes tens of thousands of attempts to master. Not to mention the fact that you can barely see it.
 
 In fact, there is a player called [Vision](https://youtu.be/CeguDFtYl1o) who has put over 650,000 attempts into the level. All this, and and yet there are still three harder levels.
 
