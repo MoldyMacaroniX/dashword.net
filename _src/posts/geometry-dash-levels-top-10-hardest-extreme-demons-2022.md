@@ -22,12 +22,25 @@ With that being said, what are the top 10 hardest extreme demons in Geometry Das
 
 The tenth hardest level in the game is The Hallucination by VoTcHi and SyQual. This is a dark blue and purple extreme demon that focuses mainly on the wave game mode, but with other game modes sprinkled in.
 
+It [follows the Nine Circles level formula](/posts/history-of-nc-levels/), but only vaguely, making it a very unique and interesting top 10.
+
 ![The Hallucination](https://media.discordapp.net/attachments/392087938239954950/1037952032654512179/NEW_TOP_15_VERIFIED____The_Hallucination__by_VoTcHi__SyQual_0-23_screenshot.png?width=1201&height=676)
 
 *The Hallucination by VoTcHi and SyQual, screenshot from [fnm04](https://youtu.be/Mqd6UabJOE4).*
 
+It's design is super cool looking, definitely making it one of the best extreme demons in the game.
 
 # #9: Hard Machine
+
+The ninth hardest level in the game is Hard Machine by Nikroplays, Viri and Komp. It features many vibrant colors and technical designs making it a very cool extreme demon.
+
+This level also has a lot of history, being a modern remake of an old impossible level by the same name.
+
+![Hard Machine](https://media.discordapp.net/attachments/392087938239954950/1037953460299112478/VERIFIED_Hard_Machine_-_Former_Top_1_-_by_komp_-_https___pastebin.com_BPCs2EGe_1-4_screenshot.png?width=1201&height=676)
+
+*﻿Hard Machine by Nikroplays, Viri and Komp, screenshot from [Varium](https://youtu.be/6i0pdTDAo1c).*
+
+This level is a nice take on classic extreme demon gameplay with modern design!
 
 # #8: Oblivion
 
