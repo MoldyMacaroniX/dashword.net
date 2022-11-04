@@ -68,7 +68,21 @@ Arcturus has a menacing red color scheme which we think fits the atmosphere of t
 
 # #6: Firework
 
+The sixth hardest level in the game is Firework by Vernam and more. Unlike Arcturus that sticks to a clear red theme, this level is entirely grey.
+
+F﻿irework is a super long, skill tester that is not easy to beat. It was the top 1 hardest level at one point, but has since fallen down the list as new levels were beaten.
+
+![Firework](https://media.discordapp.net/attachments/392087938239954950/1037956805629857852/Firework__by_cherry_team___TOP_1_Extreme_Demon_4K_SHOWCASE_1-38_screenshot.png?width=1201&height=676)
+
+*﻿Firework by Vernam and more, screenshot from [Just a GD player](https://youtu.be/8RcZVS0kzCg).*
+
+That being said, do not underestimate this level's difficulty.
+
 # #5: Sakupen Circles
+
+![Sakupen Circles](https://media.discordapp.net/attachments/392087938239954950/1037957923084714004/ITS_VERIFIED___Sakupen_Circles_NEW_TOP_1_-_in_Perfect_Quality_4K_60fps_-_Geometry_Dash_0-26_screenshot.png?width=1201&height=676)
+
+*﻿Sakupen Circles by by DrCuber and more, screenshot from [Neiro](https://youtu.be/b66_Oe4Xo1w).*
 
 # #4: Silent Clubstep
 
