@@ -1,6 +1,9 @@
 ---
 title: "Geometry Dash Levels: Top 10 Hardest Extreme Demons (2022)"
-desc: a
+desc: Geometry Dash is one of the hardest mobile platformers out there. While
+  official levels like Deadlocked and Clubstep are hard, extreme demons like
+  Slaughterhouse and Acheron are what only the most elite players even have a
+  chance at completing.
 date: 2022-11-04T04:40:08.967Z
 tags:
   - demonlist
