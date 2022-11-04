@@ -80,9 +80,15 @@ That being said, do not underestimate this level's difficulty.
 
 # #5: Sakupen Circles
 
+The fifth hardest level in the game is Sakupen Circles by DrCuber and more. This is a level that mostly tests your skill with the wave game mode, featuring some of the hardest wave parts ever made in Geometry Dash.
+
+Just like The Hallucination, this level [follows the Nine Circles level formula](/posts/history-of-nc-levels/), but a lot more strictly.
+
 ![Sakupen Circles](https://media.discordapp.net/attachments/392087938239954950/1037957923084714004/ITS_VERIFIED___Sakupen_Circles_NEW_TOP_1_-_in_Perfect_Quality_4K_60fps_-_Geometry_Dash_0-26_screenshot.png?width=1201&height=676)
 
 *﻿Sakupen Circles by by DrCuber and more, screenshot from [Neiro](https://youtu.be/b66_Oe4Xo1w).*
+
+Despite the fact that it is a Nine Circles level, Sakupen Circles still has some really good decoration.
 
 # #4: Silent Clubstep
 
