@@ -80,7 +80,7 @@ That being said, do not underestimate this level's difficulty.
 
 # #5: Sakupen Circles
 
-The fifth hardest level in the game is Sakupen Circles by DrCuber and more. This is a level that mostly tests your skill with the wave game mode, featuring some of the hardest wave parts ever made in Geometry Dash.
+We're now entering the top 5! The fifth hardest level in the game is Sakupen Circles by DrCuber and more. This is a level that mostly tests your skill with the wave game mode, featuring some of the hardest wave parts ever made in Geometry Dash.
 
 Just like The Hallucination, this level [follows the Nine Circles level formula](/posts/history-of-nc-levels/), but a lot more strictly.
 
@@ -92,7 +92,21 @@ Despite the fact that it is a Nine Circles level, Sakupen Circles still has some
 
 # #4: Silent Clubstep
 
+The fourth hardest level in the game is Silent Clubstep TheRealSalient. This level was an old impossible level by TheRealSalient and was so hard that it was believed that it could never be beaten.
+
+But seven years later, somebody beat it, making [Geometry Dash history in the process](/categories/history/).
+
+![Silent Clubstep](https://media.discordapp.net/attachments/392087938239954950/1037959033207922808/SILENT_CLUBSTEP__VERIFIED_LEGENDARY_DEMON_0-10_screenshot.png?width=1201&height=676)
+
+*﻿Silent Clubstep by TheRealSailent, screenshot from [Paqoe](https://youtu.be/GR4OMkS3SN8).*
+
+This part (pictured above) is one of the hardest parts by far. It is a very tight ship corridor and takes tens of thousands of attempts to master.
+
+In fact, there is a player called [Vision](https://youtu.be/CeguDFtYl1o) who has put over 650,000 attempts into the level. All this, and and yet there are still three harder levels.
+
 # #3: Abyss of Darkness
+
+We're now entering the top 3!
 
 # #2: Slaughterhouse
 
