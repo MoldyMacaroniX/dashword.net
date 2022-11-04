@@ -1,0 +1,38 @@
+{
+    "featured": {
+        "desc":"The best of Dashword. Each article here is considered high quality."
+    },
+    "2.2": {
+        "desc":"The latest Geometry Dash 2.2 news. From 2.2 leaks, previews, and guides, anything RobTop reveals will be covered here."
+    },
+    "news": {
+        "desc":"The latest Geometry Dash news. From extreme demons to 2.2 reveals, this topic covers everything new happening in Geometry Dash."
+    },
+    "video": {
+        "desc":"The latest Geometry Dash stories that come in video! Everything covered here has a video counterpart that you can watch for free."
+    },
+    "opinion": {
+        "desc":"The latest Geometry Dash player takes on community events. Whether anything is good or bad for the game and community, we dig deep into Geometry Dash as a whole here."
+    },
+    "list": {
+        "desc":"The latest Geometry Dash top extreme demons, top 2.2 news, or anything that can be ordered in an easy-to-read list format is here."
+    },
+    "guide": {
+        "desc":"From how to get icons to downloading Geometry Dash 2.2 beta, all kinds of Geometry Dash guides will be covered here."
+    },
+    "history": {
+        "desc":"From the mysterious level Element 111 Rg to the history of Nine Circles, here is everything to do with Geometry Dash history."
+    },
+    "demonlist": {
+        "desc":"The latest Geometry Dash Demon List news. From top 1 extreme demons such as Acheron, Slaughterhouse, and Abyss of Darkness to upcoming levels like KOCMOC, all Demon list news is covered here."
+    },
+    "editorial": {
+        "desc":"The latest news from the Dashword development and content team."
+    },
+    "review": {
+        "desc":"The latest Geometry Dash level reviews and critiques. Not sure what to play? We have some great recommendations here!"
+    },
+    "theory": {
+        "desc":"The latest Geometry Dash theories about the game's official lore and mysterious community events."
+    }
+}

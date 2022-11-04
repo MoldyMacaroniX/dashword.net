@@ -14,6 +14,20 @@ layout: base.njk
 
 <h1 class="heading">Posted in {{ tag.tagName | capitalize }}</h1>
 
+<div class="author-profile">
+  <span class="author-desc" id="replace" style="font-weight: bold;"></span>
+</div>
+
+<script>
+let url = '/_data/taginfo.json';
+fetch(url)
+.then(res => res.json())
+.then(out => {
+  console.log(out["{{ tag.tagName }}"]["desc"]);
+  document.getElementById('replace').innerHTML = out["{{ tag.tagName }}"]["desc"];
+})
+</script>
+
 {% for post in tag.templateObjets %}
 {% include "partials/posts.njk" %}
   {% if (loop.index == 2) or (loop.index == 4) or (loop.index == 6) or (loop.index == 8) %}
