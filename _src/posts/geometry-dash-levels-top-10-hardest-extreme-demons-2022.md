@@ -9,8 +9,8 @@ tags:
   - demonlist
   - list
 author: moldymacaronix
-image: https://i.ytimg.com/vi/GR4OMkS3SN8/hqdefault.jpg
-imageSource: https://youtu.be/GR4OMkS3SN8
+image: https://img.youtube.com/vi/hW8qxKi1udY/maxresdefault.jpg
+imageSource: https://youtu.be/hW8qxKi1udY
 ---
 Geometry Dash is one of the hardest mobile platformers out there. While official levels like Deadlocked and Clubstep are hard, extreme demons like Slaughterhouse and Acheron are what only the most elite players even have a chance at completing.
 
