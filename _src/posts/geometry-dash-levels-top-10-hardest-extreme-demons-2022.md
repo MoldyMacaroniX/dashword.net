@@ -118,4 +118,14 @@ The level features many dark colors, forming this gloomy atmospherel which is a 
 
 # #2: Slaughterhouse
 
+The second hardest level in the game is Slaughterhouse by Endlevel and more. This level was once [stuck at the top 1 spot for almost a year](/posts/geometry-dash-slaughterhouse-top-1/), but has since finally fallen off after a long rule at the top.
+
+As is evident by this level's long rule as the hardest level in Geometry Dash, this extreme demon is one to be feared.
+
+![Slaughterhouse](https://i.ytimg.com/vi/MQVvbcIf0Es/maxresdefault.jpg)
+
+*Slaughterhouse by Endlevel and more, screenshot from [KrX](https://youtu.be/MQVvbcIf0Es).*
+
+While this level is no longer top 1, it is still of an unimaginable difficulty.
+
 # #1: Acheron
