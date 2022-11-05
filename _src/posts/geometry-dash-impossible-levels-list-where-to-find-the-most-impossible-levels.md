@@ -83,4 +83,8 @@ V﻿ivisect is called the best red extreme demon. Do you think it lives up to th
 
 ---
 
-Conclusion
+While these impossible levels are hard, they are nowhere near as hard as [these levels from the Silent Levels List](/posts/geometry-dash-levels-what-is-the-most-impossible-level-2022/#10-most-impossible-levels-in-geometry-dash).
+
+There are also more top 1 hardest extreme demons, including [KOCMOC](/posts/geometry-dash-level-kocmoc-what-is-it/).
+
+What do you think of these impossible levels? Do you think they could be made harder?
