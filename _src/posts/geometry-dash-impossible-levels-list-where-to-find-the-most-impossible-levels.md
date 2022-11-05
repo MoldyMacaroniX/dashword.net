@@ -59,12 +59,27 @@ These are some of the most impossible levels ever made, but not more impossible 
 
 The most famous upcoming impossible Geometry Dash levels include:
 
-* BOTTOMLESS PIT by fnm04 and more
-* 
+* Bottomless Pit by fnm04 and more
+* Exasperation by Thycket, Nacho, and more
+* Vivisect by Greafer, Burgadahz, and more
 
-![BOTTOMLESS PIT by fnm04 and more](https://i.ytimg.com/vi/nvbzefeGrvY/maxresdefault.jpg)
+![Bottomless Pit by fnm04 and more](https://i.ytimg.com/vi/nvbzefeGrvY/maxresdefault.jpg)
 
-*﻿BOTTOMLESS PIT by fnm04 and more, screenshot from [fnm04](https://youtu.be/nvbzefeGrvY).*
+*﻿Bottomless Pit by fnm04 and more, screenshot from [fnm04](https://youtu.be/nvbzefeGrvY).*
+
+Bottomless Pit doesn't have any completed design yet, but the layout is detailed enough to showcase.
+
+![Exasperation](https://media.discordapp.net/attachments/392087938239954950/1038286538766815312/EXASPERATION_DECO_PREVIEW_2_3-31_screenshot.png?width=1201&height=676)
+
+*﻿Exasperation by Thycket, Nacho, and more, screenshot from [fnm04](https://youtu.be/acF0CS16f8I).*
+
+Exasperation is an old impossible level layout by Thycket. Now, with the help of others, it is being decorated.
+
+![Vivisect by Greafer, Burgadahz, and more](https://img.youtube.com/vi/f2Wt1xpvOAs/maxresdefault.jpg)
+
+*Vivisect by Greafer, Burgadahz, and more, screenshot from [fnm04](https://youtu.be/f2Wt1xpvOAs).*
+
+V﻿ivisect is called the best red extreme demon. Do you think it lives up to this standard?
 
 ---
 
