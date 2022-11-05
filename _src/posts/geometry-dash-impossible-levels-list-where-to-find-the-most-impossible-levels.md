@@ -6,6 +6,8 @@ desc: The Geometry Dash Impossible Levels List is a ranking of the most
 date: 2022-11-05T02:44:48.176Z
 tags:
   - demonlist
+  - list
+  - featured
 author: moldymacaronix
 image: https://img.youtube.com/vi/5QEl0GEIO4I/maxresdefault.jpg
 imageSource: https://youtu.be/5QEl0GEIO4I
