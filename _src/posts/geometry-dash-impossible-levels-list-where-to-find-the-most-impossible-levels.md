@@ -41,6 +41,20 @@ Levels on this list are considered to be some of [the hardest levels ever made i
 
 # Geometry Dash Hardest Impossible Levels
 
+According to the Geometry Dash Impossible Levels List, the hardest impossible levels are:
+
+1. CYCLOLCYC by Eightos and more
+2. Ballistic Wistfully by Eightos and more
+3. Joke Resubmission by Relayne and more
+4. Wistfully by Sunbrey and zRiko
+5. Formosa by Eightos
+
+![Ballistic Wistfully by Eightos and more](https://i.ytimg.com/vi/0EHRvQmYSbU/maxresdefault.jpg)
+
+*﻿Ballistic Wistfully by Eightos and more, screenshot from [fnm04](https://youtu.be/0EHRvQmYSbU). It is mostly invisible.*
+
+These are some of the most impossible levels ever made, but not more impossible than these levels, from the [Silent Levels List](/posts/geometry-dash-levels-what-is-the-most-impossible-level-2022/#10-most-impossible-levels-in-geometry-dash).
+
 # Geometry Dash Upcoming Impossible Levels
 
 ---
