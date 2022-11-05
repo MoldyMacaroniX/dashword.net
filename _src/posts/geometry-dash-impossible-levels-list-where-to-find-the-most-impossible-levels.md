@@ -22,7 +22,7 @@ Fortunately, this guide will tell you how to access it, what levels are on it, a
 
 **Contents:**
 
-* [Geometry Dash Impossible Levels List](#geometry-dash-impossible-level-list)
+* [Geometry Dash Impossible Levels List](#geometry-dash-impossible-levels-list)
 * [Geometry Dash Hardest Impossible Levels](#geometry-dash-hardest-impossible-levels)
 * [Geometry Dash Upcoming Impossible Levels](#geometry-dash-upcoming-impossible-levels)
 
