@@ -47,7 +47,7 @@ According to the Geometry Dash Impossible Levels List, the hardest impossible le
 2. Ballistic Wistfully by Eightos and more
 3. Joke Resubmission by Relayne and more
 4. Wistfully by Sunbrey and zRiko
-5. Formosa by Eightos
+5. Formosa by Eightos
 
 ![Ballistic Wistfully by Eightos and more](https://i.ytimg.com/vi/0EHRvQmYSbU/maxresdefault.jpg)
 
