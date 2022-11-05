@@ -5,7 +5,7 @@ date: 2022-11-04T22:27:01.139Z
 tags:
   - demonlist
 author: moldymacaronix
-image: https://i.ytimg.com/vi/WtApLIQOaOw/maxresdefault.jpg
-imageSource: https://youtu.be/WtApLIQOaOw
+image: https://img.youtube.com/vi/5QEl0GEIO4I/maxresdefault.jpg
+imageSource: https://youtu.be/5QEl0GEIO4I
 ---
 a﻿
