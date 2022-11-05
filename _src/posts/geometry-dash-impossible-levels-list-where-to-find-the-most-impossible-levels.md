@@ -1,7 +1,9 @@
 ---
 title: Geometry Dash Impossible Levels List - Where To Find The Most Impossible Levels
-desc: a
-date: 2022-11-04T22:27:01.139Z
+desc: The Geometry Dash Impossible Levels List is a ranking of the most
+  impossible levels ever made. It has almost 900 unique levels on the list, with
+  more being added all the time!
+date: 2022-11-05T02:44:48.176Z
 tags:
   - demonlist
 author: moldymacaronix
