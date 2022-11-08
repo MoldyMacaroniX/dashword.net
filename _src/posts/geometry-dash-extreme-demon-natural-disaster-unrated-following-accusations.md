@@ -40,6 +40,10 @@ On November 7, Natural Disaster was unrated by the Geometry Dash developer, RobT
 
 But the question remains: does Natural Disaster deserve to be unrated? Aside from a few stolen effects, the level is entirely original and has had much time and dedication put into its creation.
 
+![Natural Disaster by GammaReXx ](https://preview.redd.it/natural-disaster-has-been-unrated-due-to-stealing-assets-v0-0h71j96fvky91.jpg?auto=webp&s=986de21f4ff28c2ac81d188a2000c1cd2b79ee31)
+
+*Natural Disaster after being unrated, screenshot from [u/Cosmicalic](https://www.reddit.com/r/geometrydash/comments/yowyh1/natural_disaster_has_been_unrated_due_to_stealing/).*
+
 This is a [complete case of ethics](/posts/geometry-dash-team-restoration-union-confesses-to-hacking-accounts/): how much is too much asset stealing? What's the line between inspiration and copying?
 
 If I create a design similar to another I've seen without directly copy and pasting it, does that still count as asset stealing? The Geometry Dash community has mixed opinions.
