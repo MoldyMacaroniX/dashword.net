@@ -23,7 +23,7 @@ After developing Geometry Dash in 2013, RobTop Games has continuously added cont
 * [GD Share](#gd-share)
 * [Texture LDR](#texture-ldr)
 * [Mega Hack v7](#mega-hack-v7)
-* [How To Install Geometry Dash Mods]()
+* [How To Install Geometry Dash Mods](<>)
 
 # Better Edit
 
@@ -59,10 +59,75 @@ G﻿D Share is a mod that allows for exporting and importing of Geometry Dash le
 
 This is great for collabs, as it means you don't have to rely on Geometry Dash's servers when sending levels to your friends.
 
-![](https://camo.githubusercontent.com/dc5b185e63954ed73001bc85df168e3f62164302ed4ae440aae1322371e63549/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3832323531373336303730363435333535342f3833323730353837333034313934383734332f756e6b6e6f776e2e706e673f77696474683d31323435266865696768743d373031)
+![Ability to export Geometry Dash levels as a file](https://camo.githubusercontent.com/dc5b185e63954ed73001bc85df168e3f62164302ed4ae440aae1322371e63549/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3832323531373336303730363435333535342f3833323730353837333034313934383734332f756e6b6e6f776e2e706e673f77696474683d31323435266865696768743d373031)
 
 *Ability to export Geometry Dash levels as a file, screenshot from [HJFod](https://github.com/HJfod/HJfod).*
 
 **Download GD Share**
 
 * [GD Share Download](https://github.com/HJfod/GDShare-mod)
+
+# Texture LDR
+
+T﻿exture LDR is a Geometry Dash mod that adds a Minecraft-like texture pack interface and folder. Now, you can keep all of your texture packs in one place. Installing and uninstalling texture packs is also as easy as just using this interface!
+
+This is a must-have mod if you use texture packs, especially if you switch between some a lot.
+
+![Texture LDR interface](https://pbs.twimg.com/media/EzdS2xmXMAIGogt?format=jpg&name=4096x4096)
+
+﻿*Texture LDR interface, screenshot from [Colon](https://twitter.com/therealgdcolon/status/1384667214670929920).*
+
+**Download Texture LDR**
+
+* [Texture LDR Download](https://github.com/poweredbypie/textureldr/releases)
+
+# Mega Hack v7
+
+Without a doubt one of the most popular mods on this list, Mega Hack v7 is a versatile Geometry Dash modding tool that implements a Minecraft-like client for mods such as noclip accuracy, hitbox viewer, speedhack, start pos switcher, and so much more.
+
+M﻿ega Hack v7 is without a doubt the biggest Geometry Dash mod menu, with over 170 unique features built-in!
+
+![https://www.reddit.com/r/geometrydash/comments/tailgg/running_mega_hack_v7_on_linux/](https://external-preview.redd.it/ZzZeIwi5zFs7i7PyWrvMbuQ6d4NPGzeQKg34PLijl8Q.png?auto=webp&s=464f69ab55f5e9aade6acae7d8827ed0d8ebc1df)
+
+*Mega Hack v7 interface, screenshot from [u/mat4444](https://www.reddit.com/r/geometrydash/comments/tailgg/running_mega_hack_v7_on_linux/).*
+
+However, there is a catch. **Mega Hack v7 is a paid mod.** It costs $4.00. After buying it, you get access to an easy-to-use installer and account.
+
+Fortunately, there is a similar mod, **Mega Hack v5.** It's interface isn't built into the game but it still has dozens of unique features.
+
+**Get Mega Hack v7**
+
+* [Mega Hack v7 Store](https://absolllute.com/store/view_mega_hack_pro)
+
+# How To Install Geometry Dash Mods
+
+Each mod discussed in this article is currently only available on the Windows, Steam version of Geometry Dash. With that being said, here is how to install each mod on this list!
+
+﻿*Mega Hack v7 has a separate, but fortunately much easier installation.* Hence, it will not be covered here. For instructions on how to install Mega Hack v7, refer to [it's store page](https://absolllute.com/store/view_mega_hack_pro).
+
+**Installing Geometry Dash Mods**
+
+Excluding Mega Hack v7 and Mega Hack v5, each mod on this list is installable with a modloader. Mega Hack v7 and Mega Hack v5 also function as modloaders, but this guide will use a modloader called **Quick LDR.**
+
+**How To Install Geometry Dash Mods**
+
+* [Download Quick LDR](https://cdn.discordapp.com/attachments/837026406282035300/859008315413626920/quickldr-v1.1.zip).
+* Open your Geometry Dash folder by going to your steam library, right clicking **Geometry Dash**, pressing **Manage**, and pressing **Browse local files.**
+* Drag and drop `libcurl.dll` and `quickldr.dll` into your Geometry Dash folder. Before doing this, you might want to backup the existing `libcurl.dll` file in your Geometry Dash folder by saving it in a different location. If your PC asks to replace existing files, allow it.
+* Inside your Geometry Dash folder, create a new folder called "`quickldr`".
+* Drag and drop each mod's DLL file inside your newly created "`quickldr`" folder.
+* Create a file called "`settings.txt`" inside your "`quickldr`" folder.
+* Inside of your "`settings.txt`" file, write the name of each filename, each on a new line, for every mod you added to the "`quickldr`" folder. For example, if I were installing Better Edit and Texture LDR, I would likely write something like this:
+
+  ```
+  BetterEdit-v4.0.1.dll
+  textureldr.dll
+  ```
+
+  Note that the version and exact file names might be different for you!
+
+A﻿nd there you have it, how to install the Geometry Dash mods listed here!
+
+---
+
+Geometry Dash mods have advanced a whole lot lately. Originally, they were just simple command-line programs that could change the game a bit. But now, [modders have created entirely new in-game UIs for their mods](/posts/geometry-dash-hacking/), bringing Geometry Dash modding to the next level.
