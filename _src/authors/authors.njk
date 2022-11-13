@@ -45,7 +45,7 @@ layout: base.njk
       {{ author.name }}
       {% if author.verified %}
         <!--<span class="badge ri-checkbox-circle-fill" data-tooltip="Verified" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></span>-->
-        <img src="/assets/img/verified.svg" alt="Verified Badge" onclick="alert('{{ verifiedText }}');">
+        <img src="/assets/img/verified.svg" alt="Verified Badge">
       {% endif %}
       {% if not hasArticles %}<span class="author-no-posts-tag">(no articles)</span>{% endif %}
   </div>

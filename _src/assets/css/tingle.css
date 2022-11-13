@@ -1,0 +1,277 @@
+/**
+ * tingle.js - A simple modal plugin written in pure JavaScript
+ * @version v0.16.0
+ * @link https://github.com/robinparisi/tingle#readme
+ * @license MIT
+ */
+
+/* Adjustments have been made! */
+
+@import url('/assets/css/index.css');
+ 
+.tingle-modal * {
+    box-sizing: border-box;
+}
+  
+.tingle-modal {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    display: flex;
+    visibility: hidden;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    -webkit-overflow-scrolling: touch;
+    background: rgba(0, 0, 0, 0.25);
+    opacity: 0;
+}
+  
+.tingle-modal {
+    -webkit-backdrop-filter: blur(2px);
+    backdrop-filter: blur(2px);
+}
+  
+  /* confirm and alerts
+  -------------------------------------------------------------- */
+  
+  .tingle-modal--confirm .tingle-modal-box {
+    text-align: center;
+  }
+  
+  /* modal
+  -------------------------------------------------------------- */
+  
+  .tingle-modal--noOverlayClose {
+    cursor: default;
+  }
+  
+  .tingle-modal--noClose .tingle-modal__close {
+    display: none;
+  }
+  
+  .tingle-modal__close {
+    position: fixed;
+    top: 2.5rem;
+    right: 2.5rem;
+    z-index: 1000;
+    padding: 0;
+    width: 2rem;
+    height: 2rem;
+    border: none;
+    background-color: transparent;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .tingle-modal__close svg * {
+    fill: currentColor;
+  }
+  
+  .tingle-modal__closeLabel {
+    display: none;
+  }
+  
+  .tingle-modal__close:hover {
+    color: #fff;
+  }
+  
+  .tingle-modal-box {
+    position: relative;
+    flex-shrink: 0;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: fit-content;
+    border-radius: var(--radius);
+    background: var(--bg);
+    opacity: 1;
+    cursor: auto;
+    will-change: transform, opacity;
+    font-size: 1.25rem;
+  }
+  
+  .tingle-modal-box__content {
+    padding: 0 25px;
+    padding-top: 25px;
+  }
+  
+  .tingle-modal-box__footer {
+    padding: 0 25px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    width: auto;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    background-color: var(--bg);
+    cursor: auto;
+    display: flex;
+    gap: 25px;
+  }
+  
+  .tingle-modal-box__footer--sticky {
+    position: fixed;
+    bottom: -200px; /* TODO : find a better way */
+    z-index: 10001;
+    opacity: 1;
+    transition: bottom .3s ease-in-out .3s;
+  }
+  
+  /* state
+  -------------------------------------------------------------- */
+  
+  .tingle-enabled {
+    position: fixed;
+    right: 0;
+    left: 0;
+    overflow: hidden;
+  }
+  
+  .tingle-modal--visible .tingle-modal-box__footer {
+    bottom: 0;
+  }
+  
+  .tingle-modal--visible {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .tingle-modal--visible .tingle-modal-box {
+    animation: scale .2s cubic-bezier(.68, -.55, .265, 1.55) forwards;
+  }
+  
+  .tingle-modal--overflow {
+    overflow-y: scroll;
+    padding-top: 8vh;
+  }
+  
+  /* btn
+  -------------------------------------------------------------- */
+  
+  .tingle-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    color: var(--white);
+    background-color: var(--primary);
+    padding: 15px 25px;
+    font-weight: bold;
+    border-radius: var(--radius);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    font-size: var(--font-size);
+  }
+
+  .tingle-btn:focus {
+    outline: var(--primary) 3px solid;
+    outline-offset: 2px;
+  }
+  
+  .tingle-btn--primary {
+    background-color: var(--primary);
+  }
+  
+  .tingle-btn--danger {
+    background-color: #e74c3c;
+  }
+  
+  .tingle-btn--default {
+    background-color: #34495e;
+  }
+  
+  .tingle-btn--pull-left {
+    float: left;
+  }
+  
+  .tingle-btn--pull-right {
+    float: right;
+  }
+  
+  /* responsive
+  -------------------------------------------------------------- */
+  
+  @media (max-width : 540px) {
+    .tingle-modal {
+      top: 0px;
+      display: block;
+      padding-top: 60px;
+      width: 100%;
+    }
+  
+    .tingle-modal-box {
+      width: auto;
+      border-radius: 0;
+    }
+  
+    .tingle-modal-box__content {
+      overflow-y: scroll;
+    }
+  
+    .tingle-modal--noClose {
+      top: 0;
+    }
+  
+    .tingle-modal--noOverlayClose {
+      padding-top: 0;
+    }
+  
+    .tingle-modal-box__footer .tingle-btn {
+      display: block;
+      float: none;
+      margin-bottom: 1rem;
+      width: 100%;
+    }
+  
+    .tingle-modal__close {
+        top: 0;
+        right: 0;
+        left: 0;
+        display: block;
+        width: 100%;
+        height: 60px;
+        border: none;
+        background-color: var(--primary);
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        font-family: 'Montserrat', sans-serif;
+        box-shadow: none;
+        color: #fff;
+    }
+  
+    .tingle-modal__closeLabel {
+      display: inline-block;
+      vertical-align: middle;
+      font-size: 1.6rem;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    }
+  
+    .tingle-modal__closeIcon {
+      display: inline-block;
+      margin-right: .8rem;
+      width: 1.6rem;
+      vertical-align: middle;
+      font-size: 0;
+    }
+  }
+  
+  /* animations
+  -------------------------------------------------------------- */
+  
+  @keyframes scale {
+    0% {
+      opacity: 0;
+      transform: scale(.9);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }

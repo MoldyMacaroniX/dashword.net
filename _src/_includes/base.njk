@@ -90,6 +90,8 @@ window.__h82AlnkH6D91__("WyJwdWItNzY4NDM4MzI0NjEwMTc5MSIsW251bGwsbnVsbCxudWxsLCJ
     <!-- Toastify JS -->
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
 
+    <link rel="stylesheet" type="text/css" href="/assets/css/tingle.css">
+
     <!-- Opengraph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ metadata.url }}">
@@ -537,6 +539,70 @@ window.__h82AlnkH6D91__("WyJwdWItNzY4NDM4MzI0NjEwMTc5MSIsW251bGwsbnVsbCxudWxsLCJ
         onClick: function(){} // Callback after click
         }).showToast();
     }
+    </script>
+
+    <!-- Tingle -->
+    <script type="text/javascript" src="/assets/js/tingle.js"></script>
+    <script>
+    // instanciate new modal
+    var modal1 = new tingle.modal({
+        footer: true,
+        stickyFooter: false,
+        closeMethods: ['overlay', 'button', 'escape'],
+        closeLabel: "Close",
+        cssClass: ['custom-class-1', 'custom-class-2'],
+        onOpen: function() {
+            console.log('modal open');
+        },
+        onClose: function() {
+            console.log('modal closed');
+        },
+        beforeClose: function() {
+            // here's goes some logic
+            // e.g. save content before closing the modal
+            return true; // close the modal
+            return false; // nothing happens
+        }
+    });
+
+    // set content
+    modal1.setContent('<p>This account is verified because it\'s subscribed to Dashword Blue.</p>');
+
+    // add a button
+    modal1.addFooterBtn('Close', 'tingle-btn tingle-btn--primary', function() {
+        // here goes some logic
+        modal1.close();
+    });
+
+    // instanciate new modal
+    var modal2 = new tingle.modal({
+        footer: true,
+        stickyFooter: false,
+        closeMethods: ['overlay', 'button', 'escape'],
+        closeLabel: "Close",
+        cssClass: ['custom-class-1', 'custom-class-2'],
+        onOpen: function() {
+            console.log('modal open');
+        },
+        onClose: function() {
+            console.log('modal closed');
+        },
+        beforeClose: function() {
+            // here's goes some logic
+            // e.g. save content before closing the modal
+            return true; // close the modal
+            return false; // nothing happens
+        }
+    });
+
+    // set content
+    modal2.setContent('<p>This account is verified because it\'s notable in Geometry Dash news.</p>');
+
+    // add a button
+    modal2.addFooterBtn('Close', 'tingle-btn tingle-btn--primary', function() {
+        // here goes some logic
+        modal2.close();
+    });
     </script>
 
     <!-- Netlify CMS -->
