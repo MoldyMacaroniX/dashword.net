@@ -1,0 +1,14 @@
+---
+permalink: /index.json
+layout: false
+---
+[
+   {% for post in collections.posts %}
+   {
+      "title":"{{ post.data.title }}",
+      "url":"{{ post.url }}",
+      "author":"{{ post.data.author }}",
+      "content":"{{ post.data.desc }}"
+   }{% if not loop.last %},{% endif %}
+   {% endfor %} 
+]

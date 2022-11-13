@@ -90,7 +90,10 @@ window.__h82AlnkH6D91__("WyJwdWItNzY4NDM4MzI0NjEwMTc5MSIsW251bGwsbnVsbCxudWxsLCJ
     <!-- Toastify JS -->
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
 
+    {% if hasModal %}
+    <!-- Tingle -->
     <link rel="stylesheet" type="text/css" href="/assets/css/tingle.css">
+    {% endif %}
 
     <!-- Opengraph -->
     <meta property="og:type" content="website">
@@ -142,13 +145,16 @@ window.__h82AlnkH6D91__("WyJwdWItNzY4NDM4MzI0NjEwMTc5MSIsW251bGwsbnVsbCxudWxsLCJ
     <!-- MOBILE NAV START -->
     <div class="mobile" id="menu">
         <i class="ri-close-fill close" id="close" onclick="closeMobile()" onkeydown="if (event.keyCode === 13) {closeMobile()}" tabindex="0"></i>
-        <a href="/" class="mobile-item">Home</a>
-        <a href="/categories/2.2/" class="mobile-item">2.2</a>
-        <a href="/categories/news/" class="mobile-item">News</a>
-        <a href="/categories/demonlist/" class="mobile-item">Demonlist</a>
-        <a href="/categories/guide/" class="mobile-item">Guide</a>
-        <a href="/categories/opinion/" class="mobile-item">Opinion</a>
-        <a href="/categories/review/" class="mobile-item">Review</a>
+        <div style="display: flex; flex-direction: column; height: 100%;">
+            <a href="/" class="mobile-item">Home</a>
+            <a href="/categories/2.2/" class="mobile-item">2.2</a>
+            <a href="/categories/news/" class="mobile-item">News</a>
+            <a href="/categories/demonlist/" class="mobile-item">Demonlist</a>
+            <a href="/categories/guide/" class="mobile-item">Guide</a>
+            <a href="/categories/opinion/" class="mobile-item">Opinion</a>
+            <a href="/categories/review/" class="mobile-item">Review</a>
+            <a href="/search/" class="mobile-item" style="margin-top: auto; display: flex; align-items: center; gap: 5px;"><i class="ri-search-line"></i> Search</a>
+        </div>
     </div>
     <div class="mobile-bg" id="menu-bg" onclick="closeMobile()"></div>
     <!-- MOBILE NAV END -->
@@ -299,6 +305,7 @@ window.__h82AlnkH6D91__("WyJwdWItNzY4NDM4MzI0NjEwMTc5MSIsW251bGwsbnVsbCxudWxsLCJ
                 </div>
                 <div class="right">
                     <div class="items">
+                        <a class="ri-search-line item-icon hide-on-phone" href="/search/"></a>
                         <a href="/contribute/" class="button">Contribute</a>
                     </div>
                 </div>
@@ -541,6 +548,7 @@ window.__h82AlnkH6D91__("WyJwdWItNzY4NDM4MzI0NjEwMTc5MSIsW251bGwsbnVsbCxudWxsLCJ
     }
     </script>
 
+    {% if hasModal %}
     <!-- Tingle -->
     <script type="text/javascript" src="/assets/js/tingle.js"></script>
     <script>
@@ -603,7 +611,38 @@ window.__h82AlnkH6D91__("WyJwdWItNzY4NDM4MzI0NjEwMTc5MSIsW251bGwsbnVsbCxudWxsLCJ
         // here goes some logic
         modal2.close();
     });
+
+    // instanciate new modal
+    var modal = new tingle.modal({
+        footer: true,
+        stickyFooter: false,
+        closeMethods: ['overlay', 'button', 'escape'],
+        closeLabel: "Close",
+        cssClass: ['custom-class-1', 'custom-class-2'],
+        onOpen: function() {
+            console.log('modal open');
+        },
+        onClose: function() {
+            console.log('modal closed');
+        },
+        beforeClose: function() {
+            // here's goes some logic
+            // e.g. save content before closing the modal
+            return true; // close the modal
+            return false; // nothing happens
+        }
+    });
+
+    // set content
+    modal.setContent('<p>Please include something in the search field in order to search.</p>');
+
+    // add a button
+    modal.addFooterBtn('Close', 'tingle-btn tingle-btn--primary', function() {
+        // here goes some logic
+        modal.close();
+    });
     </script>
+    {% endif %}
 
     <!-- Netlify CMS -->
     <script>

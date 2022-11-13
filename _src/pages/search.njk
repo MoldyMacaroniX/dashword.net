@@ -1,0 +1,114 @@
+---
+title: Search
+desc: Search our article collection on Dashword.
+permalink: /search/
+layout: base.njk
+hasModal: true
+---
+
+<h1 class="heading">Search Dashword</h1>
+
+<!-- SEARCH -->
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+
+<div class="search-bg" id="search-menu-bg"></div>
+<div class="search" id="search-menu">
+    <div id="app">
+
+        <form onsubmit="return false">
+            <input type="search" v-model="term" placeholder="Search keywords here..." id="searchfield" value="">
+            <button @click="search" class="button button-wide">Search</button>
+        </form>
+
+        <div v-if="results" class="results">
+            {# <h1 class="title" style="margin-bottom: 20px; margin-top: 25px;">Results</h1> #}
+            <div class="search-results" id="results">
+                <div v-for="result in results" class="search-result">
+                    <p class="result-title"><a :href="result.url"><span v-html="result.title"></span></a></p>
+                    <p class="result-desc"><a :href="result.url"><span v-html="result.content"></span></a></p>
+                </div>
+            </div>
+            <div v-if="noResults" class="article">
+            <p>Sorry, no results were found. You can try the following.</p>
+            <ul>
+                <li>Make sure all search terms are spelled correctly.</li>
+                <li>Try searching keywords (such as "2.2").</li>
+                <li>If you are looking for posts by an author, try searching their author ID.</li>
+            </ul>
+            </div>
+        </div>
+
+    </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script>
+const app = new Vue({
+    el:'#app',
+    data:{
+        docs:null,
+        idx:null,
+        term:'',
+        results:null
+    },
+    async created() {
+        let result = await fetch('/index.json');
+        docs = await result.json();
+        // assign an ID so it's easier to look up later, it will be the same as index
+        this.idx = lunr(function () {
+            this.ref('id');
+            this.field('title');
+            this.field('content');
+            this.field('author');
+            docs.forEach(function (doc, idx) {
+                doc.id = idx;
+                this.add(doc); 
+            }, this);
+        });
+        this.docs = docs;
+    },
+    computed: {
+        noResults() {
+            return this.results.length === 0;
+        }
+    },
+    methods:{
+        search() {
+            //if () {}
+            console.log('search', this.term);
+            if (this.term != "") {
+                let results = this.idx.search(this.term);
+                // we need to add title, url from ref
+                results.forEach(r => {
+                    r.title = this.docs[r.ref].title;
+                    r.url = this.docs[r.ref].url;
+                    r.content = this.docs[r.ref].content;
+                });
+                this.results = results;
+            } else {
+                console.log("put something in the search field idot");
+                openMe();
+            }
+        }
+    }
+});
+</script>
+<!-- END SEARCH -->
+
+<script>
+// https://stackoverflow.com/a/901144
+const params = new Proxy(new URLSearchParams(window.location.search), {
+  get: (searchParams, prop) => searchParams.get(prop),
+});
+
+let value = params.search; 
+console.log(value);
+document.getElementById("searchfield").value = value;
+app.search();
+</script>
+
+<script>
+function openMe() {
+    console.log("open");
+    modal.open();
+}
+</script>
