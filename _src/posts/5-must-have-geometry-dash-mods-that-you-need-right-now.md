@@ -23,7 +23,7 @@ After developing Geometry Dash in 2013, RobTop Games has continuously added cont
 * [GD Share](#gd-share)
 * [Texture LDR](#texture-ldr)
 * [Mega Hack v7](#mega-hack-v7)
-* [How To Install Geometry Dash Mods](<>)
+* [How To Install Geometry Dash Mods](#how-to-install-geometry-dash-mods)
 
 # Better Edit
 
