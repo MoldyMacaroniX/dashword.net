@@ -28,16 +28,32 @@ layout: base.njk
   {% endif %}
 {% endfor %}
 
+{% set verifiedText = "This account is verified because it\\'s subscribed to Dashword Blue." %}
+
+{% if author.realVerified %}
+{% set verifiedText = "This account is verified because it\\'s notable in government, news, entertainment, or another designated category." %}
+{% endif %}
+
 {% if hasArticles %}
 <a href="/authors/{{ author.key }}/" class="author-preview">
 {% else %}
 <span class="author-preview author-no-posts">
 {% endif %}
 <div class="author-preview-photo"><img src="{{ author.photo | url }}" alt="{{ author.name }}'s Profile Photo"></div>
-<div class="author-preview-name">
-    {{ author.name }}
-    {% if author.verified %}<span class="badge ri-checkbox-circle-fill" data-tooltip="Verified" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></span>{% endif %}
-    {% if not hasArticles %}<span class="author-no-posts-tag">(no articles)</span>{% endif %}
+<div>
+  <div class="author-preview-name">
+      {{ author.name }}
+      {% if author.verified %}
+        <!--<span class="badge ri-checkbox-circle-fill" data-tooltip="Verified" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></span>-->
+        <img src="/assets/img/verified.svg" alt="Verified Badge" onclick="alert('{{ verifiedText }}');">
+      {% endif %}
+      {% if not hasArticles %}<span class="author-no-posts-tag">(no articles)</span>{% endif %}
+  </div>
+  {% if author.realVerified %}
+  <div>
+    <div class="verified-chip"><img src="/assets/img/verified-grey.svg" alt="Verified Badge"> Official</div>
+  </div>
+  {% endif %}
 </div>
 {% if hasArticles %}
 </a>

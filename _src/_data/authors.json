@@ -8,7 +8,8 @@
 		"customyt":"true",
 		"twitter":"GDCreatorSchool",
 		"discord":"gdcs",
-		"verified": "true"
+		"verified": "true",
+		"realVerified":"true"
 	},
 	{
 		"key":"moldymacaronix",
@@ -21,7 +22,8 @@
 		"twitter":"moldymacaronix",
 		"discord":"PqTUgx6",
 		"gdbrowser":"CreatorMoldy",
-		"verified": "true"
+		"verified": "true",
+		"realVerified":"true"
 	},
 	{
 		"key":"esmik",
@@ -208,7 +210,8 @@
 		"name": "Dashword Staff",
 		"bio": "Latest posts from the Dashword team!",
 		"photo": "/assets/img/icon.png",
-		"verified":"true"
+		"verified":"true",
+		"realVerified":"true"
 	},
 	{
         "key": "ender",
