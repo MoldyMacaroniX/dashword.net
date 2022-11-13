@@ -587,6 +587,9 @@ a.mobile-item {
     left: 0;
     width: 100%;
     height: 100%;
+}
+
+.aspect img, .video-iframe img {
     object-fit: cover;
 }
 
