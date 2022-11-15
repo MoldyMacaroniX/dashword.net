@@ -5,6 +5,7 @@ pagination:
   alias: category
 permalink: authors/{{ category.slug }}/index.html
 
+hasModal: true
 pageID: authorPosts
 layout: base.njk
 ---
@@ -13,6 +14,12 @@ layout: base.njk
 
 <h1 class="heading">Articles by {{ myAuthor.name }}</h1>
 
+{% set verifiedText = "modal1" %}
+
+{% if myAuthor.realVerified %}
+{% set verifiedText = "modal2" %}
+{% endif %}
+
 <div class="cols author-profile">
   <div class="author-photo">
     <img src="{{ myAuthor.photo }}" alt="{{ myAuthor.name }}">
@@ -20,11 +27,16 @@ layout: base.njk
   <div class="col">
     <span class="author-name">
       {{ myAuthor.name }}
-      {% if myAuthor.verified %}<span class="badge ri-checkbox-circle-fill" data-tooltip="Verified" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></span>{% endif %}
+      {% if myAuthor.verified %}<img src="/assets/img/verified.svg" alt="Verified Badge" onclick="{{ verifiedText }}.open();" style="cursor: pointer;">{% endif %}
     </span>
+    {% if myAuthor.realVerified %}
+    <div style="margin-bottom: 5px;">
+      <div class="verified-chip"><img src="/assets/img/verified-grey.svg" alt="Verified Badge"> Official</div>
+    </div>
+    {% endif %}
     <span class="author-desc">{{ myAuthor.bio }}</span>
     <div class="author-socials">
-      {% if myAuthor.youtube %}<a href="https://www.youtube.com/{% if myAuthor.customyt %}c{% else %}{% if myAuthor.handle %}{% else %}channel{% endif %}{% endif %}/{{ myAuthor.youtube }}" class="ri-youtube-fill" data-tooltip="YouTube" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></a>{% endif %}
+            {% if myAuthor.youtube %}<a href="https://www.youtube.com/{% if myAuthor.customyt %}c{% else %}{% if myAuthor.handle %}{% else %}channel{% endif %}{% endif %}/{{ myAuthor.youtube }}" class="ri-youtube-fill" data-tooltip="YouTube" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></a>{% endif %}
         {% if myAuthor.twitch %}<a href="https://www.twitch.tv/{{ myAuthor.twitch }}" class="ri-twitch-fill" data-tooltip="Twitch" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></a>{% endif %}
         {% if myAuthor.twitter %}<a href="https://twitter.com/{{ myAuthor.twitter }}" class="ri-twitter-fill" data-tooltip="Twitter" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></a>{% endif %}
         {% if myAuthor.discord %}<a href="https://discord.gg/{{ myAuthor.discord }}" class="ri-discord-fill" data-tooltip="Discord" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></a>{% endif %}
@@ -45,3 +57,4 @@ layout: base.njk
 {% set paged = category.pageSlugs %}
 {% set nestedPagination = true %}
 {% set authorPagination = true %}
+{% include "partials/paginator.njk" %}
