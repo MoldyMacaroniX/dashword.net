@@ -8,12 +8,11 @@
 		"customyt":"true",
 		"twitter":"GDCreatorSchool",
 		"discord":"gdcs",
-		"verified": "true",
-		"realVerified":"true"
+		"verified": "true"
 	},
 	{
 		"key":"moldymacaronix",
-		"name":"Moldy",
+		"name":"MoldyMacaroniX",
 		"bio": "I am Moldy. Not literally, of course.",
 		"photo":"https://yt3.ggpht.com/ytc/AKedOLQr8KPiI594vmcI02OJ-1eIHRwESVuzCRm1bsauNA=s900-c-k-c0x00ffffff-no-rj",
 		"youtube":"moldymacaronix",
@@ -22,8 +21,7 @@
 		"twitter":"moldymacaronix",
 		"discord":"PqTUgx6",
 		"gdbrowser":"CreatorMoldy",
-		"verified": "true",
-		"realVerified":"true"
+		"verified": "true"
 	},
 	{
 		"key":"esmik",
@@ -185,8 +183,7 @@
 		"customyt":"true",
 		"twitch":"TheStupidDodo",
 		"discord":"Pnt5dcmMjJ",
-		"gdbrowser":"TheStupidDodo",
-		"verified":"true"
+		"gdbrowser":"TheStupidDodo"
 	},
 	{
 		"key":"kylu",
@@ -206,15 +203,26 @@
 		"youtube": "UCqhF9FFFbP2HNGv5Dn4_5WA",
 		"gdbrowser": "Dolphin02"
 	},
+    {
+		"key":"wbilgini",
+		"name":"WBilgini",
+		"bio": "Youtuber, learning programmer. I like playing games and making videos.",
+		"photo":"https://media.istockphoto.com/id/1147544807/vector/thumbnail-image-vector-graphic.jpg?s=612x612&w=0&k=20&c=rnCKVbdxqkjlcs3xH87-9gocETqpspHFXu5dIGB4wuM=", //for now keep this
+		"youtube":"@wbilgini",
+		"handle":"true",
+		"twitch":"wbilginiyt",
+		"twitter":"wbilgini",
+		"discord":"rb9HkA2Gm7",
+		"gdbrowser":"WBilgini"
+	},
 	{
 		"key": "dashword",
 		"name": "Dashword Staff",
 		"bio": "Latest posts from the Dashword team!",
 		"photo": "/assets/img/icon.png",
-		"verified":"true",
-		"realVerified":"true"
+		"verified":"true"
 	},
-	{
+    {
         "key": "ender",
         "name": "Ender",
         "photo": "https://yt3.ggpht.com/ytc/AMLnZu-aWjeOk3_7S7eMIawSjPP3hv3xo_-SUElCzL6lrw=s900-c-k-c0x00ffffff-no-rj",
