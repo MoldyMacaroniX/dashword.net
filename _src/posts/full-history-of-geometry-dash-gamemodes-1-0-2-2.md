@@ -33,3 +33,5 @@ What's been said so far in this article doesn't even include gamemode modifiers 
 Not to mention all the custom gamemodes created by the community using these features!
 
 We are committed to bringing you [accurate Geometry Dash history](/categories/history/). All of our articles are written by [dedicated and experienced](/authors/) Geometry Dash players who know their craft, so you can be certain everything we share is correct.
+
+You can also [see more Geometry Dash videos here](https://www.dashword.net/categories/video/)!
