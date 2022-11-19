@@ -804,7 +804,7 @@ h1.heading {
 
 /* Article Copy */
 
-.article p, .article li, .article img, .article h1, .article h2, .article h3, .article h4, .article h5, .article h6, .alert, .podcast-player {
+.article p, .article li, .article img, .article h1, .article h2, .article h3, .article h4, .article h5, .article h6, .alert, .podcast-player, .video-iframe {
     display: block;
     margin: 15px 0;
 }
