@@ -1,5 +1,5 @@
 ---
-title: "R/Place In Geometry Dash: Place.gd"
+title: "R/Place In Geometry Dash: Place.GD"
 desc: Popular Geometry Dash player and programmer Spu7nix teamed up with other
   programmers to recreate r/place in Geometry Dash. Now, you can build a level
   with thousands of others just like the famous Reddit r/place!
