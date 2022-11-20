@@ -22,7 +22,7 @@ Inspired by Reddit's two r/place events, the Geometry Dash editor seemed perfect
 
 However, Spu7nix took this idea a step further, recreating r/place in Geometry Dash by recreating the Geometry Dash editor on a website!
 
-In Spu7nix's so-called Geometry Dash Place, you can place or delete an object every five minutes. Everything you build can be deleted by others, so it is important to keep watch over what you build.
+In Spu7nix's so-called [Geometry Dash Place](https://place.gd/), you can place or delete an object every five minutes. Everything you build can be deleted by others, so it is important to keep watch over what you build.
 
 ![Some pixel art recreated in GD Place](https://media.discordapp.net/attachments/392087938239954950/1043773025528582215/image.png)
 
@@ -39,3 +39,5 @@ Fortunately, [we've made a live countdown](https://countingdownto.com/?c=4425689
 *Bloodbath part recreated in GD Place.*
 
 Overall, this is a super cool event! You should definitely place a block in it while you still can. Since there is so much space and activity has died down, there is a high chance what you make will survive!
+
+[Make something on GD Place before it's too late!](https://place.gd/)
