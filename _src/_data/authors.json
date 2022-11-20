@@ -210,7 +210,7 @@
 		"key": "dashword",
 		"name": "Dashword Staff",
 		"bio": "Latest posts from the Dashword team!",
-		"photo": "/assets/img/icon.png",
+		"photo": "/assets/img/dw-avatar.png",
 		"verified":"true",
 		"realVerified":"true"
 	},
