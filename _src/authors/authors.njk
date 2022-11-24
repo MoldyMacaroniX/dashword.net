@@ -37,7 +37,7 @@ layout: base.njk
 {% if hasArticles %}
 <a href="/authors/{{ author.key }}/" class="author-preview">
 {% else %}
-<span class="author-preview author-no-posts">
+<span class="author-preview author-no-posts"{% if not hasArticles %} style="display: none;"{% endif %}>
 {% endif %}
 <div class="author-preview-photo"><img src="{{ author.photo | url }}" alt="{{ author.name }}'s Profile Photo"></div>
 <div>

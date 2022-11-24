@@ -1,5 +1,21 @@
 [
 	{
+		"key": "dashword",
+		"name": "Dashword Staff",
+		"bio": "Latest posts from the Dashword team!",
+		"photo": "/assets/img/dw-avatar.png",
+		"verified":"true",
+		"realVerified":"true"
+	},
+	{
+		"key": "podcast",
+		"name": "The GD Podcast",
+		"bio": "Latest posts from The GD Podcast team!",
+		"photo": "/assets/img/dw-avatar.png",
+		"verified":"true",
+		"realVerified":"true"
+	},
+	{
 		"key":"gdcs",
 		"name":"Creator School",
 		"bio": "The Geometry Dash Creator School is a place where aspiring creators can turn into experienced level makers!",
@@ -205,14 +221,6 @@
 		"photo": "https://i.imgur.com/rnceKcf.jpeg",
 		"youtube": "UCqhF9FFFbP2HNGv5Dn4_5WA",
 		"gdbrowser": "Dolphin02"
-	},
-	{
-		"key": "dashword",
-		"name": "Dashword Staff",
-		"bio": "Latest posts from the Dashword team!",
-		"photo": "/assets/img/dw-avatar.png",
-		"verified":"true",
-		"realVerified":"true"
 	},
 	{
         "key": "ender",
