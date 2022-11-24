@@ -31,9 +31,9 @@ Writing for Dashword comes with zero obligations! If you don't want to write, yo
 
 **But why write for Dashword?**
 
-- Dashword has over 3000 monthly readers!
-- Dashword gets over 10,000 views every month!
-- Dashword averages 100,000 impressions every month!
+- Dashword has over 10,000 monthly readers!
+- Dashword gets over 20,000 views every month!
+- Dashword averages over 200,000 impressions every month!
 - Dashword ranks high in Google Search results for terms like "Geometry Dash" and "Geometry Dash 2.2" and is increasing every month!
 
 # Submit Content
