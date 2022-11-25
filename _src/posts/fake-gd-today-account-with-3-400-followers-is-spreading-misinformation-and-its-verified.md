@@ -32,6 +32,12 @@ While the impostor account is spreading misinformation, it doesn't take much inv
 
 *A [clearly fake](https://twitter.com/today_gd1/status/1595035375012937728) post on the impostor GD Today account.*
 
-That being said, it is clear that this account is a direct satire towards Twitter's subscription service Twitter Blue. The reason parody accounts weren't harmless was because we had the verified badge to distinguish real accounts from fakes.
+That being said, it is clear that this account is a direct satire towards Twitter's subscription service Twitter Blue. The reason parody accounts weren't harmless before was because we had the verified badge to distinguish real accounts from fakes.
 
-But now, with the verified badge being available to anyone who's employed or gets an allowance, Twitter has had to [strengthen their parody guidelines](), or in other words, limit comedy on the platform.
+But now, with the verified badge being available to anyone who's employed or gets an allowance, Twitter has had to [strengthen their parody guidelines](https://help.twitter.com/en/rules-and-policies/parody-account-policy), or in other words, limit comedy on the platform:
+
+> To avoid confusing others about an account’s affiliation, parody, commentary, and fan accounts must distinguish themselves in **BOTH** their account name and bio.
+
+Due to the widespread chaos caused by the subscription service, it is now temporarily unavailable. Twitter does not know when they plan to bring it back but confirm that it will make a return when it's ready.
+
+The impostor GD Today account, despite clearly not following Twitter's new parody guidelines, has not been suspended or had its verified badge removed. And honestly, I hope it stays that way. At the end of the day, this account is hilarious.
