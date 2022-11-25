@@ -245,5 +245,15 @@
 		"name":"Electrify",
 		"photo":"https://yt3.ggpht.com/ytc/AMLnZu9TwJUtC-8FDu9TaYnShdYFPKAjWy_26c_e01eX9w=s900-c-k-c0x00ffffff-no-rj",
 		"verified":"true"
+	},
+	{
+		"key":"herozer",
+		"name":"herozer",
+		"bio": "crazy",
+		"photo":"https://yt3.ggpht.com/rCgKF-ScO850hlWvmnMuJPdJ58UNpmP1cMqAJHGaYwnbUUewzoESqdZlCVCKuNiYkyWddpKs",
+		"youtube":"UCQaSBzSycKka6lktsw2j7zw",
+		"twitch":"herozerrr",
+		"twitter":"herozer7",
+		"gdbrowser":"herozer"
 	}
 ]
