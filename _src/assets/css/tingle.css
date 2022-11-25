@@ -84,13 +84,15 @@
     flex-shrink: 0;
     margin-top: auto;
     margin-bottom: auto;
-    width: fit-content;
+    min-width: 500px;
+    max-width: 900px;
     border-radius: var(--radius);
     background: var(--bg);
     opacity: 1;
     cursor: auto;
     will-change: transform, opacity;
     font-size: 1.25rem;
+    line-height: 1.5;
   }
   
   .tingle-modal-box__content {

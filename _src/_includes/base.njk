@@ -90,10 +90,8 @@ window.__h82AlnkH6D91__("WyJwdWItNzY4NDM4MzI0NjEwMTc5MSIsW251bGwsbnVsbCxudWxsLCJ
     <!-- Toastify JS -->
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
 
-    {% if hasModal %}
     <!-- Tingle -->
     <link rel="stylesheet" type="text/css" href="/assets/css/tingle.css">
-    {% endif %}
 
     <!-- Opengraph -->
     <meta property="og:type" content="website">
@@ -113,7 +111,7 @@ window.__h82AlnkH6D91__("WyJwdWItNzY4NDM4MzI0NjEwMTc5MSIsW251bGwsbnVsbCxudWxsLCJ
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
-<body>
+<body onmouseleave="beforeLeave();" id="body">
 
     <!-- NOTIF ALERT START -->
     <div class="notif cols" id="notif">
@@ -548,7 +546,6 @@ window.__h82AlnkH6D91__("WyJwdWItNzY4NDM4MzI0NjEwMTc5MSIsW251bGwsbnVsbCxudWxsLCJ
     }
     </script>
 
-    {% if hasModal %}
     <!-- Tingle -->
     <script type="text/javascript" src="/assets/js/tingle.js"></script>
     <script>
@@ -641,8 +638,54 @@ window.__h82AlnkH6D91__("WyJwdWItNzY4NDM4MzI0NjEwMTc5MSIsW251bGwsbnVsbCxudWxsLCJ
         // here goes some logic
         modal.close();
     });
+
+    // instanciate new modal
+    var leave = new tingle.modal({
+        footer: true,
+        stickyFooter: false,
+        closeMethods: ['overlay', 'button', 'escape'],
+        closeLabel: "Close",
+        cssClass: ['custom-class-1', 'custom-class-2'],
+        onOpen: function() {
+            console.log('modal open');
+        },
+        onClose: function() {
+            console.log('modal closed');
+        },
+        beforeClose: function() {
+            // here's goes some logic
+            // e.g. save content before closing the modal
+            return true; // close the modal
+            return false; // nothing happens
+        }
+    });
+
+    // set content
+    leave.setContent('<p style="margin-bottom: 10px; font-size: 1.5rem;"><b>How To Download & Install The Geometry Dash 2.2 Private Server</b></p><p style="margin-bottom: 20px;">The Geometry Dash 2.2 private server is a mod that allows you to play Geometry Dash on version 2.2. You can even upload levels and play levels made by others, all on the private server.</p><a href="/posts/geometry-dash-2-2-private-server-download-install/"><div class="aspect"><img src="https://external-preview.redd.it/NZMFL9nrkpGXC-y-krEbZjyF2uHHhqNFzN_ZUTn3By0.jpg?format=pjpg&auto=webp&s=86f106121dcdc47f82236819f105c2feb5469ffe" alt="Geometry Dash 2.2"></div></a>');
+
+    // add a button
+    leave.addFooterBtn('Read Now', 'tingle-btn tingle-btn--primary', function() {
+        location.href = "/posts/geometry-dash-2-2-private-server-download-install/";
+    });
+ 
+    // add a button
+    leave.addFooterBtn('Close', 'tingle-btn tingle-btn--primary', function() {
+        // here goes some logic
+        leave.close();
+    });
+
+    {# document.onmouseleave = function() {
+        leave.open();
+    } #}
+
+    function beforeLeave() {
+        if (barn.get("seenBeforeLeave") != true) { // barn.get("seenBeforeLeave") != true
+            leave.open();
+            barn.set("seenBeforeLeave", true);
+            document.getElementById("body").removeAttribute("onmouseleave");
+        }
+    }
     </script>
-    {% endif %}
 
     <!-- Netlify CMS -->
     <script>
