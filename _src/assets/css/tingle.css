@@ -84,7 +84,6 @@
     flex-shrink: 0;
     margin-top: auto;
     margin-bottom: auto;
-    min-width: 500px;
     max-width: 900px;
     border-radius: var(--radius);
     background: var(--bg);
