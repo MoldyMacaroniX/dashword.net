@@ -1,5 +1,5 @@
 ---
-title: Fake GD Today Account With 3,400 Followers Is Spreading Misinformation -
+title: Fake GD Today Account With 3400 Followers Is Spreading Misinformation -
   And It's Verified
 desc: A fake GD Today account posting fake but sometimes believable news has
   acquired 3,400 followers and a verified check mark.
