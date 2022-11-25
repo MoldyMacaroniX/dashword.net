@@ -13,7 +13,7 @@ imageSource: https://www.pinterest.ca/pin/geometry-dashiconsdesings-block-in-202
 ---
 Asset stealing seems to be the brand new hot topic in the Geometry Dash community, specifically on Twitter. Nasgubb, a popular creator, [gave his take]() on the matter after the famous level [Natural Disaster was unrated](/posts/geometry-dash-extreme-demon-natural-disaster-unrated-following-accusations/) for stealing assets.
 
-But let's be real. One major reason this controversy is so, well, *controversial*, is likely because nobody really agrees on what asset theft really is.
+But let's be real. One major reason this controversy is so, well, *controversial*, is likely because nobody really agrees on what asset theft even is.
 
 In this article, I will define **asset theft** as so:
 
