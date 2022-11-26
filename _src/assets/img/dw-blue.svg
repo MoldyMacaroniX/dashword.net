@@ -1,0 +1,12 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <rect fill="#0067EE" stroke="#000" x="32" y="32" width="436" height="436" id="svg_2" stroke-width="0" rx="5"/>
+  <g id="svg_4">
+   <rect stroke-width="0" fill="#ffffff" x="129" y="140" width="72" height="72" id="svg_3" rx="5" stroke="#0067EE"/>
+   <rect fill="#ffffff" x="296" y="141" width="72" height="72" id="svg_6" rx="5" stroke="#0067EE"/>
+   <rect stroke="#0067EE" fill="#ffffff" x="112" y="288" width="276" height="72" id="svg_1" rx="5"/>
+  </g>
+ </g>
+
+</svg>
