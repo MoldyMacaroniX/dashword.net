@@ -15,4 +15,8 @@ After the [full showcase](https://www.youtube.com/watch?v=ryBbuH_SPbs) on Novemb
 
 In Mindcap's [verification announcement video](https://www.youtube.com/watch?v=dtKV9uSa5jQ), he states that Limbo should place in the top 5 hardest levels ever made.
 
+![](https://i.ytimg.com/vi/8vc2YoLWM0c/maxresdefault.jpg)
+
+*The famous last part of Limbo where the player has to watch a shuffling key while navigating difficult obstacles.*
+
 L﻿imbo is a level highly regarded as [the most anticipated level in Geometry Dash](/posts/limbo-analysis/). Seeing it released after all these years is truly astonishing.
