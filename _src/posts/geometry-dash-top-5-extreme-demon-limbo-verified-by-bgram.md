@@ -19,4 +19,15 @@ In Mindcap's [verification announcement video](https://www.youtube.com/watch?v=d
 
 *The famous last part of Limbo where the player has to watch a shuffling key while navigating difficult obstacles.*
 
-L﻿imbo is a level highly regarded as [the most anticipated level in Geometry Dash](/posts/limbo-analysis/). Seeing it released after all these years is truly astonishing.
+Limbo is a level highly regarded as [the most anticipated level in Geometry Dash](/posts/limbo-analysis/). Seeing it released after all these years is truly astonishing.
+
+While Limbo is a huge level, we've covered some other big Geometry Dash projects, including:
+
+* [KOCMOC](/posts/geometry-dash-level-kocmoc-what-is-it/)
+* [Natural Disaster](/posts/geometry-dash-extreme-demon-natural-disaster-unrated-following-accusations/)
+* [Bloodbath](/posts/geometry-dash-level-bloodbath-reaches-50-million-downloads/)
+* [Acheron](/posts/breaking-acheron-takes-1-spot-on-geometry-dash-demonlist/)
+* [Tartarus](/posts/geometry-dash-tartarus-falls-from-top-10-after-2-years/)
+* [Slaughterhouse](/posts/geometry-dash-slaughterhouse-top-1/)
+
+You can [learn more about Geometry Dash extreme demons and the demon list here](/categories/demonlist/)!
