@@ -28,7 +28,6 @@ layout: base.njk
     <span class="author-name">
       {{ myAuthor.name }}
       {% if myAuthor.verified %}<img src="/assets/img/verified.svg" alt="Verified Badge" onclick="{{ verifiedText }}.open();" style="cursor: pointer;">{% endif %}
-      {% if myAuthor.isBlue %}<img src="/assets/img/dw-blue.svg" alt="Dashworld Blue" onclick="{{ verifiedText }}.open();" style="cursor: pointer;">{% endif %}    
     </span>
     {% if myAuthor.realVerified %}
     <div style="margin-bottom: 5px;">
