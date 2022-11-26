@@ -56,7 +56,7 @@ Below documents where the value for each of the social media items will place in
 
 If an author doesn't have a social media, **don't include the respective item.**
 
-### `customyt` and `verified` (optional)
+### `customyt` / `handle` and `verified` (optional)
 
 String values (yes I know these should be boolean values, but for now they're String values).
 
@@ -69,5 +69,9 @@ Include `customyt` if the `youtube` value above is set to a channel ID instead o
 - `youtube`: youtube.com/channel/**VALUE**
 
 This is important, because both `/channel` and `/c/` do not work with the opposite type of ID.
+
+Include `handle` if the `youtube` value above is set to a handle instead of a custom URL ID. This will change the link to:
+
+- `youtube`: youtube.com/**VALUE**
 
 Include `verified` if the user is verified (see the verified requirements).
