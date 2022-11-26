@@ -6,6 +6,7 @@ desc: A fake GD Today account posting fake but sometimes believable news has
 date: 2022-11-25T17:37:13.999Z
 tags:
   - news
+  - opinion
 author: moldymacaronix
 image: https://pbs.twimg.com/media/FH9GlT-VgAADlFP.jpg
 imageSource: https://mobile.twitter.com/today_gd
