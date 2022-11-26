@@ -30,6 +30,18 @@ After becoming a well respected community member for his stunning documentaries,
 
 
 
+## Use the first person pronoun "we" in your article unless something is strictly your opinion.
+
+**Do:**
+
+Fortunately, we've made a live countdown for the event.
+
+**Don't:**
+
+Fortunately, I've made a live countdown for the event.
+
+
+
 ## Use straight quotes, not curly quotes.
 
 **Do:**
