@@ -2,7 +2,7 @@
 title: Geometry Dash Top 5 Extreme Demon LIMBO Verified By BGram
 desc: After over two years since its announcement, Geometry Dash player Bgram
   has verified Limbo, the hardest memory demon ever made.
-date: 2022-11-26T05:03:02.169Z
+date: 2022-11-26T05:15:39.188Z
 tags:
   - news
 author: moldymacaronix
