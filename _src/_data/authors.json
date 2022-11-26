@@ -56,9 +56,10 @@
 		"name":"Cob",
 		"bio":"BERP BERP BERP",
 		"photo":"https://yt3.ggpht.com/A7KsEjA1NPKNjZD4idAWyuwjkVIYiV_OnHG11G9ht3CovG6HJVw7b4DNyY-Hla9on-BXQC8C=s900-c-k-c0x00ffffff-no-rj",
-		"youtube":"Cobgd",
+		"youtube":"@cobgd",
 		"twitch":"gdcob",
 		"twitter":"gdcob2",
+		"handle":"true",
 		"discord":"bZcjgYUqHB",
 		"gdbrowser":"gdcob",
 		"verified": "true"
@@ -255,5 +256,17 @@
 		"twitch":"herozerrr",
 		"twitter":"herozer7",
 		"gdbrowser":"herozer"
+	},
+	{
+		"key":"wbilgini",
+		"name":"WBilgini",
+		"bio": "Hi.",
+		"photo":"https://yt3.ggpht.com/ytc/AKedOLQr8KPiI594vmcI02OJ-1eIHRwESVuzCRm1bsauNA=s900-c-k-c0x00ffffff-no-rj",
+		"youtube":"@WBilgini",
+		"handle":"true",
+		"twitch":"wbilginiyt",
+		"twitter":"wbilgini",
+		"discord":"PqTUgx6",
+		"gdbrowser":"WBilgini"
 	}
 ]
