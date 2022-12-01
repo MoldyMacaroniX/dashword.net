@@ -5,7 +5,7 @@ desc: Dashword has surpassed 10,000 monthly readers, furthering its reign as the
 date: 2022-12-01T05:49:07.384Z
 tags:
   - editorial
-author: moldymacaronix
+author: dashword
 image: /assets/img/dashword.png
 imageSource: ""
 ---
