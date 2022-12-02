@@ -2,7 +2,7 @@
 title: Top 1 Geometry Dash Creator Viprin Has Been Dethroned
 desc: The former top 1 Geometry Dash creator, Viprin, has been dethroned after
   more than half a decade at the top of the creator leaderboard.
-date: 2022-12-02T07:39:38.142Z
+date: 2022-12-02T07:45:25.558Z
 tags:
   - news
 author: moldymacaronix
