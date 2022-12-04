@@ -509,6 +509,7 @@ a.mobile-item {
     font-size: 1.1rem;
     margin-bottom: 15px;
     display: block;
+    border-radius: 30px;
 }
 
 /* Post */
