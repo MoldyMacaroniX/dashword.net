@@ -638,7 +638,8 @@ a.mobile-item {
     font-family: inherit;
     width: 100%;
     font-size: 1.15rem;
-    border-radius: var(--radius);
+    /* border-radius: var(--radius); */
+    border-radius: 30px;
     outline: none;
     border: 1px solid var(--grey);
     color: var(--print);
