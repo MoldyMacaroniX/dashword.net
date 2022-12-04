@@ -3,7 +3,7 @@ title: How To Install Geometry Dash Shaders & RTX
 desc: G﻿eometry Dash shaders and RTX gained traction about a year ago but can
   still be seen today. Surprisingly, many people are unaware on how to get
   shaders and RTX.
-date: 2022-12-04T07:07:43.227Z
+date: 2022-12-04T07:12:23.188Z
 tags:
   - guide
   - video
