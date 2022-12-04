@@ -19,6 +19,7 @@ Designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Baill
     /* Spacing valyes */
     --gap: 25px;
     --radius: 4px;
+    --edge: 10px;
     --navheight: 75px;
 
     /* Font size */
@@ -276,7 +277,8 @@ a.mobile-item {
     background-color: var(--primary);
     padding: 15px 25px;
     font-weight: bold;
-    border-radius: var(--radius);
+    /* border-radius: var(--radius); */
+    border-radius: 30px;
     text-transform: uppercase;
     letter-spacing: 0.5px;
     text-align: center;
@@ -395,6 +397,7 @@ a.mobile-item {
     display: flex;
     flex-direction: column;
     overflow: hidden;
+    border-radius: var(--edge);
 }
 
 .featured-main .title {
@@ -600,6 +603,7 @@ a.mobile-item {
 
 .aspect img, .video-iframe img {
     object-fit: cover;
+    border-radius: var(--edge);
 }
 
 .p-aspect {
@@ -811,6 +815,7 @@ h1.heading {
 
 .article img {
     margin: auto;
+    border-radius: var(--edge);
 }
 
 .article pre {
@@ -1123,7 +1128,8 @@ details[open] .details-icon.ri-add-line:before {
     background-color: var(--primary);
     margin-top: 25px;
     padding: 25px;
-    border-radius: var(--radius);
+    /* border-radius: var(--radius); */
+    border-radius: var(--edge);
     color: var(--white);
     align-items: center;
 }
