@@ -804,6 +804,8 @@ h1.heading {
     z-index: 10;
     position: relative;
     margin-top: -30px;
+    border-bottom-left-radius: var(--edge);
+    border-top-right-radius: var(--edge);
 }
 
 /* Article Copy */
