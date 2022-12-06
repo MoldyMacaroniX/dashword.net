@@ -3,9 +3,26 @@ title: Code of Conduct
 image: false
 permalink: /code-of-conduct/
 hideAds: true
+hideSidebar: true
 ---
 
-<h1>Dashword.net Code of Conduct</h1>
+We wish to foster a positive, supportive, and encouraging environment for all who use our site. This, in part, requires your effort to avoid unwanted behavior when using our site.
+
+In general, follow these rules when using our site:
+
+1. **Respect everyone.** When interacting with others, show them respect and be nice. As usual, any form of hate speech, harassment, personal attacks, or arguments are prohibited. We will also respect everyone no matter their gender, religion, race, or sexuality. Overall, be kind to everyone.
+
+2. **Avoid forms of spam.** When posting, keep things relevant and on topic. Spamming includes but is not limited to: sending messages at a rapid pace, irrelevant posting, impersonation, text walls, trolling, nonsensical behavior, childish behavior, posting phone numbers, posting emails, nonsensical jokes, self promotion, and posting content where it does not belong.
+
+3. **Avoid not safe for work content.** Keep things appropriate for all users. Avoid inappropriate messages, jokes, profile pictures, and content.
+
+4. **Avoid controversial and sensitive content.** Keep things light-hearted and in good faith. Avoid posts related to past and ongoing controversial and sensitive topics in the world.
+
+5. **Avoid malicious content.** Make sure everything you send is with good intent. Avoid posting any malicious, decieving, or unsafe messages, links, and content.
+
+If you have any questions or would like to report violations of these policies, you can [contact us](/contact/).
+
+<!-- <h1>Dashword.net Code of Conduct</h1>
 
 ## Our Pledge
 
@@ -80,4 +97,4 @@ available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.ht
 [homepage]: https://www.contributor-covenant.org
 
 For answers to common questions about this code of conduct, see
-https://www.contributor-covenant.org/faq
+https://www.contributor-covenant.org/faq -->
