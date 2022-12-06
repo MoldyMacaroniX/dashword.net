@@ -304,7 +304,8 @@ a.mobile-item {
 }
 
 .button-wide {
-    display: block;
+    display: flex;
+    justify-content: center;
     margin-top: 25px;
     width: 100%;
 }
@@ -621,6 +622,16 @@ a.mobile-item {
     width: 100%;
     height: 100%;
     object-fit: cover;
+}
+
+/* Comments */
+
+.comments {
+    display: none;
+}
+
+.comments-show {
+    display: block !important;
 }
 
 /* Search */
@@ -1152,6 +1163,11 @@ details[open] .details-icon.ri-add-line:before {
     margin-top: 15px;
     font-size: 1.1rem;
     line-height: 1.5;
+}
+
+.panel a {
+    font-weight: bold;
+    text-decoration: underline;
 }
 
 /* Author Preview */
