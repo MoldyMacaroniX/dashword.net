@@ -30,3 +30,5 @@ The thing unique to Collab Level is that it is the first Geometry Dash horror le
 While it now contains an explicit content warning at the start, the fact that RobTop chose to rate a horror level that many players would find disturbing has left the community in disbelief.
 
 **It is worth noting that not all rated levels are able to be played with parental controls on.** That option only allows featured levels, which Collab Level is not.
+
+Overall, what has yet to happen to Collab Level is uncertain. There is a chance RobTop will unrate it if he is called out, but as of now, nobody has expressed serious distaste for the level being rated.
