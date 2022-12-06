@@ -10,4 +10,22 @@ author: moldymacaronix
 image: https://i.ytimg.com/vi/8vc2YoLWM0c/maxresdefault.jpg
 imageSource: https://www.youtube.com/watch?v=8vc2YoLWM0c
 ---
-a﻿
+After an interesting Geometry Dash rate wave by RobTop, Mindcap's levels LIMBO and Collab Level have been rated. But why is it controversial?
+
+Most people agree that LIMBO deserved to get rated. In fact, since LIMBO got epic rated, it is now the hardest epic level in the game. But Collab Level got a different reaction.
+
+In Geometry Dash, developer RobTop Games included a very powerful level editor capable of creating [very realistic art](https://youtu.be/fMAYifajDac).
+
+![Realistic art created in Geometry Dash by Culuc](https://img.youtube.com/vi/fMAYifajDac/maxresdefault.jpg)
+
+*Realistic art created in Geometry Dash by [Culuc](https://youtu.be/fMAYifajDac).*
+
+However, Collab Level by Mindcap and more, rather than creating interesting and harmless art, chose to create a horror level.
+
+Collab Level is not the first horror level in Geometry Dash. Peaceful by Zylenox and more is largely believed to have started the trend. These levels create realistic art depicting disturbing subject matter.
+
+The thing unique to Collab Level is that it is the first Geometry Dash horror level to get rated by RobTop.
+
+While it now contains an explicit content warning at the start, the fact that RobTop chose to rate a horror level that many players would find disturbing has left the community in disbelief.
+
+**It is worth noting that not all rated levels are able to be played with parental controls on.** That option only allows featured levels, which Collab Level is not.
