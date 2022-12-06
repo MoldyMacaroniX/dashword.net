@@ -1170,6 +1170,10 @@ details[open] .details-icon.ri-add-line:before {
     text-decoration: underline;
 }
 
+.panel .button {
+    text-decoration: none;
+}
+
 /* Author Preview */
 
 .author-preview {
