@@ -27,7 +27,11 @@ Collab Level is not the first horror level in Geometry Dash. Peaceful by Zylenox
 
 The thing unique to Collab Level is that it is the first Geometry Dash horror level to get rated by RobTop.
 
-While it now contains an explicit content warning at the start, the fact that RobTop chose to rate a horror level that many players would find disturbing has left the community in disbelief.
+While it now contains an [explicit content warning](https://twitter.com/today_gd/status/1534977049990836225) at the start, the fact that RobTop chose to rate a horror level that many players would find disturbing has left the community in disbelief.
+
+![](https://pbs.twimg.com/media/FU1VSdAXwA0tELw.jpg:large)
+
+*Collab Level now contains a warning before playing, screenshot from [GD Today](https://twitter.com/today_gd/status/1534977049990836225).*
 
 **It is worth noting that not all rated levels are able to be played with parental controls on.** That option only allows featured levels, which Collab Level is not.
 
