@@ -1,5 +1,5 @@
 ---
-title: Minecap's Levels LIMBO & Collab Level Have Been Rated After Controversial
+title: Mindcap's Levels LIMBO & Collab Level Have Been Rated After Controversial
   Decision By RobTop
 desc: a
 date: 2022-12-06T07:18:09.606Z
