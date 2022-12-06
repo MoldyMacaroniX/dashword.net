@@ -33,6 +33,6 @@ While it now contains an [explicit content warning](https://twitter.com/today_gd
 
 *Collab Level now contains a warning before playing, screenshot from [GD Today](https://twitter.com/today_gd/status/1534977049990836225).*
 
-**It is worth noting that not all rated levels are able to be played with parental controls on.** That option only allows featured levels, which Collab Level is not.
+**It is worth noting that not all rated levels are able to be played with parental controls on.** That option only allows featured levels. However, since Collab Level is featured, this poses a risk for those with parental controls enabled.
 
 Overall, what has yet to happen to Collab Level is uncertain. There is a chance RobTop will unrate it if he is called out, but as of now, nobody has expressed serious distaste for the level being rated.
