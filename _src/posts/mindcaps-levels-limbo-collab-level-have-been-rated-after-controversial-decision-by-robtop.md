@@ -1,6 +1,6 @@
 ---
-title: Mindcap's Levels LIMBO & Collab Level Have Been Rated After Controversial
-  Decision By RobTop
+title: Mindcap's Levels LIMBO & Collab Level Rated After Controversial Decision
+  By RobTop
 desc: After an interesting Geometry Dash rate wave by RobTop, Mindcap's levels
   LIMBO and Collab Level have been rated. But why is it controversial?
 date: 2022-12-06T07:34:22.622Z
