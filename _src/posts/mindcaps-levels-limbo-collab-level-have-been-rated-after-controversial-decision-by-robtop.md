@@ -13,7 +13,7 @@ imageSource: https://www.youtube.com/watch?v=8vc2YoLWM0c
 ---
 After an interesting Geometry Dash rate wave by RobTop, Mindcap's levels LIMBO and Collab Level have been rated. But why is it controversial?
 
-Most people agree that LIMBO deserved to get rated. In fact, since LIMBO got epic rated, it is now the hardest epic level in the game. But Collab Level got a different reaction.
+Most people agree that [LIMBO deserved to get rated](/posts/limbo-analysis/). In fact, since LIMBO got epic rated, it is now the [hardest epic level in the game](/posts/geometry-dash-top-5-extreme-demon-limbo-verified-by-bgram/). But Collab Level got a different reaction.
 
 In Geometry Dash, developer RobTop Games included a very powerful level editor capable of creating [very realistic art](https://youtu.be/fMAYifajDac).
 
