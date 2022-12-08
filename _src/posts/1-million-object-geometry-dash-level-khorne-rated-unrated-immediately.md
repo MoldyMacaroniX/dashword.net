@@ -1,6 +1,7 @@
 ---
 title: 1 Million Object Geometry Dash Level KHORNE Rated & Unrated Immediately
-desc: a
+desc: Geometry Dash has a lot of big levels, but none are as big as the 1
+  million object extreme demon Khorne by Hota1991.
 date: 2022-12-08T22:41:47.458Z
 tags:
   - news
