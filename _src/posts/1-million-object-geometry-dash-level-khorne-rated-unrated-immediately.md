@@ -5,7 +5,7 @@ date: 2022-12-08T22:41:47.458Z
 tags:
   - news
 author: moldymacaronix
-image: https://static.wikia.nocookie.net/geometry-dash-fan/images/1/13/Khorne.png/revision/latest?cb=20210705143436
+image: https://media.discordapp.net/attachments/392087938239954950/1050543048184037476/latest.png?width=1201&height=676
 imageSource: https://geometry-dash-fan.fandom.com/wiki/Khorne
 ---
 Geometry Dash has a lot of big levels, but none are as big as the 1 million object extreme demon Khorne by Hota1991.
