@@ -21,7 +21,7 @@ For a higher chance of [a moderator sending your level to get featured](/posts/g
 
 While ideally, [the entire level should be good](/posts/featured-level-guide/), [it's better to have an amazing first part and worse last part](/posts/geometry-dash-levels-how-to-make-a-featured-level-2022/) than scaring away any potential moderators with the opposite.
 
-![](https://i.ytimg.com/vi/GBlX4GUVOq8/maxresdefault.jpg)
+![Desticy's part in the Geometry Dash extreme demon Night Rider](https://i.ytimg.com/vi/GBlX4GUVOq8/maxresdefault.jpg)
 
 *[Desticy's part](https://www.youtube.com/watch?v=GBlX4GUVOq8) in the Geometry Dash extreme demon Night Rider.*
 
