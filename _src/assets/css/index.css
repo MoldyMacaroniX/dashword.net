@@ -603,9 +603,10 @@ a.mobile-item {
     height: 100%;
 }
 
-.aspect img, .video-iframe img {
+.aspect img, .video-iframe img, .video-iframe {
     object-fit: cover;
     border-radius: var(--edge);
+    overflow: hidden;
 }
 
 .p-aspect {

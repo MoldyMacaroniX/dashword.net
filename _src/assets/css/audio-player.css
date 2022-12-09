@@ -20,7 +20,7 @@
     align-items: center;
     padding-left: 24px;
     padding-right: 24px;
-    border-radius: var(--radius);
+    border-radius: 30px; /* radius of component */
     user-select: none;
     background-color: var(--bg-dim);
     box-sizing: border-box;
