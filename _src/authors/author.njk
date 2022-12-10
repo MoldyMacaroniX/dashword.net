@@ -27,12 +27,18 @@ layout: base.njk
   <div class="col">
     <span class="author-name">
       {{ myAuthor.name }}
-      {% if myAuthor.verified %}<img src="/assets/img/verified.svg" alt="Verified Badge" onclick="{{ verifiedText }}.open();" style="cursor: pointer;">{% endif %}
+      {% if myAuthor.verified %}
+        {% if myAuthor.realVerified %}
+        <img src="/assets/img/verified-gold.svg" alt="Verified Badge" onclick="{{ verifiedText }}.open();" style="cursor: pointer;">
+        {% else %}
+        <img src="/assets/img/verified.svg" alt="Verified Badge" onclick="{{ verifiedText }}.open();" style="cursor: pointer;">
+        {% endif %}
+      {% endif %}
     </span>
     {% if myAuthor.realVerified %}
-    <div style="margin-bottom: 5px;">
+    {# <div style="margin-bottom: 5px;">
       <div class="verified-chip"><img src="/assets/img/verified-grey.svg" alt="Verified Badge"> Official</div>
-    </div>
+    </div> #}
     {% endif %}
     <span class="author-desc">{{ myAuthor.bio }}</span>
     <div class="author-socials">
