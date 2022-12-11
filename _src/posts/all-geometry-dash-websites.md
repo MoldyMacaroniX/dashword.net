@@ -20,7 +20,7 @@ However, there are a good few Geometry Dash projects without the limitations of 
 5. [MyDemonList](#mydemonlist-(mydemonlist.com))
 6. [GD Vault](#gd-vault-(gdvault.net))
 7. [GD Docs](#gd-docs-(docs.gdprogra.me))
-8. [Extreme Demon Roulette](#extreme-demon-roulette-(matcool.github.io/extreme-demon-roulette/))
+8. [Extreme Demon Roulette](#extreme-demon-roulette-(matcool.github.io%2Fextreme-demon-roulette%2F))
 9. [Geometry Dash Heardle](#geometry-dash-heardle-(geometry-dash-heardle.glitch.me))
 
 
