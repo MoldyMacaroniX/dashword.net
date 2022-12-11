@@ -18,6 +18,8 @@ However, there are a good few Geometry Dash projects without the limitations of 
 5. [MyDemonList]()
 6. [GD Vault]()
 7. [GD Docs]()
+8. [Extreme Demon Roulette]()
+9. [Geometry Dash Heardle]()
 
 
 # Dashword ([dashword.net](/))
@@ -38,12 +40,52 @@ Whether or not it is bigger than the Demon List is unknown, but we estimate that
 
 # Demon List ([pointercrate.com](https://pointercrate.com/))
 
-The Pointercrate Demon List is the largest
+The [Pointercrate Demon List](/categories/demonlist/) is estimated to be the **first or second largest website** on this list, as we are unsure as to whether or not GDBrowser gets more monthly visitors.
+
+This project is the most popular ranking of Geometry Dash's hardest levels. It offers a leaderboard where players can compete against each other.
+
+While there are other Demon Lists out there, this is the most popular and is what most people referring to the "Demon List" mean.
 
 # Geometry Dash Demon Progression ([gddp.pro](https://gddp.pro/))
 
+The Geometry Dash Demon Progression is a list of recommended demons to complete in order to improve your skill, founded by popular player Trusta. You can log in to track which demons you've beaten as well as earn badges and other rewards.
+
+It is likely the **fourth largest website** on this list as well, although this is purely speculations as we know very little about how many visitors this website gets on a monthly basis.
+
 # MyDemonList ([mydemonlist.com](https://mydemonlist.com/))
+
+MyDemonList is currently **work in progress** and currently only displays a waiting page. When released, it will allow you to review Geometry Dash levels.
+
+It is essentially a Geometry Dash level review site. Like some movie review sites, you will be able to rate Geometry Dash levels and write reviews for them.
 
 # GD Vault ([gdvault.net](http://vault.niffy.ml/))
 
+G﻿D Vault is a website that houses information on a bunch of Geometry Dash levels with secret ways. You can browse its list of levels to grind free stars.
+
+It is currently transitioning to a new domain so is technically still **work in progress**. We will update this article if any developments are made.
+
 # GD Docs ([docs.gdprogra.me](https://docs.gdprogra.me/#/))
+
+G﻿D Docs is a Geometry Dash documentation of how to interact with the game's servers. If that sounds very complicated to you, don't worry, as this website is entirely designed for technical programmers and serves very little purpose to the average player.
+
+Because of so, it is possibly the **least popular website** on this list, but still very important! Websites like GDBrowser require accessing Geometry Dash's servers, which the GD Docs conveniently explains how to do.
+
+While it might not get as many views as other websites on this list, those who view it are usually very experienced!
+
+# Extreme Demon Roulette ([matcool.github.io/extreme-demon-roulette/](https://matcool.github.io/extreme-demon-roulette/))
+
+This website allows you to track your progress on the famous Extreme Demon Roulette challenge!
+
+U﻿nfortunately, it is now widely unused due to [Mega Hack v7](/posts/5-must-have-geometry-dash-mods-that-you-need-right-now/) implementing the challenge into the actual game.
+
+However, since not everyone has Mega Hack v7, this site likely still has some active users, likely making it **more popular than the GD Docs**.
+
+# Geometry Dash Heardle ([geometry-dash-heardle.glitch.me](https://geometry-dash-heardle.glitch.me/))
+
+Now for a fun one to finish this off: Geometry Dash Heardle. Geometry Dash Heardle is a game where you have to guess a Geometry Dash song by just listening to a short part of it. You can get more of the song to listen to but it costs points. At the end, the sooner you guess the song, the better!
+
+A﻿s its name suggests, it is based off of a game called Heardle, which itself is based off the popular game Wordle.
+
+While it is hard to estimate how popular this website is, it is likely **more popular than the GD Docs** assuming it still has some active players. If this isn't the case, it might even be less popular.
+
+Either way, this is a fun Geometry Dash game to try out every day! It is by far the most unique project on this list which is really cool.
