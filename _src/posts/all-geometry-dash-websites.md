@@ -91,3 +91,9 @@ A﻿s its name suggests, it is based off of a game called Heardle, which itself 
 While it is hard to estimate how popular this website is, it is likely **more popular than the GD Docs** assuming it still has some active players. If this isn't the case, it might even be less popular.
 
 Either way, this is a fun Geometry Dash game to try out every day! It is by far the most unique project on this list which is really cool.
+
+---
+
+Seeing so many Geometry Dash projects, big or small, that choose to be on the web is amazing. As the lead developer of this very website, its so nice to see others choose to build their idea on the web, rather than on a social platform such as Twitter or Discord.
+
+Do you have any ideas or websites for this list? Is there anything we missed? Let us know in the comments below!
