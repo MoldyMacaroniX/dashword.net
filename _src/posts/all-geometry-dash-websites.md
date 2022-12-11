@@ -1,7 +1,9 @@
 ---
 title: All Geometry Dash Websites
-desc: a
-date: 2022-12-11T07:23:41.455Z
+desc: There are many Geometry Dash websites, including the Demon List, Geometry
+  Dash Demon Progression, the Extreme Demon Roulette, and more!
+date: 2022-12-11T08:10:43.807Z
+tags: []
 author: moldymacaronix
 image: https://pbs.twimg.com/media/FelRl-UXEAAD_ue?format=jpg&name=large
 ---
