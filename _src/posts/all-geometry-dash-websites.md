@@ -9,7 +9,7 @@ author: moldymacaronix
 image: https://pbs.twimg.com/media/FelRl-UXEAAD_ue?format=jpg&name=large
 imageSource: https://twitter.com/MyDemonList/status/1578883374785011713
 ---
-Geometry Dash has many popular projects, including news sources like [GD Today](https://twitter.com/today_gd) all the way to communities like the [GD Creator School](/authors/gdcs/).
+Geometry Dash has many popular projects. From news sources like [GD Today](https://twitter.com/today_gd), all the way to entire communities like the [GD Creator School](/authors/gdcs/), there are lots of awesome efforts started by the Geometry Dash community.
 
 However, there are a good few Geometry Dash projects without the limitations of social medias such as Twitter and Discord. These are Geometry Dash websites, and there are a surprising amount of them!
 
