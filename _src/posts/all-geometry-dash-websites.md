@@ -13,15 +13,15 @@ However, there are a good few Geometry Dash projects without the limitations of 
 
 **Table of contents:**
 
-1. [Dashword]()
-2. [GDBrowser]()
-3. [Demon List]()
-4. [Geometry Dash Demon Progression]()
-5. [MyDemonList]()
-6. [GD Vault]()
-7. [GD Docs]()
-8. [Extreme Demon Roulette]()
-9. [Geometry Dash Heardle]()
+1. [Dashword](#dashword-(dashword.net))
+2. [GDBrowser](#gdbrowser-(gdbrowser.com))
+3. [Demon List](#demon-list-(pointercrate.com))
+4. [Geometry Dash Demon Progression](#geometry-dash-demon-progression-(gddp.pro))
+5. [MyDemonList](#mydemonlist-(mydemonlist.com))
+6. [GD Vault](#gd-vault-(gdvault.net))
+7. [GD Docs](#gd-docs-(docs.gdprogra.me))
+8. [Extreme Demon Roulette](#extreme-demon-roulette-(matcool.github.io/extreme-demon-roulette/))
+9. [Geometry Dash Heardle](#geometry-dash-heardle-(geometry-dash-heardle.glitch.me))
 
 
 # Dashword ([dashword.net](/))
