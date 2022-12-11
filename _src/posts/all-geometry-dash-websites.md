@@ -1,5 +1,5 @@
 ---
-title: All Geometry Dash Websites
+title: All Geometry Dash Websites - Projects On The Web
 desc: There are many Geometry Dash websites, including the Demon List, Geometry
   Dash Demon Progression, the Extreme Demon Roulette, and more!
 date: 2022-12-11T08:10:43.807Z
@@ -22,7 +22,6 @@ However, there are a good few Geometry Dash projects without the limitations of 
 7. [GD Docs](#gd-docs-(docs.gdprogra.me))
 8. [Extreme Demon Roulette](#extreme-demon-roulette-(matcool.github.io%2Fextreme-demon-roulette%2F))
 9. [Geometry Dash Heardle](#geometry-dash-heardle-(geometry-dash-heardle.glitch.me))
-
 
 # Dashword ([dashword.net](/))
 
