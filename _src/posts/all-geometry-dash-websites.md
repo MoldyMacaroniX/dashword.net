@@ -82,7 +82,7 @@ MyDemonList is currently **work in progress** and currently only displays a wait
 
 It is essentially a Geometry Dash level review site. Like some movie review sites, you will be able to rate Geometry Dash levels and write reviews for them.
 
-# GD Vault ([gdvault.net](http://vault.niffy.ml/))
+# GD Vault ([gdvault.net](https://gdvault.net))
 
 ![GD Vault's user interface](https://media.discordapp.net/attachments/392087938239954950/1051413840295886888/image.png?width=1399&height=675)
 
@@ -90,7 +90,7 @@ It is essentially a Geometry Dash level review site. Like some movie review site
 
 G﻿D Vault is a website that houses information on a bunch of Geometry Dash levels with secret ways. You can browse its list of levels to grind free stars.
 
-It is currently transitioning to a new domain so is technically still **work in progress**. We will update this article if any developments are made.
+This website is very new so it is **unknown how popular it is** at the moment.
 
 # GD Docs ([docs.gdprogra.me](https://docs.gdprogra.me/#/))
 
