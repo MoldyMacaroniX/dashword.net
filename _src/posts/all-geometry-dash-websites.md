@@ -138,4 +138,4 @@ Do you have any ideas or websites for this list? Is there anything we missed? Le
 
 For more list articles like this one, [see our articles posted in list](/categories/list/) or [other categories](/categories/).
 
-**December 19, 2022 Update:** We've removed GD Docs, Extreme Demon Roulette, and Geometry Dash Heardle for them being less serious projects and more of temporary gimmicks. From here on out, we will only add websites that have its own domain.
+**December 19, 2022 Update:** We've removed GD Docs, Extreme Demon Roulette, and Geometry Dash Heardle from this list for them being less serious projects and more of temporary gimmicks. From here on out, we will only add websites that have its own domain.
