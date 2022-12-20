@@ -1,7 +1,7 @@
 ---
 title: All Geometry Dash Websites - Big & Small
-desc: There are many Geometry Dash websites, including the Demon List, Geometry
-  Dash Demon Progression, the Extreme Demon Roulette, and more!
+desc: There are many Geometry Dash websites, including the Pointercrate Demon
+  List, Geometry Dash Demon Progression, GDBrowser, MyDemonlist, and more!
 date: 2022-12-11T08:39:24.864Z
 tags:
   - list
@@ -21,9 +21,9 @@ However, there are a good few Geometry Dash projects without the limitations of 
 4. [Geometry Dash Demon Progression](#geometry-dash-demon-progression-(gddp.pro))
 5. [MyDemonList](#mydemonlist-(mydemonlist.com))
 6. [GD Vault](#gd-vault-(gdvault.net))
-7. [GD Docs](#gd-docs-(docs.gdprogra.me))
+<!--7. [GD Docs](#gd-docs-(docs.gdprogra.me))
 8. [Extreme Demon Roulette](#extreme-demon-roulette-(matcool.github.io%2Fextreme-demon-roulette%2F))
-9. [Geometry Dash Heardle](#geometry-dash-heardle-(geometry-dash-heardle.glitch.me))
+9. [Geometry Dash Heardle](#geometry-dash-heardle-(geometry-dash-heardle.glitch.me))-->
 
 
 # Dashword ([dashword.net](/))
@@ -92,7 +92,7 @@ G﻿D Vault is a website that houses information on a bunch of Geometry Dash lev
 
 This website is very new so it is **unknown how popular it is** at the moment.
 
-# GD Docs ([docs.gdprogra.me](https://docs.gdprogra.me/#/))
+<!--# GD Docs ([docs.gdprogra.me](https://docs.gdprogra.me/#/))
 
 ![GD Docs's user interface](https://media.discordapp.net/attachments/392087938239954950/1051413069118578740/image.png?width=1397&height=676)
 
@@ -128,7 +128,7 @@ A﻿s its name suggests, it is based off of a game called Heardle, which itself 
 
 While it is hard to estimate how popular this website is, it is likely **more popular than the GD Docs** assuming it still has some active players. If this isn't the case, it might even be less popular.
 
-Either way, this is a fun Geometry Dash game to try out every day! It is by far the most unique project on this list which is really cool.
+Either way, this is a fun Geometry Dash game to try out every day! It is by far the most unique project on this list which is really cool.-->
 
 ---
 
@@ -137,3 +137,5 @@ Seeing so many Geometry Dash projects, big or small, that choose to be on the we
 Do you have any ideas or websites for this list? Is there anything we missed? Let us know in the comments below!
 
 For more list articles like this one, [see our articles posted in list](/categories/list/) or [other categories](/categories/).
+
+**December 19, 2022 Update:** We've removed GD Docs, Extreme Demon Roulette, and Geometry Dash Heardle for them being less serious projects and more of temporary gimmicks. From here on out, we will only add websites that have its own domain.
