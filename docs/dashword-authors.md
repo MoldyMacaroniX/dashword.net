@@ -18,7 +18,9 @@ An author object looks like this.
     "twitter":"moldymacaronix",
     "discord":"PqTUgx6",
     "gdbrowser":"CreatorMoldy",
-    "verified": "true"
+    "verified": "true",
+    "realVerified": "true",
+    "handle": "true"
 }
 ```
 
@@ -77,3 +79,4 @@ Include `handle` if the `youtube` value above is set to a handle instead of a cu
 Do not include the @ in the handle.
 
 Include `verified` if the user is verified (see the verified requirements).
+Do not add or remove the `realVerified` value. It is only reserved for non-Dashword Blue users.
