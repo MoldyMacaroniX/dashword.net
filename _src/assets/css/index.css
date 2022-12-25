@@ -19,6 +19,7 @@ Designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Baill
     /* Spacing valyes */
     --gap: 25px;
     --radius: 4px;
+    --edge: 10px;
     --navheight: 75px;
 
     /* Font size */
@@ -276,7 +277,8 @@ a.mobile-item {
     background-color: var(--primary);
     padding: 15px 25px;
     font-weight: bold;
-    border-radius: var(--radius);
+    /* border-radius: var(--radius); */
+    border-radius: 30px;
     text-transform: uppercase;
     letter-spacing: 0.5px;
     text-align: center;
@@ -302,7 +304,8 @@ a.mobile-item {
 }
 
 .button-wide {
-    display: block;
+    display: flex;
+    justify-content: center;
     margin-top: 25px;
     width: 100%;
 }
@@ -395,6 +398,7 @@ a.mobile-item {
     display: flex;
     flex-direction: column;
     overflow: hidden;
+    border-radius: var(--edge);
 }
 
 .featured-main .title {
@@ -506,6 +510,7 @@ a.mobile-item {
     font-size: 1.1rem;
     margin-bottom: 15px;
     display: block;
+    border-radius: 30px;
 }
 
 /* Post */
@@ -598,8 +603,10 @@ a.mobile-item {
     height: 100%;
 }
 
-.aspect img, .video-iframe img {
+.aspect img, .video-iframe img, .video-iframe {
     object-fit: cover;
+    border-radius: var(--edge);
+    overflow: hidden;
 }
 
 .p-aspect {
@@ -618,6 +625,16 @@ a.mobile-item {
     object-fit: cover;
 }
 
+/* Comments */
+
+.comments {
+    display: none;
+}
+
+.comments-show {
+    display: block !important;
+}
+
 /* Search */
 
 .search form {
@@ -633,7 +650,8 @@ a.mobile-item {
     font-family: inherit;
     width: 100%;
     font-size: 1.15rem;
-    border-radius: var(--radius);
+    /* border-radius: var(--radius); */
+    border-radius: 30px;
     outline: none;
     border: 1px solid var(--grey);
     color: var(--print);
@@ -800,6 +818,8 @@ h1.heading {
     z-index: 10;
     position: relative;
     margin-top: -30px;
+    border-bottom-left-radius: var(--edge);
+    border-top-right-radius: var(--edge);
 }
 
 /* Article Copy */
@@ -811,6 +831,7 @@ h1.heading {
 
 .article img {
     margin: auto;
+    border-radius: var(--edge);
 }
 
 .article pre {
@@ -1123,7 +1144,8 @@ details[open] .details-icon.ri-add-line:before {
     background-color: var(--primary);
     margin-top: 25px;
     padding: 25px;
-    border-radius: var(--radius);
+    /* border-radius: var(--radius); */
+    border-radius: var(--edge);
     color: var(--white);
     align-items: center;
 }
@@ -1142,6 +1164,15 @@ details[open] .details-icon.ri-add-line:before {
     margin-top: 15px;
     font-size: 1.1rem;
     line-height: 1.5;
+}
+
+.panel a {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.panel .button {
+    text-decoration: none;
 }
 
 /* Author Preview */

@@ -17,7 +17,7 @@ desc: As Dashword has grown, so has our commitment to provide you the best Geome
         padding: 25px;
         font-size: 1.25rem;
         line-height: 1.5;
-        border-radius: var(--radius);
+        border-radius: var(--edge);
         margin-top: 25px;
         align-items: center;
     }
@@ -102,4 +102,24 @@ desc: As Dashword has grown, so has our commitment to provide you the best Geome
 
 </div>
 
-<button onclick='location.replace("https://youtu.be/dQw4w9WgXcQ");' class="button button-wide">Subscribe Now For $7.99 / Month</button>
+<button onclick='location.replace("https://youtu.be/dQw4w9WgXcQ");' class="button button-wide" id="sub">Subscribe Now For $8.00 / Month</button>
+
+<script>
+// https://natclark.com/tutorials/javascript-ios-device/
+
+const ios = () => {
+    if (typeof window === `undefined` || typeof navigator === `undefined`) return false;
+
+    return /iPhone|iPad|iPod/i.test(navigator.userAgent || navigator.vendor || (window.opera && opera.toString() === `[object Opera]`));
+};
+
+const iphone = () => {
+    if (typeof window === `undefined` || typeof navigator === `undefined`) return false;
+
+    return /iPhone/i.test(navigator.userAgent || navigator.vendor || (window.opera && opera.toString() === `[object Opera]`));
+};
+
+if ( ios() == true ) {
+    document.getElementById("sub").innerHTML = "Subscribe Now For $11.00 / Month";
+}
+</script>

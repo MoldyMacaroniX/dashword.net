@@ -269,5 +269,15 @@
 		"discord":"PqTUgx6",
 		"gdbrowser":"WBilgini",
 		"verified":"true"
+  },
+  {
+		"key":"brad",
+		"name":"Brad",
+		"photo":"https://media.discordapp.net/attachments/347349957214339073/1048731365039943731/IMG_3601white.png?width=708&height=675",
+		"youtube":"zinkz",
+		"customyt":"true",
+		"twitch":"izinkz",
+		"twitter":"ytzinkz",
+		"gdbrowser":"zinkz"
 	}
 ]
