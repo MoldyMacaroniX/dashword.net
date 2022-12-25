@@ -14,13 +14,14 @@ An author object looks like this.
     "photo":"https://yt3.ggpht.com/ytc/AKedOLQr8KPiI594vmcI02OJ-1eIHRwESVuzCRm1bsauNA=s900-c-k-c0x00ffffff-no-rj",
     "youtube":"moldymacaronix",
     "customyt":"true",
+    or
+    "handle": "true",
     "twitch":"moldymacaronix",
     "twitter":"moldymacaronix",
     "discord":"PqTUgx6",
     "gdbrowser":"CreatorMoldy",
     "verified": "true",
-    "realVerified": "true",
-    "handle": "true"
+    "realVerified": "true"
 }
 ```
 
