@@ -51,7 +51,7 @@ Identifiers for the author's respective social media accounts.
 
 Below documents where the value for each of the social media items will place in terms of a link.
 
-- `youtube`: youtube.com/c/**VALUE** (exception for if `customyt` is set, see below)
+- `youtube`: youtube.com/c/**VALUE** (exception for if `customyt` or `handle` is set, see below)
 - `twitch`: twitch.tv/**VALUE**
 - `twitter`: twitter.com/**VALUE**
 - `discord`: discord.gg/**VALUE**
