@@ -59,7 +59,7 @@ Below documents where the value for each of the social media items will place in
 
 If an author doesn't have a social media, **don't include the respective item.**
 
-### `customyt` \ `handle` and  `verified` (optional)
+### `customyt` \ `handle`,  `verified` and `realVerified`  (optional)
 
 String values (yes I know these should be boolean values, but for now they're String values).
 
