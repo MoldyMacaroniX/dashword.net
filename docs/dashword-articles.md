@@ -10,6 +10,7 @@ Articles are written in **markdown** and use **YAML** frontmatter.
 
 ```yaml
 ---
+pageSlug: "fancy-file-url"
 title: "Geometry Dash Vaults & Secets: How To Unlock Every Secret Area (2022)"
 desc: If you're looking for free icons, colors, and rewards, every Geometry Dash secret area has something to offer.
 image: https://example.com/image.png
@@ -23,6 +24,10 @@ author: moldymacaronix
 
 This is the first paragraph of the article...
 ```
+
+### `pageSlug`
+
+The URL path of the article in the form `dashword.net/posts/{VALUE}`. This is optional, and if not included, the `{VALUE}` will resort to the filename.
 
 ### `title` and `desc`
 
