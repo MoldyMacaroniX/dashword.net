@@ -42,7 +42,7 @@ layout: base.njk
     {% endif %}
     <span class="author-desc">{{ myAuthor.bio }}</span>
     <div class="author-socials">
-      {% if myAuthor.youtube %}<a href="https://www.youtube.com/{% if myAuthor.customyt %}c{% else %}channel{% endif %}/{{ myAuthor.youtube }}" class="ri-youtube-fill" data-tooltip="YouTube" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></a>{% endif %}
+      {% if myAuthor.youtube %}<a href="https://www.youtube.com/{% if myAuthor.handle %}@{% else %}{% if myAuthor.customyt %}c{% else %}channel{% endif %}{% endif %}{% if myAuthor.handle %}{% else %}/{% endif %}{{ myAuthor.youtube }}" class="ri-youtube-fill" data-tooltip="YouTube" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></a>{% endif %}
         {% if myAuthor.twitch %}<a href="https://www.twitch.tv/{{ myAuthor.twitch }}" class="ri-twitch-fill" data-tooltip="Twitch" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></a>{% endif %}
         {% if myAuthor.twitter %}<a href="https://twitter.com/{{ myAuthor.twitter }}" class="ri-twitter-fill" data-tooltip="Twitter" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></a>{% endif %}
         {% if myAuthor.discord %}<a href="https://discord.gg/{{ myAuthor.discord }}" class="ri-discord-fill" data-tooltip="Discord" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></a>{% endif %}

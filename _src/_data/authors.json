@@ -32,8 +32,8 @@
 		"name":"Moldy",
 		"bio": "I am Moldy. Not literally, of course.",
 		"photo":"https://yt3.ggpht.com/ytc/AKedOLQr8KPiI594vmcI02OJ-1eIHRwESVuzCRm1bsauNA=s900-c-k-c0x00ffffff-no-rj",
-		"youtube":"moldymacaronix",
-		"customyt":"true",
+		"youtube":"moldygd",
+		"handle":"true",
 		"twitch":"moldymacaronix",
 		"twitter":"moldymacaronix",
 		"discord":"PqTUgx6",
@@ -57,6 +57,7 @@
 		"bio":"BERP BERP BERP",
 		"photo":"https://yt3.ggpht.com/A7KsEjA1NPKNjZD4idAWyuwjkVIYiV_OnHG11G9ht3CovG6HJVw7b4DNyY-Hla9on-BXQC8C=s900-c-k-c0x00ffffff-no-rj",
 		"youtube":"Cobgd",
+		"handle":"true",
 		"twitch":"gdcob",
 		"twitter":"gdcob2",
 		"discord":"bZcjgYUqHB",
@@ -265,5 +266,16 @@
 		"twitch":"izinkz",
 		"twitter":"ytzinkz",
 		"gdbrowser":"zinkz"
-	}
+	},
+	{
+		"key":"wbilgini",
+		"name":"WBilgini",
+		"bio":"chaos",
+		"photo":"https://yt3.ggpht.com/ytc/AKedOLQr8KPiI594vmcI02OJ-1eIHRwESVuzCRm1bsauNA=s900-c-k-c0x00ffffff-no-rj",
+		"youtube":"wbilgini",
+		"handle":"true",
+		"twitch":"wbilgini",
+		"twitter":"wbilgini",
+		"gdbrowser":"wbilgini"
+	}	
 ]

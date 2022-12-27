@@ -1,3 +1,3 @@
-# Documentation
+# Notice
 
-Welcome to the Dashword writing guide! This is just the landing README - check out the other files in this directory for the guides.
+The **style guide** has moved to its new home at [Dashword](https://dashword.net/style-guide/)

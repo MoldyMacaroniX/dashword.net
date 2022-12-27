@@ -18,7 +18,8 @@ An author object looks like this.
     "twitter":"moldymacaronix",
     "discord":"PqTUgx6",
     "gdbrowser":"CreatorMoldy",
-    "verified": "true"
+    "verified": "true",
+    "realVerified": "true"
 }
 ```
 
@@ -48,7 +49,7 @@ Identifiers for the author's respective social media accounts.
 
 Below documents where the value for each of the social media items will place in terms of a link.
 
-- `youtube`: youtube.com/c/**VALUE** (exception for if `customyt` is set, see below)
+- `youtube`: youtube.com/c/**VALUE** (exception for if `customyt` or `handle` is set, see below)
 - `twitch`: twitch.tv/**VALUE**
 - `twitter`: twitter.com/**VALUE**
 - `discord`: discord.gg/**VALUE**
@@ -56,7 +57,7 @@ Below documents where the value for each of the social media items will place in
 
 If an author doesn't have a social media, **don't include the respective item.**
 
-### `customyt` and `verified` (optional)
+### `customyt`, `handle`,  `verified` and `realVerified`  (optional)
 
 String values (yes I know these should be boolean values, but for now they're String values).
 
@@ -69,5 +70,11 @@ Include `customyt` if the `youtube` value above is set to a channel ID instead o
 - `youtube`: youtube.com/channel/**VALUE**
 
 This is important, because both `/channel` and `/c/` do not work with the opposite type of ID.
+
+Replace `customyt` with `handle` if the `youtube` value above is set to a handle instead of a custom URL, ID, or a channel ID. This will change the link to:
+
+- `youtube`: youtube.com/@**VALUE**
+
+Do not include the @ in the handle.
 
 Include `verified` if the user is verified (see the verified requirements).
