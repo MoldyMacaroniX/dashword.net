@@ -2,12 +2,14 @@
 
 Dashword has three kinds of ads.
 
-1. Horizontal Display Ads
-2. Vertical Display Ads
-3. Feed Ads
-4. Article Ads
+1. `display-horizontal`
+2. `display-vertical`
+3. `display-wide`
+4. `feed`
+5. `related`
+6. Article Ads
 
-Horizontal Ad, Vertical Ad, and Feed Ad code are found at `_src/_includes/formats/`
+All ad formats **except** for article ads are found at `_src/_includes/formats/`.
 
 Article Ad code is found in `.eleventy.js`.
 
@@ -15,10 +17,14 @@ Article Ad code is found in `.eleventy.js`.
 
 Unless the specific page has ads disabled, ads will be shown on the following pages.
 
-- Horizontal Display Ads are shown on every page below the navbar and above the footer.
-- Vertical Display Ads are shown on every page on the sidebar.
-- Feed ads are shown on any page where you can browse posts, such as category and author pages.
-- Article Ads are shown in any page using the `_src/_includes/templates/post.njk` template.
+1. `display-horizontal` Ads are shown on every page below the navbar and above the footer.
+2. `display-vertical` Ads are shown on every page on the sidebar.
+3. `display-wide` Ads are fixed to the bottom of the screen on every page.
+4. `feed` Ads are shown on any page where you can browse posts, such as category and author pages.
+5. `related` Ads are shown on all article pages.
+6. Article Ads are shown in any page using the `_src/_includes/templates/post.njk` template.
+
+Google may also insert automatic ads at times.
 
 ## Article Ads Algorithm
 
