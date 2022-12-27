@@ -105,11 +105,11 @@ layout: base.njk
 	</script>
 
 
-	{% if metadata.isAds and not hideAds %}
 	<div style="margin-bottom: 25px;">
-	{% include "formats/related.njk" %}
+		{% if metadata.isAds and not hideAds %}
+			{% include "formats/related.njk" %}
+		{% endif %}
 	</div>
-	{% endif %}
 
 	<h1 class="heading">Up Next</h1>
 
