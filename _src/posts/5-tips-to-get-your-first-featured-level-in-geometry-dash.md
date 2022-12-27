@@ -1,9 +1,12 @@
 ---
 title: 5 Tips To Get Your First Featured Level In Geometry Dash
-desc: Geometry Dash gets thousands of levels uploaded every day, but only a small percent of them get featured. So how do you make sure yours joins the bunch that get featured?
+desc: Geometry Dash gets thousands of levels uploaded every day, but only a
+  small percent of them get featured. So how do you make sure yours joins the
+  bunch that get featured?
 date: 2022-12-08T22:42:47.458Z
 tags:
   - guide
+  - featured
 author: moldymacaronix
 image: https://i.ytimg.com/vi/Wozk9sONOJM/maxresdefault.jpg
 imageSource: https://www.youtube.com/watch?v=Wozk9sONOJM
