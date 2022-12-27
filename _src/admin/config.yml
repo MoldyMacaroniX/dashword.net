@@ -13,6 +13,7 @@ collections:
     create: true
     slug: "{{slug}}"
     fields: 
+      - {label: "Slug", name: "pageSlug", widget: "string", required: false }
       - {label: "Title", name: "title", widget: "string" }
       - {label: "Description", name: "desc", widget: "string" }
       - {label: "Date", name: "date", widget: "datetime" }
