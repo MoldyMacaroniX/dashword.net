@@ -1,5 +1,6 @@
 {
     "layout":"templates/post.njk",
     "article":true,
-    "image":"/assets/img/main.jpg"
+    "image":"/assets/img/main.jpg",
+    "permalink":"/posts/{{ pageSlug or page.fileSlug }}/"
 }

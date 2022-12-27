@@ -770,6 +770,19 @@ h1.heading {
 
 /* Article Meta */
 
+.approved {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-top: 20px;
+    color: var(--primary);
+    font-weight: bold;
+}
+
+.approved img {
+    width: 25px;
+}
+
 .article-heading {
     font-size: 3rem;
 }
