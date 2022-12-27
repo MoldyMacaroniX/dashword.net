@@ -14,8 +14,6 @@ An author object looks like this.
     "photo":"https://yt3.ggpht.com/ytc/AKedOLQr8KPiI594vmcI02OJ-1eIHRwESVuzCRm1bsauNA=s900-c-k-c0x00ffffff-no-rj",
     "youtube":"moldymacaronix",
     "customyt":"true",
-    or
-    "handle": "true",
     "twitch":"moldymacaronix",
     "twitter":"moldymacaronix",
     "discord":"PqTUgx6",
@@ -59,7 +57,7 @@ Below documents where the value for each of the social media items will place in
 
 If an author doesn't have a social media, **don't include the respective item.**
 
-### `customyt` \ `handle`,  `verified` and `realVerified`  (optional)
+### `customyt`, `handle`,  `verified` and `realVerified`  (optional)
 
 String values (yes I know these should be boolean values, but for now they're String values).
 
@@ -73,11 +71,10 @@ Include `customyt` if the `youtube` value above is set to a channel ID instead o
 
 This is important, because both `/channel` and `/c/` do not work with the opposite type of ID.
 
-Include `handle` if the `youtube` value above is set to a handle instead of a custom URL ID or a channel ID. This will change the link to:
+Replace `customyt` with `handle` if the `youtube` value above is set to a handle instead of a custom URL, ID, or a channel ID. This will change the link to:
 
-- `youtube`: youtube.com/**VALUE**
+- `youtube`: youtube.com/@**VALUE**
 
 Do not include the @ in the handle.
 
 Include `verified` if the user is verified (see the verified requirements).
-Do not add or remove the `realVerified` value. It is only reserved for non-Dashword Blue users.
