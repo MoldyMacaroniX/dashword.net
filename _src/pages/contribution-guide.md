@@ -1,10 +1,57 @@
 ---
-title: Help Contribute Content To Dashword
+title: Help Contribute To Dashword
 desc: How to contribute to Dashword!
+image: false
 permalink: /contribute/
 ---
 
-Have you ever wanted to share your Geometry Dash knowledge? Have you ever wanted a place where you can write about all things Geometry Dash? Well, Dashword is looking for more authors!
+Dashword is made possible by passionate Geometry Dash players who write about their interests.
+
+In particular, we are looking for Geometry Dash related news, guides, and stories, specifically targetted towards new players.
+
+We want to help out new players while showing them the potential the game has.
+
+# What we recommend
+
+We recommend writing articles for any of the following categories:
+
+- [2.2](/categories/2.2/) — Write about Geometry Dash 2.2
+- [News](/categories/news/) — Write about community news
+- [Demonlist](/categories/demonlist/) — Write about the Demon List
+- [Guide](/categories/guide/) — Write informed guides for new players
+
+However, you can write about any topic in our [list of categories](/categories/) (or come up with your own category) if none of those fancy you.
+
+If you are looking for inspiration, check out the categories listed above.
+
+# Why write for us
+
+We encourage you to write out of passion, but if you want to hear some numbers:
+
+- Dashword has over 10,000 monthly readers!
+- Dashword gets over 20,000 views every month!
+- Dashword averages over 200,000 impressions every month!
+
+On top of those, Dashword ranks high in Google Search for many Geometry Dash search queries.
+
+Like usual, in getting your content on Dashword, you will: be credited, get your name on our [authors page](/authors/), and be able to share your social media on your profile.
+
+Consistant and trusted authors will also get access to our staff login where they can get their articles published quicker!
+
+# Talk to us
+
+Before you go ahead and write an article, we highly recommend to consult with us first. We can let you know if we like your idea or if you should improve it.
+
+That being said, you are also free to submit finished articles!
+
+To submit an idea, article draft, or something you'd consider finished, you can do one of two things:
+
+1. Join our [Discord server](https://discord.gg/SqZuGCpHMm) and let us know of your idea, draft, or article, in the #article-writing channel.
+2. Email [support@dashword.net](mailto:support@dashword.net) with your idea, draft, or article, preferably in the form of a Google Doc link.
+
+If you have any questions, you can also use the above two sources!
+
+<!-- Have you ever wanted to share your Geometry Dash knowledge? Have you ever wanted a place where you can write about all things Geometry Dash? Well, Dashword is looking for more authors!
 
 Dashword is looking for Geometry Dash related news, guides, and stories, specifically targetted towards new players.
 

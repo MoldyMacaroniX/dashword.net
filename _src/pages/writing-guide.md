@@ -1,5 +1,6 @@
 ---
 title: Dashword Style Guide
+image: false
 desc: Dashword style guide.
 permalink: /style-guide/
 hideAds: true
