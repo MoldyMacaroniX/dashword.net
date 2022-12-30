@@ -81,7 +81,7 @@ This has also been an important year for us, as we were only founded on February
 In this first year of our existence, we've managed some incredible feats:
 
 - **114** unique articles!
-- **24** unqiue authors!
+- **24** unique authors!
 - **10,000** monthly readers!
 - **20,000** monthly views!
 - **200,000** monthly impressions!
