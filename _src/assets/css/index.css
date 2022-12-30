@@ -738,6 +738,20 @@ h1.heading {
     text-decoration: underline;
 }
 
+/* Banner Top */
+
+.banner-top {
+    padding: 20px 0;
+    background-color: var(--primary);
+    color: var(--white);
+    font-size: 1.1em;
+}
+
+.banner-top a {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
 /* Banner */
 
 .banner {
