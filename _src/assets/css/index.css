@@ -752,6 +752,72 @@ h1.heading {
     text-decoration: underline;
 }
 
+/* Flash */
+
+/* Copied from .cols */
+.flash {
+    display: flex;
+    gap: 25px;
+    /* flex-wrap: wrap; */
+    justify-content: flex-end;
+    height: fit-content;
+}
+
+.flash {
+    border: 1px solid var(--grey);
+    margin-bottom: 20px;
+    border-radius: var(--edge);
+    overflow: hidden;
+    align-items: center;
+    gap: 0;
+    position: relative;
+    justify-content: flex-end;
+    height: 43px;
+    --news-translate: 0px;
+}
+
+.flash-label {
+    font-size: 1.15rem;
+    color: var(--white);
+    background-color: var(--primary);
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    height: 43px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 10px;
+}
+
+.flash-news {
+    overflow: hidden;
+    height: 43px;
+    flex-basis: 0;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+.flash-news a {
+    font-size: 1rem;
+    padding: 12px;
+    display: block;
+    transition: transform 0.25s ease;
+}
+
+.flash-news a span {
+    /* Truncation... */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+
+.news-item {
+    transform: var(--news-translate);
+}
+
 /* Banner */
 
 .banner {
@@ -1422,5 +1488,8 @@ details[open] .details-icon.ri-add-line:before {
     }
     .post .image {
         width: 100%;
+    }
+    .flash-news a {
+        padding: 13px;
     }
 }

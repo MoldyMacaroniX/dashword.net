@@ -1,8 +1,7 @@
 ---
 pageSlug: geometry-dash-2022-2-2-release-date-top-1-extreme-demon
 title: "Geometry Dash In 2022: 2.2 Release Date, New Top 1 Extreme Demons, & More"
-desc: We usually only write development posts once a month, but we recently made
-  a minor—but noticeable—change to our website design.
+desc: Another year of Geometry Dash. With so many amazing achievements made by the community this year, its incredible to see just how far this little mobile platformer has come.
 date: 2022-12-29T22:12:17.780Z
 tags:
   - featured

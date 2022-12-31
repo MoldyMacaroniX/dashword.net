@@ -1,0 +1,45 @@
+<div class="flash">
+        <div class="flash-label" id="flash-label">
+            Newsflash
+        </div>
+        <div class="flash-news">
+            {% for post in collections[ "2.2" ] | reverse | head(4) %}
+            <a class="news-item a{{ loop.index }}" href="{{ post.url }}"><span>{{ post.data.title }}</span></a>
+            {% endfor %}
+            {# <a id="item2"><span>Geometry Dash Levels: What Is The Most Impossible Level? (2022)</span></a>
+            <a id="item3"><span>Geometry Dash Memes: What Is The Dumbest Level? (2022)</span></a> #}
+        </div>
+    </div>
+    <script>
+        checkDim();
+        var time = 1;
+        var interval = setInterval(function() { 
+            rotate();
+            time++;
+        }, 5000);
+        var rotateNum = 1;
+        var dist = 0;
+        var moveDist = 43;
+        var v = document.querySelector('.flash');
+        function rotate() {
+            checkDim();
+            if (rotateNum == 4) {
+                v.style.setProperty('--news-translate', 'translateY(0px)');
+                dist = 0;
+                rotateNum = 1;
+            } else {
+                dist = dist + moveDist;
+                v.style.setProperty('--news-translate', 'translateY(-' + dist + 'px)');
+                rotateNum++;
+            }
+        }
+        function checkDim() {
+            if (window.screen.width <= 500) {
+                document.getElementById('flash-label').innerHTML = "News";
+                moveDist = 44;
+            } else {
+                document.getElementById('flash-label').innerHTML = "Newsflash";
+                moveDist = 43;
+            }
+        }
+    </script>

@@ -1,4 +1,7 @@
 <div class="container section">
+
+    {% include 'partials/newsflash.njk' %}
+
     <div class="cols featured-main-cols">
         <div class="col">
             {% for post in collections[ "featured" ] | reverse | head(1) %}
@@ -18,12 +21,13 @@
         <div class="col grid-2">
 
             {% for post in collections[ "featured" ] | reverse | head(7) %}
-            <div class="featured-side{% if loop.index > 3 %} featured-side-disgard{% endif %}">
-                <div>
+            <div class="featured-side{% if loop.index > 4 %} featured-side-disgard{% endif %}">
+                <div style="display: flex;">
+                    <i class="ri-arrow-right-s-fill" style="color: var(--primary); font-size: 1.75rem; transform: translateY(-5px);"></i>
                     <a href="{{ post.url }}" class="title">{% if post.data.title %}{{ post.data.title }}{% else %}No post title provided{% endif %}</a>
-                    <span class="meta">
+                    <!--<span class="meta">
                         {% if post.data.author %}{% set myAuthor = authors | getAuthor(post.data.author) %}<a href="/authors/{{ myAuthor.key }}" class="author show-on-phone">{{ myAuthor.name }} <i class="ri-user-3-line"></i></a>{% endif %} {% if post.data.date %}<a href="{{ post.url }}" class="date">{{ post.data.date | readableDate }} <i class="ri-time-line"></i></a>{% endif %} <span href="#" class="tags show-on-phone">{% for tag in post.data.tags %} <a href="/categories/{{ tag | slug }}/">{{ tag | capitalize }}</a>{% endfor %} <i class="ri-price-tag-3-line"></i></span>
-                    </span>
+                    </span>-->
                 </div>
             </div>
             {% endfor %}
