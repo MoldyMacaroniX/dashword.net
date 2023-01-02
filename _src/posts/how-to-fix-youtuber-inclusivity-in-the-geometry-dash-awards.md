@@ -16,9 +16,9 @@ Geometry Dash YouTube popped off this year, there is no doubt. So many new YouTu
 
 Despite this, however, YouTuber presence in the Geometry Dash 2022 Awards was lacking. Only four nominees were chosen, and excluding Tride, each nominee was someone who had previously been nominated.
 
-That alone is not a reason to restrict someone from the awards. In fact, that's not what I'm saying. None of the nominees shouldn't have been nominated. But I am saying that four YouTubers (especially ones that largely make the same type of content) do not represent the vast scope that is Geometry Dash YouTube in this past year.
+That alone is not a reason to restrict someone from the Awards. In fact, that's not what I'm saying. None of the nominees shouldn't have been nominated. But I am saying that four YouTubers (especially ones that largely make the same type of content) do not represent the vast scope that is Geometry Dash YouTube in this past year.
 
-So, as an event to celebrate the community, the awards did not do its job at representing the Geometry Dash YouTube portion of the community.
+So, as an event to celebrate the community, the Awards did not do its job at representing the Geometry Dash YouTube portion of the community.
 
 Today, however, I hope to change that. With these suggestions in place, the Geometry Dash Awards could not only bring some much needed representation to the YouTube community, but other underrepresented communities such as the star grinding community.
 
@@ -105,15 +105,15 @@ I would suggest the following:
 
 But even then, I admit that categorizing a lot of YouTubers would be difficult. YouTubers like Cob make a good balance of content playing the game and content talking about the game.
 
-Other obvious categories, such as live commentary and post commentary, sound good on the surface--but even then, there are loads of YouTubers who do a lot of both, such as myself.
+Other obvious categories, such as live commentary and post commentary, sound good on the surface—but even then, there are loads of YouTubers who do a lot of both, such as myself.
 
 I think the best bet would be to categorize YouTubers based on more objective metrics. This is even [what has been suggested to be done with levels](https://twitter.com/vipringd/status/1604246600997654529).
 
 Even just breaking the category into above and below 100,000 subscribers would make a big difference and allow for more YouTubers to get the stage.
 
-You could also split the category based on language to include more YouTubers outside the English community--but that doesn't seem to have been a problem this year.
+You could also split the category based on language to include more YouTubers outside the English community—but that doesn't seem to have been a problem this year.
 
-At the end of the day--I cannot say this enough--I understand it is hard categorizing Geometry Dash YouTubers. Instead, I largely think the better solution is to just [include more nominees](#include-more-nominees), as I've already stated.
+At the end of the day—I cannot say this enough—I understand it is hard categorizing Geometry Dash YouTubers. Instead, I largely think the better solution is to just [include more nominees](#include-more-nominees), as I've already stated.
 
 # 3. Have The Committee Choose The Nominees
 
@@ -167,7 +167,7 @@ I could say a lot more about the Awards, but this already looks more like an uns
 
 I don't want to sound like a jerk writing this. The reason I spent weeks writing a 1800 word review on the Awards is because I believe it is such an important event in the community.
 
-It gives the community hype, and others--creators, YouTubers, and players--something to aim for.
+It gives the community hype, and others—creators, YouTubers, and players—something to aim for.
 
 Because of this, I want to see the Awards succeed. I believe they have so much potential. But the first logical step is to have them represent what the community achieved throughout the year, which I think they could be better at.
 
