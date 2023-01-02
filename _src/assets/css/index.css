@@ -765,7 +765,7 @@ h1.heading {
 
 .flash {
     border: 1px solid var(--grey);
-    margin-bottom: 20px;
+    margin-bottom: 25px;
     border-radius: var(--edge);
     overflow: hidden;
     align-items: center;
