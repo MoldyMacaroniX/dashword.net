@@ -171,7 +171,7 @@ It gives the community hype, and others—creators, YouTubers, and players—som
 
 Because of this, I want to see the Awards succeed. I believe they have so much potential. But the first logical step is to have them represent what the community achieved throughout the year, which I think they could be better at.
 
-Colon said it best:
+[Colon said it](https://twitter.com/TheRealGDColon/status/1604235754464575490) best:
 
 > Spreading everyone up would be a really nice confidence boost for this part of the community, so \[that being nominated] feels like a reachable goal.
 
