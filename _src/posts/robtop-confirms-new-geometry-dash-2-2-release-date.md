@@ -9,7 +9,7 @@ tags:
   - news
   - featured
 author: moldymacaronix
-image: https://i1.wp.com/www.game-monster.com/wp-content/uploads/2021/08/geometry-dash-2-2-sneak-peek-1.jpg?resize=600%2C338&ssl=1
+image: https://static.wikia.nocookie.net/741140a3-635e-4257-9a84-340830092e95
 imageSource: https://www.game-monster.com/videojuegos/geometry-dash-2-2-sneak-peek/
 ---
 RobTop has once again confirmed a new Geometry Dash 2.2 release date. After failing to meet [his previous release date](/posts/2-2-release-date-confirmed/), he once again confirmed in the [Geometry Dash Discord](/posts/geometry-dash-discord-server-how-to-join-request-levels/) that 2.2 will release in early to mid 2023.
