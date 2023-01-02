@@ -1,13 +1,14 @@
 ---
 title: "Geometry Dash 2.2 Release Date: When Is 2.2 Coming Out?"
-desc: Geometry Dash developer RobTop confirmed Geometry Dash 2.2 release date is this year, in 2022. But is it really?
-image: https://i.ytimg.com/vi/CtEQ_EGlbQc/maxresdefault.jpg
-imageSource: https://youtu.be/CtEQ_EGlbQc
+desc: Geometry Dash developer RobTop confirmed Geometry Dash 2.2 release date is
+  this year, in 2022. But is it really?
 date: 2022-10-02
 tags:
-    - "2.2"
-    - featured
+  - "2.2"
+  - featured
 author: moldymacaronix
+image: https://i.ytimg.com/vi/CtEQ_EGlbQc/maxresdefault.jpg
+imageSource: https://youtu.be/CtEQ_EGlbQc
 ---
 
 Geometry Dash developer RobTop confirmed earlier that the Geometry Dash 2.2 release date is this year, in 2022. However, with only 3 months left in the year and still no update, when will it really come out?
@@ -25,6 +26,10 @@ However, there has been much speculation around whether or not RobTop can actual
 # When Will Geometry Dash 2.2 Really Come Out?
 
 RobTop confirmed that he had planned to release Geometry Dash 2.2 in 2022, but it is likely that the update will need a little longer. Instead, **Geometry Dash 2.2 will likely come out between January and June 2023.**
+
+{% alert %}
+Update: This prediction is correct! RobTop has confirmed a [new release date for Geometry Dash 2.2](/posts/geometry-dash-2-2-release-date-confirmed-2023/). Use that link to see it.
+{% endalert %}
 
 While it is possible for RobTop to release Geometry Dash 2.2 before the end of the year, that is becoming more and more unrealistic as the days pass. Instead, I think this estimate is much more realistic.
 
