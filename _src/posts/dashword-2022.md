@@ -1,7 +1,9 @@
 ---
 pageSlug: geometry-dash-2022-2-2-release-date-top-1-extreme-demon
 title: "Geometry Dash In 2022: 2.2 Release Date, New Top 1 Extreme Demons, & More"
-desc: Another year of Geometry Dash. With so many amazing achievements made by the community this year, its incredible to see just how far this little mobile platformer has come.
+desc: Another year of Geometry Dash. With so many amazing achievements made by
+  the community this year, its incredible to see just how far this little mobile
+  platformer has come.
 date: 2022-12-29T22:12:17.780Z
 tags:
   - featured
@@ -71,7 +73,7 @@ Some notable drama this year include:
 
 - [Demon List Drama](/posts/geometry-dash-the-problem-with-the-demonlist/)
 - [Rate System Drama](/posts/popular-geometry-dash-player-stormfly-is-accused-of-harassing-new-creators/)
-- YouTuber Misrepresentation In The Awards (we will be publishing an article about this soon, stay tuned!)
+- [YouTuber Misrepresentation In The Awards](/posts/how-to-fix-youtuber-inclusivity-in-the-geometry-dash-awards/)
 
 # Dashword
 
