@@ -1,5 +1,5 @@
 ---
-pageSlug: geometry-dash-2-2-release-date-confirmed-2022
+pageSlug: geometry-dash-2-2-release-date-confirmed-2023
 title: RobTop Confirms New Geometry Dash 2.2 Release Date
 desc: RobTop has confirmed a new Geometry Dash 2.2 release date, and it's sooner
   than you think.
