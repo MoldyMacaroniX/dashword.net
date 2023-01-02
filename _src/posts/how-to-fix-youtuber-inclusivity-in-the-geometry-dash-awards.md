@@ -64,7 +64,7 @@ It would be better to include two extra slots in the YouTuber category to nomina
 
 Not saying I should be nominated, but I do believe that 75,000 subscribers and 12 videos (pretty much all of which exceed 100,000 views) is a good candidate. A lot of the YouTubers I mentioned have similar metrics to this.
 
-I think a nominees list like this would suffice:
+Including Tride, Wulzy, EVW, and AeonAir (the nominees for this year), I think a nominees list like this would suffice:
 
 * Tride (108K subscribers)
 * Wulzy (110K subscribers)
