@@ -20,7 +20,7 @@ This means that [Geometry Dash 2.2](/categories/2.2/) should release between Jan
 
 Like I said last year, this [perfectly aligns with my new prediction](/posts/geometry-dash-2-2-release-date/) for Geometry Dash 2.2's release date.
 
-RobTop also said the reason he failed to meet his previous release date of 2022 was because of maintaining the free games: Geometry Dash Lite, Meltdown, SubZero, and World.
+RobTop also said the reason he failed to meet his previous release date of 2022 was because of maintaining the free games: [Geometry Dash Lite, Meltdown, SubZero, and World](/posts/geometry-dash-2-2-editor-unlocked-how-to-get-the-2-2-level-editor-2022/).
 
 ![RobTop confirming that he had unforseen complications with the free versions of Geometry Dash](https://pbs.twimg.com/media/FlVdsmEXkAEPgvh?format=jpg&name=medium)
 
