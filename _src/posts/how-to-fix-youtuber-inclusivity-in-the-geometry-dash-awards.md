@@ -165,7 +165,7 @@ I could say a lot more about the Awards, but this already looks more like an uns
 
 - - -
 
-I don't want to sound like a jerk writing this. The reason I spent weeks writing a 1800 word review on the Awards is because I believe it is such an important event in the community.
+I don't want to sound like a jerk writing this. The reason I spent weeks writing a 2000 word review on the Awards is because I believe it is such an important event in the community.
 
 It gives the community hype, and others—creators, YouTubers, and players—something to aim for.
 
