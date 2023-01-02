@@ -24,10 +24,10 @@ Today, however, I hope to change that. With these suggestions in place, the Geom
 
 **Table of contents:**
 
-* [TL;DR](#TL%3BDR)
+* [TL;DR](#tl%3Bdr)
 * [1. Include More Nominees](#1.-include-more-nominees)
 * [2. Include More Categories](#2.-include-more-categories)
-* [3. Have The Committee Choose The Nominees](#3.-have-the-commitee-choose-the-nominees)
+* [3. Have The Committee Choose The Nominees](#3.-have-the-committee-choose-the-nominees)
 * [Summary](#summary)
 
 # TL;DR
