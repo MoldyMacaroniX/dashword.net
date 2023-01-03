@@ -1,7 +1,8 @@
 ---
 pageSlug: geometry-dash-10-secret-way-free-demons
 title: "Free Geometry Dash Demons: 10 Secret Ways To Get Free Demons"
-desc: a
+desc: Use these 10 free demons with secret ways to get 100 free stars in
+  Geometry Dash and unlock icons, ships, UFOs, and more!
 date: 2023-01-03T06:32:59.324Z
 tags:
   - guide
