@@ -21,7 +21,7 @@ Jump over the yellow jump pad at 14%. After that, the level is completely free.
 
 See this [video walkthrough](https://youtu.be/w0iDFpz0Ifk) for help.
 
-# ABCDEFGHIJKLMNOPQRS by NeoSweet
+# ABCDEFGHIJKLMNOPQRS by NeoSweet (45932196)
 
 Ignore its elaborate name, as this secret way is incredibly easy to access.
 
@@ -30,3 +30,23 @@ Simply jump over the blue pad at 13% to access the secret way and beat the level
 ![Secret way at 13%](https://media.discordapp.net/attachments/392087938239954950/1059723571829690398/3_FREE_DEMONS_SECRET_WAYS_Working_2020___Geometry_Dash_0-30_screenshot.png?width=1197&height=675)
 
 The timing is a little tricky, so we recommend you try it in practice mode first. Here is a [video walkthrough](https://youtu.be/FNRqTqxRMMU).
+
+# Midnight Sun by RoWeY (13609726)
+
+Midnight sun is a little harder, being an insane demon. But fortunately, it has a secret way at just 24%.
+
+Simply jump into the indivisible teleport portal at the end of the auto blue orb part, or at 24%. With this, the rest of the level will be free.
+
+![Secret way at 24%](https://media.discordapp.net/attachments/392087938239954950/1059724981321334824/SECRET_WAY_IN_INSANE_DEMON_midnight_sun_by_roWey._0-28_screenshot.png?width=1201&height=676)
+
+See this [video walkthrough](https://youtu.be/pDKLMkFF_Qs) for help.
+
+# Sundivine by Softable
+
+Sundivine is a hard demon, but with a secret way at 41%.
+
+During the blue pads at 41%, start jumping as the UFO once you're upside down to go below the pads. Afterwards, jump 3 more times to go below the cube portal. The rest of the level is then free!
+
+![Secret way at 41%](https://media.discordapp.net/attachments/392087938239954950/1059726049191137350/Hard_Demon_secret_way_Sundivine_by_softable___Geometry_Dash_0-31_screenshot.png?width=1201&height=676)
+
+See this [video walkthrough](https://youtu.be/AzcGzrj9P6o) for help.
