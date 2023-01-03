@@ -76,3 +76,5 @@ And there you have 5 free demons to get up to 50 free stars in Geometry Dash!
 Also, here are [5 more super easy demons to get another 50 stars](/posts/5-free-demons/).
 
 We also recommend you check out our [free user coins guide](/posts/geometry-dash-how-to-get-user-coins-easy/) to get 12 free and easy user coins to unlock [The Vault](/posts/geometry-dash-all-vaults-and-secrets-2022/#the-vault).
+
+Secret ways on this list were sourced from [GD Vault](https://www.gdvault.net/).
