@@ -1473,6 +1473,17 @@ details[open] .details-icon.ri-add-line:before {
     .gallery-item8, .gallery-item9 {
         display: none;
     }
+    .post-sidebar {
+        display: flex;
+        gap: 15px;
+    }
+    .post-sidebar .image {
+        width: 30%;
+    }
+    .post-sidebar .title {
+        margin-top: 0;
+        font-size: 1rem;
+    }
 }
 
 @media only screen and (max-width: 600px) {
