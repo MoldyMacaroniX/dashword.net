@@ -21,7 +21,7 @@ Fortunately, he assures us that he has not yet started it. This is good because 
 
 As for now, we can only speculate on what the Geometry Dash 2.3 game mode will be.
 
-While RobTop failed to confirm much with this statement, there are other news that he has talked a lot more about, such as:
+While RobTop failed to confirm much with this statement, there are other news that he has talked more about, such as:
 
 - [The Geometry Dash 2.2 release date](/posts/geometry-dash-2-2-release-date-confirmed-2023/)
 - [Platformer mode](/posts/robtop-says-geometry-dash-2-2-platformer-mode-will-start-to-really-shine-in-2-3/)
