@@ -613,6 +613,10 @@ a.mobile-item {
     overflow: hidden;
 }
 
+.video-iframe iframe {
+    border-radius: var(--edge);
+}
+
 .p-aspect {
     position: relative;
     padding-bottom: 25.50%;
