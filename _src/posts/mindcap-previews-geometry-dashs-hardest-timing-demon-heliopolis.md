@@ -21,3 +21,5 @@ Watch the full Heliopolis preview here:
 {% video %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xAHrT0qf2rI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {% endvideo %}
+
+What do you think? Do you think this level is [worthy of the top 1 spot](/posts/geometry-dash-levels-what-is-the-hardest-level-ever-made/) on the [Demon List](/posts/geometry-dash-demon-list-what-are-the-top-extreme-demons-2022/)? Do you think it looks good? Tell us in the comments below!
