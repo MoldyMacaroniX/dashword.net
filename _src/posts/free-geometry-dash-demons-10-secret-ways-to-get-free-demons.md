@@ -1,8 +1,8 @@
 ---
-pageSlug: geometry-dash-10-secret-way-free-demons
-title: "Free Geometry Dash Demons: 10 Secret Ways To Get Free Demons (2023)"
-desc: Use these 10 free demons with secret ways to get 100 free stars in
-  Geometry Dash and unlock icons, ships, UFOs, and more!
+pageSlug: geometry-dash-5-secret-way-free-demons
+title: "Free Geometry Dash Demons: 5 Secret Ways To Get Free Demons (2023)"
+desc: Use these 5 free demons with secret ways to get 50 free stars in Geometry
+  Dash and unlock icons, ships, UFOs, and more!
 date: 2023-01-03T06:32:59.324Z
 tags:
   - guide
@@ -41,7 +41,7 @@ Simply jump into the indivisible teleport portal at the end of the auto blue orb
 
 See this [video walkthrough](https://youtu.be/pDKLMkFF_Qs) for help.
 
-# Sundivine by Softable
+# Sundivine by Softable (10481669)
 
 Sundivine is a hard demon, but with a secret way at 41%.
 
@@ -50,3 +50,13 @@ During the blue pads at 41%, start jumping as the UFO once you're upside down to
 ![Secret way at 41%](https://media.discordapp.net/attachments/392087938239954950/1059726049191137350/Hard_Demon_secret_way_Sundivine_by_softable___Geometry_Dash_0-31_screenshot.png?width=1201&height=676)
 
 See this [video walkthrough](https://youtu.be/AzcGzrj9P6o) for help.
+
+# Ice Hell Escape by MineMario (481354)
+
+This old demon has a secret way at 42%. After that, there are a few obstacles to avoid at 61%, but then the rest of the level is free.
+
+At 42%, take the lower ball path. Avoid a few spikes and you will fall to the ground. After a few seconds, a yellow pad will put you in a circle of portals. Time the yellow orb to go into the ship portal and avoid a saw. Avoid a few more obstacles and the rest of the level after 61% will be free.
+
+![Secret way at 42%](https://media.discordapp.net/attachments/392087938239954950/1059728641321341068/HUGE_SECRET_WAY_Ice_hell_escape_by_Minemario_0-44_screenshot.png?width=1201&height=676)
+
+See this [video walkthrough](https://youtu.be/_ajfbxNwKmU) for exactly what to do.
