@@ -37,7 +37,7 @@ Blind transitions are when the creator hides what is coming up next in a level a
 
 This 2.2 level by JohaNoha appears to have many blind transitions, even more than we are used to today.
 
-But to ease everyone's fears, the founder of the Geometry Dash 2.2 private server, [iAndy_HD3](), has assured everyone that this is not what all 2.2 levels will be like:
+But to ease everyone's fears, the founder of the Geometry Dash 2.2 private server, [iAndy_HD3](https://twitter.com/iAndy_HD3/status/1545086912746119172), has assured everyone that this is not what all 2.2 levels will be like:
 
 > Message to everyone that is getting scared because they think 2.2 is gonna look like this: It won't, yes, its that simple.
 
