@@ -64,7 +64,7 @@ layout: base.njk
 {{ content | safe }}
 </article>
 
-{% if article %}
+{% if article or podcast %}
 	<div class="panel">
 		<p style="margin-top: 0;">Please follow <a href="/code-of-conduct/">Dashword's Code of Conduct</a> when commenting. If you would like to report infringement, <a href="/contact/">contact us</a>.</p>
 		<button class="button button-wide secondary" onclick="toggleComments();"><i class="ri-message-2-line"></i> <span id="comments-btn-txt">Show Comments</span></button>
@@ -103,8 +103,9 @@ layout: base.njk
 			}
 		}
 	</script>
+{% endif %}
 
-
+{% if article %}
 	<div style="margin-bottom: 25px;">
 		{% if metadata.isAds and not hideAds %}
 			{% include "formats/related.njk" %}
@@ -119,9 +120,15 @@ layout: base.njk
 {% endif %}
 
 {% if podcast %}
-<h1 class="heading">Up Next</h1>
+	<div style="margin-bottom: 25px;">
+		{% if metadata.isAds and not hideAds %}
+			{% include "formats/related.njk" %}
+		{% endif %}
+	</div>
 
-{% include "partials/podcastNav.njk" %}
+	<h1 class="heading">Up Next</h1>
 
-<a href="/podcast/" class="button button-wide">More Podcasts</a>
+	{% include "partials/podcastNav.njk" %}
+
+	<a href="/podcast/" class="button button-wide">More Podcasts</a>
 {% endif %}
