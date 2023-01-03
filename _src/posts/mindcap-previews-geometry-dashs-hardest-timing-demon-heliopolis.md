@@ -16,6 +16,8 @@ He describes this as a sunless city, which the [current asthetic](https://youtu.
 
 Heliopolis feels like a  corrupted, toxic city that hasn’t seen a clear beam of sunlight in years.
 
+Watch the full Heliopolis preview here:
+
 {% video %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xAHrT0qf2rI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {% endvideo %}
