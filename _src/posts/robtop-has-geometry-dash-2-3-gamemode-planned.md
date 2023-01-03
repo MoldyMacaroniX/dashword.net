@@ -27,3 +27,5 @@ While RobTop failed to confirm much with this statement, there are other news th
 - [Platformer mode](/posts/robtop-says-geometry-dash-2-2-platformer-mode-will-start-to-really-shine-in-2-3/)
 - [The sneak peek](/posts/geometry-dash-new-sneak-peek-analysis/)
 - [New pixel art block decorations (with pictures)](/posts/geometry-dash-2-2-news-new-pixel-art-blocks-leaked/)
+
+What would you like to see for the next Geometry Dash game mode?
