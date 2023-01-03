@@ -10,4 +10,6 @@ author: moldymacaronix
 image: https://img.youtube.com/vi/xAHrT0qf2rI/maxresdefault.jpg
 imageSource: https://youtu.be/xAHrT0qf2rI
 ---
-A
+Mindcap has previewed the upcoming hardest timing extreme demon in Geometry Dash, Heliopolis.
+
+He describes this as a sunless city, which the [current asthetic](https://youtu.be/xAHrT0qf2rI) absolutely nails.
