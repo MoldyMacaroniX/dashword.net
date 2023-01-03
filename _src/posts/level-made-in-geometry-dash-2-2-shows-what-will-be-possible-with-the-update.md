@@ -33,7 +33,7 @@ Popular YouTuber [Tride](https://twitter.com/TriDeapthBear/status/15451325649560
 
 While obviously a joke, it expresses a fear the community has.
 
-Blind transitions are when the creator hides what is coming up next in a level and only shows you when it is too late for you to react, causing you to crash.
+Blind transitions are when the creator hides what is coming up next in a level and only shows you when it is too late for you to react, causing you to crash. [Many levels nowadays are notorious for uncareful gimmicks like this](/posts/why-do-rated-levels-look-the-same/).
 
 This 2.2 level by JohaNoha appears to have many blind transitions, even more than we are used to today.
 
