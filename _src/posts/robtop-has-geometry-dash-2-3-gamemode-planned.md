@@ -6,8 +6,8 @@ tags:
   - news
   - "2.2"
 author: moldymacaronix
-image: a
-imageSource: a
+image: https://img.youtube.com/vi/lg3-GgLXzwk/maxresdefault.jpg
+imageSource: https://youtu.be/lg3-GgLXzwk
 ---
 a
 
