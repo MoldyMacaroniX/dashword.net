@@ -11,6 +11,14 @@ author: moldymacaronix
 image: https://i.ytimg.com/vi/V6HiW6t7CA0/maxresdefault.jpg
 imageSource: https://youtu.be/V6HiW6t7CA0
 ---
+With these free demons with secret ways, you can get up to 50 free stars in Geometry Dash! These stars go towards your total count to unlock icons, ships, UFOs, and more.
+
+Geometry Dash demons are the hardest difficulty levels in the game. Upon completing one, you get 10 stars, a demon towards your total demon count, and rewards such as icons and colors depending on how many total demons you have.
+
+However, since these levels are so difficult, they are not easy to beat. Fortunately, these 5 demons have secret ways making them essentially free.
+
+You can use these 5 free demons and their IDs listed in brackets to get 50 free stars.
+
 # SUPERCHARGE by Elvii (83388701)
 
 SUPERCHARGE is an easy demon by Elvii. Fortunately, using a secret way, you can skip the entire level at just 14%.
@@ -60,3 +68,9 @@ At 42%, take the lower ball path. Avoid a few spikes and you will fall to the gr
 ![Secret way at 42%](https://media.discordapp.net/attachments/392087938239954950/1059728641321341068/HUGE_SECRET_WAY_Ice_hell_escape_by_Minemario_0-44_screenshot.png?width=1201&height=676)
 
 See this [video walkthrough](https://youtu.be/_ajfbxNwKmU) for exactly what to do.
+
+---
+
+And there you have 5 free demons to get up to 50 free stars in Geometry Dash!
+
+We also recommend you check out our [free user coins guide](/posts/geometry-dash-how-to-get-user-coins-easy/) to get 12 free and easy user coins to unlock [The Vault](/posts/geometry-dash-all-vaults-and-secrets-2022/#the-vault).
