@@ -13,9 +13,9 @@ imageSource: https://youtu.be/V6HiW6t7CA0
 ---
 With these free demons with secret ways, you can get up to 50 free stars in Geometry Dash! These stars go towards your total count to unlock icons, ships, UFOs, and more.
 
-Geometry Dash [demons are the hardest difficulty levels in the game](). Upon completing one, you get 10 stars, a demon towards your total demon count, and rewards such as icons and colors depending on how many total demons you have.
+Geometry Dash [demons are the hardest difficulty levels in the game](/posts/geometry-dash-demon-list-what-are-the-top-extreme-demons-2022/). Upon completing one, you get 10 stars, a demon towards your total demon count, [500 orbs](/posts/geometry-dash-how-to-get-mana-orbs-easy/) (which equivalates to a [demon key](/posts/geometry-dash-how-to-get-demon-keys-easy/)), and potentially other rewards such as icons and colors depending on how many total demons you have.
 
-However, since these levels are so difficult, they are not easy to beat. Fortunately, these 5 demons have secret ways making them essentially free. (Not patched.)
+However, since these levels are so difficult, [they are not easy to beat](/posts/geometry-dash-levels-top-10-hardest-extreme-demons-2022/). Fortunately, these 5 demons have secret ways making them essentially free. (And they're **not patched!**)
 
 You can use these 5 free demons and their IDs listed in brackets to get 50 free stars.
 
