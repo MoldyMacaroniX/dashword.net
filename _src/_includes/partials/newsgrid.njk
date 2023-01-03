@@ -1,0 +1,22 @@
+<div class="container section">
+    <div class="grid-4 post-grid">
+
+        {% for post in collections[ "demonlist" ] | reverse | head(8) %}
+        <div>
+            <a href="{{ post.url }}">
+                <div class="aspect">
+                    <img src="{{ post.data.image }}" alt="{{ post.data.title }}">
+                </div>
+            </a>
+            <a href="{{ post.url }}" class="title">{{ post.data.title }}</a>
+            {# <span class="meta">
+                {% if post.data.author %}{% set myAuthor = authors | getAuthor(post.data.author) %}<a href="/authors/{{ myAuthor.key }}" class="author">{{ myAuthor.name }} <i class="ri-user-3-line"></i></a>{% endif %} {% if post.data.date %}<a href="{{ post.url }}" class="date">{{ post.data.date | readableDate }} <i class="ri-time-line"></i></a>{% endif %} <span href="#" class="tags">{% for tag in post.data.tags %} <a href="/categories/{{ tag | slug }}/">{{ tag | capitalize }}</a>{% endfor %} <i class="ri-price-tag-3-line"></i></span>
+            </span> #}
+            <span class="meta">
+                {% if post.data.date %}<a href="{{ post.url }}" class="date">{{ post.data.date | readableDate }} <i class="ri-time-line"></i></a>{% endif %}
+            </span>
+        </div>
+        {% endfor %}
+
+    </div>
+</div>

@@ -328,7 +328,7 @@ a.mobile-item {
 
 /* Grid */
 
-.grid-2, .grid-3 {
+.grid-2, .grid-3, .grid-4 {
     display: grid; 
     gap: var(--gap);
 }
@@ -339,6 +339,10 @@ a.mobile-item {
 
 .grid-3 {
     grid-template-columns: 1fr 1fr 1fr;
+}
+
+.grid-4 {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 /* Cover */
@@ -563,11 +567,11 @@ a.mobile-item {
     gap: 5px;
 }
 
-.post .meta .tags a::after, .featured-main .meta .tags a::after, .featured-side .meta .tags a::after {
+.post .meta .tags a::after, .featured-main .meta .tags a::after, .featured-side .meta .tags a::after, .post-grid .meta .tags a::after {
     content: ',';
 }
 
-.post .meta .tags a:last-of-type:after, .featured-main .meta .tags a:last-of-type:after, .featured-side .meta .tags a:last-of-type:after {
+.post .meta .tags a:last-of-type:after, .featured-main .meta .tags a:last-of-type:after, .featured-side .meta .tags a:last-of-type:after, .post-grid .meta .tags a:last-of-type::after {
     content: '';
 }
 
@@ -789,6 +793,43 @@ h1.heading {
 
 .gallery-item .title:hover {
     color: var(--primary);
+}
+
+/* Post Grid */
+
+.post-grid .aspect {
+    border-radius: var(--edge);
+}
+
+.post-grid .title {
+    margin-top: 10px;
+    display: block;
+    font-weight: bold;
+    font-size: 1.1rem;
+    transition: color 0.25s ease;
+    /* Truncation... */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+}
+
+.post-grid .title:hover {
+    color: var(--primary);
+}
+
+.post-grid .meta {
+    margin-top: 5px !important;
+    display: flex;
+    gap: 0 var(--gap);
+    flex-wrap: wrap;
+}
+
+.post-grid .meta .author, .post-grid .meta .date, .post-grid .meta .tags {
+    display: flex;
+    align-items: center;
+    gap: 5px;
 }
 
 /* Flash */
@@ -1484,6 +1525,12 @@ details[open] .details-icon.ri-add-line:before {
         margin-top: 0;
         font-size: 1rem;
     }
+    .post-grid .meta {
+        display: none;
+    }
+    .post-grid .title {
+        font-size: 1rem;
+    }
 }
 
 @media only screen and (max-width: 600px) {
@@ -1528,6 +1575,10 @@ details[open] .details-icon.ri-add-line:before {
     .gallery-item .title {
         font-size: 0.8rem;
     }
+    .grid-4 {
+        grid-template-columns: 1fr 1fr;
+        gap: 15px;
+    }
 }
 
 @media only screen and (max-width: 500px) {
@@ -1551,5 +1602,8 @@ details[open] .details-icon.ri-add-line:before {
     }
     .flash-news a {
         padding: 13px;
+    }
+    .post-grid .title {
+        font-size: 0.8rem;
     }
 }

@@ -349,6 +349,11 @@
 
     {% include 'formats/display-horizontal.njk'%}
 
+    {% if not hideSidebar %}
+        {% include 'partials/newsgrid.njk' %}
+        {% include 'formats/display-horizontal.njk'%}
+    {% endif %}
+
     <!-- FOOTER START -->
     <div class="footer-wrapper" id="footer">
         <div class="footer container">
