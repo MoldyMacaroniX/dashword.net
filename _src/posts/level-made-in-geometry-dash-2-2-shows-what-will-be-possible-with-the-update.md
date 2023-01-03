@@ -1,7 +1,8 @@
 ---
 pageSlug: geometry-dash-2-2-level-shows-what-will-be-possible-when-2-2-releases
 title: Level Made In Geometry Dash 2.2 Shows What Will Be Possible With The Update
-desc: a
+desc: Geometry Dash player JohaNoha shows what will be possible in 2.2 by
+  building a level in the 2.2 private server.
 date: 2023-01-03T05:59:51.550Z
 tags:
   - "2.2"
