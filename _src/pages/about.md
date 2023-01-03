@@ -1,6 +1,7 @@
 ---
 title: About Dashword
 permalink: /about/
+image: /assets/img/dashword.png
 ---
 
 Dashword is the only Geometry Dash news website. It is at the forefront of Geometry Dash 2.2, demonlist, and extreme demon news. Over 10,000 monthly readers rely on Dashword to learn about Geometry Dash and the latest events happening in the community.
@@ -11,10 +12,10 @@ And all of this is free and open source. It is our goal to provide you with the 
 
 Want to contribute? [You can apply to be a writer here](/contribute/)!
 
-# Dashword Team
+<!-- # Dashword Team
 
 * [MoldyMacaroniX](/authors/moldymacaronix/) — Lead Developer
     * [EsmiK](/authors/esmik/) — Developer
 * [Unfilled (apply)](/contribute/) — Lead 2.2 Writer
 * [Unfilled (apply)](/contribute/) — Lead Demonlist Writer
-* [Unfilled (apply)](/contribute/) — Lead Community Writer
+* [Unfilled (apply)](/contribute/) — Lead Community Writer -->
