@@ -1,7 +1,8 @@
 ---
 pageSlug: robtop-has-geometry-dash-2-3-game-mode-planned
 title: RobTop Has Geometry Dash 2.3 Game Mode Planned
-desc: a
+desc: RobTop has confirmed that he has the Geometry Dash 2.3 game mode planned.
+  At this time, however, he remains secret about it.
 date: 2023-01-03T05:45:33.626Z
 tags:
   - news
