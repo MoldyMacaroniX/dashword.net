@@ -836,6 +836,47 @@ h1.heading {
     gap: 5px;
 }
 
+/* Recommended */
+
+.rec {
+    border-bottom: 1px solid var(--grey);
+}
+
+.rec-links {
+    margin: 15px 0;
+    gap: 10px;
+}
+
+.rec .title {
+    display: block;
+    font-weight: bold;
+    display: flex;
+    transition: color 0.25s ease;
+    text-transform: capitalize;
+    color: var(--print);
+    text-decoration: none;
+}
+
+.rec .title span {
+    /* Truncation... */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+.rec .title:hover {
+    color: var(--primary);
+}
+
+.rec-title {
+    border-bottom: 1px solid var(--grey);
+    padding-bottom: 5px;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
 /* Flash */
 
 /* Copied from .cols */

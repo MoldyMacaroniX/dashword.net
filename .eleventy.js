@@ -77,6 +77,8 @@ module.exports = (config) => {
         // Inject ads after 3rd <p> tag, then after every 3
         const r = $("article p:nth-of-type(3), article p:nth-of-type(3n)");
         $(r).after('<div class="inline-slot"><div class="article-notice"><!--Article continues after ad--></div><div style="background-color: var(--grey); max-width: 1300px;"><!-- Put ad code here --></div></div>');
+        const s = $("article p:nth-of-type(2)");
+        $(s).after('<div id="rec-filler"></div><script>document.getElementById("rec-filler").innerHTML = rec</script>');
         return $.html();
     });
 

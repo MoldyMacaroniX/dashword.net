@@ -1,0 +1,35 @@
+{% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+{% set nextPost = collections.posts | getNextCollectionItem(page) %}
+
+{% if not previousPost %}
+{% set post1 = collections.posts[2] %}
+{% else %}
+{% set post1 = previousPost %}
+{% endif %}
+
+{% if not nextPost %}
+        {% set post2 = collections.posts[0] %}
+        {% else %}
+        {% set post2 = nextPost %}
+        {% endif %}
+
+{# https://www.tutorialrepublic.com/faq/how-to-assign-block-of-html-code-to-a-javascript-variable.php #}
+<script>
+var rec = '' +
+'<div class="rec">' +
+    '<div class="rec-title">Up Next</div>' +
+    '<div class="rec-links cols">' +
+
+        '<a href="{{ post1.url }}" class="title col">' +
+            '<i class="ri-arrow-right-s-fill" style="color: var(--primary); font-size: 1.75rem; transform: translateY(-5px);"></i>' +
+            '<span>{{ post1.data.title }}</span>' +
+        '</a>' +
+
+        '<a href="{{ post2.url }}" class="title col">' +
+            '<i class="ri-arrow-right-s-fill" style="color: var(--primary); font-size: 1.75rem; transform: translateY(-5px);"></i>' +
+            '<span>{{ post2.data.title }}</span>' +
+        '</a>' +
+
+    '</div>' +
+'</div>'
+</script>
