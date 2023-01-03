@@ -395,7 +395,8 @@
 
             </div>
             <div class="footer-end">
-                <p>Copyright © 2021-2022 Dashword.net</p>
+                <p>Copyright © 2022-<span id="year">[current year]</span> Dashword.net</p>
+                <script>document.getElementById("year").innerHTML = new Date().getFullYear();</script>
                 <p>Dashword.net is not associated with RobTopGames AB ®</p>
             </div>
         </div>
