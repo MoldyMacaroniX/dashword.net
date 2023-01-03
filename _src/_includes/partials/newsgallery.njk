@@ -1,0 +1,17 @@
+<div class="gallery">
+    {% for post in collections[ "2.2" ] | reverse | head(9) %}
+        {% if loop.index > 4 %}
+        <div class="col gallery-item{{ loop.index }}">
+            <div class="gallery-item">
+                <a href="{{ post.url }}">
+                    <div class="aspect">
+                        <img src="{{ post.data.image }}" src="{{ post.data.title }}">
+                    </div>
+                </a>
+                <a href="{{ post.url }}" class="title" style="text-transform: capitalize;">{{ post.data.title }}</a>
+            </div>
+        </div>
+        {% endif %}
+    {% endfor %}
+
+</div>
