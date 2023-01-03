@@ -2,7 +2,7 @@
 pageSlug: robtop-has-geometry-dash-2-3-game-mode-planned
 title: RobTop Has Geometry Dash 2.3 Game Mode Planned
 desc: a
-date: 2022-10-25T04:18:11.193Z
+date: 2023-01-03T05:45:33.626Z
 tags:
   - news
   - "2.2"
