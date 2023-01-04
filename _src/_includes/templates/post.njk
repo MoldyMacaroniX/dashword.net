@@ -60,7 +60,9 @@ layout: base.njk
 </div>
 {% endif %}
 
+{% if article %}
 {% include 'partials/recommended.njk' %}
+{% endif %}
 
 <article{%if not podcast %} class="article"{% endif %}>
 {{ content | safe }}
