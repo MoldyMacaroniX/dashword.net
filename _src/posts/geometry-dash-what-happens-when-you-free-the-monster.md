@@ -24,10 +24,14 @@ You will also get a chest filled with icons, the key to the Demon Gauntlet, and 
 
 After you free the monster, you will get access to the Demon Gauntlet. You can complete that gauntlet to get a really cool looking spider icon.
 
-After that, you will need to wait for the next update, Geometry Dash 2.2, to continue.
+After that, you will need to wait for the next update, **Geometry Dash 2.2**, to continue.
 
 ![Demon Guardian saying he will return](https://i.ytimg.com/vi/Lmsqt7m14GI/maxresdefault.jpg)
 
-Once Geometry Dash 2.2 comes out, the monster will stay true to what he said and return. In the meantime, however, you should prepare yourself by collecting stars, [diamonds](/posts/geometry-dash-how-to-get-diamonds-easy/), [orbs](/posts/geometry-dash-how-to-get-mana-orbs-easy/), and [demon keys](/posts/geometry-dash-how-to-get-demon-keys-easy/).
+[Once Geometry Dash 2.2 comes out](/posts/geometry-dash-2-2-release-date-confirmed-2023/), the monster will stay true to what he said and return. In the meantime, however, you should prepare yourself by collecting stars, [diamonds](/posts/geometry-dash-how-to-get-diamonds-easy/), [orbs](/posts/geometry-dash-how-to-get-mana-orbs-easy/), and [demon keys](/posts/geometry-dash-how-to-get-demon-keys-easy/).
 
 It is likely that these items will prove useful once Geometry Dash 2.2 is released.
+
+# How To Free The Monster
+
+To free the monster, you will need to unlock and complete the basement quest. Fortunately, [we wrote an entire, in-depth guide](/posts/geometry-dash-all-vaults-and-secrets-2022/#the-basement) to help you!
