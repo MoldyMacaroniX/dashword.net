@@ -3,7 +3,7 @@ pageSlug: geometry-dash-what-happens-when-you-free-the-monster
 title: "Geometry Dash: What Happens When You Free The Monster?"
 desc: After freeing the monster prisoner in Geometry Dash, here's what happens
   and what you can do next.
-date: 2023-01-05T07:34:29.087Z
+date: 2023-01-05T07:55:33.728Z
 tags:
   - guide
 author: moldymacaronix
