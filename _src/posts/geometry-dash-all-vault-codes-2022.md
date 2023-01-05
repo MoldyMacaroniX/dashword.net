@@ -1,12 +1,13 @@
 ---
-title: "Geometry Dash Vault Codes: Get Free Icons, Ships, UFOs, & More (2022)"
-desc: With silver user coins, you can unlock a lot of Geometry Dash icons, ships, UFOs, and more.
-image: https://media.discordapp.net/attachments/392087938239954950/1013588500114849812/unknown.png?width=1202&height=676
+title: "Geometry Dash Vault Codes: Get Free Icons, Ships, UFOs, & More (2023)"
+desc: With silver user coins, you can unlock a lot of Geometry Dash icons,
+  ships, UFOs, and more.
 date: 2022-09-18
 tags:
-    - featured
-    - guide
+  - featured
+  - guide
 author: moldymacaronix
+image: https://media.discordapp.net/attachments/392087938239954950/1013588500114849812/unknown.png?width=1202&height=676
 ---
 
 You can get easy Geometry Dash icons, ships, UFOs, and more by simply entering some codes. It's free loot!
