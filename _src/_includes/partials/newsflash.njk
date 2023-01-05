@@ -1,6 +1,7 @@
 <div class="flash">
-    <div class="flash-label" id="flash-label">
-        Newsflash
+    <div class="flash-label" style="display: flex; gap: 5px; align-items: center;">
+        <i class="ri-flashlight-fill"></i>
+        <span id="flash-label">Newsflash</span>
     </div>
     <div class="flash-news">
         {% for post in collections[ "2.2" ] | reverse | head(4) %}
