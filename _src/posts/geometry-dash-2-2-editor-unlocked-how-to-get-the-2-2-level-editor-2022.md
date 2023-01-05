@@ -1,5 +1,5 @@
 ---
-title: "Geometry Dash 2.2 Editor Unlocked: How To Get The 2.2 Level Editor (2022)"
+title: "Geometry Dash 2.2 Editor Unlocked: How To Get The 2.2 Level Editor (2023)"
 desc: The Geometry Dash 2.2 editor has become available after modders restored
   it from Geometry Dash Lite, Meltdown, SubZero, and World.
 date: 2022-10-10T08:25:07.375Z
