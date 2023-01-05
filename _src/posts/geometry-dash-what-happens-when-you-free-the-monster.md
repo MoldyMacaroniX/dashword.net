@@ -14,4 +14,20 @@ After freeing the monster prisoner in Geometry Dash, here's what happens and wha
 
 The imprisoned monster, also known as the [Demon Guardian](/posts/geometry-dash-how-to-unlock-the-basement-and-demon-guardian/), is an NPC in Geometry Dash that you can free by collecting 3 keys hidden around the game.
 
-After collecting these 3 keys, the monster tells you he will **destroy Geometry Dash** and he disappears, leaving you a chest filled with loot.
+# What Happens When You Free The Monster?
+
+After collecting these 3 keys, the monster tells you he will **destroy Geometry Dash** and he disappears.
+
+You will also get a chest filled with icons, the key to the Demon Gauntlet, and other rewards.
+
+# What To Do After Freeing The Monster
+
+After you free the monster, you will get access to the Demon Gauntlet. You can complete that gauntlet to get a really cool looking spider icon.
+
+After that, you will need to wait for the next update, Geometry Dash 2.2, to continue.
+
+![Demon Guardian saying he will return](https://i.ytimg.com/vi/Lmsqt7m14GI/maxresdefault.jpg)
+
+Once Geometry Dash 2.2 comes out, the monster will stay true to what he said and return. In the meantime, however, you should prepare yourself by collecting stars, [diamonds](/posts/geometry-dash-how-to-get-diamonds-easy/), [orbs](/posts/geometry-dash-how-to-get-mana-orbs-easy/), and [demon keys](/posts/geometry-dash-how-to-get-demon-keys-easy/).
+
+It is likely that these items will prove useful once Geometry Dash 2.2 is released.
