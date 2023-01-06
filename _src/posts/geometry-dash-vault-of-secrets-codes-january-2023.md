@@ -16,7 +16,7 @@ In Geometry Dash, one of the available vaults is the [Vault of Secrets](<>). Thi
 
 # All Vault of Secrets Codes
 
-Here are all Vault of Secrets codes:
+Here are all Vault of Secrets codes in Geometry Dash:
 
 * **Octocube**
 * **Brain Power**
