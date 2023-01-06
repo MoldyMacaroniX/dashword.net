@@ -28,6 +28,28 @@ This guide will outline how and where to watch the Geometry Dash 2.2 sneak peeks
 
 # How To Watch The Geometry Dash 2.2 Sneak Peeks
 
+You can watch both Geometry Dash 2.2 sneak peeks on the official RobTop Games YouTube channel. [The first sneak peek](/posts/sneak-peek-recreation/) is for a level nicknamed "Dash" [while the second sneak peek](/posts/geometry-dash-new-sneak-peek-analysis/) is for a level nicknamed "Explorers."
+
 # Geometry Dash 2.2 Sneak Peek 1: "Dash"
 
+You can watch the first Geometry Dash 2.2 sneak peek for the 2.2 level "Dash" [on YouTube](https://youtu.be/ipK7vQ8gEZw).
+
+{% video %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ipK7vQ8gEZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% endvideo %}
+
 # Geometry Dash 2.2 Sneak Peek 2: "Explorers"
+
+You can watch the second Geometry Dash 2.2 sneak peek for the 2.2 level "Explorers" [on YouTube](https://youtu.be/CtEQ_EGlbQc).
+
+{% video %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CtEQ_EGlbQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% endvideo %}
+
+# Useful Links
+
+Here are some useful links about the Geometry Dash 2.2 sneak peeks:
+
+* [RobTop Games YouTube Channel](https://www.youtube.com/@RobTopGames)
+* [Geometry Dash 2.2 "Dash" Sneak Peek](https://youtu.be/ipK7vQ8gEZw)
+* [Geometry Dash 2.2 "Explorers" Sneak Peek](https://youtu.be/CtEQ_EGlbQc)
