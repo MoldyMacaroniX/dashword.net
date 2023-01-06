@@ -12,7 +12,7 @@ imageSource: https://youtu.be/_AHO1yUYepE
 ---
 Here are all codes for the Geometry Dash Vault of Secrets. These codes unlock free icons, ships, UFOs, and more.
 
-In Geometry Dash, one of the available vaults is the [Vault of Secrets](<>). This guide will tell you all the Vault of Secrets codes and how to complete them.
+In Geometry Dash, one of the available vaults is the [Vault of Secrets](/posts/geometry-dash-all-vaults-and-secrets-2022/#vault-of-secrets). This guide will tell you all the Vault of Secrets codes and how to complete them.
 
 # All Vault of Secrets Codes
 
