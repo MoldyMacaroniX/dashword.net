@@ -37,4 +37,11 @@ Some codes require further instructions:
 
 # Where To Enter Vault of Secrets Codes
 
+The Vault of Secrets codes can be entered in the Vault of Secrets after you unlock it. You can unlock the Vault of Secrets by following these instructions:
+
+1. [Collect 50 diamonds](/posts/geometry-dash-how-to-get-diamonds-easy/)
+2. [Press the lock in the top right corner of the online screen](/posts/geometry-dash-all-vaults-and-secrets-2022/#vault-of-secrets)
+
+Then, you can enter the codes in the text field and press the demon face to enter them.
+
 ![The Vault of Secrets](https://media.discordapp.net/attachments/392087938239954950/1013588500114849812/unknown.png?width=1202&height=676)
