@@ -1058,7 +1058,7 @@ h1.heading {
 }
 
 .article img {
-    margin: auto;
+    margin: 15px auto;
     border-radius: var(--edge);
 }
 
