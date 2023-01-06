@@ -20,9 +20,10 @@ This guide will outline how and where to watch the Geometry Dash 2.2 sneak peeks
 
 **Table of contents:**
 
-- [How To Watch The Geometry Dash 2.2 Sneak Peeks]()
-- [Geometry Dash 2.2 Sneak Peek 1: "Dash"]()
-- [Geometry Dash 2.2 Sneak Peek 2: "Explorers"]()
+- [How To Watch The Geometry Dash 2.2 Sneak Peeks](#how-to-watch-the-geometry-dash-2.2-sneak-pesks)
+- [Geometry Dash 2.2 Sneak Peek 1: "Dash"](#geometry-dash-2.2-sneak-peek-1%3A-%22dash%22)
+- [Geometry Dash 2.2 Sneak Peek 2: "Explorers"](#geometry-dash-2.2-sneak-peek-2%3A-%22explorers%22)
+- [Useful Geometry Dash 2.2 Sneak Peek Links](#useful-geometry-dash-2.2-sneak-peek-links)
 
 # How To Watch The Geometry Dash 2.2 Sneak Peeks
 
@@ -44,7 +45,7 @@ You can watch the second Geometry Dash 2.2 sneak peek for the 2.2 level "Explore
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CtEQ_EGlbQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 {% endvideo %}
 
-# Useful Links
+# Useful Geometry Dash 2.2 Sneak Peek Links
 
 Here are some useful links about the Geometry Dash 2.2 sneak peeks:
 
