@@ -53,3 +53,7 @@ Here are some useful links about the Geometry Dash 2.2 sneak peeks:
 * [RobTop Games YouTube Channel](https://www.youtube.com/@RobTopGames)
 * [Geometry Dash 2.2 "Dash" Sneak Peek](https://youtu.be/ipK7vQ8gEZw)
 * [Geometry Dash 2.2 "Explorers" Sneak Peek](https://youtu.be/CtEQ_EGlbQc)
+
+---
+
+For more update 2.2 news, see our [Geometry Dash 2.2 category](/categories/2.2/).
