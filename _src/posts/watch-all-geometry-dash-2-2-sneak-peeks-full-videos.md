@@ -16,8 +16,6 @@ Here is how to watch all official Geometry Dash 2.2 sneak peeks by RobTop Games.
 
 RobTop occasionally shares sneak peeks about Geometry Dash updates, and update 2.2 is no different.
 
-![Geometry Dash 2.2 sneak peek 1](https://i.ytimg.com/vi/ipK7vQ8gEZw/maxresdefault.jpg)
-
 This guide will outline how and where to watch the Geometry Dash 2.2 sneak peeks.
 
 **Table of contents:**
