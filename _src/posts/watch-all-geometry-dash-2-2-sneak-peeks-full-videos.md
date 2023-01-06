@@ -3,7 +3,7 @@ pageSlug: watch-all-geometry-dash-2-2-sneak-peeks-full-videos
 title: Watch All Geometry Dash 2.2 Sneak Peeks (Full Videos)
 desc: Here is how to watch all official Geometry Dash 2.2 sneak peeks by RobTop
   Games.
-date: 2023-01-06T02:18:01.052Z
+date: 2023-01-06T02:28:46.797Z
 tags:
   - "2.2"
   - guide
