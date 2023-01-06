@@ -38,6 +38,7 @@ module.exports = (config) => {
     // Require `markdown-it.js`
     let markdownIt = require("./markdown-it");
     let markdownItAnchor = require("./markdown-it-anchor");
+    let markdownItImageFigures = require("./markdown-it-image-figures");
 
     // Set options
     let options = {
@@ -47,7 +48,7 @@ module.exports = (config) => {
     };
 
     // Create a variable for the markdown library
-    let markdownLib = markdownIt(options).use(markdownItAnchor, {
+    let markdownLib = markdownIt(options).use(markdownItImageFigures).use(markdownItAnchor, {
         level: 1,
         // slugify: string => string,
         permalink: false,

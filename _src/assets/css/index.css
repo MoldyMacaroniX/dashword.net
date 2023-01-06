@@ -855,9 +855,15 @@ h1.heading {
     text-transform: capitalize;
     color: var(--print);
     text-decoration: none;
+    height: fit-content;
+}
+
+.rec i {
+    position: absolute;
 }
 
 .rec .title span {
+    margin-left: 30px;
     /* Truncation... */
     overflow: hidden;
     text-overflow: ellipsis;
