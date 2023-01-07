@@ -45,3 +45,7 @@ While the website Dashword.net is and always will be our top priority, Dashword 
 - [Improving our contribution system](/contribute/)
 
 If you would like to help with any of these projects, [let us know](/contact/)!
+
+---
+
+All in all, thank you for such an amazing first year of our existence. We were founded on February 1, 2022, so our first anniversary is coming up soon!
