@@ -64,7 +64,46 @@ layout: base.njk
 {% include 'partials/recommended.njk' %}
 {% endif %}
 
-<article{%if not podcast %} class="article"{% endif %}>
+<div class="scroll-indicator">
+	<div class="scroll-indicator-fill" id="scroll-bar"></div>
+</div>
+
+<style>
+	.scroll-indicator {
+		position: fixed;
+		z-index: 999;
+		width: 100%;
+		top: 0;
+		left: 0;
+	}
+	.scroll-indicator-fill {
+		height: 5px;
+		background-color: var(--primary);
+		width: 0%;
+		opacity: 1;
+		transition: opacity 0.25s ease;
+	}
+</style>
+
+<script>
+	// https://www.w3schools.com/howto/howto_js_scroll_indicator.asp
+	// When the user scrolls the page, execute myFunction
+	window.onscroll = function() {myFunction()};
+
+	function myFunction() {
+		var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+		var height = document.getElementById('article').scrollHeight + document.getElementById('article').offsetTop; // + 400
+		var scrolled = (winScroll / height) * 100;
+		document.getElementById("scroll-bar").style.width = scrolled + "%";
+		if (winScroll > (height + 100)) {
+			document.getElementById("scroll-bar").style.opacity = "0";
+		} else {
+			document.getElementById("scroll-bar").style.opacity = "1";
+		}
+	}
+</script>
+
+<article{%if not podcast %} class="article"{% endif %} id="article">
 {{ content | safe }}
 </article>
 
