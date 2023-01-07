@@ -190,7 +190,7 @@ a.item:hover {
     z-index: 600;
     flex-direction: column;
     width: 250px;
-    padding: 50px 25px;
+    /* padding: 50px 25px; */
     background-color: var(--bg);
     height: 100%;
     overflow: auto;
@@ -203,7 +203,7 @@ a.item:hover {
     position: absolute;
     top: 0;
     right: 0;
-    padding: 20px;
+    padding: 15px;
     font-size: 2rem;
     cursor: pointer;
 }
@@ -224,8 +224,46 @@ a.item:hover {
 a.mobile-item {
     font-weight: bold;
     font-size: 1.25rem;
-    padding: 15px 0;
+    padding: 20px;
     cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+a.mobile-item i {
+    color: var(--primary);
+    font-size: 1.3rem;
+    font-weight: normal;
+}
+
+a.mobile-item .button i {
+    color: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+}
+
+.categ i {
+    opacity: 0;
+}
+
+.news-chip {
+    margin-left: auto;
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    background-color: var(--primary);
+    color: var(--white);
+    border-radius: var(--edge);
+    padding: 3px 7px;
+}
+
+.mobile .divider {
+    border: solid 0px transparent;
+    background-color: var(--grey);
+    height: 1px;
+    display: block;
+    flex-shrink: 0
 }
 
 /* Scroll Link */

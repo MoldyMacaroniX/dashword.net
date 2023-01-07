@@ -122,14 +122,18 @@
     <div class="mobile" id="menu">
         <i class="ri-close-fill close" id="close" onclick="closeMobile()" onkeydown="if (event.keyCode === 13) {closeMobile()}" tabindex="0"></i>
         <div style="display: flex; flex-direction: column; height: 100%;">
-            <a href="/" class="mobile-item">Home</a>
-            <a href="/categories/2.2/" class="mobile-item">2.2</a>
-            <a href="/categories/news/" class="mobile-item">News</a>
-            <a href="/categories/demonlist/" class="mobile-item">Demonlist</a>
-            <a href="/categories/guide/" class="mobile-item">Guide</a>
-            <a href="/categories/opinion/" class="mobile-item">Opinion</a>
-            <a href="/categories/review/" class="mobile-item">Review</a>
-            <a href="/search/" class="mobile-item" style="margin-top: auto; display: flex; align-items: center; gap: 5px;"><div class="button button-wide"><i class="ri-search-line"></i> Search</div></a>
+            <a href="/" class="mobile-item"><i class="ri-home-2-fill"></i> Home</a>
+            <div class="divider"></div>
+            <a href="/categories/2.2/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> 2.2 <div class="news-chip">News</div></a>
+            <a href="/categories/news/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> News</a>
+            <a href="/categories/demonlist/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> Demonlist</a>
+            <a href="/categories/guide/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> Guide</a>
+            <a href="/categories/opinion/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> Opinion</a>
+            <a href="/categories/review/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> Review</a>
+            <div class="divider"></div>
+            <a href="/authors/" class="mobile-item"><i class="ri-user-3-fill"></i> Authors</a>
+            <a href="/podcast/" class="mobile-item"><i class="ri-mic-fill"></i> Podcast</a>
+            <a href="/search/" class="mobile-item" style="margin-top: auto; display: flex; align-items: center; gap: 5px;"><div class="button button-wide" style="margin-top: 0;"><i class="ri-search-line"></i> Search</div></a>
         </div>
     </div>
     <div class="mobile-bg" id="menu-bg" onclick="closeMobile()"></div>
