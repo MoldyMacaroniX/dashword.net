@@ -21,10 +21,16 @@ layout: base.njk
 
 {% if image %}
 <div class="article-cover">
-	<div class="aspect">
-		<img src="{{ image }}" alt="{% if title %}{{ title }}{% else %}No post title provided.{% endif %}" loading="lazy">
-	</div>
-	{% if imageSource %}<a href="{{ imageSource }}" target="_blank" class="article-cover-source">Cover Source</a>{% endif %}
+	{% if videoID %}
+		<div class="video-iframe">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ videoID }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
+	{% else %}
+		<div class="aspect">
+			<img src="{{ image }}" alt="{% if title %}{{ title }}{% else %}No post title provided.{% endif %}" loading="lazy">
+		</div>
+	{% endif %}
+	{% if imageSource and not videoID %}<a href="{{ imageSource }}" target="_blank" class="article-cover-source">Cover Source</a>{% endif %}
 	{% if article %}
 		<!--
 		<div class="post" style="margin-top: 15px;">

@@ -20,6 +20,7 @@ tags:
     - featured
     - guide
 author: moldymacaronix
+videoID: xAHrT0qf2rI
 ---
 
 This is the first paragraph of the article...
@@ -90,3 +91,13 @@ The above is wrong and will result in the tag `one,two` rather than tags `one` a
 String value.
 
 Must be a valid author key.
+
+### `videoID`
+
+An optional parameter to specify a YouTube video ID. If included, the featured image will be replaced with the video embedded. Only include for posts featuring a single video.
+
+**Tip:** The image of a video's thumbnail is:
+
+- https://img.youtube.com/vi/**VALUE**/maxresdefault.jpg
+
+This is useful for the post's image.

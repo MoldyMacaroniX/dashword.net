@@ -21,4 +21,5 @@ collections:
       - {label: "Author ID", name: "author", widget: "string" }
       - {label: "Image URL", name: "image", widget: "string" }
       - {label: "Image Source URL", name: "imageSource", widget: "string", required: false }
+      - {label: "YouTube Video ID", name: "videoID", widget: "string", required: false }
       - {label: "Body", name: "body", widget: "markdown" }
