@@ -21,7 +21,7 @@ As RobTop appears to be avoiding making any major changes to the game before 2.2
 
 However, the community has expressed negative views on this idea time and time again.
 
-The main critique with this idea is bias. Moderators have shown themselves to be bias on the kinds of levels they send, with some preferring some styles over others or [making up their own standards](/posts/rate-standards/).
+The main critique with this idea is to do with bias in the system. Moderators have shown themselves to be bias on the kinds of levels they send, with some preferring some styles over others or [making up their own standards](/posts/rate-standards/).
 
 Another fear is that this will partially take away the fact that if your level gets featured, it is confirmed that RobTop has played it.
 
