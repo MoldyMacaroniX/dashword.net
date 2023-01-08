@@ -13,4 +13,4 @@ author: moldymacaronix
 image: https://img.youtube.com/vi/_89h4Bifz7s/hqdefault.jpg
 imageSource: https://youtu.be/_89h4Bifz7s
 ---
-RobTop has confirmed in the [Geometry Dash Discord server]() that he will consider giving Elder Moderators the ability to rate levels directly after 2.2.
+RobTop has confirmed in the [Geometry Dash Discord server](/posts/geometry-dash-discord-server-how-to-join-request-levels/) that he will consider giving Elder Moderators the ability to rate levels directly after 2.2.
