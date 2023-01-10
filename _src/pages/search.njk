@@ -16,8 +16,9 @@ hasModal: true
     <div id="app">
 
         <form onsubmit="return false">
-            <input type="search" v-model="term" placeholder="Search keywords here..." id="searchfield" value="">
-            <button @click="search" class="button button-wide">Search</button>
+            <input ref="inputField" v-model="term" placeholder="Search anything you want..." id="searchfield" value="">
+            <i class="ri-search-line"></i>
+            <button @click="search" class="button" id="searchbtn" ref="Btn">Search</button>
         </form>
 
         <div v-if="results" class="results">
@@ -29,12 +30,15 @@ hasModal: true
                 </div>
             </div>
             <div v-if="noResults" class="article">
-            <p>Sorry, no results were found. You can try the following.</p>
-            <ul>
-                <li>Make sure all search terms are spelled correctly.</li>
-                <li>Try searching keywords (such as "2.2").</li>
-                <li>Include more search terms.</li>
-            </ul>
+                {# <p>Sorry, no results were found. You can try the following.</p>
+                <ul>
+                    <li>Make sure all search terms are spelled correctly.</li>
+                    <li>Try searching keywords (such as "2.2").</li>
+                    <li>Include more search terms.</li>
+                </ul> #}
+                <div class="panel">
+                    <p style="margin-top: 0; margin-bottom: 0; text-align: center;">Sorry, no results found.</p>
+                </div>
             </div>
         </div>
 
@@ -74,6 +78,7 @@ const app = new Vue({
     methods:{
         search() {
             //if () {}
+            this.term = this.$refs.inputField.value;
             console.log('search', this.term);
             if (this.term != "") {
                 let results = this.idx.search(this.term);
@@ -101,9 +106,12 @@ const params = new Proxy(new URLSearchParams(window.location.search), {
 });
 
 let value = params.search; 
-console.log(value);
+document.getElementById("searchfield").focus();
+document.getElementById("searchfield").select();
 document.getElementById("searchfield").value = value;
-app.search();
+{# this.$refs.Btn.click() #}
+{# app.search(); #}
+{# document.getElementById("searchbtn").click(); #}
 </script>
 
 <script>
