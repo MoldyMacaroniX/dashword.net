@@ -8,10 +8,10 @@
 {% endif %}
 
 {% if not nextPost %}
-        {% set post2 = collections.posts[0] %}
-        {% else %}
-        {% set post2 = nextPost %}
-        {% endif %}
+{% set post2 = collections.posts[0] %}
+{% else %}
+{% set post2 = nextPost %}
+{% endif %}
 
 {# https://www.tutorialrepublic.com/faq/how-to-assign-block-of-html-code-to-a-javascript-variable.php #}
 <script>

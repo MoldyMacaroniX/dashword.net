@@ -68,6 +68,7 @@ layout: base.njk
 
 {% if article %}
 {% include 'partials/recommended.njk' %}
+{% include 'partials/recommendedFloat.njk' %}
 {% endif %}
 
 <div class="scroll-indicator">
@@ -98,6 +99,7 @@ layout: base.njk
 
 	function myFunction() {
 		var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+		rfloat(winScroll);
 		var height = document.getElementById('article').scrollHeight + document.getElementById('article').offsetTop - 500;
 		var scrolled = (winScroll / height) * 100;
 		document.getElementById("scroll-bar").style.width = scrolled + "%";

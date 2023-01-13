@@ -888,6 +888,84 @@ h1.heading {
     gap: 5px;
 }
 
+/* Recommended Float */
+
+.rec-float {
+    display: none;
+    opacity: 0;
+    transform: translateY(-50px);
+    position: fixed;
+    z-index: 50;
+    bottom: 0;
+    right: 0;
+    transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+.rec-float-inner {
+    display: flex;
+    align-items: center;
+    background-color: var(--bg);
+    height: fit-content;
+    width: fit-content;
+    border-radius: var(--edge);
+    margin: 20px;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    position: relative;
+}
+
+.rec-float .image {
+    width: 150px;
+    display: block;
+}
+
+.rec-float .title {
+    font-weight: bold;
+    display: block;
+    transition: color 0.25s ease;
+    max-width: 300px;
+    padding: 0 15px;
+    padding-right: 30px;
+    font-size: 0.9rem;
+    text-transform: capitalize;
+}
+
+.rec-float .title span {
+    /* Truncation... */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.rec-float .title:hover {
+    color: var(--primary);
+}
+
+.rec-float .rclose {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.rec-float .rnext {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 3px 5px;
+    background-color: var(--primary);
+    color: var(--white);
+    font-size: 0.75rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border-bottom-right-radius: var(--edge);
+    border-top-left-radius: var(--edge);
+}
+
 /* Recommended */
 
 .rec {
@@ -1708,5 +1786,25 @@ details[open] .details-icon.ri-add-line:before {
     }
     .post-grid .title {
         font-size: 0.8rem;
+    }
+    .rec-float {
+        margin: 0px;
+        width: 100%;
+        right: 0;
+        left: 0;
+        right: inherit;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .rec-float-inner {
+        width: calc(100% - 20px);
+        margin: 10px;
+    }
+    .rec-float .image {
+        width: 400px;
+    }
+    .rnext {
+        display: none;
     }
 }

@@ -1,0 +1,54 @@
+{% set nextPost = collections.posts | getNextCollectionItem(page) %}
+
+{% if not nextPost %}
+{% set post = collections.posts[0] %}
+{% else %}
+{% set post = nextPost %}
+{% endif %}
+
+<div class="rec-float" id="rfloat">
+    <div class="rec-float-inner">
+        <div class="rclose" onclick="rfloatClose()"><i class="ri-close-fill"></i></div>
+        <div class="rnext">Next Story</div>
+        <a class="image">
+            <div class="aspect">
+                <img src="{{ post.data.image }}" alt="{{ post.data.title }}">
+            </div>
+        </a>
+        <a class="title">
+            <span>{{ post.data.title }}</span>
+        </a>
+    </div>
+</div>
+
+<script>
+
+renabled = true;
+
+function rfloat(winScroll) {
+
+    if (winScroll > document.getElementById('article').offsetTop && renabled) {
+
+        document.getElementById("rfloat").style.display = "block";
+
+        setTimeout(function(){
+            document.getElementById("rfloat").style.opacity = "1";
+            document.getElementById("rfloat").style.transform = "translateY(0px)";
+        }, 250);
+
+    }
+
+}
+
+function rfloatClose() {
+    
+    renabled = false;
+    document.getElementById("rfloat").style.opacity = "0";
+    document.getElementById("rfloat").style.transform = "translateY(-50px)";
+
+        setTimeout(function(){
+            document.getElementById("rfloat").style.display = "block";
+        }, 250);
+}
+
+</script>
