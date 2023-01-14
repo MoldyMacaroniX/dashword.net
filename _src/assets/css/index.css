@@ -140,6 +140,13 @@ a.item {
     transition: background-color 0.25s ease;
     color: inherit;
     position: relative;
+    gap: 3px;
+}
+
+a.item i {
+    font-size: 1.25rem;
+    opacity: 0.5;
+    transition: transform 0.25s ease;
 }
 
 a.item:hover {
@@ -180,6 +187,10 @@ a.item:hover {
 .megamenu:hover .megamenu-content {
     display: block;
     opacity: 1;
+}
+
+.megamenu:hover i {
+    transform: rotate(-180deg);
 }
 
 /* Mobile Nav */

@@ -128,9 +128,8 @@
             <a href="/categories/news/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> News</a>
             <a href="/categories/demonlist/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> Demonlist</a>
             <a href="/categories/guide/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> Guide</a>
-            <a href="/categories/opinion/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> Opinion</a>
-            <a href="/categories/review/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> Review</a>
             <div class="divider"></div>
+            <a href="/categories/" class="mobile-item"><i class="ri-price-tag-3-fill"></i> Categories</a>
             <a href="/authors/" class="mobile-item"><i class="ri-user-3-fill"></i> Authors</a>
             <a href="/podcast/" class="mobile-item"><i class="ri-mic-fill"></i> Podcast</a>
             <a href="/search/" class="mobile-item" style="margin-top: auto; display: flex; align-items: center; gap: 5px;"><div class="button button-wide" style="margin-top: 0;"><i class="ri-search-line"></i> Search</div></a>
@@ -147,13 +146,14 @@
                     <a href="/" class="logo"><img src="/assets/img/icon.svg" alt="">Dashword</a>
                     <i class="ri-menu-line menu" id="open" onclick="openMobile()" onkeydown="if (event.keyCode === 13) {openMobile()}" tabindex="0"></i>
                     <div class="items hide-on-phone">
+                        
                         <a href="/" class="item">Home</a>
 
                         <div class="megamenu">
-                            <a href="/categories/2.2/" class="item">2.2</a>
+                            <a href="/categories/2.2/" class="item">2.2 <i class="ri-arrow-down-s-line"></i></a>
                             <div class="megamenu-content">
                                 <div class="container cols">
-                                    {% for post in collections[ "2.2" ] | reverse | head(3) %}
+                                    {% for post in collections[ "2.2" ] | reverse | head(4) %}
                                     <div class="col">
                                         <div class="post-sidebar">
                                             <a class="image" href="{{ post.url }}">
@@ -172,10 +172,10 @@
                         </div>
 
                         <div class="megamenu">
-                            <a href="/categories/news/" class="item">News</a>
+                            <a href="/categories/news/" class="item">News <i class="ri-arrow-down-s-line"></i></a>
                             <div class="megamenu-content">
                                 <div class="container cols">
-                                    {% for post in collections[ "news" ] | reverse | head(3) %}
+                                    {% for post in collections[ "news" ] | reverse | head(4) %}
                                     <div class="col">
                                         <div class="post-sidebar">
                                             <a class="image" href="{{ post.url }}">
@@ -194,10 +194,10 @@
                         </div>
                         
                         <div class="megamenu">
-                            <a href="/categories/demonlist/" class="item">Demonlist</a>
+                            <a href="/categories/demonlist/" class="item">Demonlist <i class="ri-arrow-down-s-line"></i></a>
                             <div class="megamenu-content">
                                 <div class="container cols">
-                                    {% for post in collections[ "demonlist" ] | reverse | head(3) %}
+                                    {% for post in collections[ "demonlist" ] | reverse | head(4) %}
                                     <div class="col">
                                         <div class="post-sidebar">
                                             <a class="image" href="{{ post.url }}">
@@ -216,10 +216,10 @@
                         </div>
 
                         <div class="megamenu">
-                            <a href="/categories/guide/" class="item">Guide</a>
+                            <a href="/categories/guide/" class="item">Guide <i class="ri-arrow-down-s-line"></i></a>
                             <div class="megamenu-content">
                                 <div class="container cols">
-                                    {% for post in collections[ "guide" ] | reverse | head(3) %}
+                                    {% for post in collections[ "guide" ] | reverse | head(4) %}
                                     <div class="col">
                                         <div class="post-sidebar">
                                             <a class="image" href="{{ post.url }}">
@@ -238,32 +238,58 @@
                         </div>
 
                         <div class="megamenu">
-                            <a href="/categories/opinion/" class="item">Opinion</a>
+                            <a href="/categories/opinion/" class="item">More <i class="ri-arrow-down-s-line"></i></a>
                             <div class="megamenu-content">
                                 <div class="container cols">
+                                    <div class="col" style="display: flex; flex-direction: column;">
+                                        <div class="tag-previews grid-2">
+
+                                            <a href="/categories/opinion/" class="tag-preview">
+                                                <div class="tag-preview-icon">
+                                                    <i class="ri-price-tag-3-line"></i>
+                                                </div>
+                                                <div class="tag-preview-name">Opinion</div>
+                                            </a>
+
+                                            <a href="/categories/review/" class="tag-preview">
+                                                <div class="tag-preview-icon">
+                                                    <i class="ri-price-tag-3-line"></i>
+                                                </div>
+                                                <div class="tag-preview-name">Review</div>
+                                            </a>
+
+                                            <a href="/categories/video/" class="tag-preview">
+                                                <div class="tag-preview-icon">
+                                                    <i class="ri-price-tag-3-line"></i>
+                                                </div>
+                                                <div class="tag-preview-name">Video</div>
+                                            </a>
+
+                                            <a href="/categories/list/" class="tag-preview">
+                                                <div class="tag-preview-icon">
+                                                    <i class="ri-price-tag-3-line"></i>
+                                                </div>
+                                                <div class="tag-preview-name">List</div>
+                                            </a>
+
+                                            <a href="/categories/history/" class="tag-preview">
+                                                <div class="tag-preview-icon">
+                                                    <i class="ri-price-tag-3-line"></i>
+                                                </div>
+                                                <div class="tag-preview-name">History</div>
+                                            </a>
+
+                                            <a href="/categories/editorial/" class="tag-preview">
+                                                <div class="tag-preview-icon">
+                                                    <i class="ri-price-tag-3-line"></i>
+                                                </div>
+                                                <div class="tag-preview-name">Editorial</div>
+                                            </a>
+
+                                        </div>
+                                        <a href="/categories/" class="button button-wide" style="margin-top: auto;">All Categories</a>
+                                    </div>
                                     {% for post in collections[ "opinion" ] | reverse | head(3) %}
-                                    <div class="col">
-                                        <div class="post-sidebar">
-                                            <a class="image" href="{{ post.url }}">
-                                                <div class="aspect">
-                                                    <img src="{{ post.data.image | url }}" alt="">
-                                                </div>
-                                            </a>
-                                            <div class="content col">
-                                                <a href="{{ post.url }}" class="title" style="text-transform: capitalize">{% if post.data.title %}{{ post.data.title }}{% else %}No post title provided{% endif %}</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    {% endfor %}
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="megamenu">
-                            <a href="/categories/review/" class="item">Review</a>
-                            <div class="megamenu-content">
-                                <div class="container cols">
-                                    {% for post in collections[ "review" ] | reverse | head(3) %}
                                     <div class="col">
                                         <div class="post-sidebar">
                                             <a class="image" href="{{ post.url }}">
@@ -379,7 +405,7 @@
                         <a href="/">Home</a>
                         <a href="/posts/">Articles</a>
                         <a href="/podcast/">Podcast</a>
-                        <a href="/categories/">Topics</a>
+                        <a href="/categories/">Categories</a>
                         <a href="/authors/">Authors</a>
                         <a href="/about/">About</a>
                     </p>
