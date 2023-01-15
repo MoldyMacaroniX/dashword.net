@@ -11,6 +11,10 @@ hideSidebar: true
 
 <p>You can contact Dashword.net, for any reason, by emailing <a href="mailto:support@dashword.net">support@dashword.net</a>.</p>
 
+## See our frequently asked questions
+
+For answers to basic questions, see our [frequently asked questions](/faq/).
+
 ## Contribute (articles, ideas, code)
 
 It is easier to chat with us in real time on our [Discord server](https://discord.gg/SqZuGCpHMm), so we recommend joining that if you would like to contribute articles to Dashword. The same applies if you would like to send us your article ideas or contribute to our codebase!
@@ -27,4 +31,4 @@ We are not currently accepting sponsored posts on our site.
 
 ## Partnership
 
-We are only accepting mutual partnerships if they are from other Geometry Dash projects, including Discord communities, popular figures, and other Geometry Dash related websites.
+We are only accepting mutual partnerships if they are from other Geometry Dash entities, including Discord communities, popular figures, and other Geometry Dash related websites. They do not have to be official (endorsed by RobTop).

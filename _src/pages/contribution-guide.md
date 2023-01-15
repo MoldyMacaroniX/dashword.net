@@ -28,15 +28,15 @@ If you are looking for inspiration, check out the categories listed above.
 
 We encourage you to write out of passion, but if you want to hear some numbers:
 
-- Dashword has over 10,000 monthly readers!
-- Dashword gets over 20,000 views every month!
-- Dashword averages over 200,000 impressions every month!
+- Dashword has over 20,000 monthly readers!
+- Dashword gets over 50,000 views every month!
+- Dashword averages over 300,000 impressions every month!
 
 On top of those, Dashword ranks high in Google Search for many Geometry Dash search queries.
 
 Like usual, in getting your content on Dashword, you will: be credited, get your name on our [authors page](/authors/), and be able to share your social media on your profile.
 
-Consistant and trusted authors will also get access to our staff login where they can get their articles published quicker!
+**Consistant and trusted authors will also get access to our staff login where they can get their articles published quicker!**
 
 # Talk to us
 

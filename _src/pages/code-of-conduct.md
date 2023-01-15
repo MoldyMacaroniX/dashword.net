@@ -6,9 +6,9 @@ hideAds: true
 hideSidebar: true
 ---
 
-We wish to foster a positive, supportive, and encouraging environment for all who use our site. This, in part, requires your effort to avoid unwanted behavior when using our site.
+We wish to foster a positive, supportive, and encouraging environment for all who use our site. This, in part, requires your effort to avoid unwanted behavior.
 
-In general, follow these rules when using our site:
+In general, follow these rules when on our site:
 
 1. **Respect everyone.** When interacting with others, show them respect and be nice. As usual, any form of hate speech, harassment, personal attacks, or arguments are prohibited. We will also respect everyone no matter their gender, religion, race, or sexuality. Overall, be kind to everyone.
 
