@@ -7,8 +7,8 @@ date: 2022-11-20T06:32:38.985Z
 tags:
   - news
 author: moldymacaronix
-image: https://pbs.twimg.com/media/Fh3mZ4dWAAQGpBw?format=jpg&name=large
-imageSource: https://twitter.com/Spu7Nix/status/1593683188013989890
+image: https://pbs.twimg.com/media/Fh4L6F5XgAEJEcW?format=png&name=900x900
+imageSource: https://twitter.com/Refusion23/status/1593724419947565056
 ---
 Popular Geometry Dash player and programmer Spu7nix teamed up with other programmers to recreate r/place in Geometry Dash. Now, you can build a level with thousands of others just like the famous Reddit r/place!
 
