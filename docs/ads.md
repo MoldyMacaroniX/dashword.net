@@ -1,6 +1,6 @@
 # Ads
 
-Dashword has three kinds of ads.
+Dashword has six kinds of ads.
 
 1. `display-horizontal`
 2. `display-vertical`
