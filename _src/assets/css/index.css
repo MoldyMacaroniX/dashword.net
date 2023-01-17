@@ -982,6 +982,8 @@ h1.heading {
 
 .rec {
     border-bottom: 1px solid var(--grey);
+    margin-bottom: 15px;
+    margin-top: 15px;
 }
 
 .rec-links {
