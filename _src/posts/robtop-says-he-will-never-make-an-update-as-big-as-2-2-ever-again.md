@@ -19,3 +19,5 @@ RobTop said in the [Geometry Dash Discord server](/posts/geometry-dash-discord-s
 Having 2.1 recently turn 6 years old, I think everyone can agree that we will never want to wait so long for an update ever again. And RobTop is aware of this.
 
 But regardless—Geometry Dash 2.2 must be nearly complete, right? Well, the legendary update might come out sooner than you think, as RobTop recently [confirmed a new Geometry Dash 2.2 release date](/posts/geometry-dash-2-2-release-date-confirmed-2023/).
+
+What are you most looking forward to in Geometry Dash 2.2?
