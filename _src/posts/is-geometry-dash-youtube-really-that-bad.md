@@ -30,3 +30,5 @@ With the community constantly reaching new peak player peaks and being the most 
 With this, YouTubers began to notice that this passive revenue started to become a lot. It started to become enough to pay for rent and food. Then it started to become enough to buy luxuries. Perhaps, for the first time ever, it was possible to make a sizeable income off of Geometry Dsh YouTube.
 
 Making a living off of YouTube was nothing new. But making a living off of Geometry Dash YouTube was unheard of.
+
+With the combination of countless new YouTubers joining the scene and the rising potential ad revenue possible, Geometry Dash YouTube started to become competitive. Wherever money is to be made, there is always competition.
