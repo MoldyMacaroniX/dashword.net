@@ -35,7 +35,7 @@ With the combination of countless new YouTubers joining the scene and the rising
 
 Views started to mean a lot. YouTubers, behind the scenes, began fixating on how to optimize their content perfectly.
 
-The days of uploading monologues with random level replays in the background was over. Now, hundreds were doing that.
+The days of uploading monologues with random level replays in the background were over. Now, hundreds were doing that.
 
 Views. Retention. CTR. Impressions. CPM. It all started to be optimized.
 
@@ -83,4 +83,4 @@ I don't like effortless content, because it puts a bad reputation on Geometry Da
 
 Call my thumbnails clickbait or my editing too optimized, but appreciate the fact that I made 10 different decorated levels each with unique gimmicks for a single, eight minute video. Appreciate the fact that I broke from the norm and came up with a new idea for a challenge instead of doing a traditional letplay. Appreciate the fact that I spent a night, or many, editing that one video. Appreciate the fact that I spent time of my life uploading a Geometry Dash video to YouTube.
 
-I don't want to sound egotistica by using myself as an example. But I know myself better than I know others, and maybe the thing I said about myself at the start is at play here. The first thing, hopefully.
+I don't want to sound egotistical by using myself as an example. But I know myself better than I know others, and maybe the thing I said about myself at the start is at play here. The first thing, hopefully.
