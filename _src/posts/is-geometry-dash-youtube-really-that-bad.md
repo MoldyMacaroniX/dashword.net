@@ -82,3 +82,5 @@ So, while the scorpions surely exist, their intentions should not be generalized
 I don't like effortless content, because it puts a bad reputation on Geometry Dash YouTube. So here I am telling you to avoid a few bad apples, but try and find the passion that goes into content. Because there is always passion.
 
 Call my thumbnails clickbait or my editing too optimized, but appreciate the fact that I made 10 different decorated levels each with unique gimmicks for a single, eight minute video. Appreciate the fact that I broke from the norm and came up with a new idea for a challenge instead of doing a traditional letplay. Appreciate the fact that I spent a night, or many, editing that one video. Appreciate the fact that I spent time of my life uploading a Geometry Dash video to YouTube.
+
+I don't want to sound egotistica by using myself as an example. But I know myself better than I know others, and maybe the thing I said about myself at the start is at play here. The first thing, hopefully.
