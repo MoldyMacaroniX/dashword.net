@@ -11,4 +11,4 @@ author: moldymacaronix
 image: https://img.youtube.com/vi/5qEYn_WW_RQ/maxresdefault.jpg
 imageSource: https://youtu.be/5qEYn_WW_RQ
 ---
-A
+I'm going to be the first to say it: I am a Geometry Dash YouTuber. Whether or not you think that makes me knowledgeable or bias is up to you. All I ask is that you hear me out.
