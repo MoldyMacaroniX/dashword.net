@@ -31,4 +31,4 @@ With this, YouTubers began to notice that this passive revenue started to become
 
 Making a living off of YouTube was nothing new. But making a living off of Geometry Dash YouTube was unheard of.
 
-With the combination of countless new YouTubers joining the scene and the rising potential ad revenue possible, Geometry Dash YouTube started to become competitive. Wherever money is to be made, there is always competition.
+With the combination of countless new YouTubers joining the scene and the rising potential ad revenue possible, Geometry Dash YouTube started to become competitive. Wherever money is to be made, there will always be competition.
