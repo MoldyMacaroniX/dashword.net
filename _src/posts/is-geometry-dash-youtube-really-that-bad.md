@@ -47,4 +47,4 @@ I can see why. We all have nostalgia for those old Minecraft letsplays—before 
 
 But as they say, the train has already left the station.
 
-The Geometry Dash community have continuously criticized (mostly on Twitter) "newgen" YouTubers. They cricize unresearched videos, trendjacking, and over-optimized content.
+The Geometry Dash community have continuously criticized (mostly on Twitter) "newgen" YouTubers. They criticize unresearched videos, trendjacking, and over-optimized content.
