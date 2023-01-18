@@ -22,3 +22,7 @@ As time went on, content would get bigger. YouTubers like EVW focused his conten
 But what stayed constant was that those who made videos on the game would not make a career out of it. While popular, the game did not have a big enough viewerbase on YouTube. Those who wanted to make real money would pursue traditional careers or at the very least had a part time job.
 
 With this, those making content mostly did it out of passion. While getting some ad revenue on the side was nice, making a living off of Geometry Dash was never going to happen.
+
+But for the first time ever: that is changing.
+
+With the community constantly reaching new peak player peaks and being the most alive it'a ever been, a Geometry Dsh YouTube revolution went underway. Many Geometry Dash channels, of all different kinds, popped up in 2021 and blew up in 2022.
