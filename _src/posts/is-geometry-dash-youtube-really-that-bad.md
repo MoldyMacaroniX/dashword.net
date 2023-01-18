@@ -47,4 +47,18 @@ I can see why. We all have nostalgia for those old Minecraft letsplays—before 
 
 But as they say, the train has already left the station.
 
-The Geometry Dash community have continuously criticized (mostly on Twitter) "newgen" YouTubers. They criticize unresearched videos, trendjacking, and over-optimized content.
+The Geometry Dash community have continuously criticized (mostly on Twitter) "newgen" YouTubers. They criticize unresearched videos, clickbait, and over-optimized content.
+
+I do not support misinformation, misrepresentation, and cash-grab content. I will not lie when I say there is now some of that on Geometry Dash YouTube.
+
+But what I have thus far failed to mention is that despite this new type of content—despite all the optimization and *MrBeast-ification*: there is still passion.
+
+At the end of the day, there are much better audiences on YouTube for instant cash. There are bigger communities to make a career on. Those who stick to Geometry Dash YouTube do so out of passion.
+
+There is nothing wrong with optimizing content for views or wanting to get more ad revenue. In fact, most people doing this are only doing so to continue making excellent Geometry Dash content: because it's what they enjoy.
+
+I make my full-time living off of my Geometry Dash YouTube channel. I optimize for retention, CTR, CPM, and all the other metrics. But I do so because I want to make Geometry Dash content, and getting the views and revenue is what allows me to do so.
+
+I genuinely want to make my living, for the rest of my life, making Geometry Dash videos.
+
+Call me crazy: but it's what I enjoy. I want to pursue what I enjoy and that's doing YouTube on the game and for the community I love.
