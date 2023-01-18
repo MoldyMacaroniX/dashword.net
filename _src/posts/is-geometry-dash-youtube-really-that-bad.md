@@ -64,3 +64,7 @@ I genuinely want to make my living, for the rest of my life, making Geometry Das
 Call me crazy: but it's what I enjoy. I want to pursue what I enjoy and that's doing YouTube on the game and for the community I love.
 
 But the distaste I see from the community is something I must protest against. Just because a few make that instant cash kind of content doesn't mean all "newgen" (or even YouTubers who make the same type of content) do so as well.
+
+Understand that when people optimize, it's not always because they’re evil, heartless, money-hungry scorpions. It’s for the opportunity to continue doing what they love by making money doing it.
+
+Do you pursue your University degree because it pays more, or because you genuinely enjoy it? For most, it's because it's what they're passionate about. But they still wish to make as much money possible doing it as they could. That's the dream: being able to make money doing what you love, so that your job doesn't feel like a job, but a hobby.
