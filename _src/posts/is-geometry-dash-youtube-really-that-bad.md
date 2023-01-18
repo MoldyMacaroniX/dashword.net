@@ -57,8 +57,10 @@ At the end of the day, there are much better audiences on YouTube for instant ca
 
 There is nothing wrong with optimizing content for views or wanting to get more ad revenue. In fact, most people doing this are only doing so to continue making excellent Geometry Dash content: because it's what they enjoy.
 
-I make my full-time living off of my Geometry Dash YouTube channel. I optimize for retention, CTR, CPM, and all the other metrics. But I do so because I want to make Geometry Dash content, and getting the views and revenue is what allows me to do so.
+I make my full-time living off of my 80,000 subscriber Geometry Dash YouTube channel. I optimize for retention, CTR, CPM, and all the other metrics. But I do so because I want to make Geometry Dash content, and getting the views and revenue is what allows me to do so.
 
 I genuinely want to make my living, for the rest of my life, making Geometry Dash videos.
 
 Call me crazy: but it's what I enjoy. I want to pursue what I enjoy and that's doing YouTube on the game and for the community I love.
+
+But the distaste I see from the community is something I must protest against. Just because a few make that instant cash kind of content doesn't mean all "newgen" (or even YouTubers who make the same type of content) do so as well.
