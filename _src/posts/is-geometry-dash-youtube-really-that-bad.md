@@ -68,3 +68,17 @@ But the distaste I see from the community is something I must protest against. J
 Understand that when people optimize, it's not always because they’re evil, heartless, money-hungry scorpions. It’s for the opportunity to continue doing what they love by making money doing it.
 
 Do you pursue your University degree because it pays more, or because you genuinely enjoy it? For most, it's because it's what they're passionate about. But they still wish to make as much money possible doing it as they could. That's the dream: being able to make money doing what you love, so that your job doesn't feel like a job, but a hobby.
+
+I'm not saying you should quit your education to pursue Geometry Dash YouTube. YouTube in general is a risky career, let alone the small subset that is Geometry Dash YouTube.
+
+But making passive income off of something you love is a gift.
+
+So to answer the question I posed earlier: is Geometry Dash YouTube really that bad?
+
+Where money can be made, evil money-hungries will be found. But that doesn't mean all YouTubers have evil intentions just because they want to optimize their content for the algorithm.
+
+So, while the scorpions surely exist, their intentions should not be generalized to everyone. Don't assume someone bad before you hear their side of the story.
+
+I don't like effortless content, because it puts a bad reputation on Geometry Dash YouTube. So here I am telling you to avoid a few bad apples, but try and find the passion that goes into content. Because there is always passion.
+
+Call my thumbnails clickbait or my editing too optimized, but appreciate the fact that I made 10 different decorated levels each with unique gimmicks for a single, eight minute video. Appreciate the fact that I broke from the norm and came up with a new idea for a challenge instead of doing a traditional letplay. Appreciate the fact that I spent a night, or many, editing that one video. Appreciate the fact that I spent time of my life uploading a Geometry Dash video to YouTube.
