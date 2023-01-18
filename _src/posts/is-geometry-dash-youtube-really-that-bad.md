@@ -26,3 +26,7 @@ With this, those making content mostly did it out of passion. While getting some
 But for the first time ever: that is changing.
 
 With the community constantly reaching new peak player peaks and being the most alive it'a ever been, a Geometry Dsh YouTube revolution went underway. Many Geometry Dash channels, of all different kinds, popped up in 2021 and blew up in 2022.
+
+With this, YouTubers began to notice that this passive revenue started to become a lot. It started to become enough to pay for rent and food. Then it started to become enough to buy luxuries. Perhaps, for the first time ever, it was possible to make a sizeable income off of Geometry Dsh YouTube.
+
+Making a living off of YouTube was nothing new. But making a living off of Geometry Dash YouTube was unheard of.
