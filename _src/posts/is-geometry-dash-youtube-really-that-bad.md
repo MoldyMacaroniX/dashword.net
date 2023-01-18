@@ -38,3 +38,9 @@ Views started to mean a lot. YouTubers, behind the scenes, began fixating on how
 The days of uploading monologues with random level replays in the background was over. Now, hundreds were doing that.
 
 Views. Retention. CTR. Impressions. CPM. It all started to be optimized.
+
+But with this, the old aura of Geometry Dash YouTube was gone. No longer would you get genuine commentary; everything was to be *MrBeast-ified*. Optimization was crucial.
+
+And some people don't like that.
+
+I can see why. We all have nostalgia for those old Minecraft letsplays—before all the light-speed editing and shouting commentary took over. I can see why some players don't want that to happen to Geometry Dash.
