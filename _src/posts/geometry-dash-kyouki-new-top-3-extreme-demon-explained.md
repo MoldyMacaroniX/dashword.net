@@ -22,7 +22,7 @@ Despite that, it is well-regarded as one of the best looking extreme demons in G
 
 *A part from Kyouki, screenshot from [Rewarny](https://youtu.be/UwLdg1l-O1o).*
 
-The fact that we now have a solo level in the top 3 hardest extreme demons on the Demon List is crazy. Since good levels nowadays take so long to make, seeing Kyouki get the spotlight is well-deserved.
+The fact that we now have a solo level in the top 3 hardest extreme demons [on the Demon List](/posts/geometry-dash-demon-list-what-are-the-top-extreme-demons-2022/) is crazy. [Since good levels nowadays take so long to make](/posts/geometry-dash-levels-how-to-make-a-featured-level-2022/), seeing Kyouki get the spotlight is well-deserved.
 
 Here are some more top extreme demons like Kyouki, explained:
 
