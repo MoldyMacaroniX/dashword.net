@@ -32,4 +32,4 @@ This nerfed version of the level has been verified, but the unnerfed version has
 
 However, it is theoretically possible to beat the original version of the level, albeit much harder than it was ever originally intended to be.
 
-What do you think? Do you think the nerfed completion is enough, or would you like to see someone beat the unnerfed version of Silent Clubstep?
+What do you think? Do you think the [nerfed completion is enough](https://www.dashword.net/posts/geometry-dash-levels-top-10-hardest-extreme-demons-2022/#%234%3A-silent-clubstep), or would you like to see someone beat the unnerfed version of Silent Clubstep?
