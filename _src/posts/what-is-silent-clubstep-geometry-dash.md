@@ -5,7 +5,7 @@ desc: Silent Clubstep was one of the hardest Geometry Dash levels ever made and
   was made hack-verified by its creator, Sailent. It was originally physically
   impossible but was updated in 2022 to fix bugs and nerf it slightly, making it
   humanly possible.
-date: 2023-01-19T07:58:27.417Z
+date: 2023-01-19T08:00:14.095Z
 tags:
   - demonlist
 author: moldymacaronix
