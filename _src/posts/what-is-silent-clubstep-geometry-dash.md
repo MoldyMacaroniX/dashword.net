@@ -12,7 +12,7 @@ author: moldymacaronix
 image: https://img.youtube.com/vi/4VQzSID55lY/maxresdefault.jpg
 imageSource: https://youtu.be/4VQzSID55lY
 ---
-Silent Clubstep was one of the hardest Geometry Dash levels ever made and was made hack-verified by its creator, Sailent. It was originally physically impossible but was updated in 2022 to fix bugs and nerf it slightly, making it humanly possible.
+Silent Clubstep was one of the hardest Geometry Dash levels ever made and was hack-verified by its creator, Sailent. It was originally physically impossible but was updated in 2022 to fix bugs and nerf it slightly, making it humanly possible.
 
 Regardless, it still has many frame-perfect timings, making it one of the hardest levels ever to this day.
 
