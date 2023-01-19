@@ -20,7 +20,7 @@ Despite that, it is well-regarded as one of the best looking extreme demons in G
 
 ![A part from Kyouki, screenshot from Rewarny.](https://i.ytimg.com/vi/UwLdg1l-O1o/maxresdefault.jpg)
 
-*A part from Kyouki, screenshot from [Rewarny](https://youtu.be/UwLdg1l-O1o).*
+*A part from Kyouki, screenshot from [Rewarny](https://youtu.be/UwLdg1l-O1o).*
 
 The fact that we now have a solo level in the top 3 hardest extreme demons on the Demon List is crazy. Since good levels nowadays take so long to make, seeing Kyouki get the spotlight is well-deserved.
 
