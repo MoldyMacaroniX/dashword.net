@@ -34,7 +34,7 @@ We will publish further Golden Gates news in our [Demon List category](/categori
 
 # Release Date
 
-Rhe current release date for Golden Gates is unknown as the level is still very early in development. We estimate, however, that it should take anywhere between 3-12 months from now.
+The current release date for Golden Gates is unknown as the level is still very early in development. We estimate, however, that it should take anywhere between 3-12 months from now.
 
 - - -
 
