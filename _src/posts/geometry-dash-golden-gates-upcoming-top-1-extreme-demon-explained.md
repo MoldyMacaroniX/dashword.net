@@ -17,3 +17,11 @@ Golden Gates is an upcoming Geometry Dash top 1 extreme demon. It is designed to
 This level is far beyond the skill level of today's players, a lot like [Silent Clubstep](/posts/what-is-silent-clubstep-geometry-dash/) was eight years ago.
 
 If this ever gets verified, it will without a doubt place top 1 on the [Pointercrate Demon List](/posts/geometry-dash-demon-list-what-are-the-top-extreme-demons-2022/), the game's most accurate ranking of [Geometry Dash's hardest levels](/posts/geometry-dash-levels-what-is-the-hardest-level-ever-made/).
+
+# Gameplay
+
+The gameplay of Golden Gates is based heavily on that of [Silent Clubstep](/posts/geometry-dash-levels-top-10-hardest-extreme-demons-2022/#%234%3A-silent-clubstep) and [Slaughterhouse](/posts/geometry-dash-slaughterhouse-top-1/).
+
+# Decoration
+
+This
