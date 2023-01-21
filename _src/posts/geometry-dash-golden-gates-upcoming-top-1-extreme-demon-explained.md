@@ -41,5 +41,6 @@ Here are some more recent extreme demon news:
 - [Mindcap Previews Geometry Dash's Hardest Timing Demon: Heliopolis](/posts/mindcap-previews-geometry-dashs-hardest-timing-demon-heliopolis/)
 - [Geometry Dash Top 10 Level Natural Disaster Verified By Helix](/posts/geometry-dash-top-10-level-natural-disaster-verified-by-helix/)
 - [Geometry Dash Top 5 Extreme Demon LIMBO Verified By BGram](/posts/geometry-dash-top-5-extreme-demon-limbo-verified-by-bgram/)
+- [Acheron Takes #1 Spot On Geometry Dash Demon List](/posts/breaking-acheron-takes-1-spot-on-geometry-dash-demonlist/)
 
 We also recommend reading about [Silent Clubstep](https://geometry-dash-fan.fandom.com/wiki/Silent_clubstep) for more information on one of the biggest inspirations behind Golden Gates.
