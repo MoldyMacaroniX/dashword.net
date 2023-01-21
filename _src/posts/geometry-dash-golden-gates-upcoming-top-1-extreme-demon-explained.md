@@ -27,3 +27,12 @@ The gameplay of Golden Gates is based heavily on that of [Silent Clubstep](/post
 The decoration of Golden Gates is set to be based on VSC and The Golden. That being said, there is no previewed decoration at this time.
 
 We will publish further Golden Gates news in our [Demon List category](/categories/demonlist/) once this changes.
+
+# Release Date
+
+Rhe current release date for Golden Gates is unknown as the level is still very early in development. We estimate, however, that it should take anywhere between 3-12 months from now.
+
+- - -
+
+Here are some more upcoming extreme demon news:
+
