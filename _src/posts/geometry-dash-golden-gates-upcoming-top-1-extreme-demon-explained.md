@@ -28,6 +28,10 @@ The decoration of Golden Gates is set to be based on VSC and The Golden. That be
 
 We will publish further Golden Gates news in our [Demon List category](/categories/demonlist/) once this changes.
 
+![VSC by Bo and more, a level that Golden Gates is said to take inspiration from.](https://img.youtube.com/vi/yXpTYLQpEOo/maxresdefault.jpg)
+
+*VSC by Bo and more, a level that Golden Gates is said to take inspiration from, screenshot from [LeTim [GD]](https://youtu.be/yXpTYLQpEOo).*
+
 # Release Date
 
 Rhe current release date for Golden Gates is unknown as the level is still very early in development. We estimate, however, that it should take anywhere between 3-12 months from now.
