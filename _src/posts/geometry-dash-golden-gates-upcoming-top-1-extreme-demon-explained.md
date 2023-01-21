@@ -24,4 +24,6 @@ The gameplay of Golden Gates is based heavily on that of [Silent Clubstep](/post
 
 # Decoration
 
-This
+The decoration of Golden Gates is set to be based on VSC and The Golden. That being said, there is no previewed decoration at this time.
+
+We will publish further Golden Gates news in our [Demon List category](/categories/demonlist/) once this changes.
