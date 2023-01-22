@@ -3,7 +3,7 @@ pageSlug: vsc-explained-top-1-challenge-hardest-level-more-geometry-dash
 title: "VSC Explained: Top 1 Challenge, Hardest Level, & More (Geometry Dash)"
 desc: "VSC is said to be the hardest Geometry Dash level and top 1 on the
   challenge level list. And the catch is: it's only 15 seconds long."
-date: 2023-01-22T09:45:08.246Z
+date: 2023-01-22T09:46:38.338Z
 tags:
   - demonlist
 author: moldymacaronix
