@@ -4,7 +4,7 @@ title: Geometry Dash "Golden Gates" Decoration Preview (Top 1 Extreme Demon)
 desc: The upcoming top 1 Geometry Dash extreme demon, Golden Gates, has had its
   decoration started. In the building live stream, we can see how the first part
   looks.
-date: 2023-01-22T09:21:36.635Z
+date: 2023-01-22T09:30:59.517Z
 tags:
   - demonlist
   - news
