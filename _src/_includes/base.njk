@@ -498,7 +498,7 @@
     bSpace = bSpace + 100;
     {% else %}
     document.getElementById("footer").style.paddingBottom = "25px";
-    document.getElementById("rfloat").style.bottom = "0";
+    {% if article %}document.getElementById("rfloat").style.bottom = "0";{% endif %}
     {% endif %}
     var sidebar = new StickySidebar('#sidebar', {
         containerSelector: '#sidebar-wrapper',
