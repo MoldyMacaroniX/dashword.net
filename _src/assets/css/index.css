@@ -214,7 +214,7 @@ a.item:hover {
     position: absolute;
     top: 0;
     right: 0;
-    padding: 15px;
+    padding: 16px;
     font-size: 2rem;
     cursor: pointer;
 }
@@ -907,7 +907,7 @@ h1.heading {
     transform: translateY(-50px);
     position: fixed;
     z-index: 50;
-    bottom: 0;
+    bottom: 100px;
     right: 0;
     transition: opacity 0.25s ease, transform 0.25s ease;
 }

@@ -14,7 +14,8 @@
     -->
 
     {% if metadata.isAds and not hideAds %}
-    <!-- Put ad code here -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4971544242804665"
+     crossorigin="anonymous"></script>
     {% else %}
     <style>
         .inline-slot {
@@ -89,7 +90,7 @@
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
-<body onmouseleave="beforeLeave();" id="body">
+<body onmouseleave="//beforeLeave();" id="body">
 
     <!-- NOTIF ALERT START -->
     <div class="notif cols" id="notif">
@@ -128,6 +129,7 @@
             <a href="/categories/news/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> News</a>
             <a href="/categories/demonlist/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> Demonlist</a>
             <a href="/categories/guide/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> Guide</a>
+            <a href="/categories/history/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> History</a>
             <div class="divider"></div>
             <a href="/categories/" class="mobile-item"><i class="ri-price-tag-3-fill"></i> Categories</a>
             <a href="/authors/" class="mobile-item"><i class="ri-user-3-fill"></i> Authors</a>
@@ -238,6 +240,28 @@
                         </div>
 
                         <div class="megamenu">
+                            <a href="/categories/history/" class="item">History <i class="ri-arrow-down-s-line"></i></a>
+                            <div class="megamenu-content">
+                                <div class="container cols">
+                                    {% for post in collections[ "history" ] | reverse | head(4) %}
+                                    <div class="col">
+                                        <div class="post-sidebar">
+                                            <a class="image" href="{{ post.url }}">
+                                                <div class="aspect">
+                                                    <img src="{{ post.data.image | url }}" alt="">
+                                                </div>
+                                            </a>
+                                            <div class="content col">
+                                                <a href="{{ post.url }}" class="title" style="text-transform: capitalize">{% if post.data.title %}{{ post.data.title }}{% else %}No post title provided{% endif %}</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    {% endfor %}
+                                </div>
+                            </div>
+                        </div>
+
+                        {# <div class="megamenu">
                             <a href="/categories/opinion/" class="item">More <i class="ri-arrow-down-s-line"></i></a>
                             <div class="megamenu-content">
                                 <div class="container cols">
@@ -305,7 +329,7 @@
                                     {% endfor %}
                                 </div>
                             </div>
-                        </div>
+                        </div> #}
 
                     </div>
                 </div>
@@ -474,6 +498,7 @@
     bSpace = bSpace + 100;
     {% else %}
     document.getElementById("footer").style.paddingBottom = "25px";
+    document.getElementById("rfloat").style.bottom = "0";
     {% endif %}
     var sidebar = new StickySidebar('#sidebar', {
         containerSelector: '#sidebar-wrapper',
