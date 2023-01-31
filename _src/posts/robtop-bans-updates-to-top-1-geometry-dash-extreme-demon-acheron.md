@@ -4,7 +4,7 @@ title: RobTop Bans Updates To Top 1 Geometry Dash Extreme Demon Acheron
 desc: Acheron, the current top 1 extreme demon in Geometry Dash, is a level
   notorious for being the hardest level ever made. But there is something going
   on.
-date: 2023-01-31T01:42:58.300Z
+date: 2023-01-31T01:56:00.600Z
 tags:
   - news
   - demonlist
