@@ -1,9 +1,8 @@
 ---
 pageSlug: robtop-confirms-geometry-dash-2-3-will-come-out-6-months-from-when-he-starts
 title: RobTop Confirms Geometry Dash 2.3 Will Come Out 6 Months From When He Starts
-desc: RobTop confirmed in the [Geometry Dash Discord
-  server](/posts/geometry-dash-discord-server-how-to-join-request-levels/) that
-  update 2.3 is planned to come out 6 months from when he starts working on it.
+desc: RobTop confirmed in the Geometry Dash Discord server that update 2.3 is
+  planned to come out 6 months from when he starts working on it.
 date: 2023-01-31T02:12:55.942Z
 tags:
   - news
