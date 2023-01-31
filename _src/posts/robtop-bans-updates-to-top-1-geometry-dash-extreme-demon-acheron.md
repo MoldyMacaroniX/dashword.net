@@ -32,3 +32,4 @@ In protest, the level's verifier Zoink buffed the level and verified the "buffda
 
 Buffdates are not uncommon. Famous levels like Digital Descent have received buffdates with no reaction from RobTop.
 
+RobTop needs to be consistant. Why should levels like Digital Descent be allowed updates while levels like Acheron not? What makes this even worse is that Digital Descent is uploaded by Viprin, a player more or less "friends" with RobTop.
