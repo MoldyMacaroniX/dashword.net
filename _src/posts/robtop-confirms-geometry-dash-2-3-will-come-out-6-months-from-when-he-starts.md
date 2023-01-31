@@ -7,8 +7,8 @@ tags:
   - news
   - "2.2"
 author: moldymacaronix
-image: https://pbs.twimg.com/media/EkYqwJRU8AIxCt2?format=jpg&name=large
-imageSource: https://mobile.twitter.com/GDDiscord/status/1316786962909466627
+image: https://i.ytimg.com/vi/LqP089zwp_w/maxresdefault.jpg
+imageSource: https://www.youtube.com/watch?v=LqP089zwp_w
 ---
 RobTop confirmed in the [Geometry Dash Discord server](/posts/geometry-dash-discord-server-how-to-join-request-levels/) that update 2.3 is planned to come out 6 months from when he starts.
 
