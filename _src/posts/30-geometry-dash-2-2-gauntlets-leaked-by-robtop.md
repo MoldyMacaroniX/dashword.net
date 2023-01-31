@@ -33,7 +33,7 @@ Here is a collection of all the leaked gauntlets, provided by RobTop in the [Geo
 
 ![Gauntlets 9](https://pbs.twimg.com/media/EkYqz_1UcAA47Fu?format=jpg&name=large)
 
-![Gauntlets 10](https://pbs.twimg.com/media/EkYqz_1UcAA47Fu?format=jpg&name=large)
+![Gauntlets 10](https://pbs.twimg.com/media/EkYq0DKUcAEV-ob?format=jpg&name=large)
 
 For more Geometry Dash 2.2 gauntlet news, read our story on the [World, Galaxy, and Universe 2.2 gauntlets](/posts/geometry-dash-2-2-world-galaxy-universe-gauntlets/).
 
