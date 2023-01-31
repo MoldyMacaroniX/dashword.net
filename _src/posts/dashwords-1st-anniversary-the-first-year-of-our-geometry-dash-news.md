@@ -17,6 +17,6 @@ In the span of a year, we've gone from 0 to 25,000 monthly readers! This is abso
 
 The fact that such a small publication on a so-called small indie game can be this popular goes to show that Geometry Dash is far from dead.
 
-But that's enough reminiscenc—let's talk about what to look forward to in the future!
+But that's enough reminiscence—let's talk about what to look forward to in the future!
 
 # Dashword Contribution Program
