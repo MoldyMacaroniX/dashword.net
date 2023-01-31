@@ -20,3 +20,5 @@ The fact that such a small publication on a so-called small indie game can be th
 But that's enough reminiscence—let's talk about what to look forward to in the future!
 
 # Dashword Contribution Program
+
+As we've [said before](/posts/dashword-gets-20000-monthly-readers/), we are actively considering a program to pay authors of content. While Dashword would remain open source, we believe that a portion of revenue deserves to go towards those who make the site possible: [our authors](/authors/).
