@@ -4,7 +4,7 @@ title: AeonAir Becomes First Geometry Dash Player To Beat 1000 Demons In A Month
 desc: The famous Geometry Dash YouTuber and extreme demon player AeonAir has
   achieved a world record in Geometry Dash, being the first person ever to beat
   1000 demons in a single month.
-date: 2023-01-31T02:02:28.849Z
+date: 2023-01-31T02:03:51.476Z
 tags:
   - news
 author: moldymacaronix
