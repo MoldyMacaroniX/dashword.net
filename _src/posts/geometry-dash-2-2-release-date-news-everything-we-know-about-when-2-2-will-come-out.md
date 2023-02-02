@@ -2,7 +2,9 @@
 pageSlug: geometry-dash-2-2-release-date-news-everything-we-know-about-when-2-2-will-come-out
 title: "Geometry Dash 2.2 Release Date News: Everything We Know About When 2.2
   Will Come Out"
-desc: a
+desc: RobTop Games, the Geometry Dash developer, has confirmed that Geometry
+  Dash 2.2 should release within February to June, 2023. This means update 2.2
+  could be less than 6 months away!
 date: 2023-02-02T06:44:59.762Z
 tags:
   - news
