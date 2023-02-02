@@ -6,6 +6,20 @@ layout: templates/post.njk
 var totalQ = 0;
 </script>
 
+<style>
+.alert-quiz {
+    display: block;
+}
+@supports selector(.option :has(input:checked)) {
+    .alert-quiz {
+        display: none !important;
+    }
+}
+</style>
+<div class="alert alert-quiz" style="margin-top: -20px;">
+    <p>You are using an old browser. To see your selections, please update your browser. Otherwise, the option you pick will not be highlighted but it will still be picked.</p>
+</div>
+
 <div class="full-quiz">
     {% for i in questions %}
     <script>
