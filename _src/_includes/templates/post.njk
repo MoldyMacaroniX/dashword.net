@@ -5,9 +5,12 @@ layout: base.njk
 {% if podcast %}
 <a class="podcast-tag" href="/podcast/">Podcast</a>
 {% endif %}
+{% if quiz %}
+<a class="podcast-tag" href="/quizzes/">Quiz</a>
+{% endif %}
 <h1 class="article-heading" style="text-transform: capitalize">{% if title %}{{ title }}{% else %}No post title provided.{% endif %}</h1>
 
-{% if article %}
+{% if (article or quiz) %}
 <div class="article-meta">
 	{% if author %}{% set myAuthor = authors | getAuthor(author) %}By <a class="article-meta-author" href="/authors/{{ myAuthor.key }}">{{ myAuthor.name }}</a>{% else %}Posted{% endif %} on <span class="article-meta-date">{% if date %}{{ date | readableDate }}{% else %}[no post publish date provided]{% endif %}</span>{% if tags %} in <span class="article-meta-date">{% for tag in tags %} <a href="/categories/{{ tag | slug }}/">{{ tag | capitalize }}</a>{% endfor %}</span>{% endif %}.
 </div>
@@ -133,12 +136,12 @@ Sharect.init();
 	}
 </script>
 
-<article{%if not podcast %} class="article"{% endif %} id="article">
+<article{%if not (podcast or quiz) %} class="article"{% endif %} id="article">
 {{ content | safe }}
 </article>
 
-{% if article or podcast %}
-	<div class="panel">
+{% if article or podcast or quiz %}
+	<div class="panel"{%if quiz%} style="display: none;" id="comments-panel"{% endif %}>
 		<p style="margin-top: 0;">Please follow <a href="/code-of-conduct/">Dashword's Code of Conduct</a> when commenting. If you would like to report infringement, <a href="/contact/">contact us</a>.</p>
 		<button class="button button-wide secondary" onclick="toggleComments();"><i class="ri-message-2-line"></i> <span id="comments-btn-txt">Show Comments</span></button>
 	</div>

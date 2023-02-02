@@ -1,0 +1,25 @@
+---
+title: Quizzes
+desc: The latest Geometry Dash quizzes to learn more about yourself in Geometry Dash!
+
+pagination:
+  data: collections.quizzes
+  size: 10
+  alias: quizzes
+permalink: "quizzes/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+
+layout: base.njk
+---
+
+<h1 class="heading">Geometry Dash Quizzes</h1>
+
+{% for post in quizzes %}
+{% include "partials/posts.njk" %}
+  {% if (loop.index == 2) or (loop.index == 4) or (loop.index == 6) or (loop.index == 8) %}
+  {% include "formats/feed.njk" %}
+  {% endif %}
+{% endfor %}
+
+{% set paged = pagination.href %}
+{% set nestedPagination = false %}
+{% include "partials/paginator.njk" %}

@@ -823,6 +823,52 @@ h1.heading {
     text-decoration: underline;
 }
 
+/* Quiz */
+
+.full-quiz {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.question {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.options {
+    gap: 15px;
+}
+
+.option {
+    background-color: var(--primary);
+    color: var(--white);
+    font-weight: bold;
+    font-size: 1.25rem;
+    padding: 25px;
+    border-radius: var(--edge);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border: 3px solid transparent;
+    transition: background-color 0.25s ease, color 0.25s ease, border 0.25s ease;
+}
+
+.option:has(input:checked) {
+    background-color: var(--white);
+    color: var(--primary);
+    border: 3px solid var(--primary);
+}
+
+.option input {
+    position: fixed;
+    opacity: 0;
+    pointer-events: none;
+}
+
 /* Gallery */
 
 /* Copied from .cols */

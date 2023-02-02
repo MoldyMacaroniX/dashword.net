@@ -1,0 +1,6 @@
+{
+    "layout":"templates/quiz.njk",
+    "image":false,
+    "quiz":true,
+    "permalink":"/quizzes/{{ pageSlug or page.fileSlug }}/"
+}

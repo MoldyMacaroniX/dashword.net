@@ -1,0 +1,137 @@
+---
+layout: templates/post.njk
+---
+
+<script>
+var totalQ = 0;
+</script>
+
+<div class="full-quiz">
+    {% for i in questions %}
+    <script>
+    totalQ++;
+    </script>
+    <div class="quiz">
+        <div class="question">{{ loop.index }}. {{ i.question }}</div>
+        <div class="options grid-2">
+            <label class="option button"><input value="1" onclick="updateRadios()" type="radio" name="radio{{ loop.index }}">{{ i.options[0] }}</label>
+            <label class="option button"><input value="2" onclick="updateRadios()" type="radio" name="radio{{ loop.index }}">{{ i.options[1] }}</label>
+            <label class="option button"><input value="3" onclick="updateRadios()" type="radio" name="radio{{ loop.index }}">{{ i.options[2] }}</label>
+            <label class="option button"><input value="4" onclick="updateRadios()" type="radio" name="radio{{ loop.index }}">{{ i.options[3] }}</label>
+        </div>
+    </div>
+    {% include "formats/article.njk" %}
+    {% endfor %}
+</div>
+
+<div id="uncomplete" class="article">
+    <h1 class="heading" style="margin-top: 25px;">You still have <span id="qleft">X</span> question<span id="qleft-s">s</span> left to answer!</h1>
+    <p>You have to answer all questions before you can see your results.</p>
+</div>
+
+<script>
+document.getElementById("qleft").innerHTML = totalQ;
+</script>
+
+<div id="complete" style="display: none;" class="article">
+    <h1 class="heading" style="margin-top: 25px;">You're all set!</h1>
+    <p>See your results using the button below!</p>
+    <button onclick="seeResults()" class="button button-wide" style="margin-top: 0;">See my results!</button>
+</div>
+
+<div id="results" style="display: none;">
+    <h1 class="heading" style="margin-top: 25px;">The results are in!</h1>
+    <div class="panel">
+        <h1 id="outcome">Loading...</h1>
+        <p id="desc">Loading...</p>
+        <p>Share your results in the comments below!</p>
+        <button class="button button-wide secondary" onclick="toggleComments();"><i class="ri-message-2-line"></i> <span id="comments-btn-txt">Show Comments</span></button>
+    </div>
+</div>
+
+<script>
+{% for i in questions %}
+var radio{{ loop.index }};
+var radio{{ loop.index }}chosen = false;
+{% endfor %}
+
+var submitted = false;
+
+var notChosen = true;
+
+function updateRadios() {
+
+    if (submitted) {
+        return;
+    }
+
+    var answered = 0;
+
+    {% for i in questions %}
+    try {
+        radio{{ loop.index }} = document.querySelector('input[name="radio{{ loop.index }}"]:checked').value;
+        console.log("Radio {{ loop.index }} = " + radio{{ loop.index }});
+        radio{{ loop.index }}chosen = true;
+        answered++;
+    } catch {
+        console.log("Radio {{ loop.index }} not yet chosen");
+        radio{{ loop.index }}chosen = false;
+    }
+    {% endfor %}
+
+    try {
+        document.getElementById("qleft").innerHTML = (totalQ - answered);
+        if ((totalQ - answered) == 1) {
+            document.getElementById("qleft-s").innerHTML = "";
+        } else {
+            document.getElementById("qleft-s").innerHTML = "s";
+        }
+    } catch {
+        console.log("all answered");
+    }
+    answered = 0;
+
+    if ({% for i in questions %}radio{{ loop.index }}chosen && {% endfor %}notChosen) {
+        console.log("READY ADGHSVFCGHDVF");
+        document.getElementById("uncomplete").style.display = "none";
+        document.getElementById("complete").style.display = "block";
+    } else {
+        console.log("not ready");
+        document.getElementById("uncomplete").style.display = "block";
+        document.getElementById("complete").style.display = "none";
+    }
+}
+
+var outcome;
+var desc;
+var totalScore;
+
+var lvl1 = totalQ*1;
+var lvl2 = totalQ*2;
+var lvl3 = totalQ*3;
+var lvl4 = totalQ*4;
+
+function seeResults() {
+    submitted = true;
+    // document.getElementById("comments-panel").style.display = "block";
+    totalScore = {% for i in questions %}parseInt(radio{{ loop.index }}) + {% endfor %}0;
+    console.log(totalScore);
+    if (totalScore >= lvl4) {
+        outcome = "{{ outcomes[3] }}";
+        desc = "{{ subcomes[3] }}";
+    } else if (totalScore >= lvl3) {
+        outcome = "{{ outcomes[2] }}";
+        desc = "{{ subcomes[2] }}";
+    } else if (totalScore >= lvl2) {
+        outcome = "{{ outcomes[1] }}";
+        desc = "{{ subcomes[1] }}";
+    } else if (totalScore >= lvl1) {
+        outcome = "{{ outcomes[0] }}";
+        desc = "{{ subcomes[0] }}";
+    }
+    document.getElementById("complete").style.display = "none";
+    document.getElementById("results").style.display = "block";
+    document.getElementById("outcome").innerHTML = outcome;
+    document.getElementById("desc").innerHTML = desc;
+}
+</script>

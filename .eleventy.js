@@ -96,6 +96,10 @@ module.exports = (config) => {
         return collection.getFilteredByGlob("_src/podcast/*.md").reverse();
     });
 
+    config.addCollection("quizzes", function(collection) {
+        return collection.getFilteredByGlob("_src/quizzes/*.md").reverse();
+    });
+
     config.addFilter("readableDate", dateObj => {
         return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("LLLL d, yyyy");
     });
