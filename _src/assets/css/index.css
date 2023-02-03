@@ -954,7 +954,7 @@ h1.heading {
     position: fixed;
     z-index: 50;
     bottom: 100px;
-    right: 0;
+    left: 0;
     transition: opacity 0.25s ease, transform 0.25s ease;
 }
 
