@@ -71,7 +71,7 @@ layout: base.njk
 
 {% if article %}
 {% include 'partials/recommended.njk' %}
-{% include 'partials/recommendedFloat.njk' %}
+{# {% include 'partials/recommendedFloat.njk' %} #}
 {% endif %}
 
 <script src="https://unpkg.com/sharect@2.0.0/dist/sharect.js"></script>
@@ -124,7 +124,7 @@ Sharect.init();
 
 	function myFunction() {
 		var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
-		{% if article %}rfloat(winScroll);{% endif %}
+		{# {% if article %}rfloat(winScroll);{% endif %} #}
 		var height = document.getElementById('article').scrollHeight + document.getElementById('article').offsetTop - 500;
 		var scrolled = (winScroll / height) * 100;
 		document.getElementById("scroll-bar").style.width = scrolled + "%";
