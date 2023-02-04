@@ -13,7 +13,7 @@ imageSource: https://youtu.be/0ImbmWZRUK0
 ---
 Geometry Dash 2.2 will be available on PC and mobile devices upon release. This includes iOS and Android devices.
 
-However, some devices such as iOS phones might take a couple days longer to receive the Geometry Dash 2.2 update due to having to verify it.
+However, some devices such as iOS phones might take a couple days longer to receive the update due to having to verify it.
 
 Many Geometry Dash players are worried that update 2.2 will only be available on the PC Steam version of the game because that is what [RobTop has been showcasing](/categories/2.2/).
 
