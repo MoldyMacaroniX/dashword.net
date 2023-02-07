@@ -6,6 +6,7 @@ date: 2023-02-07T07:35:43.366Z
 tags:
   - "2.2"
   - news
+  - featured
 author: moldymacaronix
 image: https://img.youtube.com/vi/LNXyG6y-Pjs/maxresdefault.jpg
 imageSource: https://youtu.be/LNXyG6y-Pjs
