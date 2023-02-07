@@ -34,6 +34,18 @@ layout: base.njk
 		</div>
 	{% endif %}
 	{% if imageSource and not videoID %}<a href="{{ imageSource }}" target="_blank" class="article-cover-source">Cover Source</a>{% endif %}
+	{% if affiliateLinks %}
+	<style>
+		.affiliate {
+			margin-top: 20px;
+			margin-bottom: -10px;
+			opacity: 0.75;
+			font-style: italic;
+			font-size: 0.9rem;
+		}
+	</style>
+	<div class="affiliate">If you purchase something using links on this page, we may earn an affiliate commission.</div>
+	{% endif %}
 	{% if article %}
 		<!--
 		<div class="post" style="margin-top: 15px;">
