@@ -240,10 +240,10 @@
                         </div>
 
                         <div class="megamenu">
-                            <a href="/categories/history/" class="item">History <i class="ri-arrow-down-s-line"></i></a>
+                            <a href="/quizzes/" class="item">Quizzes <i class="ri-arrow-down-s-line"></i></a>
                             <div class="megamenu-content">
                                 <div class="container cols">
-                                    {% for post in collections[ "history" ] | reverse | head(4) %}
+                                    {% for post in collections.quizzes %}
                                     <div class="col">
                                         <div class="post-sidebar">
                                             <a class="image" href="{{ post.url }}">
