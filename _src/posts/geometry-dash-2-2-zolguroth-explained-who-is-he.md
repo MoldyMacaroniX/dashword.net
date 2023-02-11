@@ -10,6 +10,6 @@ tags:
 author: moldymacaronix
 image: https://img.youtube.com/vi/LNXyG6y-Pjs/maxresdefault.jpg
 imageSource: https://youtu.be/LNXyG6y-Pjs
-affiliateLinks: true
+affiliateLinks: false
 ---
 a
