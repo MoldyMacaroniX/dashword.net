@@ -15,7 +15,7 @@ affiliateLinks: false
 ---
 Zolguroth is a [Geometry Dash 2.2](/categories/2.2/) entity available in Geometry Dash World. Upon summoning him, you get a free icon.
 
-You can summon Zolguroth and [get a free icon](/posts/geometry-dash-all-vault-codes-2022/) in [Geometry Dash World](/posts/geometry-dash-2-2-editor-unlocked-how-to-get-the-2-2-level-editor-2022/), which is currently on a [prerelease of update 2.2](/posts/geometry-dash-2-2-beta-what-is-it/), by following these instructions.
+You can summon Zolguroth and [get a free icon](/posts/geometry-dash-all-vault-codes-2022/) in [Geometry Dash World](/posts/geometry-dash-2-2-editor-unlocked-how-to-get-the-2-2-level-editor-2022/), which is currently on a [prerelease of update 2.2](/posts/geometry-dash-2-2-beta-what-is-it/), by following these instructions:
 
 1. Go to the main screen
 2. Press the icon button
