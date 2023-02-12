@@ -7,8 +7,9 @@ tags:
   - guide
   - "2.2"
 author: moldymacaronix
-image: https://preview.redd.it/iocvcr3og5q81.png?width=1776&format=png&auto=webp&s=f1b6dc0058701413e8dca50a1e1f3bc773dbc063
+image: https://media.discordapp.net/attachments/392087938239954950/1074130183583445062/94CC87DA-AB0E-4512-9324-54A19D818ED7.jpg?width=1209&height=675
 imageSource: https://www.reddit.com/r/geometrydash/comments/tqczgg/geometry_dash_22/
+affiliateLinks: false
 ---
 The term "Geometry Dash 2.2 Beta" has been thrown around quite a lot. But what does it really mean?
 
