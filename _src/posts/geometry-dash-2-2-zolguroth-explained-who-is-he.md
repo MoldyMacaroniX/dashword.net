@@ -3,7 +3,7 @@ pageSlug: how-to-summon-zolguroth-in-geometry-dash-2-2
 title: How To Summon "Zolguroth" In Geometry Dash 2.2
 desc: Zolguroth is a Geometry Dash 2.2 entity available in Geometry Dash World.
   Upon summoning him, you get a free icon.
-date: 2023-02-12T00:32:32.020Z
+date: 2023-02-12T00:36:39.649Z
 tags:
   - "2.2"
   - news
