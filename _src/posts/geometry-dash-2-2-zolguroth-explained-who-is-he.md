@@ -3,7 +3,7 @@ pageSlug: how-to-summon-zolguroth-in-geometry-dash-2-2
 title: How To Summon "Zolguroth" In Geometry Dash 2.2
 desc: Zolguroth is a Geometry Dash 2.2 entity available in Geometry Dash World.
   Upon summoning him, you get a free icon.
-date: 2023-02-07T07:35:43.366Z
+date: 2023-02-12T00:32:32.020Z
 tags:
   - "2.2"
   - news
@@ -23,6 +23,10 @@ You can summon Zolguroth and [get a free icon](/posts/geometry-dash-all-vault-co
 4. Press the shopkeeper character
 5. Press through each dialogue and keep pressing the shop keeper
 6. After getting kicked out of the shop, go back into it
+
+![](https://media.discordapp.net/attachments/392087938239954950/1074125380388147282/Geometry_Dash_World__Who_is_Zolguroth__1-29_screenshot.png?width=1201&height=676)
+
+*Geometry Dash Shopkeeper turning into Zolguroth, screenshot from [Tru3P1ay3r](https://youtu.be/ZxvyK_uwWkk).*
 
 By following these steps, you will summon the Geometry Dash 2.2 NPC known as Zolguroth and he will give you a free icon.
 
