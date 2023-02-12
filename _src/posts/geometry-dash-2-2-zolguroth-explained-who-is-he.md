@@ -24,7 +24,7 @@ You can summon Zolguroth and [get a free icon](/posts/geometry-dash-all-vault-co
 5. Press through each dialogue and keep pressing the shop keeper
 6. After getting kicked out of the shop, go back into it
 
-![](https://media.discordapp.net/attachments/392087938239954950/1074125380388147282/Geometry_Dash_World__Who_is_Zolguroth__1-29_screenshot.png?width=1201&height=676)
+![Geometry Dash Shopkeeper turning into Zolguroth, screenshot from Tru3P1ay3r.](https://media.discordapp.net/attachments/392087938239954950/1074125380388147282/Geometry_Dash_World__Who_is_Zolguroth__1-29_screenshot.png?width=1201&height=676)
 
 *Geometry Dash Shopkeeper turning into Zolguroth, screenshot from [Tru3P1ay3r](https://youtu.be/ZxvyK_uwWkk).*
 
