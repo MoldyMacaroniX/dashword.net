@@ -9,6 +9,7 @@ tags:
 author: moldymacaronix
 image: https://i.ytimg.com/vi/_AHO1yUYepE/maxresdefault.jpg
 imageSource: https://youtu.be/_AHO1yUYepE
+affiliateLinks: false
 ---
 Here are all codes for the Geometry Dash Vault of Secrets. These codes unlock free icons, ships, UFOs, and more.
 
@@ -23,17 +24,19 @@ Here are all Vault of Secrets codes in Geometry Dash:
 * **Seven**
 * **Thechickenisonfire**
 * **Gimmiethecolor**
-* **The Challenge***
-* **[Your Star Count]***
-* **Glubfub***
-* **Cod3Breaker***
+* **The Challenge ***
+* **[Your Star Count] ***
+* **Glubfub ***
+* **Cod3Breaker ***
+
+(Do not type the * symbols.)
 
 Some codes require further instructions:
 
-- ***The Challenge** — Unlocks "The Challenge," a level where you need 200 diamonds to play.
-- ***[Your Star Count]** — Enter how many stars you have.
-- ***Glubfub** — Only works after the Keymaster tells you about Spooky's coin and Spooky tells you about the Keymaster's coin. To achieve this, [follow these Glubfub instructions](/posts/geometry-dash-all-vault-codes-2022/#vault-of-secrets-codes).
-- ***Cod3Breaker** — In order to solve this code, you need to follow these [Cod3Breaker instructions](/posts/geometry-dash-all-vault-codes-2022/#vault-of-secrets-codes).
+- *** The Challenge** — Unlocks "The Challenge," a level where you need 200 diamonds to play. You will get a reward after beating it.
+- *** [Your Star Count]** — Enter how many stars you have.
+- *** Glubfub** — Only works after the Keymaster tells you about Spooky's coin and Spooky tells you about the Keymaster's coin. To achieve this, [follow these Glubfub instructions](/posts/geometry-dash-all-vault-codes-2022/#vault-of-secrets-codes).
+- *** Cod3Breaker** — In order to solve this code, you need to follow these [Cod3Breaker instructions](/posts/geometry-dash-all-vault-codes-2022/#vault-of-secrets-codes).
 
 # Where To Enter Vault of Secrets Codes
 
