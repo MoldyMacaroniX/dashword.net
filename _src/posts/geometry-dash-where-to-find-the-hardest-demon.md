@@ -26,11 +26,11 @@ The [Geometry Dash Demon List]() is the most popular ranking of the hardest Geom
 
 # How To View The Geometry Dash Demon List
 
-The Geometry Dash Demon List is accessible on [Pointercrate.com](https://www.pointercrate.com), the home of the Geometry Dash Demon List.
+The Geometry Dash Demon List is accessible on [www.pointercrate.com](https://www.pointercrate.com), the home of the Geometry Dash Demon List.
 
 Pointercrate is just the website that has the Demon List on it and is not the Geometry Dash Demon List itself.
 
-Once on the Pointercrate website, press the **Geometry Dash Demon List** button
+Once on the Pointercrate website, press the **Geometry Dash Demon List** button (you may need to press it twice if a menu shows up) or go to [www.pointercrate.com/demonlist/](https://www.pointercrate.com/demonlist/).
 
 # How To Use The Geometry Dash Demon List
 
