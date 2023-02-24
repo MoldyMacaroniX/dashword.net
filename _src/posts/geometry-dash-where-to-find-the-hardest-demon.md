@@ -22,6 +22,16 @@ This guide will go over how to find and use the Geometry Dash Demon List.
 
 # What Is The Geometry Dash Demon List?
 
+The [Geometry Dash Demon List]() is the most popular ranking of the hardest Geometry Dash levels. It is run by top Geometry Dash players and ranks the difficulty of extreme demons to determine the [top 1 hardest level ever made]().
+
 # How To View The Geometry Dash Demon List
 
+The Geometry Dash Demon List is accessible on [Pointercrate.com](https://www.pointercrate.com), the home of the Geometry Dash Demon List.
+
+Pointercrate is just the website that has the Demon List on it and is not the Geometry Dash Demon List itself.
+
+Once on the Pointercrate website, press the **Geometry Dash Demon List** button
+
 # How To Use The Geometry Dash Demon List
+
+To access the Geometry Dash
