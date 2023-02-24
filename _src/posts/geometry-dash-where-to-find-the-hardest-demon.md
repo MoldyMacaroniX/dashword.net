@@ -1,6 +1,6 @@
 ---
-pageSlug: geometry-dash-where-to-find-the-hardest-demon
-title: "Geometry Dash: Where To Find The Hardest Demon"
+pageSlug: geometry-dash-demon-list-where-to-find-the-hardest-demons
+title: "Geometry Dash Demon List: Where To Find The Hardest Demons"
 desc: Geometry Dash has hundreds of levels rated extreme demon. Here is how to
   find and use the Geometry Dash Pointercrate Demon List.
 date: 2023-02-24T10:30:34.307Z
