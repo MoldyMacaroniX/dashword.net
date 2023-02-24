@@ -22,7 +22,7 @@ This guide will go over how to find and use the Geometry Dash Demon List.
 
 - [What Is The Geometry Dash Demon List?](#what-is-the-geometry-dash-demon-list%3F)
 - [How To View The Geometry Dash Demon List](how-to-view-the-geometry-dash-demon-list)
--
+- [How To Use The Geometry Dash Demon List](how-to-use-the-geometry-dash-demon-list)
 
 # What Is The Geometry Dash Demon List?
 
