@@ -7,6 +7,7 @@ date: 2023-02-24T10:48:00.673Z
 tags:
   - demonlist
   - guide
+  - featured
 author: moldymacaronix
 image: https://img.youtube.com/vi/bpK_dN0rvZk/maxresdefault.jpg
 imageSource: https://youtu.be/bpK_dN0rvZk
