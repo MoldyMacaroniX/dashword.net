@@ -1,12 +1,14 @@
 ---
-title: "I Made A Geometry Dash Escape Room"
-desc: "I made a Geometry Dash escape room and I challenge you to complete it. It takes about 1-2 hours to complete."
-image: https://i.ytimg.com/vi/Ri6OccFOJQg/maxresdefault.jpg
+title: I Made A Geometry Dash Escape Room
+desc: I made a Geometry Dash escape room and I challenge you to complete it. It
+  takes about 1-2 hours to complete.
 date: 2022-03-05
 tags:
-    - featured
-    - video
+  - featured
+  - video
 author: moldymacaronix
+image: https://i.ytimg.com/vi/Ri6OccFOJQg/maxresdefault.jpg
+hideAds: true
 ---
 
 I made a [Geometry Dash escape room](https://youtu.be/Ri6OccFOJQg) and I challenge you to complete it. It can take anywhere between 1-2 hours to complete, depending on your puzzle-solving ability. Figuring out the puzzles is challenging but also a lot of fun.
