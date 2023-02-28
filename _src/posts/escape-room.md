@@ -15,6 +15,12 @@ I made a [Geometry Dash escape room](https://youtu.be/Ri6OccFOJQg) and I challen
 
 In this article, I will teach you how you can play this escape room for yourself. Since this type of level is not necessarily what Geometry Dash was made for, there are some things you got to do.
 
+{% alert %}
+
+There are ways to "cheese" some stages. This usually occurs when you solve a room with left over "moves." I've decided not to fix these because they are usually just as hard as or harder than the intended route.
+
+{% endalert %}
+
 * [Get The Level](#get-the-level)
 * [Refresh Rate](#refresh-rate)
 * [Checkpoints](#checkpoints)
@@ -28,7 +34,7 @@ You can find the level on my profile [CreatorMoldy](https://gdbrowser.com/u/Crea
 
 # Refresh Rate
 
-The escape room only works on 60 hz. If you are using a FPS physics mod, make sure you disable level kicks anticheat and speedhack anticheat in order to not get kicked from the level. If you do not have a physics mod, you will likely need to manually change the FPS of your monitor if it is not already running at 60 hz.
+The escape room only works on 60 hz. If you are using a FPS physics mod, make sure you disable level kicks anticheat and speedhack anticheat if you find yourself getting kicked from the level. If you do not have a physics mod, you will likely need to manually change the FPS of your monitor if it is not already running at 60 hz.
 
 # Checkpoints
 
