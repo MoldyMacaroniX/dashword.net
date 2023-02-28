@@ -493,12 +493,16 @@
     <script type="text/javascript" src="/assets/js/sidebar.js"></script>
     <script>
     var bSpace = 20;
-    {% if metadata.isAds and not hideAds %}
-    bSpace = bSpace + 100;
-    {% else %}
-    document.getElementById("footer").style.paddingBottom = "25px";
-    {% if article %}document.getElementById("rfloat").style.bottom = "0";{% endif %}
-    {% endif %}
+    try {
+        {% if metadata.isAds and not hideAds %}
+        bSpace = bSpace + 100;
+        {% else %}
+        document.getElementById("footer").style.paddingBottom = "25px";
+        {% if article %}document.getElementById("rfloat").style.bottom = "0";{% endif %}
+        {% endif %}
+    } catch(err) {
+        console.log("I'm too lazy to fix this ... " + err);
+    }
     var sidebar = new StickySidebar('#sidebar', {
         containerSelector: '#sidebar-wrapper',
         innerWrapperSelector: '#sidebar-inner',
