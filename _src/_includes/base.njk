@@ -144,8 +144,9 @@
         <div class="container">
             <div class="navbar">
                 <div class="left">
-                    <a href="/" class="logo"><img src="/assets/img/icon.svg" alt="">Dashword</a>
                     <i class="ri-menu-line menu" id="open" onclick="openMobile()" onkeydown="if (event.keyCode === 13) {openMobile()}" tabindex="0"></i>
+                    <a href="/" class="logo"><img src="/assets/img/icon.svg" alt=""><span>Dashword</span></a>
+                    {# <i class="ri-menu-line menu" id="open" onclick="openMobile()" onkeydown="if (event.keyCode === 13) {openMobile()}" tabindex="0"></i> #}
                     <div class="items hide-on-phone">
                         
                         <a href="/" class="item">Home</a>
@@ -334,8 +335,9 @@
                 </div>
                 <div class="right">
                     <div class="items">
+                        {# <i class="ri-menu-line menu" id="open" onclick="openMobile()" onkeydown="if (event.keyCode === 13) {openMobile()}" tabindex="0"></i> #}
                         <a class="ri-search-line item-icon hide-on-phone" href="/search/"></a>
-                        <a href="/contribute/" class="button">Contribute</a>
+                        <a href="/contribute/" class="button"><span>Contribute</span><i class="ri-edit-2-fill"></i></a>
                         {# <a href="/blue/" class="button">Subscribe</a> #}
                     </div>
                 </div>
