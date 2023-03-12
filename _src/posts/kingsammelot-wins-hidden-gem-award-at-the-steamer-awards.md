@@ -1,6 +1,6 @@
 ---
-pageSlug: kingsammelot-wins-hidden-gem-award-at-the-steamer-awards
-title: KingSammelot Wins Hidden Gem Award At The Steamer Awards
+pageSlug: kingsammelot-wins-hidden-gem-award-at-the-streamer-awards
+title: KingSammelot Wins Hidden Gem Award At The Streamer Awards
 desc: Geometry Dash streamer and YouTuber KingSammelot has won the Hidden Gem
   Award at the Streamer Awards.
 date: 2023-03-12T07:20:52.989Z
