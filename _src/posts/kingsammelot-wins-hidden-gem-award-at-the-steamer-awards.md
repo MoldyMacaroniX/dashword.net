@@ -17,6 +17,6 @@ The streamer awards is an awards show for popular streamers, but there is one ca
 
 KingSammelot, while a big member of the Geometry Dash community, does stream and make content on other topics. Because of this, he managed to get nominated for the Hidden Gem Award.
 
-Following this, he was voted to be the winner of the Hidden Gem Award.
+After a campaing on his own YouTube channel and the official Geometry Dash Discord server, he was voted to be the winner of the Hidden Gem Award.
 
 The fact that a Geometry Dash community member who only blew up in popularity recently not only was nominated but won an awards show as big as the Streamer Awards is incredible and is something that this community rarely ever sees.
