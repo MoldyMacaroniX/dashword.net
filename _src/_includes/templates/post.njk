@@ -2,6 +2,19 @@
 layout: base.njk
 ---
 
+<style>
+	.dact {
+		display: none;
+	}
+</style>
+
+<div class="dact" onclick="this.classList.toggle('dact');" id="dacthold">
+	<p id="idcount">number</p>
+	<p>fileSlug (filename): {{page.fileSlug}}</p>
+	<p>pageSlug (url): {{pageSlug or "no pageSlug provided"}}</p>
+	<p><a href="/admin/#/collections/posts/entries/{{page.fileSlug}}" style="font-weight: bold; text-decoration: underline;">Staff edit</a></p>
+</div>
+
 {% if podcast %}
 <a class="podcast-tag" href="/podcast/">Podcast</a>
 {% endif %}
@@ -60,11 +73,12 @@ layout: base.njk
 		<script>
 			function cb(response) {
 				// document.getElementById('visits').innerText = response.value;
-				/*var x = document.getElementsByClassName('viewcount');
+				document.getElementById('idcount').innerText = response.value;
+				var x = document.getElementsByClassName('viewcount');
 				for(var i = 0; i < x.length; i++) {
 				var item = x[i];
 				item.innerText = response.value;
-				}*/
+				}
 				console.log(response.value);
 			}
 		</script>
