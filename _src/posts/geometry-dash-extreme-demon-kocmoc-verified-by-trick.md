@@ -16,7 +16,9 @@ hideAds: false
 ---
 Popular Geometry Dash level KOCMOC by Cherry Team was verified by Trick on March 12, 2023. However, due to issues with the level, this will not be the final version.
 
-In fact, the creators of KOCMOC told Trick that he didn't actually verified the level, but just wasted his own time.
+KOCMOC, [a once advertised top 1 extreme demon](/posts/geometry-dash-kocmoc-new-upcoming-top-1-extreme-demon/), has been nerfed to top 20 and verified by Trick. But there's a catch.
+
+In fact, [the creators of KOCMOC](/posts/geometry-dash-level-kocmoc-what-is-it/#who-made-kocmoc%3F) told Trick that he didn't actually verified the level, but just wasted his own time.
 
 The creators say that KOCMOC has bad gameplay, so they will need to playtest it. They will also be replacing an entire part that they deem to be too laggy.
 
