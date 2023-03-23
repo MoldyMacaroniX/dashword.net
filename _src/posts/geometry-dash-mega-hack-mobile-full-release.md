@@ -4,7 +4,7 @@ title: "Geometry Dash Mega Hack Mobile: Full Release"
 desc: Geometry Dash Mega Hack Mobile is a mobile port of Absolute's popular
   Geometry Dash mod menu Mega Hack. It costs $2.99 but is free if you're a Mega
   Hack v7 owner.
-date: 2023-03-23T22:53:30.807Z
+date: 2023-03-23T23:07:12.407Z
 tags:
   - news
   - featured
