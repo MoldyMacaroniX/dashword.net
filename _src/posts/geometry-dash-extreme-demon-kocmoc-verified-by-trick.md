@@ -25,3 +25,9 @@ The creators say that KOCMOC has bad gameplay, so they will need to playtest it.
 The reason this is a problem is because Trick put in the time and verified the level when this could have all been avoided if the creators fixed the level before trying to get it verified.
 
 All in all, while a version of KOCMOC was beaten by trick, this is no longer the official level according to its creators and as such will not be rated by RobTop.
+
+**For more KOCMOC news, see our other KOCMOC stories:**
+
+* [Geometry Dash KOCMOC: New Upcoming Top 1 Extreme Demon](/posts/geometry-dash-kocmoc-new-upcoming-top-1-extreme-demon/)
+* [Geometry Dash KOCMOC Song - Where To Listen & More](/posts/geometry-dash-kocmoc-song-where-to-listen-more/)
+* [Geometry Dash Level KOCMOC: What Is It? - Questions & Answers](/posts/geometry-dash-level-kocmoc-what-is-it/)
