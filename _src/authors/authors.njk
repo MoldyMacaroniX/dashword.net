@@ -45,7 +45,7 @@ layout: base.njk
       {{ author.name }}
       {% if author.verified %}
         <!--<span class="badge ri-checkbox-circle-fill" data-tooltip="Verified" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></span>-->
-        {% if author.realVerified %}
+        {% if author.realVerified and false %}
         <img src="/assets/img/verified-gold.svg" alt="Verified Badge">
         {% else %}
         <img src="/assets/img/verified.svg" alt="Verified Badge">

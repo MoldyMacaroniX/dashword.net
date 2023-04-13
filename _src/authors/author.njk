@@ -16,7 +16,7 @@ layout: base.njk
 
 {% set verifiedText = "modal1" %}
 
-{% if myAuthor.realVerified %}
+{% if myAuthor.realVerified and false %}
 {% set verifiedText = "modal2" %}
 {% endif %}
 
@@ -28,7 +28,7 @@ layout: base.njk
     <span class="author-name">
       {{ myAuthor.name }}
       {% if myAuthor.verified %}
-        {% if myAuthor.realVerified %}
+        {% if myAuthor.realVerified and false %}
         <img src="/assets/img/verified-gold.svg" alt="Verified Badge" onclick="{{ verifiedText }}.open();" style="cursor: pointer;">
         {% else %}
         <img src="/assets/img/verified.svg" alt="Verified Badge" onclick="{{ verifiedText }}.open();" style="cursor: pointer;">

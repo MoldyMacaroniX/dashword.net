@@ -6,7 +6,7 @@ image: /assets/img/dashword.png
 
 Dashword is the only Geometry Dash news website. It is at the forefront of Geometry Dash 2.2, demonlist, and extreme demon news. Over 20,000 monthly readers rely on Dashword to learn about Geometry Dash and the latest events happening in the community.
 
-Dashword was founded by the popular Geometry Dash YouTuber [MoldyMacaroniX](/authors/moldymacaronix/) (50,000+ subscribers) and released on February 1, 2022. It has since grown to be Geometry Dash's biggest news platform on the web.
+Dashword was founded by the popular Geometry Dash YouTuber [Moldy](/authors/moldymacaronix/) and released on February 1, 2022. It has since grown to be Geometry Dash's biggest news platform on the web.
 
 And all of this is free and open source. It is our goal to provide you with the best Geometry Dash content for no charge whatsoever.
 
