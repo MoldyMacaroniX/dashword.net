@@ -17,6 +17,8 @@ RobTop confirmed that in Geometry Dash 2.2, the upcoming platformer mode will be
 
 RobTop failed to specify whether or not an "unlimited" time option would be available to creators.
 
+There are also options to increase and decrease the time remaining by collecting collectibles. These collectibles can be set by the creator.
+
 This will be added in the Geometry Dash 2.2 update [which currently has an expected release date of this year](/posts/geometry-dash-2-2-release-date-confirmed-2023/).
 
 This was all confirmed in the [official Geometry Dash Discord server](posts/geometry-dash-discord-server-how-to-join-request-levels/).
