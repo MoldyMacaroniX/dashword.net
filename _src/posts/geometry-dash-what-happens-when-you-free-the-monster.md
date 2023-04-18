@@ -38,6 +38,6 @@ To free the monster, you will need to unlock and complete the basement quest. Fo
 
 ---
 
-For more help with unlocking all Geometry Dash secret areas, [see our complete vaults and secrets guide](posts/geometry-dash-all-vaults-and-secrets-2022/).
+For more help with unlocking all Geometry Dash secret areas, [see our complete vaults and secrets guide](/posts/geometry-dash-all-vaults-and-secrets-2022/).
 
 For more information on when Geometry Dash 2.2 will release, [see our 2.2 release date announcement](/posts/geometry-dash-2-2-release-date-confirmed-2023/).
