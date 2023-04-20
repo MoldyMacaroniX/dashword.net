@@ -17,3 +17,11 @@ hideAds: false
 After [6 years of Geometry Dash 2.2 development](posts/geometry-dash-2-2-wait-turns-6-years-old/), the game's developer RobTop has canceled Versus Mode, a [gameplay mode](/posts/robtop-has-geometry-dash-2-3-game-mode-planned/) that would allow you to race levels with friends.
 
 This means Versus Mode will not be released with update 2.2, [which is expected to release later this year](/posts/geometry-dash-2-2-release-date-confirmed-2023/).
+
+RobTop said that versus mode will likely be delayed so he can fix some stuff.
+
+![RobTop saying Geometry Dash 2.2's Versus Mode will be delayed.](https://pbs.twimg.com/media/FuHC-6kaAAAEMus?format=png&name=900x900)
+
+This means that instead of coming out in [Geometry Dash 2.2](/categories/2.2/), Versus Mode will be released in 2.21 after [Geometry Dash 2.2 is released](/posts/geometry-dash-2-2-release-date-news-everything-we-know-about-when-2-2-will-come-out/).
+
+2.21 will be a small patch update similar to update 2.11.
