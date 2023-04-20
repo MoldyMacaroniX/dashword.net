@@ -19,7 +19,7 @@ After [6 years of Geometry Dash 2.2 development](posts/geometry-dash-2-2-wait-tu
 
 This means Versus Mode will not be released with update 2.2, [which itself is expected to release later this year](/posts/geometry-dash-2-2-release-date-confirmed-2023/).
 
-RobTop said that versus mode will likely be delayed so he can fix some stuff.
+RobTop said that Versus Mode will likely be delayed so he can fix some stuff.
 
 ![RobTop saying Geometry Dash 2.2's Versus Mode will be delayed.](https://pbs.twimg.com/media/FuHC-6kaAAAEMus?format=png&name=900x900)
 
