@@ -23,7 +23,7 @@ In SpaceUK's first confession, [he says](https://twitter.com/spadeuk/status/1650
 
 > Every Main list after my Sephiroth mainlist completion in may 8th 2022 was hacked. I lost interest in actually playing the game and wanted to see how long i could go without being caught.
 
-Notable demons SpaceUK admitted to cheating include [Kyouki](/posts/geometry-dash-kyouki-new-top-3-extreme-demon-explained/), [Abyss of Darkness](/posts/geometry-dash-levels-top-10-hardest-extreme-demons-2022/), and [Acheron](/posts/breaking-acheron-takes-1-spot-on-geometry-dash-demonlist/).
+Notable demons SpaceUK admitted to cheating include [Kyouki](/posts/geometry-dash-kyouki-new-top-3-extreme-demon-explained/), [Abyss of Darkness](/posts/geometry-dash-levels-top-10-hardest-extreme-demons-2022/#%233%3A-abyss-of-darkness), and [Acheron](/posts/breaking-acheron-takes-1-spot-on-geometry-dash-demonlist/).
 
 However, subsequent investigation led to the conclusion that basically **every single completion SpaceUK has ever done is hacked**.
 
