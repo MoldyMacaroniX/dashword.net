@@ -1,6 +1,7 @@
 ---
 pageSlug: top-1-geometry-dash-player-spaceuk-exposed-for-hacking-achievements
-title: "BREAKING: Top 1 Geometry Dash Player SpaceUK Exposed For Hacking Achievements"
+title: "BREAKING: Top 1 Geometry Dash Player SpaceUK Exposed For Hacking All His
+  Accomplishments"
 desc: The world's best Geometry Dash player, SpaceUK, has been exposed by the
   Demon List leader for cheating his accomplishments.
 date: 2023-04-25T21:20:49.954Z
