@@ -14,7 +14,7 @@ imageSource: https://youtu.be/I2RTFwn_zho
 affiliateLinks: false
 hideAds: false
 ---
-The world's best Geometry Dash player, SpaceUK, has been exposed by the [Demon List leader](https://youtu.be/I2RTFwn_zho) for cheating his accomplishments.
+The world's best Geometry Dash player, SpaceUK, has been exposed by the [head Demon List moderator](https://youtu.be/I2RTFwn_zho) for cheating his accomplishments.
 
 This comes as a shock to the whole Geometry Dash community, especially since he got away with it for over a year.
 
