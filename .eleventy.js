@@ -51,10 +51,10 @@ module.exports = (config) => {
     let markdownLib = markdownIt(options).use(markdownItImageFigures).use(markdownItAnchor, {
         level: 1,
         // slugify: string => string,
-        permalink: false,
+        permalink: true, // false to hide permalink symbol
         // renderPermalink: (slug, opts, state, permalink) => {},
         permalinkClass: 'header-anchor',
-        permalinkSymbol: '¶',
+        permalinkSymbol: '<i class="ri-link-m"></i>',
         permalinkBefore: false
     });
     // To add markdown-it addons, e.g. `markdown-it-footnote.js`

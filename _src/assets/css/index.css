@@ -1192,6 +1192,14 @@ h1.heading {
     width: 25px;
 }
 
+.header-anchor {
+    text-decoration: none !important;
+    /* transform: translateY(5px); */
+    display: inline-flex;
+    align-items: center;
+    font-size: 1.5rem !important;
+}
+
 .article-heading {
     font-size: 3rem;
 }
