@@ -47,7 +47,7 @@ Former Geometry Dash top player Riot [said the following](https://twitter.com/xr
 
 > this game has come so far but some things never change, just a shame he got away with it for so long. theres always someone new looking for profit or respect but they dont want to put in all the hard work it takes. if it seems too good to be true, it probably is.
 
-While the community reaction was more forgiving at first, after it was revealed that SpaceUK lied in his first reaction and has actually been cheating for much longer, the community outlook has changed.
+While the community reaction was more forgiving at first, after it was revealed that SpaceUK lied in his first confession and has actually been cheating for much longer, the community outlook has changed.
 
 # SpaceUK's Profit
 
