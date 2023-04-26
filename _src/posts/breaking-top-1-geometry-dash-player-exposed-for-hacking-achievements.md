@@ -58,6 +58,8 @@ If his channel was monetized for a notable length of time, SpaceUK could have ma
 
 Dashword is unaware at this time whether or not SpaceUK's YouTube was monetized or for how long. If you have any information that can help with this investigation, please [let us know](/contact/).
 
+---
+
 _**April 25, 5:20 PM EDT:** Original article is posted._
 
 _**Update on April 26, 12:07 AM EDT:** Added information about how SpaceUK is confirmed to have hacked virtually all his achievements, not just a few as was assumed before. This means he lied in his first confession._
