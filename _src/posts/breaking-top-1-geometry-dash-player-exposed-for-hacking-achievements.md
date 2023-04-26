@@ -34,6 +34,6 @@ This means that notable Geometry Dash extreme demons, including Slaughterhouse, 
 
 SpaceUK has since been banned from the Demon List, leading to Zoink becoming the new top 1 best Geometry Dash player.
 
-_**April 26, 5:20 PM EDT:** Original article is posted._
+_**April 25, 5:20 PM EDT:** Original article is posted._
 
 _**Update on April 26, 12:07 AM EDT:** Added information about how SpaceUK is confirmed to have hacked virtually all his achievements, not just a few as was assumed before. This means he lied in his first confession._
