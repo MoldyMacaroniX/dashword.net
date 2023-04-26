@@ -58,6 +58,8 @@ If his channel was monetized for a notable length of time, SpaceUK could have ma
 
 Dashword is unaware at this time whether or not SpaceUK's YouTube was monetized or for how long. If you have any information that can help with this investigation, please [let us know](/contact/).
 
+It's worth noting that since being exposed, SpaceUK has deleted his YouTube channel.
+
 ---
 
 _**April 25, 5:20 PM EDT:** Original article is posted._
