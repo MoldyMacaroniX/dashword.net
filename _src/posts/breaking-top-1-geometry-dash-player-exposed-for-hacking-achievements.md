@@ -34,6 +34,32 @@ This means that notable Geometry Dash extreme demons, including Slaughterhouse, 
 
 SpaceUK has since been banned from the Demon List, leading to Zoink becoming the new top 1 best Geometry Dash player.
 
+# Community Reaction
+
+After it was revealed that SpaceUK lied in his first confession and hacked virtually everything, this is how the community has reacted.
+
+Popular Geometry Dash YouTuber Npesta [said the following](https://twitter.com/zNpesta__/status/1651073263689256962):
+
+> Disrespectful. How [...] did you sleep at night. All that praise you didn't earn, making everyone believe you were some kind of god. We gave you our respect, and you spat on it, thinking you were above all of us. Were you ever gonna come clean? Disgusting. I hate cheaters
+
+Former Geometry Dash top player Riot [said the following](https://twitter.com/xriott/status/1651081124712464385?s=20):
+
+> this game has come so far but some things never change, just a shame he got away with it for so long. theres always someone new looking for profit or respect but they dont want to put in all the hard work it takes. if it seems too good to be true, it probably is.
+
+While the community reaction was more forgiving at first, after it was revealed that SpaceUK lied in his first reaction and has actually been cheating for much longer, the community outlook has changed.
+
+# SpaceUK's Profit
+
+One question others are asking, even Riot, is whether or not SpaceUK made any profit.
+
+It's worth noting that many of SpaceUK's top completions on YouTube, like [Slaughterhouse](/posts/geometry-dash-slaughterhouse-top-1/), had copyright claims on them, meaning SpaceUK made no money from it. However, this is not the case for all of his videos.
+
+If his channel was monetized for a notable length of time, SpaceUK could have made at least a few thousand dollars.
+
+Dashword is unaware at this time whether or not SpaceUK's YouTube was monetized or for how long. If you have any information that can help with this investigation, please [let us know](/contact/).
+
 _**April 25, 5:20 PM EDT:** Original article is posted._
 
 _**Update on April 26, 12:07 AM EDT:** Added information about how SpaceUK is confirmed to have hacked virtually all his achievements, not just a few as was assumed before. This means he lied in his first confession._
+
+_**Update on April 26, 12:44 AM EDT:** Added "Community Reaction" and "SpaceUK's Profit" sections to provide further clarity on the impact this situation has had on the Geometry Dash community and SpaceUK himself._
