@@ -17,7 +17,7 @@ hideAds: false
 ---
 The world's best Geometry Dash player, SpaceUK, has been exposed by the [head Demon List moderator](https://youtu.be/I2RTFwn_zho) for cheating his accomplishments.
 
-This comes as a shock to the whole Geometry Dash community, especially since he got away with it for over a year.
+This comes as a shock to the whole Geometry Dash community. While it was originally assumed he was hacking for only a year, subsequent investigation revealed that basically his entire career is fake.
 
 In SpaceUK's first confession, [he says](https://twitter.com/spadeuk/status/1650961282508419080):
 
@@ -51,15 +51,29 @@ While the community reaction was more forgiving at first, after it was revealed 
 
 # SpaceUK's Profit
 
-One question others are asking, even Riot, is whether or not SpaceUK made any profit.
+One question others are asking, even Riot, is whether or not SpaceUK made any monetary gain. And the short answer is: **yes, he did**.
 
-It's worth noting that many of SpaceUK's top completions on YouTube, like [Slaughterhouse](/posts/geometry-dash-slaughterhouse-top-1/), had copyright claims on them, meaning SpaceUK made no money from it. However, this is not the case for all of his videos.
+That being said, it's worth noting that many of SpaceUK's top completions on YouTube, like [Slaughterhouse](/posts/geometry-dash-slaughterhouse-top-1/) had copyright claims on them, meaning SpaceUK made no money from those videos. However, this is not the case for all of his videos.
 
-If his channel was monetized for a notable length of time, SpaceUK could have made at least a few thousand dollars.
-
-Dashword is unaware at this time whether or not SpaceUK's YouTube was monetized or for how long. If you have any information that can help with this investigation, please [let us know](/contact/).
+[Fnm04](https://youtu.be/pPZmTVWPhWI), a friend of SpaceUK, said that SpaceUK made at least a few thousand dollars off of his fake career. On one occasion, he remembers helping SpaceUK build a huge new PC with the money he got from cheating.
 
 It's worth noting that since being exposed, SpaceUK has deleted his YouTube channel.
+
+# SpaceUK's Response
+
+On April 26 at 12:29 PM EDT, SpaceUK released his second confession, with this one being much longer and supposedly clearing everything up.
+
+Here are the main points from his new confession:
+
+- He claims that his hardest demon is Kenos, although his submitted record was hacked because he had a recording error occur when he beat it legitimately.
+- He claims that his absurd difficulty jumps at the start of his career, such as Leyak being his third demon, are legitimate.
+- In regard to the money he made from his fake completions, he said he will give some of it to players who beat those levels legitimately. It is unclear how much of his total profit this accounts for, especially since he has already used some of it, such as in his PC.
+
+His confession goes over a lot more detail, however. You can [read it here](https://www.twitlonger.com/show/n_1ss9laj) for more information.
+
+Whether or not SpaceUK is telling the complete truth is unknown. While he seemingly has nothing more to lose, seeing how he blatantly lied in his first confession and even to his closest friends, it's not unfathomable that SpaceUK could be lying about a few things in this confession.
+
+But as of now, there is no evidence that SpaceUK is lying in this confession.
 
 ---
 
@@ -68,3 +82,5 @@ _**April 25, 5:20 PM EDT:** Original article is posted._
 _**Update on April 26, 12:07 AM EDT:** Added information about how SpaceUK is confirmed to have hacked virtually all his achievements, not just a few as was assumed before. This means he lied in his first confession._
 
 _**Update on April 26, 12:44 AM EDT:** Added "Community Reaction" and "SpaceUK's Profit" sections to provide further clarity on the impact this situation has had on the Geometry Dash community and SpaceUK himself._
+
+_**Updated on April 26, 3:16 PM EDT:** Updated the "SpaceUK's Profit" section to include new information and added the "SpaceUK's Response" section to include information on his second confession. Also improved clarity throughout the whole article._
