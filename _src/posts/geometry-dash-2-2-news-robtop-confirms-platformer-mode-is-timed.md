@@ -21,4 +21,4 @@ There are also options to increase and decrease the time remaining by collecting
 
 This will be added in the Geometry Dash 2.2 update [which currently has an expected release date of this year](/posts/geometry-dash-2-2-release-date-confirmed-2023/).
 
-This was all confirmed in the [official Geometry Dash Discord server](posts/geometry-dash-discord-server-how-to-join-request-levels/).
+This was all confirmed in the [official Geometry Dash Discord server](/posts/geometry-dash-discord-server-how-to-join-request-levels/).
