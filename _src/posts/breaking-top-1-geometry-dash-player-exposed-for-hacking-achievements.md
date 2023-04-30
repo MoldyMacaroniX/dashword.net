@@ -43,7 +43,7 @@ Popular Geometry Dash YouTuber Npesta [said the following](https://twitter.com/z
 
 > Disrespectful. How [...] did you sleep at night. All that praise you didn't earn, making everyone believe you were some kind of god. We gave you our respect, and you spat on it, thinking you were above all of us. Were you ever gonna come clean? Disgusting. I hate cheaters
 
-Former Geometry Dash top player Riot [said the following](https://twitter.com/xriott/status/1651081124712464385?s=20):
+Former Geometry Dash top player Riot [said the following](https://twitter.com/xriott/status/1651081124712464385):
 
 > this game has come so far but some things never change, just a shame he got away with it for so long. theres always someone new looking for profit or respect but they dont want to put in all the hard work it takes. if it seems too good to be true, it probably is.
 
@@ -51,7 +51,7 @@ While the community reaction was more forgiving at first, after it was revealed 
 
 # SpaceUK's Profit
 
-One question others are asking, even Riot, is whether or not SpaceUK made any monetary gain. And the short answer is: **yes, he did**.
+One question others are asking, [even Riot](https://twitter.com/xriott/status/1651081124712464385), is whether or not SpaceUK made any monetary gain. And the short answer is: **yes, he did**.
 
 That being said, it's worth noting that many of SpaceUK's top completions on YouTube, like [Slaughterhouse](/posts/geometry-dash-slaughterhouse-top-1/) had copyright claims on them, meaning SpaceUK made no money from those videos. However, this is not the case for all of his videos.
 
