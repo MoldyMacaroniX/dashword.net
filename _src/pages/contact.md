@@ -11,9 +11,23 @@ hideSidebar: true
 
 <p>You can contact Dashword.net, for any reason, by emailing <a href="mailto:support@dashword.net">support@dashword.net</a>.</p>
 
-## See our frequently asked questions
+<div class="alert">
+    <div class="alert-icon">
+        <i class="ri-information-line"></i>
+    </div>
+    <div class="alert-content">
+        <!-- <p>Dashword.net is not currently accepting any sponsorship or partnership opportunities unless they meet our guidelines below. Any requests that fail to meet these guidelines will not be considered.</p> -->
+        <p>Dashword.net is not looking to work with any new sponsorship or advertising agencies. Any requests about such will not be considered.</p>
+    </div>
+</div>
 
-For answers to basic questions, see our [frequently asked questions](/faq/).
+## Sponsored Posts
+
+We are not currently accepting sponsored posts on our site.
+
+## Partnership
+
+We are only accepting mutual partnerships if they are from other Geometry Dash entities, including Discord communities, popular figures, and other Geometry Dash related websites. They do not have to be official (endorsed by RobTop).
 
 ## Contribute (articles, ideas, code)
 
@@ -25,10 +39,6 @@ That being said, if joining our Discord server is not possible, you can email us
 
 If you spot a comment on this site that is in violation of our [code of conduct](/code-of-conduct/), then you can contact us explaining the issue. If what you report is found to be in violation of our code of conduct, it will be removed.
 
-## Sponsored Posts
+## See our frequently asked questions
 
-We are not currently accepting sponsored posts on our site.
-
-## Partnership
-
-We are only accepting mutual partnerships if they are from other Geometry Dash entities, including Discord communities, popular figures, and other Geometry Dash related websites. They do not have to be official (endorsed by RobTop).
+For answers to basic questions, see our [frequently asked questions](/faq/).
