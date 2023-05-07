@@ -18,6 +18,6 @@ Geometry Dash Elder Moderator, Pauze, has repeatedly said that "2.2 is right aro
 
 Pauze, who has contact with RobTop Games, has put out an official statement as a Geometry Dash Moderator saying that 2.2 is very soon.
 
-RobTop also confirmed that he had a [Geometry Dash 2.2 deadline of August 31](robtop-confirms-third-and-final-geometry-dash-2-2-release-date), as that's when he expected Geometry Dash to be removed from the Google Play Store. Unfortunately, it was removed sooner than he expected.
+RobTop also confirmed that he had a [Geometry Dash 2.2 deadline of August 31](/posts/robtop-confirms-third-and-final-geometry-dash-2-2-release-date/), as that's when he expected Geometry Dash to be removed from the Google Play Store. Unfortunately, it was removed sooner than he expected.
 
 You can [read more Geometry Dash 2.2 news here](/categories/2.2/).
