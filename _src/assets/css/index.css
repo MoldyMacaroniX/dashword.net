@@ -1316,7 +1316,7 @@ h1.heading {
     display:list-item;
 }
 
-.article a {
+.article a, .link {
     color: rgb(0, 89, 255);
     text-decoration: underline;
     cursor: pointer;

@@ -2,6 +2,7 @@
 title: Verified Requirements
 desc: Who are verified authors?
 permalink: /verified/
+image: false
 ---
 
 The verified badge is assigned to authors who are well-known in the Geometry Dash community.
