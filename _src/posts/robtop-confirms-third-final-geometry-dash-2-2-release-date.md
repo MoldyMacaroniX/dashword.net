@@ -21,6 +21,6 @@ This means [Geometry Dash 2.2](/categories/2.2/) should release before August 31
 
 ![RobTop says he planned to finish Geometry Dash 2.2 by August 31, 2023.](https://media.discordapp.net/attachments/392087938239954950/1104561614021206147/image.png?width=1018&height=181)
 
-This information comes as a result of [Geometry Dash being removed from the Google Play Store]().
+This information comes as a result of [Geometry Dash being removed from the Google Play Store](/posts/geometry-dash-moderator-says-2-2-is-right-around-the-corner/).
 
-This
+Geometry Dash 2.2 is confirmed to be "very close" by RobTop Games and other Geometry Dash Moderators. What will you do once the update is released?
