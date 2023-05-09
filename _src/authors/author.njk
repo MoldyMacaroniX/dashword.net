@@ -29,9 +29,9 @@ layout: base.njk
       {{ myAuthor.name }}
       {% if myAuthor.verified %}
         {% if myAuthor.realVerified and false %}
-        <img src="/assets/img/verified-gold.svg" alt="Verified Badge" onclick="{{ verifiedText }}.open();" style="cursor: pointer;">
+        <img src="/assets/img/verified-gold.svg" alt="Verified Badge" onclick="openDialog('modalVerified');" style="cursor: pointer;">
         {% else %}
-        <img src="/assets/img/verified.svg" alt="Verified Badge" onclick="{{ verifiedText }}.open();" style="cursor: pointer;">
+        <img src="/assets/img/verified.svg" alt="Verified Badge" onclick="openDialog('modalVerified');" style="cursor: pointer;">
         {% endif %}
       {% endif %}
     </span>

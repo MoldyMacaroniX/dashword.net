@@ -112,7 +112,7 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
-<body onmouseleave="//beforeLeave();" id="body">
+<body onmouseleave="beforeLeave();" id="body">
 
     <!-- NOTIF ALERT START -->
     <div class="notif cols" id="notif">
@@ -140,6 +140,83 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
         <i class="ri-arrow-up-line"></i>
     </div>-->
     <!-- SCROLL LINK END -->
+
+    <!-- MODALS START -->
+
+    <div class="modal" id="modalVerified">
+        <div class="modal-spacing">
+            <div class="modal-inner">
+                <form method="dialog" class="header">
+                    <button onclick="closeDialog('modalVerified')" class="back">
+                        <i class="ri-close-line"></i>
+                    </button>
+                    <div class="label"><span>Verified</span></div>
+                </form>
+                <div class="content">
+                    <div class="desc">
+                        This author is verified because they are notable in the Geometry Dash community. <a href="/verified/">Get Verified</a>
+                    </div>
+                    <button onclick="closeDialog('modalVerified')" class="button button-wide">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal" id="modalSearch">
+        <div class="modal-spacing">
+            <div class="modal-inner">
+                <form method="dialog" class="header">
+                    <button onclick="closeDialog('modalSearch')" class="back">
+                        <i class="ri-close-line"></i>
+                    </button>
+                    <div class="label"><span>Search</span></div>
+                </form>
+                <div class="content">
+                    <div class="desc">
+                        Please include something in the search field in order to search.
+                    </div>
+                    <button onclick="closeDialog('modalSearch')" class="button button-wide">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal" id="modalLeave">
+        <div class="modal-spacing">
+            <div class="modal-inner">
+                <form method="dialog" class="header">
+                    <button onclick="closeDialog('modalLeave')" class="back">
+                        <i class="ri-close-line"></i>
+                    </button>
+                    <div class="label"><span>Geometry Dash 2.2 Private Server</span></div>
+                </form>
+                <div class="content">
+                    <div class="aspect">
+                        <img src="https://external-preview.redd.it/NZMFL9nrkpGXC-y-krEbZjyF2uHHhqNFzN_ZUTn3By0.jpg?format=pjpg&auto=webp&s=86f106121dcdc47f82236819f105c2feb5469ffe" alt="2.2 private server cover">
+                    </div>
+                    <div class="desc">
+                        <b>How To Download & Install The Geometry Dash 2.2 Private Server (2023)</b>
+                    </div>
+                    <a href="" class="button button-wide">Read The Story</a>
+                    <button onclick="closeDialog('modalLeave')" class="button button-wide">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function openDialog(diaN) {
+            const dia = document.getElementById(diaN);
+            dia.style.display = "block";
+            document.body.style.overflow = "hidden";
+        }
+        function closeDialog(diaN) { 
+            const dia = document.getElementById(diaN); 
+            dia.style.display = "none";
+            document.body.style.overflow = "auto";
+        }
+    </script>
+    <!-- MODALS END -->
 
     <!-- MOBILE NAV START -->
     <div class="mobile" id="menu">
@@ -783,7 +860,8 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
 
     function beforeLeave() {
         if (barn.get("seenBeforeLeave") != true) { // barn.get("seenBeforeLeave") != true
-            leave.open();
+            //leave.open();
+            openDialog('modalLeave');
             barn.set("seenBeforeLeave", true);
             document.getElementById("body").removeAttribute("onmouseleave");
         }
