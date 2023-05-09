@@ -15,7 +15,7 @@ imageSource: https://youtu.be/w3Pghmyyr2c
 affiliateLinks: false
 hideAds: false
 ---
-After [6 years of Geometry Dash 2.2 development](posts/geometry-dash-2-2-wait-turns-6-years-old/), the game's developer RobTop has canceled Versus Mode, a feature that would allow you to race levels with friends.
+After [6 years of Geometry Dash 2.2 development](/posts/geometry-dash-2-2-wait-turns-6-years-old/), the game's developer RobTop has canceled Versus Mode, a feature that would allow you to race levels with friends.
 
 This means Versus Mode will not be released with update 2.2, [which itself is expected to release later this year](/posts/geometry-dash-2-2-release-date-confirmed-2023/).
 
