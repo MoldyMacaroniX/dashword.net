@@ -67,3 +67,9 @@ However, unlike in platformer mode, when the player changes direction is entirel
 Due to how similar this feature is to both the arrow trigger and platformer mode, it is easy to see why it is taking so long to make.
 
 Fortunately, this is [one of the oldest Geometry Dash 2.2 features](/posts/geometry-dash-2-2-editor-unlocked-how-to-get-the-2-2-level-editor-2022/), being available in the first Geometry Dash 2.2 leak. Now, you can access the current version of that leak via the [Geometry Dash 2.2 private server](/posts/geometry-dash-2-2-private-server-download-install/).
+
+---
+
+These 4 features are likely what is causing Geometry Dash 2.2 to take so long. Fortunately, Geometry Dash moderators have confirmed that [the update is closer than ever to releasing](/posts/geometry-dash-moderator-says-2-2-is-right-around-the-corner/).
+
+To stay up-to-date with the latest Geometry Dash 2.2 news, [see our Geometry Dash 2.2 category](/categories/2.2/).
