@@ -1192,12 +1192,31 @@ h1.heading {
     width: 25px;
 }
 
+h1, h2 {
+    position: relative;
+}
+
 .header-anchor {
     text-decoration: none !important;
-    /* transform: translateY(5px); */
+    color: unset !important;
+    /* transform: translateY(1px); */
+    transform: translateX(-24px) translateY(10px);
     display: inline-flex;
-    align-items: center;
-    font-size: 1.5rem !important;
+    height: 100%;
+    position: absolute;
+    /* align-items: center; */
+    font-size: 1.2rem !important;
+    font-weight: normal;
+    opacity: 0.5;
+    transition: opacity 0.25s ease;
+}
+
+h2 .header-anchor {
+    transform: translateX(-24px) translateY(5px);
+}
+
+.header-anchor:hover {
+    opacity: 1;
 }
 
 .article-heading {
@@ -2027,4 +2046,11 @@ details[open] .details-icon.ri-add-line:before {
     .navbar .button span {
         display: none;
     } */
+    .header-anchor {
+        transform: translateX(-18px) translateY(10px);
+    }
+    
+    h2 .header-anchor {
+        transform: translateX(-18px) translateY(5px);
+    }
 }

@@ -55,7 +55,7 @@ module.exports = (config) => {
         // renderPermalink: (slug, opts, state, permalink) => {},
         permalinkClass: 'header-anchor',
         permalinkSymbol: '<i class="ri-link-m"></i>',
-        permalinkBefore: false
+        permalinkBefore: true
     });
     // To add markdown-it addons, e.g. `markdown-it-footnote.js`
     // let markdownLib = markdownIt(options).use(require('./markdown-it-footnote'));
