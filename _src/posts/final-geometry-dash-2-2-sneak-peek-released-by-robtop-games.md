@@ -9,7 +9,7 @@ tags:
   - "2.2"
   - featured
 author: moldymacaronix
-image: https://img.youtube.com/vi/17YwHnNGScY/hqdefault.jpg
+image: https://i.imgur.com/XZH1taO.png
 imageSource: https://youtu.be/17YwHnNGScY
 affiliateLinks: false
 hideAds: false
