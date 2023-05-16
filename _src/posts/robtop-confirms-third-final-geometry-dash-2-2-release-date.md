@@ -25,6 +25,6 @@ This information comes as a result of [Geometry Dash being removed from the Goog
 
 Geometry Dash 2.2 is confirmed to be "very close" by RobTop Games and other Geometry Dash Moderators.
 
-Recent developments also show that Geometry Dash 2.2 [might be just weeks away](). With the third and final update 2.2 sneak peek released, RobTop has confirmed that there are no other projects standing between him and releasing 2.2.
+Recent developments also show that Geometry Dash 2.2 [might be just weeks away](/posts/final-geometry-dash-2-2-sneak-peek-released-by-robtop-games/). With the third and final [update 2.2 sneak peek](/posts/watch-all-geometry-dash-2-2-sneak-peeks-full-videos/) released, RobTop has confirmed that there are no other projects standing between him and releasing 2.2.
 
 With Geometry Dash 2.2 so close, what will you do once the update is released?
