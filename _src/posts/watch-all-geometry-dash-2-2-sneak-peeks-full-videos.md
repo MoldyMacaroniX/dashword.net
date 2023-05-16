@@ -46,7 +46,7 @@ You can watch the second Geometry Dash 2.2 sneak peek for the 2.2 level "Explore
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CtEQ_EGlbQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 {% endvideo %}
 
-# Geometry Dash 2.2 Sneak Peek 2: Platformer Level
+# Geometry Dash 2.2 Sneak Peek 3: Platformer Level
 
 You can watch the third Geometry Dash 2.2 sneak peek for this unknown 2.2 platformer level [on YouTube](https://youtu.be/17YwHnNGScY).
 
