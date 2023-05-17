@@ -23,6 +23,6 @@ RobTop only has the source code for the currently unfinished [Geometry Dash 2.2 
 
 RobTop said he could recreate Geometry Dash 2.113 and update the game to return it to the Google Play Store, but this would take just as long as it would take to release update 2.2.
 
-That being said, there is no reason RobTop will work any harder on releasing Geometry Dash 2.2. A similar situation happened when [Geometry Dash broke on Apple devices running iOS 15](/posts/geometry-dash-how-to-fix-ios-crash-bug/). Despite Geometry Dash being unplayable on the latest software version, RobTop failed to do anything.
+That being said, there is no reason RobTop will work any harder on releasing Geometry Dash 2.2 because of this. A similar situation happened when [Geometry Dash broke on Apple devices running iOS 15](/posts/geometry-dash-how-to-fix-ios-crash-bug/). Despite Geometry Dash being unplayable on the latest software version, RobTop failed to do anything.
 
 That being said, Geometry Dash 2.2 is very close. With the [Geometry Dash 2.2 sneak peek 3](/posts/final-geometry-dash-2-2-sneak-peek-released-by-robtop-games/) coming out and the [final Geometry Dash 2.2 release date confirmed](/posts/robtop-confirms-third-and-final-geometry-dash-2-2-release-date/), update 2.2 is likely only months, maybe only weeks, away.
