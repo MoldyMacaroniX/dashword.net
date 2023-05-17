@@ -19,7 +19,7 @@ Geometry Dash by RobTop Games [has been removed from the Google Play Store](/pos
 
 RobTop is unable to update the game to implement the newest Android safety features because he lost the source code for Geometry Dash 2.113, the current version of the game.
 
-RobTop only has the source code for the currently unfinished Geometry Dash 2.2 update. This means that the only way to update Geometry Dash is to release Geometry Dash 2.2. With this, the game will return to the Google Play Store once RobTop releases Geometry Dash 2.2.
+RobTop only has the source code for the currently unfinished [Geometry Dash 2.2 update](/categories/2.2/). This means that the only way to update Geometry Dash is to release Geometry Dash 2.2. With this, the game will return to the Google Play Store once RobTop releases Geometry Dash 2.2.
 
 RobTop said he could recreate Geometry Dash 2.113 and update the game to return it to the Google Play Store, but this would take just as long as it would take to release update 2.2.
 
