@@ -13,6 +13,10 @@ imageSource: https://game-solver.com/geometry-dash/testing-update-2-2-platformer
 ---
 Geometry Dash developer RobTop Games said the 2.2 platformer mode will "start to really shine" in updates 2.3 and 2.4. However, he still plans to have it available in 2.2.
 
+{% alert %}
+RobTop has since chosen to add sound effects in Geometry Dash 2.2 instead of waiting for 2.3 or 2.4. You can see the new sound effect system in the [third and final Geometry Dash 2.2 sneak peek](/posts/final-geometry-dash-2-2-sneak-peek-released-by-robtop-games/).
+{% endalert %}
+
 Specifically, RobTop said this about the [Geometry Dash 2.2 platformer mode](/posts/the-map-linear-gd/):
 
 >﻿ I think platformer mode will start to really shine in 2.3/2.4
