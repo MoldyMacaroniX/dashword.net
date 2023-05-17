@@ -14,7 +14,7 @@ imageSource: https://youtu.be/0700KdW3nbM
 affiliateLinks: false
 hideAds: false
 ---
-Geometry Dash Elder Moderator, Pauze, has repeatedly said that "2.2 is right around the corner." This is in response to Geometry Dash being removed from the Google Play Store.
+Geometry Dash Elder Moderator, Pauze, has repeatedly said that "2.2 is right around the corner." This is in response to [Geometry Dash being removed from the Google Play Store following security concerns](/posts/geometry-dash-removed-from-google-play-store-following-security-concerns/).
 
 Pauze, who has contact with RobTop Games, has put out an official statement as a Geometry Dash Moderator saying that 2.2 is very soon.
 
