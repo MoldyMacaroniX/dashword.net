@@ -5,7 +5,7 @@ desc: Geometry Dash by RobTop Games has been removed from the Google Play Store
   for security concerns. Geometry Dash has not been updated in over 6 years,
   which means it is no longer using the latest Android safety features. To
   prevent any abuse, Google removed Geometry Dash from their stores.
-date: 2023-05-17T07:02:29.282Z
+date: 2023-05-17T07:15:09.950Z
 tags:
   - news
   - "2.2"
