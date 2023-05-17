@@ -15,7 +15,7 @@ imageSource: https://youtu.be/fl2XphpQcFk
 affiliateLinks: false
 hideAds: false
 ---
-Geometry Dash by RobTop Games [has been removed from the Google Play Store](/posts/geometry-dash-moderator-says-2-2-is-right-around-the-corner/) for security concerns. [Geometry Dash has not been updated in over 6 years](), which means it is no longer using the latest Android safety features. To prevent any abuse, Google removed Geometry Dash from their stores.
+Geometry Dash by RobTop Games [has been removed from the Google Play Store](/posts/geometry-dash-moderator-says-2-2-is-right-around-the-corner/) for security concerns. [Geometry Dash has not been updated in over 6 years](/posts/geometry-dash-2-2-wait-turns-6-years-old/), which means it is no longer using the latest Android safety features. To prevent any abuse, Google removed Geometry Dash from their stores.
 
 RobTop is unable to update the game to implement the newest Android safety features because he lost the source code for Geometry Dash 2.113, the current version of the game.
 
