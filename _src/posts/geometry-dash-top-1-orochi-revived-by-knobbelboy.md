@@ -9,6 +9,7 @@ date: 2023-05-18T23:19:27.075Z
 tags:
   - news
   - demonlist
+  - featured
 author: mkczy
 image: https://img.youtube.com/vi/VF67v-vHn3s/maxresdefault.jpg
 imageSource: https://youtu.be/VF67v-vHn3s
