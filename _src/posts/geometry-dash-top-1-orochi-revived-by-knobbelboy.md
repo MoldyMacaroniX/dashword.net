@@ -1,6 +1,6 @@
 ---
-pageSlug: geometry-dash-top-1-orochi-revived-by-knobbelboy
-title: Geometry Dash Top 1 Orochi Revived By Knobbelboy
+pageSlug: geometry-dash-top-1-extreme-demon-orochi-revived-by-knobbelboy
+title: Geometry Dash Top 1 Hardest Demon "Orochi" Revived By Knobbelboy
 desc: Orochi by Knobbelboy and more, a Geometry Dash top 1 extreme demon that
   dates back to 2018, has shown signs of life after presumed to be discontinued.
   On May 14, 2023, Knobbelboy released the third Orochi preview. The previous
