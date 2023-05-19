@@ -1,7 +1,7 @@
 {
     "title":"Dashword",
-    "url":"https://dashword.net/",
-    "urlWithoutTrailingSlash":"https://dashword.net",
+    "url":"https://www.dashword.net/",
+    "urlWithoutTrailingSlash":"https://www.dashword.net",
     "desc":"Dashword publishes Geometry Dash news, guides, reviews, opinions, lists, and all kinds of stories. All for free.",
     "image":"/assets/img/main2.png",
     "isAds":true,
@@ -10,8 +10,8 @@
 		"subtitle": "Dashword publishes Geometry Dash news, guides, reviews, opinions, lists, and all kinds of stories. All for free.",
 		"filename": "feed.xml",
 		"path": "/feed/feed.xml",
-		"url": "https://dashword.net/feed/feed.xml",
-		"id": "https://dashword.net/"
+		"url": "https://www.dashword.net/feed/feed.xml",
+		"id": "https://www.dashword.net/"
 	},
     "author": {
         "name":"Dashword.net",
