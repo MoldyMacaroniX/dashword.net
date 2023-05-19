@@ -26,14 +26,6 @@ Designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Baill
     --font-size: 16px;
 }
 
-body.dark {
-    --bg: rgb(31, 33, 36);
-    --bg-dim: rgb(42, 45, 49);
-    --print: rgb(255, 255, 255);
-    --grey:rgba(78, 78, 78, 0.596);
-}
-
-/*
 @media (prefers-color-scheme: dark) {
     :root {
         --bg: rgb(31, 33, 36);
@@ -42,7 +34,7 @@ body.dark {
         --grey:rgba(78, 78, 78, 0.596);
     }
 }
-*/
+
 
 /* CSS Reset */
 
