@@ -9,11 +9,11 @@ Designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Baill
     --bg: white;
     --bg-dim: rgb(238, 238, 238);
     --print: black;
+    --grey: rgba(192, 192, 192, 0.596);
 
     /* Unchanging colors */
     --white: white;
     --black: black;
-    --grey: rgba(192, 192, 192, 0.596);
     --primary: rgb(0, 103, 238); /* OG: rgb(45,136,255) */
 
     /* Spacing valyes */
@@ -25,6 +25,24 @@ Designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Baill
     /* Font size */
     --font-size: 16px;
 }
+
+body.dark {
+    --bg: rgb(31, 33, 36);
+    --bg-dim: rgb(42, 45, 49);
+    --print: rgb(255, 255, 255);
+    --grey:rgba(78, 78, 78, 0.596);
+}
+
+/*
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg: rgb(31, 33, 36);
+        --bg-dim: rgb(42, 45, 49);
+        --print: rgb(255, 255, 255);
+        --grey:rgba(78, 78, 78, 0.596);
+    }
+}
+*/
 
 /* CSS Reset */
 
