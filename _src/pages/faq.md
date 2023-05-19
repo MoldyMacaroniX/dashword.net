@@ -31,7 +31,7 @@ Dashword is an open source, community project. You can find our [public reposito
 
 # Why are there ads on the site?
 
-We usually put ads on the site to help cover hosting, domain, and other costs that arise. For more information, see our [privacy policy](/privacy-policy/). If you don't want to see ads, you can use an ad blocker, but we greatly appreciate those who choose to browse the site with ads on as they help to support us.
+We usually put ads on the site to help cover hosting, domain, and other costs that arise. For more information about ads we serve, see our [privacy policy](/privacy-policy/). If you don't want to see ads, you can use an ad blocker, but we greatly appreciate those who choose to browse the site with ads on as they help to support us.
 
 ---
 

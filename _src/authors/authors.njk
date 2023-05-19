@@ -67,6 +67,11 @@ layout: base.njk
 {% endfor %}
 </div>
 
-{% set paged = pagination.href %}
+{# {% set paged = pagination.href %}
 {% set nestedPagination = false %}
-{% include "partials/paginator.njk" %}
+{% include "partials/paginator.njk" %} #}
+
+<div class="cols" style="margin-top: 25px;">
+    <a href="/authors/" class="button button-wide button-selected" style="margin-top: 0;">All Authors</a>
+    <a href="/verified-authors/" class="button button-wide" style="margin-top: 0;">Verified Authors</a>
+</div>

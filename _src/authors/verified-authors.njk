@@ -1,0 +1,78 @@
+---
+title: Verified Authors
+# permalink: /authors/
+
+pagination:
+  data: authors
+  size: 200 # large so that it doesnt paginate - want to rework the system cause rn ordering with pagination sucks
+  alias: authors
+permalink: "verified-authors/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+
+layout: base.njk
+---
+
+<h1 class="heading">Verified Authors</h1>
+
+{% set allSlugs = [] %}
+{% for a in collections.pagedAuthorPosts %}
+{% set allSlugs = (allSlugs.push(a.slug), allSlugs) %}
+{% endfor %}
+
+<div class="author-previews grid-2">
+{% for author in authors | sort(attribute='name') %} {# | sort(attribute='name') #}
+{% if author.verified %}
+    {% set hasArticles = false %}
+    {% for b in allSlugs %}
+    {% if author.key === b and not hasArticles %}
+    {% set hasArticles = true %}
+    {% endif %}
+    {% endfor %}
+
+    {% set verifiedText = "This account is verified because it\\'s subscribed to Dashword Blue." %}
+
+    {% if author.realVerified %}
+    {% set verifiedText = "This account is verified because it\\'s notable in Geometry Dash news." %}
+    {% endif %}
+
+    {% if hasArticles %}
+    <a href="/authors/{{ author.key }}/" class="author-preview">
+    {% else %}
+    <span class="author-preview author-no-posts"{% if not hasArticles %} style="display: none;"{% endif %}>
+    {% endif %}
+    <div class="author-preview-photo"><img src="{{ author.photo | url }}" alt="{{ author.name }}'s Profile Photo"></div>
+    <div>
+    <div class="author-preview-name">
+        {{ author.name }}
+        {% if author.verified %}
+            <!--<span class="badge ri-checkbox-circle-fill" data-tooltip="Verified" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></span>-->
+            {% if author.realVerified and false %}
+            <img src="/assets/img/verified-gold.svg" alt="Verified Badge">
+            {% else %}
+            <img src="/assets/img/verified.svg" alt="Verified Badge">
+            {% endif %}
+        {% endif %}
+        {% if not hasArticles %}<span class="author-no-posts-tag">(no articles)</span>{% endif %}
+    </div>
+    {% if author.realVerified %}
+    {# <div>
+        <div class="verified-chip"><img src="/assets/img/verified-grey.svg" alt="Verified Badge"> Official</div>
+    </div> #}
+    {% endif %}
+    </div>
+    {% if hasArticles %}
+    </a>
+    {% else %}
+    </span>
+    {% endif %}
+{% endif %}
+{% endfor %}
+</div>
+
+<div class="cols" style="margin-top: 25px;">
+    <a href="/authors/" class="button button-wide" style="margin-top: 0;">All Authors</a>
+    <a href="/verified-authors/" class="button button-wide button-selected" style="margin-top: 0;">Verified Authors</a>
+</div>
+
+{# {% set paged = pagination.href %}
+{% set nestedPagination = false %}
+{% include "partials/paginator.njk" %} #}
