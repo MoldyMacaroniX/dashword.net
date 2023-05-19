@@ -9,7 +9,7 @@ date: 2023-05-19T04:12:47.550Z
 tags:
   - editorial
 author: dashword
-image: /assets/img/dashword.png
+image: /assets/img/dashword2.png
 affiliateLinks: false
 hideAds: false
 ---
