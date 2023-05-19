@@ -25,7 +25,7 @@ eleventyExcludeFromCollections: true
     <updated>{{ post.date | dateToRfc3339 }}</updated>
     <id>{{ absolutePostUrl }}</id>
     {# <content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content> #}
-    <content type="html"><p>{{ post.data.desc }}</p></content>
+    <content type="html"><p>{{ post.data.desc }} <a href="{{ metadata.urlWithoutTrailingSlash }}{{ post.url }}">Continue Reading</a></p></content>
   </entry>
   {%- endfor %}
 </feed>
