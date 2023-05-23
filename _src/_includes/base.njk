@@ -111,8 +111,45 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
     <!-- Netlify CMS -->
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
+    <!-- Barn.js (for easy working with localstorage) -->
+    <script type="text/javascript" src="/assets/js/barn.js"></script>
+
 </head>
 <body onmouseleave="beforeLeave();" id="body">
+
+    <script>
+        window.onload = function() {
+            console.log("Detected Theme: " + barn.get("theme"));
+            if (barn.get("theme") == "system") {
+                setThemeDevice();
+            }
+            if (barn.get("theme") == "light") {
+                setThemeLight();
+            }
+            if (barn.get("theme") == "dark") {
+                setThemeDark();
+            }
+        }
+    </script>
+
+    <script>
+        var bod = document.getElementById("body");
+        function setThemeDevice() {
+            barn.set("theme", "system");
+            body.classList.remove("light");
+            body.classList.remove("dark");
+        }
+        function setThemeLight() {
+            barn.set("theme", "light");
+            body.classList.add("light");
+            body.classList.remove("dark");
+        }
+        function setThemeDark() {
+            barn.set("theme", "dark");
+            body.classList.add("dark");
+            body.classList.remove("light");
+        }
+    </script>
 
     <!-- NOTIF ALERT START -->
     <div class="notif cols" id="notif">
@@ -142,6 +179,28 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
     <!-- SCROLL LINK END -->
 
     <!-- MODALS START -->
+
+    <div class="modal" id="modalTheme">
+        <div class="modal-spacing">
+            <div class="modal-inner">
+                <form method="dialog" class="header">
+                    <button onclick="closeDialog('modalTheme')" class="back">
+                        <i class="ri-close-line"></i>
+                    </button>
+                    <div class="label"><span>Change Theme</span></div>
+                </form>
+                <div class="content">
+                    {# <div class="desc">
+                        Choose a theme below.
+                    </div> #}
+                    <button onclick="setThemeDevice(); closeDialog('modalTheme');" class="button button-wide">System</button>
+                    <button onclick="setThemeLight(); closeDialog('modalTheme');" class="button button-wide">Light</button>
+                    <button onclick="setThemeDark(); closeDialog('modalTheme');" class="button button-wide">Dark</button>
+                    {# <button onclick="closeDialog('modalTheme')" class="button button-wide">Close</button> #}
+                </div>
+            </div>
+        </div>
+    </div>
 
     <div class="modal" id="modalVerified">
         <div class="modal-spacing">
@@ -232,6 +291,8 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
             <a href="/podcast/" class="mobile-item"><i class="ri-mic-fill"></i> Podcast</a>
             <a href="/quizzes/" class="mobile-item"><i class="ri-question-fill"></i> Quizzes</a>
             <a href="/categories/" class="mobile-item"><i class="ri-price-tag-3-fill"></i> Categories</a>
+            <div class="divider"></div>
+            <div class="mobile-item" onclick="openDialog('modalTheme')"><i class="ri-paint-fill"></i> Change Theme</div>
             <a href="/search/" class="mobile-item" style="margin-top: auto; display: flex; align-items: center; gap: 5px;"><div class="button button-wide" style="margin-top: 0;"><i class="ri-search-line"></i> Search</div></a>
         </div>
     </div>
@@ -435,8 +496,39 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
                 <div class="right">
                     <div class="items">
                         {# <i class="ri-menu-line menu" id="open" onclick="openMobile()" onkeydown="if (event.keyCode === 13) {openMobile()}" tabindex="0"></i> #}
-                        <a class="ri-search-line item-icon hide-on-phone" href="/search/"></a>
+                        <a class="ri-search-line item-icon" href="/search/"></a>
+                        <div class="ri-paint-fill item-icon" onclick="openDialog('modalTheme')"></div>
+
+                        {# <div class="dropdown">
+                            <div class="ri-paint-fill dropdown-action item-icon"></div>
+                            <div class="dropdown-menu">
+                                <div class="dropdown-menu-item" onclick="setThemeDevice()"><i class="ri-settings-3-line"></i> System</div>
+                                <div class="dropdown-menu-item" onclick="setThemeLight()"><i class="ri-sun-line"></i> Light</div>
+                                <div class="dropdown-menu-item" onclick="setThemeDark()"><i class="ri-moon-line"></i> Dark</div>
+                            </div>
+                        </div> #}
+
+                        {# <script>
+                            var bod = document.getElementById("body");
+                            function setThemeDevice() {
+                                barn.set("theme", "system");
+                                body.classList.remove("light");
+                                body.classList.remove("dark");
+                            }
+                            function setThemeLight() {
+                                barn.set("theme", "light");
+                                body.classList.add("light");
+                                body.classList.remove("dark");
+                            }
+                            function setThemeDark() {
+                                barn.set("theme", "dark");
+                                body.classList.add("dark");
+                                body.classList.remove("light");
+                            }
+                        </script> #}
+
                         <a href="/contribute/" class="button"><span>Contribute</span><i class="ri-edit-2-fill"></i></a>
+
                         {# <a href="/blue/" class="button">Subscribe</a> #}
                     </div>
                 </div>
@@ -559,8 +651,6 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
     <!-- FOOTER END -->
 
     <!-- SCRIPTS START -->
-    <!-- Barn.js (for easy working with localstorage) -->
-    <script type="text/javascript" src="/assets/js/barn.js"></script>
 
     <!-- Notif ( https://stackoverflow.com/a/20505898 ) -->
     {# Dev #}
@@ -724,6 +814,46 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
         onClick: function(){} // Callback after click
         }).showToast();
     }
+    </script>
+
+    <!-- Drop downs -->
+    <script>
+        // https://webdesign.tutsplus.com/tutorials/create-a-reusable-dropdown-component-with-javascript--cms-93498
+        class Dropdown {
+            constructor() {
+                this.dropdowns = document.querySelectorAll('.dropdown .dropdown-menu')
+                if (this. dropdowns.length) {
+                this.initialize();
+                }
+            }
+            initialize() {
+                document.addEventListener('click', (e) => {
+                    if (e.target.classList.contains('dropdown-action')) {
+                        this.hideOtherDropdowns(e.target);
+                        this.handleClick(e.target);
+                    } else {
+                        this.hideOtherDropdowns(null);
+                    }
+                });
+            }
+            handleClick(dropdownAction) {
+                this. dropdowns.forEach(dropdown => {
+                if (dropdown.parentElement.contains(dropdownAction)) {
+                    dropdown.classList.add('active');
+                } else {
+                    dropdown.classList.remove('active');
+                }
+                })
+            }
+            hideOtherDropdowns(dropdownAction) {
+                this.dropdowns.forEach((dropdown) => {
+                if (!dropdown.parentElement.contains(dropdownAction)) {
+                    dropdown.classList.remove('active');
+                }
+                });
+            }
+        }
+        document.addEventListener('DOMContentLoaded', () => new Dropdown);
     </script>
 
     <!-- Tingle -->

@@ -35,6 +35,19 @@ Designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Baill
     }
 }
 
+body.light {
+    --bg: white;
+    --bg-dim: rgb(238, 238, 238);
+    --print: black;
+    --grey: rgba(192, 192, 192, 0.596);
+}
+
+body.dark {
+    --bg: rgb(31, 33, 36);
+    --bg-dim: rgb(42, 45, 49);
+    --print: rgb(255, 255, 255);
+    --grey:rgba(78, 78, 78, 0.596);
+}
 
 /* CSS Reset */
 
@@ -120,8 +133,9 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 60px;
+    width: 40px;
     font-size: 1.25rem;
+    cursor: pointer;
 }
 
 a.logo {
@@ -242,7 +256,7 @@ a.item:hover {
     transition: opacity 0.25s ease;
 }
 
-a.mobile-item {
+.mobile-item {
     font-weight: bold;
     font-size: 1.25rem;
     padding: 20px;
@@ -252,13 +266,13 @@ a.mobile-item {
     gap: 10px;
 }
 
-a.mobile-item i {
+.mobile-item i {
     color: var(--primary);
     font-size: 1.3rem;
     font-weight: normal;
 }
 
-a.mobile-item .button i {
+.mobile-item .button i {
     color: inherit;
     font-size: inherit;
     font-weight: inherit;
@@ -740,6 +754,7 @@ a.mobile-item .button i {
     outline: none;
     border: 1px solid var(--grey);
     color: var(--print);
+    background-color: var(--bg);
 }
 
 .result-title a {
@@ -1351,6 +1366,20 @@ h2 .header-anchor {
     cursor: pointer;
 }
 
+@media (prefers-color-scheme: dark) {
+    .article a, .link {
+        color: rgb(59, 144, 255);
+    }
+}
+
+body.light .article a, body.light .link {
+    color: rgb(0, 89, 255);
+}
+
+body.dark .article a, body.dark .link {
+    color: rgb(59, 144, 255);
+}
+
 .article hr {
     border: solid 0px transparent;
     background-color: var(--grey);
@@ -1595,6 +1624,55 @@ details[open] .details-icon.ri-add-line:before {
     margin-bottom: 15px;
     font-size: 1.2rem;
     text-align: center;
+}
+
+/* Drop downs */
+
+.dropdown {
+    cursor: pointer;
+    transition: background-color 0.25s ease;
+    z-index: 952;
+    display: flex;
+    align-items: center;
+}
+
+.dropdown-action {
+    height: 100%;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    /* transform-origin: bottom; */
+    width: 150px;
+    background-color: var(--bg);
+    border-radius: var(--edge);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    overflow: hidden;
+    transform: translate(-110px, 65px);
+}
+
+.dropdown-menu .dropdown-menu-item {
+    padding: 15px;
+    border-bottom: 1px solid var(--grey);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    transition: background-color 0.25s ease;
+    font-size: 1rem;
+}
+
+.dropdown-menu .dropdown-menu-item:hover {
+    background-color: rgba(150, 150, 150, 0.15);
+}
+
+.dropdown-menu .dropdown-menu-item:last-child {
+    border-bottom: 0px;
+}
+
+.dropdown-menu.active {
+    display: block;
+    z-index: 900;
 }
 
 /* Panel */
@@ -1860,6 +1938,10 @@ details[open] .details-icon.ri-add-line:before {
     display: none;
 }
 
+.navbar .button {
+    margin-left: 10px;
+}
+
 .navbar .button i {
     display: none;
 }
@@ -2062,5 +2144,11 @@ details[open] .details-icon.ri-add-line:before {
     
     h2 .header-anchor {
         transform: translateX(-18px) translateY(5px);
+    }
+    .navbar .button {
+        margin-left: 0px;
+    }
+    .navbar .ri-paint-fill, .navbar .ri-search-line {
+        display: none;
     }
 }
