@@ -118,7 +118,7 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
 <body onmouseleave="beforeLeave();" id="body">
 
     <script>
-        window.onload = function() {
+        window.onload = async function() {
             console.log("Detected Theme: " + barn.get("theme"));
             if (barn.get("theme") == "system") {
                 setThemeDevice();
@@ -134,17 +134,17 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
 
     <script>
         var bod = document.getElementById("body");
-        function setThemeDevice() {
+        async function setThemeDevice() {
             barn.set("theme", "system");
             body.classList.remove("light");
             body.classList.remove("dark");
         }
-        function setThemeLight() {
+        async function setThemeLight() {
             barn.set("theme", "light");
             body.classList.add("light");
             body.classList.remove("dark");
         }
-        function setThemeDark() {
+        async function setThemeDark() {
             barn.set("theme", "dark");
             body.classList.add("dark");
             body.classList.remove("light");
