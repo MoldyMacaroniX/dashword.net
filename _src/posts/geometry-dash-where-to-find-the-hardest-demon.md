@@ -27,7 +27,7 @@ This guide will go over how to find and use the Geometry Dash Demon List.
 
 # What Is The Geometry Dash Demon List?
 
-The [Geometry Dash Demon List](posts/geometry-dash-levels-top-10-hardest-extreme-demons-2022/) is the most popular ranking of the hardest Geometry Dash levels. It is run by top Geometry Dash players and ranks the difficulty of extreme demons to determine the [top 1 hardest level ever made](/posts/geometry-dash-levels-what-is-the-hardest-level-ever-made/).
+The [Geometry Dash Demon List](/posts/geometry-dash-levels-top-10-hardest-extreme-demons-2022/) is the most popular ranking of the hardest Geometry Dash levels. It is run by top Geometry Dash players and ranks the difficulty of extreme demons to determine the [top 1 hardest level ever made](/posts/geometry-dash-levels-what-is-the-hardest-level-ever-made/).
 
 # How To View The Geometry Dash Demon List
 
