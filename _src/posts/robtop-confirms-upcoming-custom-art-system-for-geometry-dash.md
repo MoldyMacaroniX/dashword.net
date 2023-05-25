@@ -11,7 +11,7 @@ tags:
   - news
   - "2.2"
 author: moldymacaronix
-image: https://media.discordapp.net/attachments/392087938239954950/1111438069262991420/image.png?width=1195&height=675
+image: https://i.imgur.com/ZNaTKaf.png
 imageSource: https://twitter.com/RobTopGames/status/1661817367603683330
 affiliateLinks: false
 hideAds: false
