@@ -714,6 +714,10 @@ a.item:hover {
 
 .comments {
     display: none;
+    background-color: var(--white);
+    border-radius: var(--edge);
+    padding: 10px;
+    margin-top: 20px;
 }
 
 .comments-show {
@@ -1072,7 +1076,7 @@ h1.heading {
     display: flex;
     transition: color 0.25s ease;
     text-transform: capitalize;
-    color: var(--print);
+    color: var(--print) !important;
     text-decoration: none;
     height: fit-content;
 }
@@ -1092,7 +1096,7 @@ h1.heading {
 }
 
 .rec .title:hover {
-    color: var(--primary);
+    color: var(--primary) !important;
 }
 
 .rec-title {
