@@ -1,5 +1,5 @@
 ---
-pageSlug: 1-vs-1000000-object-level-in-geometry-dash
+pageSlug: 1-vs-1-million-object-level-in-geometry-dash
 title: 1 VS 1,000,000 Object Level In Geometry Dash!
 desc: In this video, we make and compare levels starting from 1 object, all the
   way to 1 million objects. You can watch the video on YouTube now.
