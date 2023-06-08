@@ -1,6 +1,6 @@
 ---
 pageSlug: final-geometry-dash-2-2-sneak-peek-released-by-robtop-games
-title: Final Geometry Dash 2.2 Sneak Peek Released By RobTop Games
+title: Geometry Dash 2.2 Sneak Peek 3 Released By RobTop Games
 desc: RobTop Games released the third and final Geometry Dash 2.2 sneak peek on
   May 15, 2023. It makes heavy use of a new sound effect trigger.
 date: 2023-05-16T07:23:43.519Z
