@@ -14,7 +14,7 @@ imageSource: https://youtu.be/zjGTwetDPzE
 affiliateLinks: false
 hideAds: false
 ---
-A new top Geometry Dash extreme demon was verified by Zoink on June 7, 2023, called Tunnel of Despair. Made by Exen and ImMaxX1, it is heavily wave focused according to one source.
+A new top Geometry Dash extreme demon was verified by Zoink on June 7, 2023, called Tunnel of Despair. Made by Exen and ImMaxX1, it is heavily wave focused, according to one source.
 
 According to Zoink, it might place in the top 20-30 on the [Pointercrate Demon List, the most popular ranking of Geometry Dash's hardest levels](/posts/geometry-dash-demon-list-where-to-find-the-hardest-demons/). According to Exen and ImMaxX1, it is a [top 10 hardest level in Geometry Dash](/posts/geometry-dash-levels-top-10-hardest-extreme-demons-2022/).
 
