@@ -4,7 +4,7 @@ title: Geometry Dash Top 10 Hardest Demon "Tunnel Of Despair" Verified
 desc: A new top Geometry Dash extreme demon was verified by Zoink on June 7,
   2023, called Tunnel of Despair. Made by Exen and ImMaxX1, it is heavily wave
   focused according to one source.
-date: 2023-06-08T07:24:55.386Z
+date: 2023-06-09T23:27:36.008Z
 tags:
   - news
   - demonlist
