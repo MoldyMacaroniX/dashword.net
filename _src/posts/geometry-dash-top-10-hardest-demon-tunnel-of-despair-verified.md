@@ -20,4 +20,4 @@ According to Zoink, it might place in the top 20-30 on the [Pointercrate Demon L
 
 I personally see this as a top 15-20 hardest demon, but take that with a grain of salt as I am not a skilled player.
 
-Its decoration is styled like Unknown, a parricular grey extreme demon, but Tunnel of Despair mixes in a bit of red. It looks cool and has some good sync. While probably not the best extreme demon, it is certainly [worthy of being rated by RobTop](/posts/geometry-dash-levels-how-to-make-a-featured-level-2022/).
+Its decoration is styled like Unknown, a particularly grey extreme demon, but Tunnel of Despair mixes in a bit of red. It looks cool and has some good sync. While probably not the best extreme demon, it is certainly [worthy of being rated by RobTop](/posts/geometry-dash-levels-how-to-make-a-featured-level-2022/).
