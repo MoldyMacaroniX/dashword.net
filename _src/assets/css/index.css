@@ -1454,6 +1454,23 @@ body.dark .article a, body.dark .link {
     margin: 12px 0;
 }
 
+@media (prefers-color-scheme: dark) {
+    .alert {
+        color: rgb(59, 144, 255);
+        border-bottom: 2px solid rgb(59, 144, 255);
+    }
+}
+
+body.light .alert {
+    color: var(--primary);
+    border-bottom: 2px solid var(--primary);
+}
+
+body.dark .alert {
+    color: rgb(59, 144, 255);
+    border-bottom: 2px solid rgb(59, 144, 255);
+}
+
 /* Percent */
 
 .percent {
