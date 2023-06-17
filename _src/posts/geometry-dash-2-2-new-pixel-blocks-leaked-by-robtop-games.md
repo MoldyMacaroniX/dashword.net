@@ -6,6 +6,7 @@ date: 2023-06-17T08:47:28.120Z
 tags:
   - news
   - "2.2"
+  - featured
 author: moldymacaronix
 image: https://i.imgur.com/VILQyWO_d.webp?maxwidth=1520&fidelity=grand
 imageSource: https://imgur.com/a/32n8G3i
