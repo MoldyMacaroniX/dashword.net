@@ -13,3 +13,11 @@ affiliateLinks: false
 hideAds: false
 ---
 a
+
+![Geometry Dash 2.2 new lava blocks.](https://i.imgur.com/HSSptfi_d.webp?maxwidth=760&fidelity=grand)
+
+[Image Source](https://imgur.com/HSSptfi)
+
+![Geometry Dash 2.2 new castle blocks.](https://i.imgur.com/VILQyWO_d.webp?maxwidth=1520&fidelity=grand)
+
+[Image Source](https://imgur.com/a/32n8G3i)
