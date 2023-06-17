@@ -57,7 +57,7 @@ With even RobTop himself struggling to code this feature, it is clear why it too
 
 ![Geometry Dash 2.2 Reverse Trigger Tutorial](https://i.ytimg.com/vi/WHSKYsxN8Vs/maxresdefault.jpg)
 
-*Image credit:[SiriusK76](https://youtu.be/WHSKYsxN8Vs).*
+*Image credit[SiriusK76](https://youtu.be/WHSKYsxN8Vs).*
 
 Like the arrow trigger, this trigger allows the player to move in directions not previously possible. Specifically, it can make the player move in the reverse direction.
 
