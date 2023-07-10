@@ -1,12 +1,14 @@
 ---
-title: "Will Geometry Dash 2.2 be released on 2/22/22?"
-desc: "In this Geometry Dash 2.2 theory, I'll try to find out if RobTop will release 2.2 on 2/22/22!"
-image: https://i1.wp.com/www.game-monster.com/wp-content/uploads/2021/08/geometry-dash-2-2-sneak-peek-1.jpg?resize=600%2C338&ssl=1
+title: Will Geometry Dash 2.2 be released on 2/22/22?
+desc: In this Geometry Dash 2.2 theory, I'll try to find out if RobTop will
+  release 2.2 on 2/22/22!
 date: 2022-01-25
 tags:
-    - theory
-    - "2.2"
+  - theory
+  - "2.2"
 author: cob
+image: https://i.ytimg.com/vi/LqP089zwp_w/maxresdefault.jpg
+imageSource: https://youtu.be/LqP089zwp_w
 ---
 
 The long awaited Geometry Dash 2.2 update has been previewed for up to 5 years at this point, which is absolutely crazy to think about! Anyhow, in August of 2021, RobTop announced that he would be premiering a 2.2 sneak peek after nearly 1 and a half years. He announced it on Geometry Dash's 8th birthday, as a special thanks to the community. This came out of nowhere, and had the community at it's tiptoes. However, we haven't had a 2.2 release since then.
