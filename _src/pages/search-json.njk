@@ -9,7 +9,8 @@ layout: false
       "url":"{{ post.url }}",
       "author":"{{ post.data.author }}",
       "content":"{{ post.data.desc }}",
-      "tags":"{% for tag in post.data.tags %}{{ tag }} {% endfor %}"
+      "tags":"{% for tag in post.data.tags %}{{ tag }} {% endfor %}",
+      "image":"{{ post.data.image}}"
    }{% if not loop.last %},{% endif %}
    {% endfor %} 
 ]

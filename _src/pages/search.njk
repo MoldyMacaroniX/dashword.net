@@ -25,8 +25,18 @@ hasModal: true
             {# <h1 class="title" style="margin-bottom: 20px; margin-top: 25px;">Results</h1> #}
             <div class="search-results" id="results">
                 <div v-for="result in results" class="search-result">
-                    <p class="result-title"><a :href="result.url"><span v-html="result.title"></span></a></p>
-                    <p class="result-desc"><a :href="result.url"><span v-html="result.content"></span></a></p>
+                    <div class="cols">
+                        <a class="image">
+                            <div class="aspect">
+                                <img :src="result.image" :alt="result.title">
+                            </div>
+                        </a>
+                        <div class="col">
+                            <p class="result-title"><a :href="result.url"><span v-html="result.title"></span></a></p>
+                            <p class="result-desc"><a :href="result.url"><span v-html="result.content"></span></a></p>
+                            {# <p class="result-desc"><a :href="result.url"><span v-html="result.image"></span></a></p> #}
+                        </div>
+                    </div>
                 </div>
             </div>
             <div v-if="noResults" class="article">
@@ -62,6 +72,7 @@ const app = new Vue({
             this.ref('id');
             this.field('title');
             this.field('content');
+            this.field('image');
             this.field('tags');
             this.field('author');
             docs.forEach(function (doc, idx) {
@@ -88,6 +99,7 @@ const app = new Vue({
                     r.title = this.docs[r.ref].title;
                     r.url = this.docs[r.ref].url;
                     r.content = this.docs[r.ref].content;
+                    r.image = this.docs[r.ref].image;
                 });
                 this.results = results;
             } else {
