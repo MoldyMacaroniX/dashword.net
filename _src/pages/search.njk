@@ -26,11 +26,11 @@ hasModal: true
             <div class="search-results" id="results">
                 <div v-for="result in results" class="search-result">
                     <div class="cols">
-                        <a class="image">
+                        <!--<a class="image">
                             <div class="aspect">
                                 <img :src="result.image" :alt="result.title">
                             </div>
-                        </a>
+                        </a>-->
                         <div class="col">
                             <p class="result-title"><a :href="result.url"><span v-html="result.title"></span></a></p>
                             <p class="result-desc"><a :href="result.url"><span v-html="result.content"></span></a></p>
