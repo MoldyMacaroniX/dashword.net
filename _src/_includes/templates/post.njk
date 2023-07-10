@@ -27,7 +27,7 @@ layout: base.njk
 <div class="article-meta">
 	{% if author %}{% set myAuthor = authors | getAuthor(author) %}By <a class="article-meta-author" href="/authors/{{ myAuthor.key }}">{{ myAuthor.name }}</a>{% else %}Posted{% endif %} on <span class="article-meta-date">{% if date %}{{ date | readableDate }}{% else %}[no post publish date provided]{% endif %}</span>{% if tags %} in <span class="article-meta-date">{% for tag in tags %} <a href="/categories/{{ tag | slug }}/">{{ tag | capitalize }}</a>{% endfor %}</span>{% endif %}.
 </div>
-<!-- AddToAny BEGIN -->
+{# <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style" style="margin-top: 20px;">
 <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
 <a class="a2a_button_facebook"></a>
@@ -38,7 +38,7 @@ layout: base.njk
 <a class="a2a_button_mastodon"></a>
 </div>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<!-- AddToAny END -->
+<!-- AddToAny END --> #}
 {% endif %}
 
 {# {% if approved %}
