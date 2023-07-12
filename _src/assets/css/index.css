@@ -15,6 +15,7 @@ Designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Baill
     --white: white;
     --black: black;
     --primary: rgb(0, 103, 238); /* OG: rgb(45,136,255) */
+    --link: rgb(0, 103, 238);
 
     /* Spacing valyes */
     --gap: 25px;
@@ -32,6 +33,7 @@ Designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Baill
         --bg-dim: rgb(42, 45, 49);
         --print: rgb(255, 255, 255);
         --grey:rgba(78, 78, 78, 0.596);
+        --link: rgb(59, 144, 255);
     }
 }
 
@@ -40,6 +42,7 @@ body.light {
     --bg-dim: rgb(238, 238, 238);
     --print: black;
     --grey: rgba(192, 192, 192, 0.596);
+    --link: rgb(0, 103, 238);
 }
 
 body.dark {
@@ -47,6 +50,7 @@ body.dark {
     --bg-dim: rgb(42, 45, 49);
     --print: rgb(255, 255, 255);
     --grey:rgba(78, 78, 78, 0.596);
+    --link: rgb(59, 144, 255);
 }
 
 /* CSS Reset */
@@ -467,7 +471,7 @@ a.item:hover {
 }
 
 .featured-side .title:hover, .post .title:hover, .post-sidebar .title:hover, .author-preview:hover, .tag-preview:hover {
-    color: var(--primary);
+    color: var(--link);
 }
 
 .author-preview.author-no-posts:hover {
@@ -771,7 +775,7 @@ a.item:hover {
 }
 
 .result-title a:hover {
-    color: var(--primary);
+    color: var(--link);
 }
 
 .result-desc a {
@@ -938,7 +942,7 @@ h1.heading {
 }
 
 .gallery-item .title:hover {
-    color: var(--primary);
+    color: var(--link);
 }
 
 /* Post Grid */
@@ -962,7 +966,7 @@ h1.heading {
 }
 
 .post-grid .title:hover {
-    color: var(--primary);
+    color: var(--link);
 }
 
 .post-grid .meta {
@@ -1030,7 +1034,7 @@ h1.heading {
 }
 
 .rec-float .title:hover {
-    color: var(--primary);
+    color: var(--link);
 }
 
 .rec-float .rclose {
@@ -1096,7 +1100,7 @@ h1.heading {
 }
 
 .rec .title:hover {
-    color: var(--primary) !important;
+    color: var(--link) !important;
 }
 
 .rec-title {
@@ -1160,7 +1164,7 @@ h1.heading {
 }
 
 .flash-news a:hover {
-    color: var(--primary);
+    color: var(--link);
 }
 
 .flash-news a span {
@@ -1365,23 +1369,9 @@ h2 .header-anchor {
 }
 
 .article a, .link {
-    color: rgb(0, 89, 255);
+    color: var(--link);
     text-decoration: underline;
     cursor: pointer;
-}
-
-@media (prefers-color-scheme: dark) {
-    .article a, .link {
-        color: rgb(59, 144, 255);
-    }
-}
-
-body.light .article a, body.light .link {
-    color: rgb(0, 89, 255);
-}
-
-body.dark .article a, body.dark .link {
-    color: rgb(59, 144, 255);
 }
 
 .article hr {
@@ -1441,8 +1431,8 @@ body.dark .article a, body.dark .link {
 .alert {
     display: flex !important;
     gap: 15px;
-    color: var(--primary);
-    border-bottom: 2px solid var(--primary);
+    color: var(--link);
+    border-bottom: 2px solid var(--link);
     margin-top: -10px;
 }
 
@@ -1452,23 +1442,6 @@ body.dark .article a, body.dark .link {
     display: flex;
     /* align-items: center; */
     margin: 12px 0;
-}
-
-@media (prefers-color-scheme: dark) {
-    .alert {
-        color: rgb(59, 144, 255);
-        border-bottom: 2px solid rgb(59, 144, 255);
-    }
-}
-
-body.light .alert {
-    color: var(--primary);
-    border-bottom: 2px solid var(--primary);
-}
-
-body.dark .alert {
-    color: rgb(59, 144, 255);
-    border-bottom: 2px solid rgb(59, 144, 255);
 }
 
 /* Percent */
@@ -1856,7 +1829,7 @@ details[open] .details-icon.ri-add-line:before {
 }
 
 .modal .desc a, .modal .desc .link {
-    color: var(--primary);
+    color: var(--link);
     text-decoration: underline;
 }
 
