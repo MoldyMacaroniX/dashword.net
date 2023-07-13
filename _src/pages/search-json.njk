@@ -4,13 +4,16 @@ layout: false
 ---
 [
    {% for post in collections.posts %}
+   {% set myAuthor = authors | getAuthor(post.data.author) %}
    {
       "title":"{{ post.data.title }}",
       "url":"{{ post.url }}",
-      "author":"{{ post.data.author }}",
+      "author":"{{ myAuthor.name }}",
+      "authorKey":"/authors/{{ myAuthor.key }}/",
       "content":"{{ post.data.desc }}",
-      "tags":"{% for tag in post.data.tags %}{{ tag }} {% endfor %}",
-      "image":"{{ post.data.image}}"
+      "tags":"{% for tag in post.data.tags %} <a href='/categories/{{ tag | slug }}/'>{{ tag | capitalize }}</a>{% endfor %} <i class='ri-price-tag-3-line'></i>",
+      "image":"{{ post.data.image | safe }}",
+      "date":"{{ post.data.date | readableDate }}"
    }{% if not loop.last %},{% endif %}
    {% endfor %} 
 ]

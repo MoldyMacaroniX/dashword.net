@@ -10,6 +10,23 @@ hasModal: true
 
 <!-- SEARCH -->
 <script src="https://unpkg.com/lunr/lunr.js"></script>
+<!-- PAGINATE SEARCH RESULTS -->
+<script src="/assets/js/purePajinate.js"></script>
+
+<style>
+    .page_navigation ul {
+        display: flex;
+        gap: 25px;
+        justify-content: space-between;
+        margin-top: 25px;
+    }
+    .page_navigation ul li {
+        list-style-type: none;
+    }
+    .page_navigation ul .ellipse {
+        display: none !important;
+    }
+</style>
 
 <div class="search-bg" id="search-menu-bg"></div>
 <div class="search" id="search-menu">
@@ -25,20 +42,39 @@ hasModal: true
             {# <h1 class="title" style="margin-bottom: 20px; margin-top: 25px;">Results</h1> #}
             <div class="search-results" id="results">
                 <div v-for="result in results" class="search-result">
-                    <div class="cols">
-                        <!--<a class="image">
+                    {# <div class="cols">
+                        <a class="image">
                             <div class="aspect">
-                                <img :src="result.image" :alt="result.title">
+                                <img :src="result.image" :alt="result.title" loading="lazy">
                             </div>
-                        </a>-->
+                        </a>
                         <div class="col">
                             <p class="result-title"><a :href="result.url"><span v-html="result.title"></span></a></p>
                             <p class="result-desc"><a :href="result.url"><span v-html="result.content"></span></a></p>
-                            {# <p class="result-desc"><a :href="result.url"><span v-html="result.image"></span></a></p> #}
+                        </div>
+                    </div> #}
+                    <div class="post cols">
+                        <a class="image" :href="result.url">
+                            <div class="aspect">
+                                <img :src="result.image" :alt="result.title" loading="lazy">
+                            </div>
+                        </a>
+                        <div class="content col">
+                            <a :href="result.url" class="title" style="text-transform: capitalize" v-html="result.title"></a>
+                            <a :href="result.url" class="desc" v-html="result.content"></a>
+                            <span class="meta">
+                                <a :href="result.authorKey" class="author"><span v-html="result.author"></span> <i class="ri-user-3-line"></i></a> <a :href="result.url" class="date"><span v-html="result.date"></span> <i class="ri-time-line"></i></a> <span class="tags" v-html="result.tags"></span>
+                            </span>
                         </div>
                     </div>
+                    {# aa #}
                 </div>
             </div>
+            <div class="page_navigation"></div>
+            {# <div>
+                <div><a href="/posts/" class="button"><i class="ri-arrow-left-line"></i> Previous</a></div>
+                <div><a href="/posts/3/" class="button">Next <i class="ri-arrow-right-line"></i></a></div>
+            </div> #}
             <div v-if="noResults" class="article">
                 {# <p>Sorry, no results were found. You can try the following.</p>
                 <ul>
@@ -72,9 +108,11 @@ const app = new Vue({
             this.ref('id');
             this.field('title');
             this.field('content');
+            this.field('date');
             this.field('image');
             this.field('tags');
             this.field('author');
+            this.field('authorKey');
             docs.forEach(function (doc, idx) {
                 doc.id = idx;
                 this.add(doc); 
@@ -98,8 +136,12 @@ const app = new Vue({
                 results.forEach(r => {
                     r.title = this.docs[r.ref].title;
                     r.url = this.docs[r.ref].url;
+                    r.tags = this.docs[r.ref].tags;
+                    r.date = this.docs[r.ref].date;
                     r.content = this.docs[r.ref].content;
                     r.image = this.docs[r.ref].image;
+                    r.author = this.docs[r.ref].author;
+                    r.authorKey = this.docs[r.ref].authorKey;
                 });
                 this.results = results;
             } else {
@@ -133,4 +175,54 @@ function openMe() {
     //modal.open();
     openDialog("modalSearch");
 }
+</script>
+
+{# PAGINATION #}
+<script>
+
+    let mList = document.getElementById('app'),
+    options = {
+        childList: true
+    },
+    observer = new MutationObserver(mCallback);
+    function mCallback(mutations) {
+        for (let mutation of mutations) {
+            if (mutation.type === 'childList') {
+                console.log('Mutation Detected: A child node has been added or removed.');
+                testPag();
+            }
+        }
+    }
+    observer.observe(mList, options);
+    
+    function testPag () {
+        try {
+            new purePajinate ({
+                pageLinksToDisplay: 0,
+                itemsPerPage: 10,
+                containerSelector: '#results',
+                itemSelector: '.search-result',
+                navigationSelector: '.page_navigation',
+                defaultClass: '',
+                activeClass: "active",
+                disabledClass: "disabled",
+                navLabelPrev: '<i class="ri-arrow-left-line"></i> Previous',
+                navLabelNext: 'Next <i class="ri-arrow-right-line"></i>'
+            });
+        } catch (error) {
+            console.log("smth went wrong");
+        }
+        // document.querySelectorAll(".page_navigation ul li a").addEventListener("click", topScreen);
+        document.querySelectorAll('.page_navigation ul li a').forEach(link => {
+            link.addEventListener('click', (e) => {
+                console.log('Page changed!');
+                document.querySelector("html").style.scrollBehavior = "auto";
+                setTimeout(function() {
+                    window.scrollBy(0, -2000);
+                    document.querySelector("html").style.scrollBehavior = "smooth";
+                }, 0)
+            });
+        });
+    }
+
 </script>

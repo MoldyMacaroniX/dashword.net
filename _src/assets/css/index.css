@@ -346,7 +346,7 @@ a.item:hover {
 
 /* Button */
 
-.button {
+.button, .page_navigation ul li a {
     display: inline-flex;
     align-items: center;
     gap: 5px;
@@ -366,16 +366,16 @@ a.item:hover {
     font-size: var(--font-size);
 }
 
-.button:focus {
+.button:focus, .page_navigation ul li a:focus {
     outline: var(--primary) 3px solid;
     outline-offset: 2px;
 }
 
-.button-selected {
+.button-selected, .page_navigation ul li.disabled a {
     opacity: 0.50;
 }
 
-.button-selected:focus {
+.button-selected:focus, .page_navigation ul li.disabled a:focus {
     outline: transparent 0px solid;
     outline-offset: 2px;
 }
@@ -600,7 +600,7 @@ a.item:hover {
 
 /* Post */
 
-.post, .search-result {
+.post {
     margin-top: 25px;
 }
 
@@ -786,9 +786,9 @@ a.item:hover {
     line-height: 1.5;
 }
 
-.results {
+/* .results {
     margin-top: 25px;
-}
+} */
 
 /* Heading */
 
