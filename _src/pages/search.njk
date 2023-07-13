@@ -180,6 +180,8 @@ function openMe() {
 {# PAGINATION #}
 <script>
 
+    var checkNew = true;
+
     let mList = document.getElementById('app'),
     options = {
         childList: true
@@ -223,6 +225,30 @@ function openMe() {
                 }, 0)
             });
         });
+        if (document.getElementById("results").childElementCount < 11) {
+            console.log("Not enough elements for pagination");
+            document.querySelector(".previous_link").classList.add("disabled");
+        }
+        if (checkNew) {
+            checkForNewResults();
+        }
+    }
+    function checkForNewResults() {
+        checkNew = false;
+        let nList = document.getElementById('results'),
+        option = {
+            childList: true
+        },
+        observer2 = new MutationObserver(mCallback);
+        function mCallback(mutations) {
+            for (let mutation of mutations) {
+                if (mutation.type === 'childList') {
+                    console.log('Mutation Detected: A child node has been added or removed.');
+                    testPag();
+                }
+            }
+        }
+        observer2.observe(nList, option);
     }
 
 </script>
