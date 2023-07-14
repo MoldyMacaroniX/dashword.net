@@ -371,7 +371,7 @@ a.item:hover {
     outline-offset: 2px;
 }
 
-.button-selected, .page_navigation ul li.disabled a {
+.button-selected, .page_navigation ul li.disabled a, .button:disabled {
     opacity: 0.50;
 }
 

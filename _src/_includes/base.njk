@@ -240,6 +240,53 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
         </div>
     </div>
 
+    <div class="modal" id="modalSearchExt">
+        <div class="modal-spacing">
+            <div class="modal-inner">
+                <form method="dialog" class="header">
+                    <button onclick="closeDialog('modalSearchExt')" class="back" type='button'>
+                        <i class="ri-close-line"></i>
+                    </button>
+                    <div class="label"><span>Search</span></div>
+                </form>
+                <div class="content">
+                    {# <div class="desc">
+                        Search:
+                    </div> #}
+                    <div class="search">
+                        <form onsubmit="return false" style="margin-top: 0; flex-direction: column;">
+                            <div style="display: flex; gap: 15px; align-items: center; width: 100%;">
+                                <input placeholder="Search anything you want..." value="" id="searchTermMod">
+                                <i class="ri-search-line"></i>
+                            </div>
+                            <button onclick="searchFromMod()" class="button button-wide">Search</button>
+                        </form>
+                    </div>
+                    <div class="alert" id="searchModAlert" style="display: none !important; margin-bottom: 0;">
+                        <div class="alert-icon">
+                            <i class="ri-information-line"></i>
+                        </div>
+                        <div class="alert-content">
+                            <p>Please include something in the search field in order to search.</p>
+                        </div>
+                    </div>
+                    <script>
+                        function searchFromMod() {
+                            var term = document.getElementById("searchTermMod").value;
+                            console.log(term);
+                            if (term != '') {
+                                window.location.href = "/search/?search=" + term;
+                            } else {
+                                console.log("Not a valid term");
+                                document.getElementById("searchModAlert").style.setProperty("display", "flex", "important");
+                            }
+                        }
+                    </script>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="modal" id="modalLeave">
         <div class="modal-spacing">
             <div class="modal-inner">
@@ -496,7 +543,8 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
                 <div class="right">
                     <div class="items">
                         {# <i class="ri-menu-line menu" id="open" onclick="openMobile()" onkeydown="if (event.keyCode === 13) {openMobile()}" tabindex="0"></i> #}
-                        <a class="ri-search-line item-icon" href="/search/"></a>
+                        {# <a class="ri-search-line item-icon" href="/search/"></a> #}
+                        <div class="ri-search-line item-icon" onclick="openDialog('modalSearchExt')"></div>
                         <div class="ri-paint-fill item-icon" onclick="openDialog('modalTheme')"></div>
 
                         {# <div class="dropdown">

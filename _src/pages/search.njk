@@ -32,12 +32,12 @@ hasModal: true
 <div class="search" id="search-menu">
     <div id="app">
 
-        <form onsubmit="return false">
+        <form onsubmit="return false" id="app-form">
             <input ref="inputField" v-model="term" placeholder="Search anything you want..." id="searchfield" value="">
             <i class="ri-search-line"></i>
-            <button @click="search" class="button" id="searchbtn" ref="Btn">Search</button>
+            <button onclick="app.search();" class="button" id="searchbtn" ref="Btn">Search</button>
         </form>
-
+        {# @click="search" #}
         <div v-if="results" class="results">
             {# <h1 class="title" style="margin-bottom: 20px; margin-top: 25px;">Results</h1> #}
             <div class="search-results" id="results">
@@ -161,12 +161,49 @@ const params = new Proxy(new URLSearchParams(window.location.search), {
 });
 
 let value = params.search; 
+console.log("On load search term: " + value);
 document.getElementById("searchfield").focus();
 document.getElementById("searchfield").select();
 document.getElementById("searchfield").value = value;
-{# this.$refs.Btn.click() #}
+
+var appInt = setInterval(appLoad, 100);
+
+function appLoad() {
+    if (value != null) {
+        try {
+            document.getElementById("searchbtn").click();
+            console.log("App loaded!");
+            clearInterval(appInt);
+        } catch (error) {
+            console.log("App not loaded yet...");
+        }
+    } else {
+        console.log("No search provided on load");
+        clearInterval(appInt);
+    }
+}
+
+{# this.$refs.Btn.click(); #}
 {# app.search(); #}
 {# document.getElementById("searchbtn").click(); #}
+
+{# let oList = document.getElementById('app-form'),
+optiono = {
+    childList: true
+},
+observer3 = new MutationObserver(mCallback);
+function mCallback(mutations) {
+    for (let mutation of mutations) {
+        if (mutation.type === 'childList') {
+            console.log('App loaded!');
+        }
+    }
+}
+observer3.observe(oList, optiono); #}
+
+{# setTimeout(function() {
+    document.getElementById("searchbtn").click();
+}, 1000) #}
 </script>
 
 <script>
