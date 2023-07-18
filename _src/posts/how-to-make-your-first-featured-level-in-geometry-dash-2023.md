@@ -55,7 +55,19 @@ If your level meets all of the above criteria, you are well on your way to makin
 
 # Making Feature Worthy Decoration
 
+## Block design
+
+## Ground spikes
+
+## Air decoration
+
+## Custom background
+
+## Extras
+
 # Uploading Your Level
+
+## Name, description, and tags
 
 ## Sending to mods
 
