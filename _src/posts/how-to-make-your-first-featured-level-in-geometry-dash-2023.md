@@ -59,6 +59,8 @@ Making gameplay is unfortunately only half the battle. Now, we need to start the
 
 In a featured level, the decoration usually consists of block design, ground spikes, air decoration, and a custom background.
 
+See if you can point out these four design elements in the level below!
+
 ![](https://i.imgur.com/3UD93Sm.png)
 
 ## Block design
