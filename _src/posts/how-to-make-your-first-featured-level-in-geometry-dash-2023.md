@@ -25,9 +25,9 @@ This guide will go over how to make a feature worthy level and get it noticed by
 
 # Table of Contents
 
-- [Gameplay]()
-- [Decoration]()
-- [Uploading]()
+- [Gameplay](#making-feature-worthy-gameplay)
+- [Decoration](#making-feature-worthy-decoration)
+- [Uploading](#uploading-your-level)
 
 # Making Feature Worthy Gameplay
 
