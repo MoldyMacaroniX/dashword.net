@@ -61,7 +61,9 @@ In a featured level, the decoration usually consists of block design, ground spi
 
 See if you can point out these four design elements in the level below!
 
-![](https://i.imgur.com/3UD93Sm.png)
+![Plutonic by CreatorMoldy](https://i.imgur.com/3UD93Sm.png)
+
+Here are some tips to make each of the four featured level design elements, as well as some extra details.
 
 ## Block design
 
