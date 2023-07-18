@@ -17,6 +17,8 @@ hideAds: false
 ---
 The Geometry Dash top 2 extreme demon, Avernus, has remained without a victor for nearly 3 months. In fact, it hasn't even got a single qualifying record yet (a record that is 59% or greater).
 
+After being placed on the Demon List on April 23, 2023, Avernus has remained unchallenged by anybody.
+
 Thus far, Zoink is the only person to have beaten the level, being the one who verified it. No one else has even come close, not even being at the required 59% to be shown on the [Pointercrate Demon List](/posts/geometry-dash-demon-list-where-to-find-the-hardest-demons/).
 
 This could mean that **Avernus has a shot at being moved to top 1**, which would make it [the hardest demon in Geometry Dash](/posts/geometry-dash-levels-what-is-the-hardest-level-ever-made/).
