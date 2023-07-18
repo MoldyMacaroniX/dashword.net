@@ -30,3 +30,13 @@ This guide will go over how to make a feature worthy level and get it noticed by
 - [Uploading]()
 
 # Making Feature Worthy Gameplay
+
+# Making Feature Worthy Decoration
+
+# Uploading Your Level
+
+## Sending to mods
+
+---
+
+Conclusion
