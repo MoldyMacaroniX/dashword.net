@@ -39,6 +39,10 @@ The biggest factor that makes a level feature worthy over just star rate worthy 
 
 Having fun gameplay is essential to a level being well recieved. If people don't enjoy playing your level, then it is less likely to be noticed by RobTop.
 
+There are two ways to go about making gameplay for your level: you can make the entire gameplay before decorating it, or you can build gameplay and decorate at the same time.
+
+We recommend building gameplay in "chunks." After building a short chunk of gameplay, decorate it, and repeat.
+
 # Making Feature Worthy Decoration
 
 # Uploading Your Level
