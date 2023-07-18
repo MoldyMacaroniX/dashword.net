@@ -31,6 +31,14 @@ This guide will go over how to make a feature worthy level and get it noticed by
 
 # Making Feature Worthy Gameplay
 
+The biggest factor that makes a level feature worthy over just star rate worthy is **good gameplay**. Gameplay is how the level plays without decoration.
+
+![Layout for the level "Omicron" by Team Proxima.](https://i.ytimg.com/vi/ZlKLqn3e_Zg/maxresdefault.jpg)
+
+*Layout for the level "Omicron" by Team Proxima. Screenshot from [Nexus](https://youtu.be/ZlKLqn3e_Zg).*
+
+Having fun gameplay is essential to a level being well recieved. If people don't enjoy playing your level, then it is less likely to be noticed by RobTop.
+
 # Making Feature Worthy Decoration
 
 # Uploading Your Level
