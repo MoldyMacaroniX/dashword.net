@@ -17,7 +17,9 @@ hideAds: false
 ---
 If you've ever tried to make a featured level in Geometry Dash, you might be confused as to why your levels aren't getting noticed. Fortunately, there is a science to getting your levels featured in Geometry Dash that we hope to share with you here.
 
-In Geometry Dash, there are three ratings a level can get: a regular star rating, a featured rating, and an epic rating. If a level is worthy of a rating, what it gets is hand-picked by the developer, RobTop Games. Fortunately, a featured rating is by far the most common rating levels seen by RobTop obtain.
+In Geometry Dash, there are three ratings a level can get: a regular star rating, a featured rating, and an epic rating. A regular star rating rewards one creator point, a featured rating rewards two, and an epic rating rewards three.
+
+If a level is worthy of a rating, what it gets is hand-picked by the developer, RobTop Games. Fortunately, a featured rating is by far the most common rating levels seen by RobTop obtain.
 
 This guide will go over how to make a feature worthy level and get it noticed by RobTop.
 
