@@ -49,6 +49,7 @@ While there is no one way to make gameplay, we recommend organizing it into part
 - Have a part featuring [every game mode in the game](/posts/full-history-of-geometry-dash-gamemodes-1-0-2-2/)
 - Have each part be around 10-20 seconds long
 - Have the full level be at least 60 seconds long
+- Make sure all gameplay is able to be seen at a distance and not hidden offscreen
 
 If your level meets all of the above criteria, you are well on your way to making a feature worthy level.
 
