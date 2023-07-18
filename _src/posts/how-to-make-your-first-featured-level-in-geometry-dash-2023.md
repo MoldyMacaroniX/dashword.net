@@ -41,7 +41,16 @@ Having fun gameplay is essential to a level being well received. If people don't
 
 There are two ways to go about making gameplay for your level: you can make the entire gameplay before decorating it, or you can build gameplay and decorate at the same time.
 
-We recommend building gameplay in "chunks." After building a short chunk of gameplay, decorate it, and repeat.
+We recommend building gameplay in "parts." After building a part of gameplay, decorate it, and repeat.
+
+While there is no one way to make gameplay, we recommend organizing it into parts. We also suggest that you make your gameplay meet the following guidelines:
+
+- Have each part only use one game mode
+- Have a part featuring [every game mode in the game](/posts/full-history-of-geometry-dash-gamemodes-1-0-2-2/)
+- Have each part be around 10-20 seconds long
+- Have the full level be at least 60 seconds long
+
+If your level meets all of the above criteria, you are well on your way to making a feature worthy level.
 
 # Making Feature Worthy Decoration
 
