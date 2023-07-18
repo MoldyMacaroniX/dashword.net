@@ -55,7 +55,7 @@ If your level meets all of the above criteria, you are well on your way to makin
 
 # Making Feature Worthy Decoration
 
-Making gameplay is unfortunately only half the battle. Now, we need to start the much longer decoration process.
+Making gameplay is unfortunately only half the battle. Now, we need to start the much longer **decoration** process.
 
 In a featured level, the decoration usually consists of block design, ground spikes, air decoration, and a custom background.
 
