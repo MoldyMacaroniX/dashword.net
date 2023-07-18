@@ -55,6 +55,12 @@ If your level meets all of the above criteria, you are well on your way to makin
 
 # Making Feature Worthy Decoration
 
+Making gameplay is unfortunately only half the battle. Now, we need to start the much longer decoration process.
+
+In a featured level, the decoration usually consists of block design, ground spikes, air decoration, and a custom background.
+
+![](https://i.imgur.com/3UD93Sm.png)
+
 ## Block design
 
 ## Ground spikes
@@ -80,3 +86,4 @@ If you are new to Dashword, here are our top hand-picked articles for you to rea
 - [RobTop Confirms Third & Final Geometry Dash 2.2 Release Date](/posts/robtop-confirms-third-and-final-geometry-dash-2-2-release-date/)
 - [Top 1 Geometry Dash Player SpaceUK Exposed For Hacking All His Accomplishments](/posts/top-1-geometry-dash-player-spaceuk-exposed-for-hacking-achievements/)
 - [Free Geometry Dash Demons: 5 Secret Ways To Get Free Demons (2023)](/posts/geometry-dash-5-secret-way-free-demons/)
+- [Geometry Dash Vaults & Secrets: How To Unlock Every Secret Area (2023)](/posts/geometry-dash-all-vaults-and-secrets-2022/)
