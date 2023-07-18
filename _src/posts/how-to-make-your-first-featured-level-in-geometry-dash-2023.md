@@ -52,3 +52,9 @@ We recommend building gameplay in "chunks." After building a short chunk of game
 ---
 
 If you are new to Dashword, here are our top hand-picked articles for you to read next:
+
+- [4 Geometry Dash 2.2 Features That Explain Why The Update Is Taking So Long](/posts/geometry-dash-2-2-features-that-explain-why-the-update-is-taking-so-long/)
+- [5 Must-Have Geometry Dash Mods That You Need Right Now](/posts/5-must-have-geometry-dash-mods-that-you-need-right-now/)
+- [RobTop Confirms Third & Final Geometry Dash 2.2 Release Date](/posts/robtop-confirms-third-and-final-geometry-dash-2-2-release-date/)
+- [Top 1 Geometry Dash Player SpaceUK Exposed For Hacking All His Accomplishments](/posts/top-1-geometry-dash-player-spaceuk-exposed-for-hacking-achievements/)
+- [Free Geometry Dash Demons: 5 Secret Ways To Get Free Demons (2023)](/posts/geometry-dash-5-secret-way-free-demons/)
