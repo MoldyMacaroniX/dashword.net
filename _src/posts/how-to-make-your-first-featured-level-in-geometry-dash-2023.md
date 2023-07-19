@@ -5,7 +5,7 @@ desc: If you've ever tried to make a featured level in Geometry Dash, you might
   be confused as to why your levels aren't getting noticed. Fortunately, there
   is a science to getting your levels featured in Geometry Dash that we hope to
   share with you here.
-date: 2023-07-18T05:09:27.983Z
+date: 2023-07-19T06:45:01.534Z
 tags:
   - guide
   - featured
