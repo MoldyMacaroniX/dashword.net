@@ -265,6 +265,7 @@ function openMe() {
         if (document.getElementById("results").childElementCount < 11) {
             console.log("Not enough elements for pagination");
             document.querySelector(".previous_link").classList.add("disabled");
+            document.querySelector(".next_link").classList.add("disabled");
         }
         if (checkNew) {
             checkForNewResults();
