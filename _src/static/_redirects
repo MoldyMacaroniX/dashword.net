@@ -1,11 +1,13 @@
+# https://johnkavanagh.co.uk/writing/redirect-a-default-netlify-subdomain-to-your-custom-domain/
+
+https://gd-website.netlify.com/*   https://www.dashword.net/:splat   301! 
+
 # Redirects for removed pages/links
 
 /submit-article /contribute/
 /submit-article/ /contribute/
-
 /create-profile /contribute/
 /create-profile/ /contribute/
-
 /handbook/ /contribute/
 /how-to-post-an-article/ /contribute/
 /article-standards/ /contribute/
@@ -13,16 +15,13 @@
 /citing-sources/ /contribute/
 /syntax-components/ /contribute/
 /writing-tips/ /contribute/
-
 /publish-article/ /contribute/
 /author-profile/ /contribute/
 
 # Shortened links
 
-/discord https://discord.gg/SqZuGCpHMm
 /discord/ https://discord.gg/SqZuGCpHMm
 
-/escape-room /posts/escape-room/
 /escape-room/ /posts/escape-room/
 
 /dashword-blue/ https://youtu.be/dQw4w9WgXcQ
