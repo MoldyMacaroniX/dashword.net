@@ -34,6 +34,6 @@ However, player [Zcylix](https://youtu.be/NUrs7ywJ33A) recently proved that the 
 
 Notice the white particles that appear in the right side of the picture where the wave hit the ceiling. That is only possible when the section is made auto using jump pads.
 
-That proves that ToshDeluxe hacked Devil Vortex. As a result, he was banned from the [Demon List]().
+That proves that ToshDeluxe hacked Devil Vortex. As a result, he was banned from the [Demon List](/posts/geometry-dash-demon-list-where-to-find-the-hardest-demons/).
 
 Unlike the [SpaceUK hacking scandal](/posts/top-1-geometry-dash-player-spaceuk-exposed-for-hacking-achievements/), this is not a surprise to many. The community suspected that this level was hacked long before this proof.
