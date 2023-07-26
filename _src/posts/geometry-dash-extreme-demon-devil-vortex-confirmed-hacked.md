@@ -36,4 +36,4 @@ Notice the white particles that appear in the right side of the picture where th
 
 That proves that ToshDeluxe hacked Devil Vortex. As a result, he was banned from the [Demon List]().
 
-Unlike the [SpaceUK hacking scandal](), this is not a surprise to many. The community suspected that this level was hacked long before this proof.
+Unlike the [SpaceUK hacking scandal](/posts/top-1-geometry-dash-player-spaceuk-exposed-for-hacking-achievements/), this is not a surprise to many. The community suspected that this level was hacked long before this proof.
