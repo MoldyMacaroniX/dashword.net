@@ -15,14 +15,16 @@ imageSource: https://youtu.be/iYy_lSewQDg
 affiliateLinks: false
 hideAds: false
 ---
-Tidal Wave, a tropical-themed Top 1 level by OniLink, has its verifier announced. Having flown under the radar for a while, it gained recognition after Neiro (Exen) showcased it to a mostly negative reception.
+Tidal Wave, a tropical-themed top 1 Geometry Dash extreme demon by OniLink, has had its verifier announced. After having been under the radar for a while, it gained recognition after Neiro (also known as Exen) showcased it to a mostly negative reception.
 
-However, Tidal Wave began to be even more recognized after Zoink announced that he would be the verifier of the Top 1. According to some, This level will have about 130 frame perfects at 140hz. Also, the theme is unique, being about a beach and the tropics, definitely a breath of fresh salty air from the “intimidating edgy Top one”.
+Tidal Wave then got further recognition after Zoink announced that he would be the verifier of it. According to some, Tidal Wave will have around 130 frame perfects at 140hz.
 
-There is some controversy surrounding the level, hence the title of this article, such as the rumor of Zoink buffing Tidal Wave to top 1 from top 15. This rumour has been proven wrong but is still a valid concern when considering what happened to Acheron with its buffdate and Avernus having zero victors or progress.
+Despite the negativity, most recognize Tidal Wave's theme as unique, being themed around the beach and the tropics. This is definitely a breath of fresh salty air from the overused "red, intimidating, and edgy top 1" style.
 
-The other controversy is the decoration. Some of the community thinks it's too simple, and some think it's the best thing since sliced bread. I personally fall into the latter. This decoration would be some of the best in the current top 5. It also has a relaxing atmosphere, something you don't get in many top 1s.
+The controversy surrounding the Tidal Wave mainly came about from rumors of Zoink buffing the extreme demon to top 1 from top 15. While this rumor has been proven wrong, it is still a valid concern when we consider what happened to [Acheron with its buffdate](/posts/robtop-gans-updates-to-top-1-geometry-dash-extreme-demon-acheron/) and [Avernus having zero victors or progress](/posts/geometry-dash-avernus-remains-without-victors-3-months-after-being-placed-on-the-demon-list/).
 
-The gameplay of Tidal Wave is heavily wave-focused, but it still has variations in gamemodes and a dual part. It's also an XL Top 1, which is new. Also, some popular, skilled players have said that the gameplay is fun or looks like it might be fun.
+The other main controversy is the decoration. Some of the community thinks Tidal Wave's decoration is too simple, but some others think it's the *new best thing since sliced bread*. I personally fall into the latter. To me, this decoration is one of the best out of the [current top 5 hardest Geometry Dash levels](/posts/geometry-dash-levels-top-10-hardest-extreme-demons-2022/). It also has a relaxing atmosphere, something you don't get in many top 1 extreme demons.
+
+The gameplay of Tidal Wave is heavily wave-focused, but it still has variations in game modes and a unique dual part. It also has a length of XL, which is new. Regardless of the buffdate acusations, many popular and skilled players have said that the gameplay looks fun.
 
 The other controversy is that it might have fixed hitboxes, meaning that its spikes’ hitboxes actually look like a spike instead of a rectangle floating in the middle; this is controversial because hitbox mismatching is essential to most gameplay in hard levels and is something we are used to; usage of fixed hitboxes is not confirmed though. Zoink has currently gotten 67% as of writing this, so he might have it verified before 2.2.
