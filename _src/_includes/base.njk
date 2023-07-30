@@ -587,13 +587,18 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
     <!-- NAVBAR END -->
 
     {% if metadata.isBanner %}
-    <div class="banner-top">
+    {# <div class="banner-top">
         <div class="container">
-            {# BREAKING: Top 1 Geometry Dash Player SpaceUK Exposed For Hacking All His Achievements. <a href="/posts/top-1-geometry-dash-player-spaceuk-exposed-for-hacking-achievements/">Read the story.</a> #}
             RobTop Confirms Final Geometry Dash 2.2 Release Date. <a href="/posts/robtop-confirms-third-and-final-geometry-dash-2-2-release-date/">Read the story.</a>
         </div>
-    </div>
+    </div> #}
     {% endif %}
+
+    <div class="banner-top" id="ref-banner" style="display: none;">
+        <div class="container">
+            Welcome, <b id="ref-user">Dashword</b> viewer! Dashword is your home for Geometry Dash news. <a href="/about/">Learn more about us.</a>
+        </div>
+    </div>
 
     {% if showFeaturedPosts %}
     <!-- FEATURED POSTS START -->
@@ -1043,6 +1048,22 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
             barn.set("seenBeforeLeave", true);
             document.getElementById("body").removeAttribute("onmouseleave");
         }
+    }
+    </script>
+
+    <!-- Referal -->
+    <script>
+    // https://stackoverflow.com/a/901144
+    const ref = new Proxy(new URLSearchParams(window.location.search), {
+    get: (searchParams, prop) => searchParams.get(prop),
+    });
+
+    let refValue = ref.ref; 
+    console.log("Ref: " + refValue);
+
+    if (refValue != null ) {
+        document.getElementById("ref-banner").style.display = "inherit";
+        document.getElementById("ref-user").innerHTML = refValue;
     }
     </script>
 
