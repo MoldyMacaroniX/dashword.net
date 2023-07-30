@@ -24,3 +24,5 @@ Google ended up removing Geometry Dash from their stores before August due to se
 Because Geometry Dash is already removed from the Google Play Store, it is likely that RobTop no longer sees a reason to release Geometry Dash before August 31, as he originally said he would.
 
 RobTop doesn't give exact release dates, but this is the third time his release period has been pushed back.
+
+While RobTop takes his time on Geometry Dash 2.2, the game is [slowly falling apart](/posts/geometry-dash-moderators-attempt-to-take-down-third-party-fixes-to-dangerous-exploit/). From [iOS 15 breaking Geometry Dash](/posts/geometry-dash-how-to-fix-ios-crash-bug/) to [Google taking the game off their stores](/posts/geometry-dash-moderator-says-2-2-is-right-around-the-corner/), updates are what this game needs to survive.
