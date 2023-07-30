@@ -1,7 +1,7 @@
 ---
 pageSlug: geometry-dash-top-1-extreme-demon-tidal-wave-critiqued-as-controversial-but-original
 title: ' Geometry Dash Top 1 Extreme Demon "Tidal Wave" Critiqued As
-  "Controversial But Original"'
+  Controversial But Original'
 desc: Tidal Wave, a tropical-themed Top 1 level by OniLink, has its verifier
   announced. Having flown under the radar for a while, it gained recognition
   after Neiro (Exen) showcased it to a mostly negative reception.
