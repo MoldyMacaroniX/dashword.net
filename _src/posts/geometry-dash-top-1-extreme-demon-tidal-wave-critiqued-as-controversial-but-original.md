@@ -17,7 +17,7 @@ hideAds: false
 ---
 Tidal Wave, a tropical-themed top 1 Geometry Dash extreme demon by OniLink, has had its verifier announced. After having been under the radar for a while, it gained recognition after Neiro (also known as Exen) showcased it to a mostly negative reception.
 
-Tidal Wave then got further recognition after Zoink announced that he would be the verifier of it. According to some, Tidal Wave will have around 130 frame perfects at 140hz.
+Tidal Wave then got further recognition after Zoink announced that he would be the verifier of it. According to some sources, Tidal Wave will have around 130 frame perfects at 140hz.
 
 Despite the negativity, most recognize Tidal Wave's theme as unique, being themed around the beach and the tropics. This is definitely a breath of fresh salty air from the overused "red, intimidating, and edgy top 1" style.
 
