@@ -1,8 +1,10 @@
 ---
 title: Author Terms
+desc: In order to get your article published to Dashword.net, you will have to agree to these terms.
 permalink: /author-terms/
 image: false
 hideAds: true
+hideSidebar: true
 ---
 
 Last Updated: June 30, 2023
@@ -11,6 +13,8 @@ In order to get your article published to Dashword.net, you will have to agree t
 
 Remember to use a consistant email address when emailing us so we can verify that its you. If you lose access to your primary email address, [contact support](/contact/).
 
+Do not share any email communications you have with us with anyone else. If somebody ever gets ahold of them, [contact support](/contact/).
+
 # Article Submission
 
 By confirming that we can use your article, you agree that:
@@ -18,6 +22,7 @@ By confirming that we can use your article, you agree that:
 - You claim to own all rights to your article.
 - Dashword.net can publicly publish your work with any changes made to it, but we will still credit you.
 - All information on your unique author page will be displayed publicly on our website. You can request changes to your unique author page by emailing us. All changes must be confirmed by us but you can remove your profile at any time.
+- You have not shared any email communications with us with anyone else.
 
 If you would like to make changes to your submission first, please do so before confirming that we can use your article.
 

@@ -25,3 +25,7 @@ https://gd-website.netlify.com/*   https://www.dashword.net/:splat   301!
 /escape-room/ /posts/escape-room/
 
 /dashword-blue/ https://youtu.be/dQw4w9WgXcQ
+
+# Refs
+
+/ref/moldy/ /?ref=Moldy
