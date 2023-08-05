@@ -27,9 +27,9 @@ As of [version 2.2](/categories/2.2/), the main game, Geometry Dash, consists of
 
 # About Geometry Dash
 
-The Geometry Dash series consists of the main game, Geometry Dash, as well as Geometry Dash Lite, Geometry Dash Meltdown, Geometry Dash World, and Geometry Dash Subzero.
+The Geometry Dash series consists of the main game, Geometry Dash, as well as [Geometry Dash Lite, Geometry Dash Meltdown, Geometry Dash World, and Geometry Dash Subzero](/posts/geometry-dash-2-2-beta-what-is-it/).
 
-- **Recommended:** [How To Download & Play Geometry Dash SubZero For Free (IOS, Android, PC, & Mac)](/posts/how-to-download-play-geometry-dash-subzero/)
+- **Recommended:** [How To Download & Play Geometry Dash SubZero For Free (iOS, Android, PC, & Mac)](/posts/how-to-download-play-geometry-dash-subzero/)
 
 The 23 official levels in the main game, Geometry Dash, include:
 
@@ -81,3 +81,7 @@ The official Geometry Dash full version is not available to play for free. It co
 - [Get Geometry Dash for iOS](https://apps.apple.com/app/geometry-dash/id625334537)
 - [Get Geometry Dash for Android](https://play.google.com/store/apps/details?id=com.robtopx.geometryjump)
 - [Get Geometry Dash for Steam](https://store.steampowered.com/app/322170/Geometry_Dash/)
+
+---
+
+For more Geometry Dash news, [check out our home page](/).
