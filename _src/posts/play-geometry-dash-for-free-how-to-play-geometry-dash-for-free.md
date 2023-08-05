@@ -18,7 +18,7 @@ Geometry Dash is a series of music platforming video games developed by Swedish 
 
 The series consists of the main game, Geometry Dash, as well as Geometry Dash Lite, Geometry Dash Meltdown, Geometry Dash World, and Geometry Dash Subzero.
 
-The 23 official levels in Geometry Dash 2.2 include:
+The 23 official levels in the main game, Geometry Dash, include:
 
 1. Stereo Madness
 2. Back On Track
@@ -44,3 +44,6 @@ The 23 official levels in Geometry Dash 2.2 include:
 22. Dash Destroyer
 23. Explorers
 
+Geometry Dash Meltdown has levels The Seven Seas, Viking Arena, and Airborne Robots.
+
+Geometry Dash SubZero has levels Press Start, Nock Em, and Power Trip.
