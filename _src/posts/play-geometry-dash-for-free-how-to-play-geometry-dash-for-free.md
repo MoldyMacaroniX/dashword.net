@@ -73,3 +73,5 @@ You can download all free Geometry Dash games from the iOS App Store or the Andr
 These are the official versions for Geometry Dash Lite, Geometry Dash Meltdown, Geometry Dash World, and Geometry Dash SubZero. Any other method of playing them is fake!
 
 # How to play Geometry Dash Full Version
+
+The official Geometry Dash full version is not available to play for free. It costs about **$2.00** and has no in-app purchases.
