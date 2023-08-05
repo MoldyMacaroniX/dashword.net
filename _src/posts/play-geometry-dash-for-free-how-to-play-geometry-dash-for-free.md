@@ -68,3 +68,7 @@ You can download all free Geometry Dash games from the iOS App Store or the Andr
 | Geometry Dash Meltdown | [Geometry Dash Meltdown for iOS (Free)](https://apps.apple.com/app/geometry-dash-meltdown/id1045901853) | [Geometry Dash Meltdown for Android (Free)](https://play.google.com/store/apps/details?id=com.robtopx.geometrydashmeltdown) |
 | Geometry Dash World | [Geometry Dash World for iOS (Free)](https://apps.apple.com/app/geometry-dash-world/id1112307917) | [Geometry Dash World for Android (Free)](https://play.google.com/store/apps/details?id=com.robtopx.geometrydashworld) |
 | Geometry Dash SubZero | [Geometry Dash SubZero for iOS (Free)](https://apps.apple.com/app/geometry-dash-subzero/id1324044770) | [Geometry Dash SubZero for Android (Free)](https://play.google.com/store/apps/details?id=com.robtopx.geometrydashsubzero) |
+
+These are the official versions for Geometry Dash Lite, Geometry Dash Meltdown, Geometry Dash World, and Geometry Dash SubZero. Any other method of playing them is fake!
+
+# How to play Geometry Dash Full Version
