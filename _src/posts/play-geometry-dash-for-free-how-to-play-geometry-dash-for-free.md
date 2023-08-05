@@ -2,9 +2,9 @@
 pageSlug: how-to-play-geometry-dash-for-free
 title: "Play Geometry Dash For Free: How To Play Geometry Dash For Free"
 desc: Geometry Dash is a series of music platforming video games developed by
-  Swedish developer Robert Topala and published by his company RobTop Games. The
-  main game, Geometry Dash, consists of 21 official levels and has more than 40
-  million online levels made by players.
+  Swedish developer Robert Topala and published by his company RobTop Games. As
+  of version 2.2, the main game, Geometry Dash, consists of 23 official levels
+  and has more than 40 million online levels made by players.
 date: 2023-08-05T17:54:30.181Z
 tags:
   - guide
