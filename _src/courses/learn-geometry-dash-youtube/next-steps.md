@@ -1,5 +1,6 @@
 ---
 title: Next Steps
+desc: After finishing this course, here are some next steps I recommend you take.
 pageSlug: next-steps
 num: 10
 ---

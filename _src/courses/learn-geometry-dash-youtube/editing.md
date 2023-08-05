@@ -1,5 +1,6 @@
 ---
 title: Editing
+desc: Now that you have your story thought of, it's time to tell that story through editing.
 pageSlug: editing
 num: 8
 ---

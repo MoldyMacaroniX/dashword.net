@@ -1,5 +1,6 @@
 ---
 title: Title & Thumbnail
+desc: As explained in the 5 steps to success lesson, your title and thumbnail is usually more important than the video itself. People don't watch your video if they don't click on it.
 pageSlug: title-and-thumbnail
 num: 6
 ---

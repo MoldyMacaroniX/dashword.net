@@ -1,5 +1,6 @@
 ---
 title: Story
+desc: Once you have a good idea, title, and thumbnail, it's time to begin work on the actual video. This lesson will cover how to record your video with a story in mind.
 pageSlug: story
 num: 7
 ---

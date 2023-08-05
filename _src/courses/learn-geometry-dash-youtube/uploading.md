@@ -1,5 +1,6 @@
 ---
 title: Uploading
+desc: You shouldn't expect much surprises when uploading your video. After all, you should already have a title and thumbnail created and your video should be complete. (Remember not to rush your video! It's better to delay it than rush it to get it out by a certain deadline.)
 pageSlug: uploading
 num: 9
 ---
