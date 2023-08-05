@@ -19,7 +19,7 @@ body {
     padding: 20px;
 }
 
-p, li, img, h1, h2, h3, h4, h5, h6, .alert {
+p, li, img, h1, h2, h3, h4, h5, h6, .alert, table {
     display: block;
     margin: 15px 0;
 }
@@ -117,4 +117,32 @@ blockquote cite {
     font-style: normal;
     font-weight: bold;
     margin-top:1em;
+}
+
+table {
+    width: 100%;
+    display: table;
+    overflow: auto;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+table td, table th {
+    border: 1px solid var(--grey);
+    padding: 10px;
+}
+  
+table tr:nth-child(even) {
+    background-color: var(--bg-dim);
+}
+  
+table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: var(--primary);
+    color: var(--white);
 }

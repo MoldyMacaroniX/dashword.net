@@ -10,12 +10,13 @@ Designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Baill
     --bg-dim: rgb(238, 238, 238);
     --print: black;
     --grey: rgba(192, 192, 192, 0.596);
+    --primary-dim: rgb(230, 241, 255);
+    --link: rgb(0, 103, 238);
 
     /* Unchanging colors */
     --white: white;
     --black: black;
     --primary: rgb(0, 103, 238); /* OG: rgb(45,136,255) */
-    --link: rgb(0, 103, 238);
 
     /* Spacing valyes */
     --gap: 25px;
@@ -33,6 +34,7 @@ Designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Baill
         --bg-dim: rgb(42, 45, 49);
         --print: rgb(255, 255, 255);
         --grey:rgba(78, 78, 78, 0.596);
+        --primary-dim: rgb(37, 39, 41);
         --link: rgb(59, 144, 255);
     }
 }
@@ -42,6 +44,7 @@ body.light {
     --bg-dim: rgb(238, 238, 238);
     --print: black;
     --grey: rgba(192, 192, 192, 0.596);
+    --primary-dim: rgb(230, 241, 255);
     --link: rgb(0, 103, 238);
 }
 
@@ -50,6 +53,7 @@ body.dark {
     --bg-dim: rgb(42, 45, 49);
     --print: rgb(255, 255, 255);
     --grey:rgba(78, 78, 78, 0.596);
+    --primary-dim: rgb(37, 39, 41);
     --link: rgb(59, 144, 255);
 }
 
@@ -869,6 +873,61 @@ h1.heading {
     text-decoration: underline;
 }
 
+/* Course */
+
+.course-sidebar {
+    border: 1px solid var(--grey);
+    border-radius: var(--edge);
+}
+
+.course-sidebar-pad {
+    padding: 15px;
+}
+
+.course-heading {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.course-nav {
+    display: flex;
+    flex-direction: column;
+}
+
+.course-nav a {
+    font-size: 1.1rem;
+    padding: 20px 15px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    border-top: 1px solid var(--grey);
+    transition: 0.25s ease background-color;
+}
+
+.course-nav a:last-child {
+    border-bottom: 1px solid var(--grey);
+}
+
+.course-nav a:hover, .course-nav a.active {
+    color: var(--link);
+    background-color: var(--primary-dim);
+}
+
+.course-nav a .course-num {
+    width: 45px;
+    display: block;
+}
+
+.course-nav a .course-label {
+    /* Truncation... */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    transition: color 0.25s ease;
+}
+
 /* Quiz */
 
 .full-quiz {
@@ -1315,7 +1374,7 @@ h2 .header-anchor {
 
 /* Article Copy */
 
-.article p, .article li, .article img, .article h1, .article h2, .article h3, .article h4, .article h5, .article h6, .alert, .podcast-player, .video-iframe {
+.article p, .article li, .article img, .article h1, .article h2, .article h3, .article h4, .article h5, .article h6, .alert, .podcast-player, .video-iframe, .article table {
     display: block;
     margin: 15px 0;
 }
@@ -1388,6 +1447,34 @@ h2 .header-anchor {
     background-color: var(--grey);
     height: 1px;
     margin: 35px 0;
+}
+
+.article table {
+    width: 100%;
+    display: table;
+    overflow: auto;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+table td, table th {
+    border: 1px solid var(--grey);
+    padding: 10px;
+}
+  
+table tr:nth-child(even) {
+    background-color: var(--bg-dim);
+}
+  
+table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: var(--primary);
+    color: var(--white);
 }
 
 .article {
@@ -2067,6 +2154,14 @@ details[open] .details-icon.ri-add-line:before {
     .grid-2, .grid-3 {
         display: flex;
         flex-direction: column;
+    }
+    .course-grid.grid-3 {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 15px;
+    }
+    .course-grid.grid-3 .title {
+        font-size: 1rem !important;
     }
     .article-heading {
         font-size: 2rem;
