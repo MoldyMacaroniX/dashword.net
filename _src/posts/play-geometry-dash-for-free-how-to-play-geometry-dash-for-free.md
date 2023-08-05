@@ -60,7 +60,7 @@ Geometry Dash SubZero also has three levels: Press Start, Nock Em, and Power Tri
 
 # How to play Geometry Dash for free
 
-You can download all free Geometry Dash games from the iOS App Store or the Android Google Play Store. Here are links to the following Geometry Dash games and their free downloads:
+You can download all free Geometry Dash games from the iOS App Store or the Android Google Play Store. Here are links to all free Geometry Dash games and their downloads:
 
 | Geometry Dash Game | iOS App Store Download | Google Play Store Download |
 |--------------------|------------------------|----------------------------|
