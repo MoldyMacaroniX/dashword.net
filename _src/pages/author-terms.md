@@ -24,7 +24,7 @@ Old versions of these terms are [archived here](https://github.com/MoldyMacaroni
 By confirming that we can use your article or course, you agree that:
 
 - You claim to own all rights to your article or course.
-- Dashword.net can publicly publish your work with any changes made to it, but we will still credit you. For articles, you will be credited on the article's web page. For courses, you can credit yourself anywhere in it.
+- Dashword.net can publicly publish your work with any changes made to it, and monetize it. We will still give you attribution for your work. For articles, you will be credited on the article's web page. For courses, you can credit yourself anywhere in it.
 - All information on your unique author page will be displayed publicly on our website. You can request changes to your unique author page by emailing us. All changes must be confirmed by us but you can remove your profile at any time. In order to get a unique author page, you must have at least one article. Courses do not count as articles.
 - You have not shared any email communications with us with anyone else.
 
