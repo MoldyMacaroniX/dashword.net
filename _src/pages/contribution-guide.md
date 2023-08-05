@@ -11,6 +11,8 @@ In particular, we are looking for Geometry Dash related news, guides, and storie
 
 We want to help out new players while showing them the potential the game has.
 
+If you would like to contribute a course instead of an article, see our [course contribution guide](/contribute-courses/).
+
 # What we recommend
 
 We recommend writing articles for any of the following categories:
@@ -42,10 +44,9 @@ Like usual, in getting your content on Dashword, you will: be credited, get your
 
 # Talk to us
 
-To submit an idea, article draft, or something you'd consider finished, you can email [support@dashword.net](mailto:support@dashword.net) with your idea, draft, or article, preferably in the form of a Google Doc link.
+To submit an article, you can email [support@dashword.net](mailto:support@dashword.net) with your article in the form of a shared Google Doc link. Make sure we have permission to access it.
 
-<!-- 1. Join our [Discord server](https://discord.gg/SqZuGCpHMm) and let us know of your idea, draft, or article, in the #article-writing channel.
-2. Email [support@dashword.net](mailto:support@dashword.net) with your idea, draft, or article, preferably in the form of a Google Doc link. -->
+In order to get your article published, you will have to agree to our [author terms](/author-terms/).
 
 If you have any questions, you can also use the above email.
 

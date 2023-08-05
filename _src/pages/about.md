@@ -15,3 +15,5 @@ With our 20,000 monthly users, we get over 50,000 unique page views and 300,000 
 You can read more about Dashword in our [editorial category](/categories/editorial/).
 
 Want to contribute? [You can learn how to submit your work for publication here](/contribute/)!
+
+You can [get in touch with us](/contact/) if you have any questions!

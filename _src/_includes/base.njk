@@ -76,7 +76,7 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
 
     <!-- Metadata -->
     <title>
-    {% if pageID !== "authorPosts" %}{{ title or metadata.title }}{% else %}{{ myAuthor.name }}{% endif %} | {{ metadata.title }}
+    {% if pageID !== "authorPosts" %}{{ title or metadata.title }}{% else %}{{ myAuthor.name }}{% endif %} |{% if course %} {{ coursename }}, a course on{% endif %} {{ metadata.title }}
     </title>
     <meta name="title" content="{% if pageID !== "authorPosts" %}{{ title or metadata.title }}{% else %}{{ myAuthor.name }}{% endif %} | {{ metadata.title }}">
     <meta name="description" content="{% if pageID !== "authorPosts" %}{{ desc or metadata.desc }}{% else %}{{ myAuthor.bio }}{% endif %}">
@@ -97,14 +97,14 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
     <!-- Opengraph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ metadata.url }}">
-    <meta property="og:title" content="{% if pageID !== "authorPosts" %}{{ title or metadata.title }}{% else %}{{ myAuthor.name }}{% endif %} | {{ metadata.title }}">
+    <meta property="og:title" content="{% if pageID !== "authorPosts" %}{{ title or metadata.title }}{% else %}{{ myAuthor.name }}{% endif %} |{% if course %} {{ coursename }}, a course on{% endif %} {{ metadata.title }}">
     <meta property="og:description" content="{% if pageID !== "authorPosts" %}{{ desc or metadata.desc }}{% else %}{{ myAuthor.bio }}{% endif %}">
     <meta property="og:image" content="{{ image or metadata.image }}">
 
     <!-- Twitter since they're different or something -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="{{ metadata.url }}">
-    <meta property="twitter:title" content="{% if pageID !== "authorPosts" %}{{ title or metadata.title }}{% else %}{{ myAuthor.name }}{% endif %} | {{ metadata.title }}">
+    <meta property="twitter:title" content="{% if pageID !== "authorPosts" %}{{ title or metadata.title }}{% else %}{{ myAuthor.name }}{% endif %} |{% if course %} {{ coursename }}, a course on{% endif %} {{ metadata.title }}">
     <meta property="twitter:description" content="{% if pageID !== "authorPosts" %}{{ desc or metadata.desc }}{% else %}{{ myAuthor.bio }}{% endif %}">
     <meta property="twitter:image" content="{{ image or metadata.image }}">
 
@@ -335,8 +335,9 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
             <a href="/categories/demonlist/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> Demonlist</a>
             <a href="/categories/guide/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> Guide</a>
             <div class="divider"></div>
-            <a href="/podcast/" class="mobile-item"><i class="ri-mic-fill"></i> Podcast</a>
             <a href="/quizzes/" class="mobile-item"><i class="ri-question-fill"></i> Quizzes</a>
+            <a href="/courses/" class="mobile-item"><i class="ri-file-list-3-fill"></i> Courses</a>
+            <a href="/podcast/" class="mobile-item"><i class="ri-mic-fill"></i> Podcast</a>
             <a href="/categories/" class="mobile-item"><i class="ri-price-tag-3-fill"></i> Categories</a>
             <div class="divider"></div>
             <div class="mobile-item" onclick="openDialog('modalTheme')"><i class="ri-paint-fill"></i> Change Theme</div>
@@ -617,17 +618,49 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
     <!-- MAIN CONTENT AREA START -->
     <div class="container section" id="sidebar-wrapper">
         <div class="cols main-content">
+            {% if course %}
+            <div id="sidebar" class="sidebar">
+                <div id="sidebar-inner">
+
+                    <div class="course-sidebar">
+                        <div class="course-sidebar-pad">
+                            <h1 class="course-heading">{{ coursename }}</h1>
+                        </div>
+
+                        <div class="course-nav">
+                            {% set count = 0 %}
+                            {% for i in courseinfo %}
+                                {% set count = count + 1 %}
+                                {% if loop.first %}
+                                    <a href="/courses/{{ courseslug }}/"{% if page.url == "/courses/" + courseslug + "/" %} class="active"{% endif %}><span class="course-num">{% if count < 10 %}00{% else %}0{% endif %}{{ count }}</span><span class="course-label">{{ i.name }}</span></a>
+                                {% else %}
+                                    <a href="/courses/{{ courseslug }}/{{ i.url }}/"{% if page.url == "/courses/" + courseslug + "/" + i.url + "/" %} class="active"{% endif %}><span class="course-num">{% if count < 10 %}00{% else %}0{% endif %}{{ count }}</span><span class="course-label">{{ i.name }}</span></a>
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+
+                        <div class="course-sidebar-pad">
+                            <a href="/courses/" class="button button-wide" style="margin-top: 0;">All Courses</a>
+                        </div>
+                    </div>
+
+                    {% include 'formats/display-vertical.njk'%}
+
+                </div>
+            </div>
+            {% endif %}
             <div class="main-content-safe">
 
                 {{ content | safe }}
 
-                {% if metadata.isAds and not hideAds %}
+                {% if metadata.isAds and not hideAds and not course %}
                 <div class="up-next-show">
                 {% include "formats/feed.njk" %}
                 </div>
                 {% endif %}
 
             </div>
+            {% if not course %}
             <div id="sidebar" class="sidebar">
                 {% if not hideSidebar %}
                 <div id="sidebar-inner">
@@ -643,13 +676,28 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
                 </div>
                 {% endif %}
             </div>
+            {% endif %}
         </div>
     </div>
     <!-- MAIN CONTENT AREA END -->
 
+    {% if course %}
+    <div class="container section">
+        <div class="panel cols">
+            <div class="col">
+                <h1>Courses are provided for free by Dashword</h1>
+                <p>This course is hosted with ❤️ by Dashword. <a href="/contribute-courses/">Read this page</a> if you would like us to host your course!</p>
+            </div>
+            <div class="col">
+                <a class="button button-wide" style="margin-top: 0;" href="/contribute-courses/">Host Your Course</a>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
     {% include 'formats/display-horizontal.njk'%}
 
-    {% if not hideSidebar %}
+    {% if (not hideSidebar) and (not course) %}
         {% include 'partials/newsgrid.njk' %}
         {% include 'formats/display-horizontal.njk'%}
     {% endif %}
@@ -673,9 +721,9 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
                     <h1>Navigation</h1>
                     <p>
                         <a href="/">Home</a>
-                        <a href="/posts/">Articles</a>
-                        <a href="/podcast/">Podcast</a>
                         <a href="/quizzes/">Quizzes</a>
+                        <a href="/courses/">Courses</a>
+                        <a href="/podcast/">Podcast</a>
                         <a href="/categories/">Categories</a>
                         <a href="/authors/">Authors</a>
                     </p>

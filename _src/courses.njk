@@ -1,0 +1,34 @@
+---
+title: Courses
+# permalink: /authors/
+
+pagination:
+  data: courses
+  size: 15
+  alias: courses
+permalink: "courses/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+
+layout: base.njk
+---
+
+<h1 class="heading">Courses</h1>
+
+<div class="grid-3 post-grid course-grid" style="margin-top: 25px;">
+{% for course in courses | sort(attribute='name') %}
+    <div>
+        <a href="/courses/{{ course.slug }}/">
+            <div class="aspect">
+                <img src="{{ course.image }}" alt="{{ course.name }}">
+            </div>
+        </a>
+        <a href="/courses/{{ course.slug }}/" class="title">{{ course.name }}</a>
+        <span class="meta">
+            {% if post.data.date %}<a href="/courses/{{ course.slug }}/" class="date">{{ post.data.date | readableDate }} <i class="ri-time-line"></i></a>{% endif %}
+        </span>
+    </div>
+{% endfor %}
+</div>
+
+{% set paged = pagination.href %}
+{% set nestedPagination = false %}
+{% include "partials/paginator.njk" %}

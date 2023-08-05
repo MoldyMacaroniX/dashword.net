@@ -1,0 +1,6 @@
+{
+    "layout":"templates/course.njk",
+    "image":false,
+    "course":true,
+    "permalink":"/courses/{{ courseslug }}/{{ pageSlug or page.fileSlug }}/"
+}

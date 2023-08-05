@@ -246,3 +246,27 @@ Sharect.init();
 
 	<a href="/podcast/" class="button button-wide">More Podcasts</a>
 {% endif %}
+
+{% if course %}
+<div style="display: flex; gap: 25px; justify-content: space-between; margin-top: 25px;">
+
+	{# PREVIOUS #}
+	{% if (num-1) < 1 %}
+		<div><a href="{{ page.url }}" class="button button-selected"><i class="ri-arrow-left-line"></i> Previous</a></div>
+	{% else %}
+		{% if (num-1) == 1 %}
+			<div><a href="/courses/{{ courseslug }}/" class="button"><i class="ri-arrow-left-line"></i> Previous</a></div>
+		{% else %}
+			<div><a href="/courses/{{ courseslug }}/{{ courseinfo[num-1-1].url }}/" class="button"><i class="ri-arrow-left-line"></i> Previous</a></div>
+		{% endif %} 
+	{% endif %}
+
+	{# PREVIOUS #}
+	{% if (num-1) >= (courselessons-1) %}
+		<div><a href="{{ page.url }}" class="button button-selected">Next <i class="ri-arrow-right-line"></i></a></div>
+	{% else %}
+		<div><a href="/courses/{{ courseslug }}/{{ courseinfo[num-1+1].url }}/" class="button">Next <i class="ri-arrow-right-line"></i></a></div>
+	{% endif %}
+
+</div>
+{% endif %}

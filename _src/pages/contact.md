@@ -21,6 +21,14 @@ hideSidebar: true
     </div>
 </div>
 
+## Contribute (articles, courses, code)
+
+To submit an article for publication, see our [article contribution guide](/contribute/).
+
+To submit a course for publication, see our [course contribution guide](/contribute-courses/).
+
+You can contibute to our codebase on our [public repository](https://github.com/MoldyMacaroniX/dashword.net).
+
 ## Sponsored Posts
 
 We are not currently accepting sponsored posts on our site.
@@ -28,12 +36,6 @@ We are not currently accepting sponsored posts on our site.
 ## Partnership
 
 We are only accepting mutual partnerships if they are from other Geometry Dash entities, including Discord communities, popular figures, and other Geometry Dash related websites. They do not have to be official (endorsed by RobTop).
-
-## Contribute (articles, ideas, code)
-
-To submit an idea, article draft, or something you'd consider finished for publication, you can email us with your idea, draft, or article, preferably in the form of a Google Doc link. See our [contribution guide](/contribute/) for more information.
-
-You can contibute to our codebase on our [public repository](https://github.com/MoldyMacaroniX/dashword.net).
 
 ## Report Violations of our Code of Conduct
 

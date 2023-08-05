@@ -1,0 +1,47 @@
+{
+    "coursename":"Learn Geometry Dash YouTube",
+    "courseslug":"learn-geometry-dash-youtube",
+    "courselessons":10,
+    "courseinfo": [
+        {
+            "name":"Welcome",
+            "url":null
+        },
+        {
+            "name":"How Videos Go Viral",
+            "url":"how-videos-go-viral"
+        },
+        {
+            "name":"Starting From Zero",
+            "url":"starting-from-zero"
+        },
+        {
+            "name":"5 Steps To Success",
+            "url":"5-steps-to-success"
+        },
+        {
+            "name":"Idea",
+            "url":"idea"
+        },
+        {
+            "name":"Title & Thumbnail",
+            "url":"title-and-thumbnail"
+        },
+        {
+            "name":"Story",
+            "url":"story"
+        },
+        {
+            "name":"Editing",
+            "url":"editing"
+        },
+        {
+            "name":"Uploading",
+            "url":"uploading"
+        },
+        {
+            "name":"Next Steps",
+            "url":"next-steps"
+        }
+    ]
+}

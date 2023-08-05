@@ -1374,7 +1374,7 @@ h2 .header-anchor {
 
 /* Article Copy */
 
-.article p, .article li, .article img, .article h1, .article h2, .article h3, .article h4, .article h5, .article h6, .alert, .podcast-player, .video-iframe, .article table {
+.article p, .article li, .article img, .article h1, .article h2, .article h3, .article h4, .article h5, .article h6, .alert, .podcast-player, .video-iframe, .article table, .article pre {
     display: block;
     margin: 15px 0;
 }
@@ -1387,9 +1387,11 @@ h2 .header-anchor {
 .article pre {
     overflow: auto;
     background-color: var(--bg-dim);
+    border: 1px solid var(--grey);
     padding: 15px;
     font-size: 1.1rem;
     line-height: 1.5;
+    border-radius: var(--edge);
 }
 
 .article p, .article li, .article li p:first-child, .article blockquote p:first-child, .article.article-ta p:first-child {
