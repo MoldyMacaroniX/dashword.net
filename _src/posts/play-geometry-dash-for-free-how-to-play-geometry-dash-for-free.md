@@ -23,7 +23,7 @@ As of version 2.2, the main game, Geometry Dash, consists of 23 official levels 
 
 - [About Geometry Dash](#about-geometry-dash)
 - [How to play Geometry Dash for free](#how-to-play-geometry-dash-for-free)
-- [How to play Geometry Dash Full Version]()
+- [How to play Geometry Dash Full Version](#how-to-play-geometry-dash-full-version)
 
 # About Geometry Dash
 
