@@ -9,7 +9,7 @@ date: 2023-08-05T17:54:30.181Z
 tags:
   - guide
 author: dashword
-image: https://cdn.cloudflare.steamstatic.com/steam/apps/322170/header.jpg?t=1624472273
+image: https://cdn.akamai.steamstatic.com/steam/apps/322170/capsule_616x353.jpg?t=1624472273
 imageSource: https://store.steampowered.com/app/322170/Geometry_Dash/
 affiliateLinks: false
 hideAds: false
