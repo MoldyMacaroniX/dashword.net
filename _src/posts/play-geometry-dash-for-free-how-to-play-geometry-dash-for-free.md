@@ -16,6 +16,8 @@ hideAds: false
 ---
 Geometry Dash is a series of music platforming video games developed by Swedish developer Robert Topala and published by his company RobTop Games. As of version 2.2, the main game, Geometry Dash, consists of 23 official levels and has more than 40 million online levels made by players.
 
+The series consists of the main game, Geometry Dash, as well as Geometry Dash Lite, Geometry Dash Meltdown, Geometry Dash World, and Geometry Dash Subzero.
+
 The 23 official levels in Geometry Dash 2.2 include:
 
 1. Stereo Madness
@@ -41,3 +43,4 @@ The 23 official levels in Geometry Dash 2.2 include:
 21. Fingerdash
 22. Dash Destroyer
 23. Explorers
+
