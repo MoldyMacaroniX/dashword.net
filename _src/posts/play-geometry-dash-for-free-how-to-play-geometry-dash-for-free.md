@@ -22,6 +22,7 @@ As of version 2.2, the main game, Geometry Dash, consists of 23 official levels 
 
 - [About Geometry Dash]()
 - [How to play Geometry Dash for free]()
+- [How to play Geometry Dash Full Version]()
 
 # About Geometry Dash
 
@@ -65,5 +66,5 @@ You can download all free Geometry Dash games from the iOS App Store or the Andr
 |--------------------|------------------------|----------------------------|
 | Geometry Dash Lite | [Geometry Dash Lite for iOS (Free)](https://apps.apple.com/app/geometry-dash-lite/id698255242) | [Geometry Dash Lite for Android (Free)](https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite) |
 | Geometry Dash Meltdown | [Geometry Dash Meltdown for iOS (Free)](https://apps.apple.com/app/geometry-dash-meltdown/id1045901853) | [Geometry Dash Meltdown for Android (Free)](https://play.google.com/store/apps/details?id=com.robtopx.geometrydashmeltdown) |
-| Geometry Dash World | 
+| Geometry Dash World | [Geometry Dash World for iOS (Free)](https://apps.apple.com/app/geometry-dash-world/id1112307917) | [Geometry Dash World for Android (Free)](https://play.google.com/store/apps/details?id=com.robtopx.geometrydashworld) |
 | Geometry Dash SubZero |
