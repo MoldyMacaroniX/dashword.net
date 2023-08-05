@@ -7,6 +7,7 @@ desc: RobTop Games has reported that there will be a special video premiering on
   released.
 date: 2023-08-05T07:48:59.398Z
 tags:
+  - featured
   - news
   - "2.2"
 author: moldymacaronix
