@@ -74,4 +74,8 @@ These are the official versions for Geometry Dash Lite, Geometry Dash Meltdown, 
 
 # How to play Geometry Dash Full Version
 
-The official Geometry Dash full version is not available to play for free. It costs about **$2.00** and has no in-app purchases.
+The official Geometry Dash full version is not available to play for free. It costs about **$2.00** and has no in-app purchases. It is available on iOS, Android, and Steam.
+
+- [Get Geometry Dash for iOS](https://apps.apple.com/app/geometry-dash/id625334537)
+- [Get Geometry Dash for Android](https://play.google.com/store/apps/details?id=com.robtopx.geometryjump)
+- [Get Geometry Dash for Steam](https://store.steampowered.com/app/322170/Geometry_Dash/)
