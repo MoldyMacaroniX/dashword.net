@@ -5,7 +5,7 @@ desc: RobTop Games has reported that there will be a special video premiering on
   Geometry Dash's 10th anniversary (August 13th). With this, many speculate the
   Geometry Dash 2.2 release date—or even Geometry Dash 2.2 itself—will be
   released.
-date: 2023-08-05T07:48:59.398Z
+date: 2023-08-05T08:06:48.467Z
 tags:
   - featured
   - news
