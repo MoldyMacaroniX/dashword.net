@@ -1,7 +1,7 @@
 ---
 title: Full History of Geometry Dash Gamemodes (1.0 - 2.2)
-desc: In 2013, Geometry Dash started with two gamemodes, the cube and the ship.
-  Now in 2022, the game has seven unique gamemodes.
+desc: In 2013, Geometry Dash started with two game modes, the cube and the ship.
+  Now in 2022, the game has seven unique game modes.
 date: 2022-11-17T06:00:30.885Z
 tags:
   - history
@@ -9,6 +9,7 @@ tags:
 author: moldymacaronix
 image: https://img.youtube.com/vi/OQBGTr-Lb_k/maxresdefault.jpg
 imageSource: https://youtu.be/OQBGTr-Lb_k
+videoID: OQBGTr-Lb_k
 ---
 In 2013, Geometry Dash started with two gamemodes, the cube and the ship. Now in 2022, the game has seven unique gamemodes.
 
@@ -21,12 +22,6 @@ Every single gamemode in Geometry Dash, in order of addition, is as follows:
 5. Wave
 6. Robot
 7. Spider
-
-The [video below](https://youtu.be/OQBGTr-Lb_k) outlines the history of these gamemodes, gamemode modifiers, and so much more in under eight minutes!
-
-{% video %}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OQBGTr-Lb_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-{% endvideo %}
 
 What's been said so far in this article doesn't even include gamemode modifiers such as gravity portals, mini portals, dual portals, gravity rings, and countless more.
 
