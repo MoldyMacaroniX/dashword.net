@@ -1,7 +1,7 @@
 ---
 title: Full History of Geometry Dash Gamemodes (1.0 - 2.2)
-desc: In 2013, Geometry Dash started with two gamemodes, the cube and the ship.
-  Now in 2022, the game has seven unique gamemodes.
+desc: In 2013, Geometry Dash started with two game modes, the cube and the ship.
+  Now in 2022, the game has seven unique game modes.
 date: 2022-11-17T06:00:30.885Z
 tags:
   - history
