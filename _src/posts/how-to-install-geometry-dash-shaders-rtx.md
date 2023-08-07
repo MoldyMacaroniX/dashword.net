@@ -10,6 +10,7 @@ tags:
 author: brad
 image: https://img.youtube.com/vi/BAOg-u_ducs/maxresdefault.jpg
 imageSource: https://youtu.be/BAOg-u_ducs
+videoID: BAOg-u_ducs
 ---
 G﻿eometry Dash shaders and RTX gained traction about a year ago but can still be seen today. Surprisingly, many people are unaware on how to get shaders and RTX.
 
@@ -44,12 +45,6 @@ Not all keyboards have the Home key. If yours does not, you can bind another key
 {% endalert %}
 
 The recommended effects used for the shaders and RTX look are called **Bloom**. Try some of them out and see how it looks!
-
-**See a video tutorial here:**
-
-{% video %}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BAOg-u_ducs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-{% endvideo %}
 
 ---
 
