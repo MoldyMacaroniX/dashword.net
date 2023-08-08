@@ -3,11 +3,11 @@ pageSlug: geometry-dash-top-10-extreme-demon-deimos-verified-by-doggie
 title: Geometry Dash Top 10 Extreme Demon "Deimos" Verified By Doggie
 desc: Top Geometry Dash Player Doggie verified the new extreme demon and Phobos
   sequel, Deimos, by ItsHybrid and more.
-date: 2023-08-08T05:59:45.839Z
+date: 2023-08-08T17:26:56.067Z
 tags:
   - news
   - demonlist
-author: dashword
+author: liamconix
 image: https://i.ytimg.com/vi/b2yHaIk5zio/maxresdefault.jpg
 imageSource: https://youtu.be/b2yHaIk5zio
 affiliateLinks: false
