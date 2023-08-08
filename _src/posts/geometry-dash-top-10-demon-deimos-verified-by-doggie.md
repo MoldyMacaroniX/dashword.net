@@ -1,6 +1,6 @@
 ---
-pageSlug: geometry-dash-top-10-demon-deimos-verified-by-doggie
-title: Geometry Dash Top 10 Demon "Deimos" Verified By Doggie
+pageSlug: geometry-dash-top-10-extreme-demon-deimos-verified-by-doggie
+title: Geometry Dash Top 10 Extreme Demon "Deimos" Verified By Doggie
 desc: Top Geometry Dash Player Doggie verified the new extreme demon and Phobos
   sequel, Deimos, by ItsHybrid and more.
 date: 2023-08-08T05:59:45.839Z
@@ -26,7 +26,7 @@ However, a sequel to Phobos was in the works for a long time. There were actuall
 "It's kind of a good halfway point between Skele's and EndLevel's sequels," said the popular youtuber Wavix, while talking about the level as a sequel to Phobos.
 
 
-According to Doggie, Deimos is in the top 10 hardest levels in Geometry Dash, between Abyss of Darkness and Sakupen Circles. Lots of people can agree that Deimos is indeed a top 10 demon and the best sequel for Phobos yet.
+While not yet placed on the [Demon List](/posts/geometry-dash-demon-list-where-to-find-the-hardest-demons/), Doggie claims Deimos is in the [top 10 hardest levels in Geometry Dash](/posts/geometry-dash-levels-top-10-hardest-extreme-demons-2022/), between Abyss of Darkness and [Sakupen Circles](/posts/sakupen-circles-top-1/). Lots of people can agree that Deimos is indeed a top 10 demon and the best sequel to Phobos yet.
 
 
 Two days after being verified, Zoink beat Deimos, becoming the level's first victor, meaning this level will have [better accessibility than levels like Avernus](/posts/geometry-dash-avernus-remains-without-victors-3-months-after-being-placed-on-the-demon-list/). 
