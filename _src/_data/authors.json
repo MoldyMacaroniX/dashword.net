@@ -281,5 +281,11 @@
 		"key":"mkczy",
 		"name":"Mkczy",
 		"photo":"https://i.imgur.com/9cmTrBp.jpeg"
+	},
+	{
+		"key":"liamcomix",
+		"name":"LiamComix",
+		"photo":"https://i.imgur.com/z0H9bcs.png",
+		"gdbrowser":"LiamInGd"
 	}
 ]
