@@ -7,7 +7,7 @@ date: 2023-08-08T17:26:56.067Z
 tags:
   - news
   - demonlist
-author: liamconix
+author: liamcomix
 image: https://i.ytimg.com/vi/b2yHaIk5zio/maxresdefault.jpg
 imageSource: https://youtu.be/b2yHaIk5zio
 affiliateLinks: false
