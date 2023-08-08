@@ -32,7 +32,7 @@ By confirming that we can use your Article or Course, you agree that:
 
 - You claim to own all rights to your Article or Course.
 - Dashword.net can publicly publish your Work with any changes made to it and monetize it. We will still give you attribution for your Work. For Articles, you will be credited on the Article's web page. For Courses, you can credit yourself anywhere in it.
-- In addition to your Work, Dashword.net can display any of the following information you provide us on our website:
+- In addition to your Work, Dashword.net can display any of the following information that you provide us on our website. You also agree that you own the rights to the information you provide us.
     - The username you would like your Work to be published under
     - The image you would like to use as an avatar
     - The short, one or two sentence bio for your Author Page
