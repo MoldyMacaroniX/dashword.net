@@ -16,7 +16,7 @@ imageSource: https://youtu.be/bQXnREyaO34
 affiliateLinks: false
 hideAds: false
 ---
-Grief by Icedcave and more is a remake of the 2015 Geometry Dash extreme demon Slaughterhouse. In specific, it focuses on the 2015 version of the once top 1 hardest level on the [Demon List](/posts/geometry-dash-demon-list-where-to-find-the-hardest-demons/). It is [set to be verified by Doggie](/posts/geometry-dash-top-10-extreme-demon-deimos-verified-by-doggie/).
+Grief by Icedcave and more is a remake of the 2015 Geometry Dash extreme demon Slaughterhouse. In specific, it focuses on the 2015 version of the [once top 1 hardest level](/posts/breaking-acheron-takes-1-spot-on-geometry-dash-demonlist/) on the [Demon List](/posts/geometry-dash-demon-list-where-to-find-the-hardest-demons/). It is [set to be verified by Doggie](/posts/geometry-dash-top-10-extreme-demon-deimos-verified-by-doggie/).
 
 At one point, [Slaughterhouse reigned as the top 1 hardest level in Geometry Dash for over a year](/posts/geometry-dash-slaughterhouse-top-1/). While we now know this was largely due to [SpaceUK lying and hacking to keep the level on the top](/posts/top-1-geometry-dash-player-spaceuk-exposed-for-hacking-achievements/), this is still an incredible feat.
 
