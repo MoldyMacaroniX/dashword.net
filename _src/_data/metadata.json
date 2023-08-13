@@ -5,7 +5,7 @@
     "desc":"Dashword publishes Geometry Dash news, guides, reviews, opinions, lists, and all kinds of stories. All for free.",
     "image":"/assets/img/main2.png",
     "isAds":true,
-    "isBanner":false,
+    "isBanner":true,
     "feed": {
 		"subtitle": "Dashword publishes Geometry Dash news, guides, reviews, opinions, lists, and all kinds of stories. All for free.",
 		"filename": "feed.xml",
