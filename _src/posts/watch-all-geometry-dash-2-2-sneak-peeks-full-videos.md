@@ -24,6 +24,7 @@ This guide will outline how and where to watch the Geometry Dash 2.2 sneak peeks
 - [Geometry Dash 2.2 Sneak Peek 1: "Dash"](#geometry-dash-2.2-sneak-peek-1%3A-%22dash%22)
 - [Geometry Dash 2.2 Sneak Peek 2: "Explorers"](#geometry-dash-2.2-sneak-peek-2%3A-%22explorers%22)
 - [Geometry Dash 2.2 Sneak Peek 3: Platformer Level](#geometry-dash-2.2-sneak-peek-3%3A-platformer-level)
+- [Geometry Dash 2.2 Sneak Peek 4: 10 Year Anniversary]()
 - [Useful Geometry Dash 2.2 Sneak Peek Links](#useful-geometry-dash-2.2-sneak-peek-links)
 
 # How To Watch The Geometry Dash 2.2 Sneak Peeks
@@ -52,6 +53,14 @@ You can watch the third Geometry Dash 2.2 sneak peek for this unknown 2.2 platfo
 
 {% video %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/17YwHnNGScY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% endvideo %}
+
+# Geometry Dash 2.2 Sneak Peek 4: Anniversary Level
+
+You can watch the fourth Geometry Dash 2.2 sneak peek for this other unknown 2.2 platformer level [on YouTube](https://youtu.be/mWi_zuXBECw?t=1300) at the **21:40** timestamp.
+
+{% video %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mWi_zuXBECw?start=1300" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 {% endvideo %}
 
 # Useful Geometry Dash 2.2 Sneak Peek Links
