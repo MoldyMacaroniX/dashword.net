@@ -3,7 +3,7 @@ pageSlug: robtop-face-reveal-all-known-pictures-of-robtop-games
 title: "RobTop Face Reveal: All Known Pictures of RobTop Games"
 desc: RobTop has done multiple face reveals throughout his time as the sole
   Geometry Dash developer. Here are all known pictures of him.
-date: 2023-08-15T07:42:34.858Z
+date: 2023-08-15T07:52:59.955Z
 tags:
   - history
 author: dashword
