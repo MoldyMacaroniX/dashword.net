@@ -24,6 +24,7 @@ This guide will outline how and where to watch the Geometry Dash 2.2 sneak peeks
 - [Geometry Dash 2.2 Sneak Peek 1: "Dash"](#geometry-dash-2.2-sneak-peek-1%3A-%22dash%22)
 - [Geometry Dash 2.2 Sneak Peek 2: "Explorers"](#geometry-dash-2.2-sneak-peek-2%3A-%22explorers%22)
 - [Geometry Dash 2.2 Sneak Peek 3: Platformer Level](#geometry-dash-2.2-sneak-peek-3%3A-platformer-level)
+- [Geometry Dash 2.2 Sneak Peek 4: 10 Year Anniversary](#geometry-dash-2.2-sneak-peek-4%3A-10-year-anniversary)
 - [Useful Geometry Dash 2.2 Sneak Peek Links](#useful-geometry-dash-2.2-sneak-peek-links)
 
 # How To Watch The Geometry Dash 2.2 Sneak Peeks
@@ -54,6 +55,14 @@ You can watch the third Geometry Dash 2.2 sneak peek for this unknown 2.2 platfo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/17YwHnNGScY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 {% endvideo %}
 
+# Geometry Dash 2.2 Sneak Peek 4: 10 Year Anniversary
+
+You can watch the fourth Geometry Dash 2.2 sneak peek for this other unknown 2.2 platformer level [on YouTube](https://youtu.be/mWi_zuXBECw?t=1300) at the **21:40** timestamp.
+
+{% video %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mWi_zuXBECw?start=1300" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% endvideo %}
+
 # Useful Geometry Dash 2.2 Sneak Peek Links
 
 Here are some useful links about the Geometry Dash 2.2 sneak peeks:
@@ -62,6 +71,7 @@ Here are some useful links about the Geometry Dash 2.2 sneak peeks:
 * [Geometry Dash 2.2 "Dash" Sneak Peek](https://youtu.be/ipK7vQ8gEZw)
 * [Geometry Dash 2.2 "Explorers" Sneak Peek](https://youtu.be/CtEQ_EGlbQc)
 * [Geometry Dash 2.2 Platformer Level Sneak Peek](https://youtu.be/17YwHnNGScY)
+* [Geometry Dash 2.2 10 Year Anniversary Sneak Peek](https://youtu.be/mWi_zuXBECw?t=1300)
 
 ---
 
