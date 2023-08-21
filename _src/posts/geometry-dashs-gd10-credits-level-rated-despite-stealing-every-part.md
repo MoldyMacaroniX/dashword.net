@@ -100,3 +100,7 @@ The biggest problem with this controversy is the lack of ground rules. We don't 
 - No level deserves special privileges. The rules should apply to all levels just the same. Someone shouldn't get a rated level just because they are popular or had it featured in a popular video.
 
 If these two points could be met, I believe controversies like this would be far less common. The issue is nobody really understands the rules—[if there even are any](#argument-1%3A-gd10-deserves-an-exception-to-the-rule-for-being-in-the-official-gd10-video).
+
+---
+
+Feel free to let me know your opinion in the comments. I'd love to spark some healthy discussion about this topic, as this is a discussion that needs to be had in order to determine what precedents there are for rated levels. And there are precedents—such as stolen levels not being allowed.
