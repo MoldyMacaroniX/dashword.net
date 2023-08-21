@@ -80,3 +80,5 @@ Personally, I'd be fine if people used some assets I made for their own levels. 
 Perhaps something like [fair use](https://en.wikipedia.org/wiki/Fair_use) should be allowed in Geometry Dash.
 
 **This is the argument I would like future debate to stem from. The community needs to set some ground rules for when stolen assets should be allowed rather than making exceptions to certain levels for something as vague and undefined as "context."**
+
+Perhaps there should be some guidelines for rated levels. Guidelines that allow the same freedom we have now, but specifically disallow things like stolen levels and stolen assets in contexts that are not transformative.
