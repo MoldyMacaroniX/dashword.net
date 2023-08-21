@@ -104,3 +104,5 @@ If these two points could be met, I believe controversies like this would be far
 ---
 
 Feel free to let me know your opinion in the comments. I'd love to spark some healthy discussion about this topic, as this is a discussion that needs to be had in order to determine what precedents there are for rated levels. And there are precedents—such as stolen levels not being allowed.
+
+I did not go into this expecting to write a 1300 word opinion on the matter, but here we are.
