@@ -1,7 +1,9 @@
 ---
 pageSlug: geometry-dash-gd10-credits-level-rated-despite-stealing-every-part
 title: Geometry Dash's "GD10 Credits Level" Rated Despite Stealing Every Part
-desc: a
+desc: Despite RobTop unrating Geometry Dash levels with stolen assets in the
+  past, "GD10" by Floppy was rated by RobTop. In this level, every part is
+  stolen from another level.
 date: 2023-08-21T21:31:45.042Z
 tags:
   - news
@@ -12,4 +14,4 @@ imageSource: https://twitter.com/MoldyMacaroniX/status/1693726350853505219
 affiliateLinks: false
 hideAds: false
 ---
-a
+Despite RobTop unrating Geometry Dash levels with stolen assets in the past, "GD10" by Floppy was rated by RobTop. In this level, every part is stolen from another level.
