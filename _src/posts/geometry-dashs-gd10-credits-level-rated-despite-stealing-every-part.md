@@ -15,3 +15,11 @@ affiliateLinks: false
 hideAds: false
 ---
 Despite RobTop unrating Geometry Dash levels with stolen assets in the past, "GD10" by Floppy was rated by RobTop. In this level, every part is stolen from another level.
+
+The Geometry Dash commuity is divided by this decision. Some players believe the level deserves a rating due to it being in the credits of the [Geometry Dash 10 Year Anniversary video](/posts/will-geometry-dash-2-2-come-out-on-the-games-10-year-anniversary/). Others believe that is not a valid excuse to rate the level while unrating levels that use far less stolen assets.
+
+I share a less black-and-white view.
+
+# My opinion
+
+In my opinion, [GD10](https://gdbrowser.com/93618912) by Floppy, and similar levels like [Ultimate Demon Mix](https://gdbrowser.com/10229235) and [Obscurum](https://gdbrowser.com/16156623)
