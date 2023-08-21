@@ -32,7 +32,6 @@ I'm not saying that I necessarily agree with GD10 getting rated. Instead, I'm sa
 
 In a nutshell, my opinion is: [I think it’s cool that this is rated but I don’t think it’s fair.](https://twitter.com/MoldyMacaroniX/status/1693732585501819348)
 
-
 I don't care what the rules are. Perhaps stolen assets should be allowed. I'm just saying the same rules should apply to all levels just the same.
 
 ---
