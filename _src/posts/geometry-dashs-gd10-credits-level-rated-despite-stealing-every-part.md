@@ -63,7 +63,7 @@ Unlike Natural Disaster, GD10 uses its stolen parts in a different context. In G
 
 If this is a rule, however, then that means all "montage levels" should be rated. And perhaps that's a good thing. I won't say whether it is or isn't. All I'm saying is that no matter the rules, they should apply to all levels, not just GD10.
 
-If you believe that GD10 should be rated, then you should also believe that all "montage levels" should be rated. If you don't believe this, then you shouldn't use this argument as a defense. Instead, take a look at the first argument in this article, as with this logic, you are giving GD10 special privileges.
+If you believe that GD10 should be rated, then you should also believe that all "montage levels" should be rated. If you don't believe this, then you shouldn't use this argument as a defense. Instead, take a look at the first argument in this article, as with this logic, you are giving GD10 special privileges just for being in the official GD10 video.
 
 However, this enacts a very weird list of exceptions. The way I see it, if your rule needs to list exceptions, then it's not a great rule.
 
