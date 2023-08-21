@@ -32,6 +32,9 @@ I'm not saying that I necessarily agree with GD10 getting rated. Instead, I'm sa
 
 In a nutshell, my opinion is: [I think it’s cool that this is rated but I don’t think it’s fair.](https://twitter.com/MoldyMacaroniX/status/1693732585501819348)
 
+
+I don't care what the rules are. Perhaps stolen assets should be allowed. I'm just saying the same rules should apply to all levels.
+
 ---
 
 **This is where I recommend you stop reading this article.** But if you have the patience to read through a more tradition, long-form article, feel free to continue.
@@ -58,10 +61,20 @@ This is one of the better arguments I've seen. And I can see myself agreeing wit
 
 Unlike Natural Disaster, GD10 uses its stolen parts in a different context. In GD10's case, it uses the stolen parts in a montage of popular community levels.
 
-If this is a rule, however, then that means all "montage levels" should be rated. And perhaps that's a good thing. I won't say whether it is or isn't. All I'm saying is the rules should apply to all levels, not just GD10.
+If this is a rule, however, then that means all "montage levels" should be rated. And perhaps that's a good thing. I won't say whether it is or isn't. All I'm saying is that no matter the rules, they should apply to all levels, not just GD10.
 
 However, this enacts a very weird list of exceptions. The way I see it, if your rule needs to list exceptions, then it's not a great rule.
 
 Perhaps the **only kind of context** stolen assets are allowed to be used in is montage levels. I see that as very unfair, however. Perhaps other contexts should be allowed.
 
 Natural Disaster uses its stolen assets to compliment original designs rather than rip off the original level. Even Culuc, whom some assets were taken from, [agreed that the level was original enough to deserve being rated](https://twitter.com/ytCuLuC/status/1589425322940059650).
+
+Perhaps using stolen assets in such a way should be allowed. Culuc seems to think so. The problem with this argument is where do we draw the line between allowing the use of stolen assets and disallowing the use.
+
+While some might argue that there doesn't have to be a line, I would argue that there has to be. Stealing a part from a level to put into your level should probably not be allowed, at least not without significant modification.
+
+Personally, I'd be fine if people used some assets I made for their own levels. But I might not be if they rip off an entire part from one of my levels and don't make significant transformations.
+
+Perhaps something like [fair use](https://en.wikipedia.org/wiki/Fair_use) should be allowed in Geometry Dash.
+
+**This is the argument I would like future debate to stem from. The community needs to set some ground rules for when stolen assets should be allowed rather than making exceptions to certain levels for something as vague and undefined as "context."**
