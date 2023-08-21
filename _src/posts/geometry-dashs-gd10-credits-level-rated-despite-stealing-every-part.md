@@ -22,4 +22,8 @@ I share a less black-and-white view.
 
 # My opinion
 
-In my opinion, [GD10](https://gdbrowser.com/93618912) by Floppy, and similar levels like [Ultimate Demon Mix](https://gdbrowser.com/10229235) and [Obscurum](https://gdbrowser.com/16156623)
+In my opinion, [GD10](https://gdbrowser.com/93618912) by Floppy, and similar "montage levels" like [Ultimate Demon Mix](https://gdbrowser.com/10229235) and [Obscurum](https://gdbrowser.com/16156623), shouldn't necessarily be ineligible for a rate. After all, RobTop chose to rate them.
+
+Instead, I believe that all levels should follow the same rules. If GD10 is eligible for a rate, then so should levels like [Natural Disaster that feature much less stolen assets](/posts/geometry-dash-extreme-demon-natural-disaster-unrated-following-accusations/).
+
+Many will say that the situation is different for GD10, and that it deserves a rate because of its place in the official GD10 video. But I've [yet to hear](https://twitter.com/ashes2207/status/1693737941569605977) a good excuse for why that makes this level worthy of special privileges.
