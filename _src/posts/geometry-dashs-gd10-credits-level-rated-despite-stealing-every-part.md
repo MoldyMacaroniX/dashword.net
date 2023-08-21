@@ -96,5 +96,7 @@ However, I share a view similar to Culuc. I think it should've remained rated ev
 
 The biggest problem with this controversy is the lack of ground rules. We don't know what acceptable use of stolen assets are. As such, here is my proposed solution:
 
-- We need some defined rules for rated levels. What is an acceptable use of stolen assets? "Unspoken" rules are not good enough.
-- No level deserves special privileges. The rules should apply to all levels just the same.
+- We need some defined rules for rated levels. What is acceptable use of stolen assets? "Unspoken" rules are not good enough.
+- No level deserves special privileges. The rules should apply to all levels just the same. Someone shouldn't get a rated level just because they are popular or had it featured in a popular video.
+
+If these two points could be met, I believe controversies like this would be far less common. The issue is nobody really understands the rules—[if there even are any](#argument-1%3A-gd10-deserves-an-exception-to-the-rule-for-being-in-the-official-gd10-video).
