@@ -43,6 +43,8 @@ I don't care what the rules are. Perhaps stolen assets should be allowed. I'm ju
 
 Natural Disaster getting unrated set a new rule: **levels with stolen assets cannot get rated.** But is that a good rule? I'll discuss that after a few counter-arguments for why GD10 deserves to get rated, but other levels like Natural Disaster, shouldn't.
 
+In my opinion, the third argument is the most valid, and I think that's where future discussion should stem from
+
 ## Argument 1: GD10 deserves an exception to the rule for being in the official GD10 video
 
 Many will say that the situation is different for GD10, and that it deserves a rate because of its place in the official GD10 video. But I've [yet to hear](https://twitter.com/ashes2207/status/1693737941569605977) a good excuse for why that makes this level worthy of special privileges.
