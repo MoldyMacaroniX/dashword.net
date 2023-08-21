@@ -33,7 +33,7 @@ I'm not saying that I necessarily agree with GD10 getting rated. Instead, I'm sa
 In a nutshell, my opinion is: [I think it’s cool that this is rated but I don’t think it’s fair.](https://twitter.com/MoldyMacaroniX/status/1693732585501819348)
 
 
-I don't care what the rules are. Perhaps stolen assets should be allowed. I'm just saying the same rules should apply to all levels.
+I don't care what the rules are. Perhaps stolen assets should be allowed. I'm just saying the same rules should apply to all levels just the same.
 
 ---
 
@@ -92,3 +92,7 @@ Perhaps there should be some guidelines for rated levels. Guidelines that allow 
 Yes. It has since removed all stolen assets, yet remains unrated. Despite this, RobTop and Geometry Dash moderators have not yet given a reason for why it still remains unrated.
 
 However, I share a view similar to Culuc. I think it should've remained rated even with its use of external assets. I would argue they were used transformatively, and with the level being original enough on its own, it deserves to get rated.
+
+# Conclusion
+
+The biggest problem with this controversy is the lack of ground rules. We don't know what acceptable use of stolen assets are. 
