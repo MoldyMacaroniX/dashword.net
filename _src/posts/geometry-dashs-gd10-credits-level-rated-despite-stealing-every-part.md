@@ -71,7 +71,7 @@ Perhaps the **only kind of context** stolen assets should be allowed to be used 
 
 Natural Disaster uses its stolen assets to compliment original designs rather than rip off the original level. Even Culuc, whom some assets were taken from, [agreed that the level was original enough to deserve being rated](https://twitter.com/ytCuLuC/status/1589425322940059650).
 
-Perhaps using stolen assets in such a way should be allowed. Culuc seems to think so. The problem with this argument is where do we draw the line between allowing the use of stolen assets and disallowing the use.
+Perhaps using stolen assets in such a way should be allowed. Culuc seems to think so. The problem with this argument is where we draw the line between allowing the use of stolen assets and disallowing their use.
 
 While some might argue that there doesn't have to be a line, I would argue that there has to be. Stealing a part from a level to put into your level should probably not be allowed, at least not without significant modification.
 
