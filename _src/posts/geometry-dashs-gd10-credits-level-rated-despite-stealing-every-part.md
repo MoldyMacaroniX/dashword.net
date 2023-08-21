@@ -57,11 +57,11 @@ By this logic, creators should be allowed to make an entire level from stolen as
 
 ## Argument 3: GD10 deserves an exception because of the context it uses the stolen parts in
 
-This is one of the better arguments I've seen. And I can see myself agreeing with it, but it has some fatal flaws.
+This is one of the better arguments I've seen. And I can almost see myself agreeing with it, but it has some fatal flaws.
 
 Unlike Natural Disaster, GD10 uses its stolen parts in a different context. In GD10's case, it uses the stolen parts in a montage of popular community levels.
 
-If this is a rule, however, then that means all "montage levels" should be rated. And perhaps that's a good thing. I won't say whether it is or isn't. All I'm saying is that no matter the rules, they should apply to all levels, not just GD10.
+If this is a rule, however, then that means all "montage levels" should be rated. And perhaps that's a good thing. I won't say whether it is or isn't. All I'm saying is that no matter the rules, they should apply to all levels, not just GD10. If you believe that GD10 should be rated, then you should also believe that all "montage levels" should be rated.
 
 However, this enacts a very weird list of exceptions. The way I see it, if your rule needs to list exceptions, then it's not a great rule.
 
