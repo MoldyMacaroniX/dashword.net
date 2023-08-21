@@ -92,6 +92,9 @@ Yes. It has since removed all stolen assets, yet remains unrated. Despite this, 
 
 However, I share a view similar to Culuc. I think it should've remained rated even with its use of external assets. I would argue they were used transformatively, and with the level being original enough on its own, it deserves to get rated.
 
-# Conclusion
+# Conclusion & Solution
 
-The biggest problem with this controversy is the lack of ground rules. We don't know what acceptable use of stolen assets are. 
+The biggest problem with this controversy is the lack of ground rules. We don't know what acceptable use of stolen assets are. As such, here is my proposed solution:
+
+- We need some defined rules for rated levels. What is an acceptable use of stolen assets? "Unspoken" rules are not good enough.
+- No level deserves special privileges. The rules should apply to all levels just the same.
