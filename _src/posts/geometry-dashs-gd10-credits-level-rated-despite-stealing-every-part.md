@@ -27,3 +27,5 @@ In my opinion, [GD10](https://gdbrowser.com/93618912) by Floppy, and similar "mo
 Instead, I believe that all levels should follow the same rules. If GD10 is eligible for a rate, then so should levels like [Natural Disaster that feature much less stolen assets](/posts/geometry-dash-extreme-demon-natural-disaster-unrated-following-accusations/).
 
 Many will say that the situation is different for GD10, and that it deserves a rate because of its place in the official GD10 video. But I've [yet to hear](https://twitter.com/ashes2207/status/1693737941569605977) a good excuse for why that makes this level worthy of special privileges.
+
+Some also say that since GD10 doesn't try to pass the parts off as their own, that makes it worthy of a rating whereas Natural Disaster unworthy due to its stolen assets being much more discrete. But this is an unfair comparison as GD10 features entire parts that are very well known whereas Natural Disaster only steals a couple assets at most.
