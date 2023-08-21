@@ -65,9 +65,9 @@ If this is a rule, however, then that means all "montage levels" should be rated
 
 If you believe that GD10 should be rated, then you should also believe that all "montage levels" should be rated. If you don't believe this, then you shouldn't use this argument as a defense. Instead, take a look at the first argument in this article, as with this logic, you are giving GD10 special privileges just for being in the official GD10 video. If you think there is another argument not discussed here that works with this logic, feel free to leave a comment on this article.
 
-However, this enacts a very weird list of exceptions. The way I see it, if your rule needs to list exceptions, then it's not a great rule.
+However, if you use this precedent, you will probably have to come up with a very weird list of exceptions. The way I see it, if your precedent needs to list exceptions, then it's not a great precedent.
 
-Perhaps the **only kind of context** stolen assets are allowed to be used in is montage levels. I see that as very unfair, however. Perhaps other contexts should be allowed.
+Perhaps the **only kind of context** stolen assets should be allowed to be used in is montage levels. I see that as very unfair, however. Perhaps other contexts should be allowed.
 
 Natural Disaster uses its stolen assets to compliment original designs rather than rip off the original level. Even Culuc, whom some assets were taken from, [agreed that the level was original enough to deserve being rated](https://twitter.com/ytCuLuC/status/1589425322940059650).
 
