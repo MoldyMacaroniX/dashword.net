@@ -24,11 +24,21 @@ I share a less black-and-white view.
 
 Now, let's switch from fact to opinion.
 
-In my opinion, [GD10](https://gdbrowser.com/93618912) by Floppy, and similar "montage levels" like [Ultimate Demon Mix](https://gdbrowser.com/10229235) and [Obscurum](https://gdbrowser.com/16156623) shouldn't necessarily be ineligible for a rate. After all, RobTop chose to rate them.
+In my opinion, [GD10](https://gdbrowser.com/93618912) by Floppy, and similar "montage levels" like [Ultimate Demon Mix](https://gdbrowser.com/10229235) and [Obscurum](https://gdbrowser.com/16156623) shouldn't necessarily be ineligible for a rate. After all, [RobTop chose to rate them](/posts/rate-standards/).
 
 Instead, I believe that all levels should follow the same rules. If GD10 is eligible for a rate, then so should levels like [Natural Disaster that feature much less stolen assets](/posts/geometry-dash-extreme-demon-natural-disaster-unrated-following-accusations/).
 
-Natural Disaster getting unrated set a new rule: **levels with stolen assets cannot get rated.** But is that a good rule? I'll discuss that after a few counter-arguments.
+I'm not saying that I necessarily agree with GD10 getting rated. Instead, I'm saying that **if GD10 deserves to get rated, then so does other levels with stolen assets.** The rules should apply to all levels.
+
+In a nutshell, my opinion is: [I think it’s cool that this is rated but I don’t think it’s fair.](https://twitter.com/MoldyMacaroniX/status/1693732585501819348)
+
+---
+
+**This is where I recommend you stop reading this article.** But if you have the patience to read through a more tradition, long-form article, feel free to continue.
+
+---
+
+Natural Disaster getting unrated set a new rule: **levels with stolen assets cannot get rated.** But is that a good rule? I'll discuss that after a few counter-arguments for why GD10 deserves to get rated, but other levels like Natural Disaster, shouldn't.
 
 ## Argument 1: GD10 deserves an exception to the rule
 
@@ -39,3 +49,19 @@ Many will say that the situation is different for GD10, and that it deserves a r
 Some also say that since GD10 doesn't try to pass the parts off as their own, that makes it worthy of a rating whereas Natural Disaster unworthy due to its stolen assets being much more discrete. But this is an unfair comparison as GD10 features entire parts that are very well known whereas Natural Disaster only steals a couple assets at most.
 
 And regardless, even if Natural Disaster recognized the creators of the original stolen assets (which it did before removing them altogether), I doubt the community would let it get rated. Hence why this argument doesn't make much sense.
+
+By this logic, creators should be allowed to make an entire level from stolen assets and get it rated so long as they credit the original creators. Perhaps you agree with this idea, but I think many of the people that use this argument do not. If you use this argument but also agree with this idea, leave a comment on this article! I'd love to hear your reasoning.
+
+## Argument 3: GD10 deserves an exception because of the context it uses the stolen parts in
+
+This is one of the better arguments I've seen. And I can see myself agreeing with it, but it has some fatal flaws.
+
+Unlike Natural Disaster, GD10 uses its stolen parts in a different context. In GD10's case, it uses the stolen parts in a montage of popular community levels.
+
+If this is a rule, however, then that means all "montage levels" should be rated. And perhaps that's a good thing. I won't say whether it is or isn't. All I'm saying is the rules should apply to all levels, not just GD10.
+
+However, this enacts a very weird list of exceptions. The way I see it, if your rule needs to list exceptions, then it's not a great rule.
+
+Perhaps the **only kind of context** stolen assets are allowed to be used in is montage levels. I see that as very unfair, however. Perhaps other contexts should be allowed.
+
+Natural Disaster uses its stolen assets to compliment original designs rather than rip off the original level. Even Culuc, whom some assets were taken from, [agreed that the level was original enough to deserve being rated](https://twitter.com/ytCuLuC/status/1589425322940059650).
