@@ -84,3 +84,9 @@ Perhaps something like [fair use](https://en.wikipedia.org/wiki/Fair_use) should
 **This is the argument I would like future debate to stem from. The community needs to set some ground rules for when stolen assets should be allowed rather than making exceptions to certain levels for something as vague and undefined as "context."**
 
 Perhaps there should be some guidelines for rated levels. Guidelines that allow the same freedom we have now, but specifically disallow things like stolen levels and stolen assets in contexts that are not transformative.
+
+---
+
+# Should Natural Disaster be rated?
+
+Yes. It has since removed all stolen assets, yet remains unrated. Despite this, RobTop and Geometry Dash moderates have not yet given a reason for why it still remains unrated.
