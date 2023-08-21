@@ -90,3 +90,5 @@ Perhaps there should be some guidelines for rated levels. Guidelines that allow 
 # Should Natural Disaster be rated?
 
 Yes. It has since removed all stolen assets, yet remains unrated. Despite this, RobTop and Geometry Dash moderates have not yet given a reason for why it still remains unrated.
+
+However, I share a view similar to Culuc. I think it should've remained rated even with its use of external assets. I would argue they were used transformatively, and with the level being original enough on its own, it deserves to get rated.
