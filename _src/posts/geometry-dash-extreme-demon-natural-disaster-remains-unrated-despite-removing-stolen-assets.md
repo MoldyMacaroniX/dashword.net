@@ -23,3 +23,7 @@ On November 7, 2022, popular Geometry Dash creator Culuc [revealed that Natural 
 Despite saying he believes the level should still be rated, RobTop unrated the level.
 
 As a result of this, Natural Disaster was updated to remove the stolen assets. However, this level has still remained unrated for nearly a year.
+
+The fact that this level is still unrated was brought back into light after [GD10 by Floppy was rated by RobTop](/posts/geometry-dash-gd10-credits-level-rated-despite-stealing-every-part/) on August 21.
+
+Despite GD10 featuring far more stolen assets than Natural Disaster—with every part being taken from another level—it got rated whereas Natural Disaster has remained unrated.
