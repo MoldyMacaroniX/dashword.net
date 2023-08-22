@@ -26,4 +26,6 @@ As a result of this, Natural Disaster was updated to remove the stolen assets. H
 
 The fact that this level is still unrated was brought back into light after [GD10 by Floppy was rated by RobTop](/posts/geometry-dash-gd10-credits-level-rated-despite-stealing-every-part/) on August 21.
 
-Despite GD10 featuring far more stolen assets than Natural Disaster—with every part being taken from another level—it got rated whereas Natural Disaster has remained unrated.
+Despite GD10 featuring far more stolen assets than Natural Disaster—with every part being taken from another level—it got rated, whereas Natural Disaster has remained unrated.
+
+Whether or not this means Natural Disaster deserves a rate, or whether GD10 doesn't deserve to be rated, has been the source of [much debate](/posts/geometry-dash-gd10-credits-level-rated-despite-stealing-every-part/#my-opinion) as of late.
