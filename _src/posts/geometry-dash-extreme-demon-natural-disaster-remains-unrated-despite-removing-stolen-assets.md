@@ -5,7 +5,7 @@ title: Geometry Dash Extreme Demon "Natural Disaster" Remains Unrated Despite
 desc: After being unrated for containing stolen assets nearly a year ago,
   Geometry Dash top 10 extreme demon Natural Disaster has remained unrated
   despite removing the stolen assets.
-date: 2023-08-22T08:51:34.857Z
+date: 2023-08-22T09:05:22.356Z
 tags:
   - news
   - demonlist
