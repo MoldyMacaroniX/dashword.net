@@ -3,7 +3,8 @@ pageSlug: geometry-dash-extreme-demon-natural-disaster-remains-unrated-despite-r
 title: Geometry Dash Extreme Demon "Natural Disaster" Remains Unrated Despite
   Removing Stolen Assets
 desc: After being unrated for containing stolen assets nearly a year ago,
-  Geometry Dash top 10 extreme demon Natural Disaster has remained unrated.
+  Geometry Dash top 10 extreme demon Natural Disaster has remained unrated
+  despite removing the stolen assets.
 date: 2023-08-22T08:51:34.857Z
 tags:
   - news
@@ -14,7 +15,7 @@ imageSource: https://youtu.be/pncIrL1iWVg
 affiliateLinks: false
 hideAds: false
 ---
-After being [unrated for containing stolen assets](/posts/geometry-dash-extreme-demon-natural-disaster-unrated-following-accusations/) nearly a year ago, Geometry Dash [top 10 extreme demon Natural Disaster](/posts/geometry-dash-top-10-level-natural-disaster-verified-by-helix/) has remained unrated.
+After being [unrated for containing stolen assets](/posts/geometry-dash-extreme-demon-natural-disaster-unrated-following-accusations/) nearly a year ago, Geometry Dash [top 10 extreme demon Natural Disaster](/posts/geometry-dash-top-10-level-natural-disaster-verified-by-helix/) has remained unrated despite removing the stolen assets.
 
 Neither RobTop Games or any Geometry Dash moderators have commented on why the level hasn't been rated.
 
