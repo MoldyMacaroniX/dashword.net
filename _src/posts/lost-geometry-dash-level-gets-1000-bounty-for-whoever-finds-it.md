@@ -8,7 +8,7 @@ tags:
   - news
 author: moldymacaronix
 image: https://img.youtube.com/vi/xkWfvluzBZE/maxresdefault.jpg
-imageSource: https://youtu.be/xkWfvluzBZE?si=yymF5Rz3A5b0WZg3
+imageSource: https://youtu.be/xkWfvluzBZE
 affiliateLinks: false
 hideAds: false
 ---
@@ -21,3 +21,5 @@ As such, MatMart has decided to put a $1000 bounty on the level for anyone who c
 The full version of Ice Carbon Titan X was only played by about 300 people before it was deleted. Some players who completed it in practice mode admit that they don't remember much about the level. This means that unlike the [Element 111 Rg situation](/posts/geometry-dash-element-111-rg-found-but-theres-a-catch/), Ice Carbon Titan X cannot be restored by memory.
 
 With all this taken into situation, MatMart considers this large bounty justified. If this level is found, it would technically take the title of [most expensive Geometry Dash level](/posts/layout-sold/).
+
+You can watch [MatMart's video on the matter here](https://youtu.be/xkWfvluzBZE).
