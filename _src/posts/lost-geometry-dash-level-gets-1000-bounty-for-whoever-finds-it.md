@@ -16,7 +16,7 @@ hideAds: false
 ---
 Geometry Dash YouTuber MatMart has placed a $1000 bounty on the lost level "Ice Carbon Titan X" by Roadbose, also known as Roadkiller.
 
-Ice Carbon Titan X is an extreme demon that was deleted after 3 days by its creator, Roadbose. Only the first 5% has been restored, with the remaining 95% being a mystery.
+Ice Carbon Titan X is an [extreme demon](/categories/demonlist/) that was deleted after 3 days by its creator, Roadbose. Only the first 5% has been restored, with the remaining 95% being a mystery.
 
 As such, MatMart has decided to put a $1000 bounty on the level for anyone who can find the level. He also said he would distribute the bounty to anyone who could find more information regarding it.
 
