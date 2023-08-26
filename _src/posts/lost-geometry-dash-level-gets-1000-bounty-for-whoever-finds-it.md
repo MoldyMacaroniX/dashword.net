@@ -6,9 +6,11 @@ desc: Geometry Dash YouTuber MatMart has placed a $1000 bounty on the lost level
 date: 2023-08-26T20:35:36.726Z
 tags:
   - news
+  - video
 author: moldymacaronix
 image: https://img.youtube.com/vi/xkWfvluzBZE/maxresdefault.jpg
 imageSource: https://youtu.be/xkWfvluzBZE
+videoID: xkWfvluzBZE
 affiliateLinks: false
 hideAds: false
 ---
