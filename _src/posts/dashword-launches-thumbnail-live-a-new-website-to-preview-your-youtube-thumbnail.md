@@ -9,7 +9,7 @@ date: 2023-08-27T08:07:10.442Z
 tags:
   - editorial
 author: dashword
-image: /assets/img/dashword2.png
+image: https://www.thumbnail.live/assets/og.png
 affiliateLinks: false
 hideAds: false
 ---
