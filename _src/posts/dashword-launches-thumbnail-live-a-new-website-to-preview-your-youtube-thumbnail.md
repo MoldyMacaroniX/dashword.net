@@ -23,4 +23,4 @@ With Thumbnail.live, you can do the following:
 - [Preview your video on the YouTube homepage alongside other videos](https://www.thumbnail.live/feed/)
 - [Preview your YouTube comments before you post them](https://www.thumbnail.live/comment/)
 
-Check out Thumbnail.live today! If you would like to contact Thumbnail.live support, you can [contact us](/contact/), just specify that you are looking for Thumbnail.live support and not Dashword.net support!
+Check out Thumbnail.live today! If you would like to contact Thumbnail.live support, you can [contact us](/contact/), just specify that you are looking for Thumbnail.live support and not Dashword.net support! You can [read more about Thumbnail.live support with this link](https://www.thumbnail.live/support/contact/).
