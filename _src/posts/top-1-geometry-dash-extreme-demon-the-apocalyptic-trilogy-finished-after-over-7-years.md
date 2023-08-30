@@ -10,14 +10,14 @@ tags:
   - news
   - demonlist
 author: mkczy
-image: https://img.youtube.com/vi/HDMMEpCWncg/maxresdefault.jpg
+image: https://img.youtube.com/vi/HDMMEpCWncg/maxresdefault.jpgA
 imageSource: https://youtu.be/HDMMEpCWncg
 affiliateLinks: false
 hideAds: false
 ---
 The Apocalyptic Trilogy is an [upcoming top 1 extreme demon](/posts/geometry-dash-top-1-extreme-demon-tidal-wave-critiqued-as-controversial-but-original/) set to be verified by Trick. After over 7 years of creating, the APTeam has finally finished decorating it.
 
-The Apocalyptic Trilogy is a level combining the gameplay and structuring of Cataclysm, Bloodbath, and Aftermath, the first two of which have been top 1 demons at some point.
+The Apocalyptic Trilogy is a level combining the gameplay and structuring of Cataclysm, Bloodbath, and Aftermath, the first two of which have been top 1 demons on the [Geometry Dash Demon List](/posts/geometry-dash-demon-list-where-to-find-the-hardest-demons/) at some point.
 
 Does this sound familiar? Well, this has been done before in a level called Aftercatabath.
 
@@ -36,3 +36,5 @@ Some parts have a more true red extreme demon theme and look a little more tradi
 I will say that some parts weren't merged super well, but that is a small problem. There are other things I like, such as the fact that it is an XXL level and has coins. The last top one to do that was Plasma Pulse Finale.
 
 All in all, I would say that that The Apocalyptic Trilogy is an excellent level.
+
+Like The Apocalyptic Trilogy, levels like [Grief by Icedcave and more](/posts/geometry-dash-slaughterhouse-sequel-grief-verified-and-set-to-be-verified-by-doggie/) and [Deimos verified by ItsHybrid](/posts/geometry-dash-top-10-extreme-demon-deimos-verified-by-doggie/) are other top extreme demons taking the community by storm.
