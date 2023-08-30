@@ -21,7 +21,7 @@ The Apocalyptic Trilogy is a level combining the gameplay and structuring of Cat
 
 Does this sound familiar? Well, this has been done before in a level called Aftercatabath.
 
-The gameplay has all been buffed from Aftercatabath and lasts as just long as Dimrain47's classic song *At The Speed of Light*, which is about 4 minutes long.
+The gameplay has all been buffed from Aftercatabath and lasts just long as Dimrain47's classic hit *At The Speed of Light*, which is about 4 minutes long.
 
 Speaking of the song, in The Apocalyptic Trilogy's preview, the song appears to be a heavy metal cover of *At The Speed of Light*.
 
