@@ -23,7 +23,16 @@ Does this sound familiar? Well, this has been done before in a level called Afte
 
 The gameplay has all been buffed from Aftercatabath and lasts as long as Dimrain47's classic song *At The Speed of Light*, which is about 4 minutes long.
 
-Speakinf of the song, in The Apocalyptic Trilogy's preview, the song appears to be a heavy metal cover of *At The Speed of Light*.
+Speaking of the song, in The Apocalyptic Trilogy's preview, the song appears to be a heavy metal cover of *At The Speed of Light*.
 
 Popular YouTuber Aeon Air has expressed a bit of concern for the gameplay in the fact that it might be unbalanced due to the buffing, and I somewhat agree.
-Still, there is a point to be made in that the levels APT was based on are also unbalanced. Now the decoration is stunning. It’s a change from the red levels, as it has a pretty original hellscape with lava, fire, rock and many skulls, all looking pretty realistic, overall going for that magma cavern theme. Some parts have a more core hell theme and look a little more traditional, but they are well-made and don't stick out like a sore thumb. The decoration also has added detail to make each part look unique compared to the next, instead of just to make it more detailed. I will say that some parts don't merge very well, but that is a small problem. There are other things I like, such as the fact that it is an XXL level and has coins. The last top one to do that was PFP. All in all, I would say that It’s an excellent level.
+
+Still, there is a point to be made in that the levels The Apocalyptic Trilogy was based on (Cataclysm, Bloodbath, and Aftermath) are also unbalanced.
+
+The decoration in The Apocalyptic Trilogy is stunning. It's a change from other red extreme demons, as it has a pretty original theme with lava, fire, rocks and many skulls. This all looks very realistic, overall going for a magma cavern theme.
+
+Some parts have a more core red extreme demon theme and look a little more traditional, but they are well-made and don't stick out like a sore thumb. The decorators also added each detail to make each part look unique instead of just overdecorated it.
+
+I will say that some parts weren't merged super well, but that is a small problem. There are other things I like, such as the fact that it is an XXL level and has coins. The last top one to do that was Plasma Pulse Finale.
+
+All in all, I would say that that The Apocalyptic Trilogy is an excellent level.
