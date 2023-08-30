@@ -3,8 +3,8 @@ pageSlug: top-1-geometry-dash-extreme-demon-the-apocalyptic-trilogy-finished-aft
 title: Top 1 Geometry Dash Extreme Demon "The Apocalyptic Trilogy" Finished
   After Over 7 Years
 desc: The Apocalyptic Trilogy is an upcoming top 1 extreme demon set to be
-  verified by Trick. After over 7 years of creating, APTeam has finally finished
-  decorating it.
+  verified by Trick. After over 7 years of creating, the APTeam has finally
+  finished decorating it.
 date: 2023-08-30T09:10:17.207Z
 tags:
   - news
@@ -15,7 +15,7 @@ imageSource: https://youtu.be/HDMMEpCWncg
 affiliateLinks: false
 hideAds: false
 ---
-The Apocalyptic Trilogy is an upcoming top 1 extreme demon set to be verified by Trick. After over 7 years of creating, APTeam has finally finished decorating it.
+The Apocalyptic Trilogy is an [upcoming top 1 extreme demon](/posts/geometry-dash-top-1-extreme-demon-tidal-wave-critiqued-as-controversial-but-original/) set to be verified by Trick. After over 7 years of creating, the APTeam has finally finished decorating it.
 
 The Apocalyptic Trilogy is a level combining the gameplay and structuring of Cataclysm, Bloodbath, and Aftermath, the first two of which have been top 1 demons at some point.
 
