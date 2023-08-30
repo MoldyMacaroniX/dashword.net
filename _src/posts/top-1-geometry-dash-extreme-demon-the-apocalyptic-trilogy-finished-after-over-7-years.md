@@ -10,7 +10,8 @@ tags:
   - news
   - demonlist
 author: mkczy
-image: A
+image: https://img.youtube.com/vi/HDMMEpCWncg/maxresdefault.jpg
+imageSource: https://youtu.be/HDMMEpCWncg
 affiliateLinks: false
 hideAds: false
 ---
