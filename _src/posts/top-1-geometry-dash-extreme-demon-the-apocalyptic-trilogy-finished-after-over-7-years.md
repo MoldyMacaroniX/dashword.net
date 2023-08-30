@@ -21,17 +21,17 @@ The Apocalyptic Trilogy is a level combining the gameplay and structuring of Cat
 
 Does this sound familiar? Well, this has been done before in a level called Aftercatabath.
 
-The gameplay has all been buffed from Aftercatabath and lasts as long as Dimrain47's classic song *At The Speed of Light*, which is about 4 minutes long.
+The gameplay has all been buffed from Aftercatabath and lasts as just long as Dimrain47's classic song *At The Speed of Light*, which is about 4 minutes long.
 
 Speaking of the song, in The Apocalyptic Trilogy's preview, the song appears to be a heavy metal cover of *At The Speed of Light*.
 
-Popular YouTuber Aeon Air has expressed a bit of concern for the gameplay in the fact that it might be unbalanced due to the buffing, and I somewhat agree.
+Popular YouTuber [AeonAir](https://youtu.be/q20g_Wb3zEM?si=16jiMX_-XAX_P2BM) has [expressed a bit of concern](/posts/geometry-dash-top-1-extreme-demon-tidal-wave-critiqued-as-controversial-but-original/) for the gameplay in the fact that it might be unbalanced due to the buffing, and I somewhat agree.
 
 Still, there is a point to be made in that the levels The Apocalyptic Trilogy was based on (Cataclysm, Bloodbath, and Aftermath) are also unbalanced.
 
 The decoration in The Apocalyptic Trilogy is stunning. It's a change from other red extreme demons, as it has a pretty original theme with lava, fire, rocks and many skulls. This all looks very realistic, overall going for a magma cavern theme.
 
-Some parts have a more core red extreme demon theme and look a little more traditional, but they are well-made and don't stick out like a sore thumb. The decorators also added each detail to make each part look unique instead of just overdecorated it.
+Some parts have a more true red extreme demon theme and look a little more traditional, but they are well-made and don't stick out like a sore thumb. The decorators placed each detail to make each part look unique rather than to just overdecorated it.
 
 I will say that some parts weren't merged super well, but that is a small problem. There are other things I like, such as the fact that it is an XXL level and has coins. The last top one to do that was Plasma Pulse Finale.
 
