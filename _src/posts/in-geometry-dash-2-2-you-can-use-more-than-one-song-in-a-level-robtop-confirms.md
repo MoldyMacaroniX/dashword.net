@@ -18,4 +18,6 @@ hideAds: false
 
 RobTop shared a [video](https://twitter.com/ZURC_99/status/1661426443237183488) that showcased the feature in action. In the video, it shows an example [2.2 platformer level](/posts/geometry-dash-2-2-features-that-explain-why-the-update-is-taking-so-long/) with the song *Stereo Madness*. After a while, *Stereo Madness* slowly fades out, and [after a sound effect plays](/posts/final-geometry-dash-2-2-sneak-peek-released-by-robtop-games/), a new song starts playing.
 
-This is a feature that many were hoping for.
+This is a feature that many were hoping for. Platformer levels work best with multiple soundtracks, so with this featuring coming in 2.2, it will lead to amazing platformer levels beyond anything we've currently seen in the [Geometry Dash 2.2 private server](/posts/geometry-dash-2-2-private-server-download-install/).
+
+It is unknown whether this feature will be available in normal levels as RobTop only confirmed that platformer levels will be able to use it without commenting on its wider availability.
