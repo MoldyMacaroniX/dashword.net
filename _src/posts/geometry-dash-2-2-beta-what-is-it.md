@@ -13,6 +13,10 @@ affiliateLinks: false
 ---
 The term "Geometry Dash 2.2 Beta" has been thrown around quite a lot. But what does it really mean?
 
+{% alert %}
+RobTop Games has since released an official Geometry Dash 2.2 beta. While it is private, this definition has largely replaced the meaning of "Geometry Dash 2.2 beta" as described in this article. [Use this link to read the full story](/posts/closed-geometry-dash-2-2-beta-released-on-steam/).
+{% endalert %}
+
 Geometry Dash 2.2 Beta is used to describe methods of getting early access to Geometry Dash 2.2. This includes using the [2.2 Geometry Dash Private Server](/posts/geometry-dash-2-2-editor-unlocked-how-to-get-the-2-2-level-editor-2022/), or abusing bugs to access 2.2 content from any of the following updated games:
 
 - Geometry Dash SubZero 
