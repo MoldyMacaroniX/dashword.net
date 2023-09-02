@@ -4,7 +4,7 @@ title: In Geometry Dash 2.2 You Can Use More Than One Song In A Level, RobTop Co
 desc: RobTop Games has confirmed that you can use more than one song in a level
   in Geometry Dash 2.2. This means players will be allowed to use more than one
   song in their levels this coming October once update 2.2 releases.
-date: 2023-09-02T04:36:34.739Z
+date: 2023-09-02T04:50:52.183Z
 tags:
   - news
   - "2.2"
