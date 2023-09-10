@@ -9,8 +9,8 @@ tags:
   - news
   - demonlist
 author: moldymacaronix
-image: https://twitter.com/today_gd/status/1700680162411528474
-imageSource: https://pbs.twimg.com/media/F5oHdhIW0AAR2UE?format=jpg&name=large
+image: https://pbs.twimg.com/media/F5oHdhIW0AAR2UE?format=jpg&name=large
+imageSource: https://twitter.com/today_gd/status/1700680162411528474
 affiliateLinks: false
 hideAds: false
 ---
