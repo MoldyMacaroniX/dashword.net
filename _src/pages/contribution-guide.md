@@ -11,7 +11,9 @@ In particular, we are looking for Geometry Dash related news, guides, and storie
 
 We want to help out new players while showing them the potential the game has.
 
+{% alert %}
 If you would like to contribute a course instead of an article, see our [course contribution guide](/contribute-courses/).
+{% endalert %}
 
 # What we recommend
 
@@ -32,9 +34,11 @@ If you are looking for inspiration, check out the categories listed above.
 
 We encourage you to write out of passion, but if you want to hear some numbers:
 
-- Dashword has over 20,000 monthly readers!
+- Dashword has over 30,000 monthly readers!
 - Dashword gets over 50,000 views every month!
-- Dashword averages over 300,000 impressions every month!
+- Dashword averages over 800,000 impressions every month!
+
+You can read our most up-to-date stats in our [editorial category](/categories/editorial/).
 
 On top of those, Dashword ranks high in Google Search for many Geometry Dash search queries.
 

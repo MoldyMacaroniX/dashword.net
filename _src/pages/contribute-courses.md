@@ -7,7 +7,9 @@ permalink: /contribute-courses/
 
 Do you have a course you want to share with the world? Dashword is your place to share it!
 
+{% alert %}
 If you would like to contribute an article instead of a course, see our [article contribution guide](/contribute/).
+{% endalert %}
 
 So long as your course is appropriate for all audiences and is at least somewhat related to Geometry Dash, we will be happy to host it for you, for free. We only have the following rules:
 
