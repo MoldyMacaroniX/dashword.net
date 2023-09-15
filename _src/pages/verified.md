@@ -20,6 +20,10 @@ In order to be eligible for the verified badge, you must meet at least one of th
 
 In addition, the respective platform above that meets the verified badge requirements must be involved in Geometry Dash.
 
+{% alert %}
+Some exceptions to these requirements are made for Dashword staff and official Dashword partners. But otherwise, you need to meet these requirements to get verified.
+{% endalert %}
+
 You also must be an author on this website — *we can't verify you if you don't have any articles!*
 
 # I meet the requirements, now what?
