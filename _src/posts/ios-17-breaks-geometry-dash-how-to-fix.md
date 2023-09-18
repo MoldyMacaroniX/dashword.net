@@ -28,6 +28,16 @@ Some iOS devices might be able to run Geometry Dash on iOS 17. While no such lis
 
 We will update this article once a list of devices able to run Geometry Dash on iOS 17 is released. So far, no such list has been released.
 
+But if you can't do this, we have two more solutions you can try.
+
+# Play Geometry Dash On Another Device
+
+If you can't transfer your data, you might be able to play Geometry Dash on another device with any data you have saved to the cloud. If you have a registered account on Geometry Dash that you've saved recently, you can play Geometry Dash on an Android device or on a PC and load your data to continue from when you last saved your data.
+
+If you haven't saved your data in a while, there is one more solution that we know for sure will work.
+
 # Wait For Geometry Dash 2.2
 
 The simplest solution is to just wait for [Geometry Dash 2.2](/categories/2.2/). Update 2.2 fixes this bug, meaning you will be able to play the game again once it releases in October.
+
+RobTop Games, the company behind Geometry Dash, confirmed that update 2.2 is releasing in October of 2023. While not giving a specific day, you can rest assured knowing that once Geometry Dash 2.2 is released, you will be able to run Geometry Dash again.
