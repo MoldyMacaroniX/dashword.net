@@ -4,7 +4,7 @@ title: "iOS 17 Breaks Geometry Dash: How To Fix"
 desc: New reports show that iOS 17 breaks Geometry Dash by crashing the game on
   launch. This means if you have iOS 17 installed on your Apple device with
   Geometry Dash, you might be unable to start the game.
-date: 2023-09-18T22:13:56.236Z
+date: 2023-09-18T22:30:21.344Z
 tags:
   - news
   - guide
