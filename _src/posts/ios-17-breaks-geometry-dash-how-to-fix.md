@@ -24,7 +24,9 @@ If you already have iOS 17 installed, here are some ways to fix it and play Geom
 
 # Transfer Your Data To Another iOS Device
 
-Some iOS devices might be able to run Geometry Dash on iOS 17. While no such list exists yet, if you know an iOS device that can run Geometry Dash on iOS 17, you can transfer your device data to it.
+Some iOS devices might be able to run Geometry Dash on iOS 17. While no such list has released yet, if you know an iOS device that can run Geometry Dash on iOS 17, you can transfer your device data to it and play on it instead.
+
+We will update this article once a list of devices able to run Geometry Dash on iOS 17 is released. So far, no such list has been released.
 
 # Wait For Geometry Dash 2.2
 
