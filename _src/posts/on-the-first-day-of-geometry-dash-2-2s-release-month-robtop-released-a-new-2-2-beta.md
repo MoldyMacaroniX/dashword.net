@@ -1,7 +1,6 @@
 ---
-pageSlug: on-first-day-of-geometry-das-2-2-release-month-robtop-released-new-2-2-beta
-title: On The First Day Of Geometry Dash 2.2's Release Month RobTop Released A
-  New 2.2 Beta
+pageSlug: on-first-day-of-geometry-dash-2-2-release-month-robtop-releases-new-2-2-beta
+title: On First Day Of Geometry Dash 2.2 Release Month RobTop Releases New 2.2 Beta
 desc: On October 1st, 2023, RobTop released a new Geometry Dash 2.2 beta. Like
   the previous two, this one isn't available to the public, but what sets this
   one apart is that it was released on the first day of October, which is also
