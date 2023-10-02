@@ -23,3 +23,13 @@ The Lightning Road by Timeless Real is considered one of the easiest Geometry Da
 # The Nightmare
 
 The Nightmare by Jax is regarded as one of the easiest Geometry Dash demon. If you want a free demon, completing this and getting its 10 stars should be easy.
+
+**Level ID:** 13519
+
+![The Nightmare](https://pm1.aminoapps.com/7170/9fb602da968f8c6f6a23494e4ae06850f0291ce6r1-1920-1080v2_hq.jpg)
+
+[Image Source.](https://aminoapps.com/c/geometry-dash/page/blog/the-nightmare-review-parody/ZD27_EXCBuQLD52K4qplKbm1XkW56ZPQXv)
+
+# Iris Gradu
+
+Don't let its medium demon difficulty fool you, this level is definitely an easy demon! So long as you play the part at 45% in practice mode, you should have no issue beating this level.
