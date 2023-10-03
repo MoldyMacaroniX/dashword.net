@@ -32,6 +32,8 @@ During all this, the Geometry Dash community got [#FreeDoggie](https://twitter.c
 
 YouTube has supposedly reached out to Doggie which means his channel should be restored shortly.
 
+This is a developing situation. This article will be updated with new information as it comes out.
+
 # This method of hacking is not new
 
 This method of stealing channels is not new. [Linus Tech Tips](https://youtu.be/yGXaAWbzl5A?si=3T9YF2Da_xLmKJlx) got hacked a while back using a method near identical to this one, showing that anyone can fall for this trick.
@@ -39,3 +41,7 @@ This method of stealing channels is not new. [Linus Tech Tips](https://youtu.be/
 [Danzmen](https://www.youtube.com/@danzmen9965/featured), another Geometry Dash YouTuber, also got hacked via a similar method several years ago.
 
 Needless to say, seeing how even big channels are being affected by this, [YouTube should consider doing more](https://twitter.com/MoldyMacaroniX/status/1709171944749228476).
+
+---
+
+_**October 3, 11:16 AM EDT:** Original article is posted._
