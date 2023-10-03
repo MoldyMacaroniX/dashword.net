@@ -5,7 +5,7 @@ desc: On October 2, 2023, Geometry Dash YouTuber Doggie was hacked and had his
   YouTube channel stolen shortly after starting a live stream. The hacker
   demanded that Doggie rebeat the infamous top 1 extreme demon Slaughterhouse to
   get his channel back.
-date: 2023-10-03T14:53:57.693Z
+date: 2023-10-03T15:16:41.957Z
 tags:
   - news
   - featured
