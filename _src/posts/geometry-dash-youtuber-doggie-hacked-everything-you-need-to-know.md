@@ -23,17 +23,19 @@ Shortly after, the hacker finally managed to end Doggie's stream.
 
 From there on out, the hacker rebranded Doggie's channel to a fake company and started a new live stream to promote a crypto scam, but not after a [series of embarrassing community posts](https://twitter.com/sdslayer100/status/1709167146725736800) attempting to lie about the situation, but just making the hacker look like a child instead.
 
-![The hacker leaving embarassing ](https://pbs.twimg.com/media/F7guddha0AAdF6g?format=jpg&name=large)
+![The hacker leaving embarrassing community posts on Doggie's channel, making himself look like a child.](https://pbs.twimg.com/media/F7guddha0AAdF6g?format=jpg&name=large)
+
+*"Ripple US" is what Doggie's channel was renamed to. Do not engage with it until it has been restored. Assume everything it posts is a scam.*
 
 During all this, the Geometry Dash community got [#FreeDoggie](https://twitter.com/search?q=%23FreeDoggie&src=typed_query&f=top) trending on Twitter (now X).
 ![#FreeDoggie trending on Twitter/X under the topic of Technology.](https://media.discordapp.net/attachments/392087938239954950/1158781653112586260/image.png?ex=651d7f03&is=651c2d83&hm=55f49eac42c7e3462047b2b9dbbc9ad5d9fc2a215cf1b74463fcfda9de736203&=&width=428&height=92)
 
 YouTube has supposedly reached out to Doggie which means his channel should be restored shortly.
 
-# Doggie being hacked is not new
+# This method of hacking is not new
 
 This method of stealing channels is not new. [Linus Tech Tips](https://youtu.be/yGXaAWbzl5A?si=3T9YF2Da_xLmKJlx) got hacked a while back using a method near identical to this one, showing that anyone can fall for this trick.
 
-[Danzmen](https://www.youtube.com/@danzmen9965/featured), another Geometry Dash YouTuber, also got hacked via this method several years ago.
+[Danzmen](https://www.youtube.com/@danzmen9965/featured), another Geometry Dash YouTuber, also got hacked via a similar method several years ago.
 
 Needless to say, seeing how even big channels are being affected by this, [YouTube should consider doing more](https://twitter.com/MoldyMacaroniX/status/1709171944749228476).
