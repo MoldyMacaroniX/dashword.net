@@ -28,11 +28,10 @@ From there on out, the hacker rebranded Doggie's channel to a fake company and s
 *"Ripple US" is what Doggie's channel was renamed to. Do not engage with it until it has been restored. Assume everything it posts is a scam.*
 
 During all this, the Geometry Dash community got [#FreeDoggie](https://twitter.com/search?q=%23FreeDoggie&src=typed_query&f=top) trending on Twitter (now X).
+
 ![#FreeDoggie trending on Twitter/X under the topic of Technology.](https://media.discordapp.net/attachments/392087938239954950/1158781653112586260/image.png?ex=651d7f03&is=651c2d83&hm=55f49eac42c7e3462047b2b9dbbc9ad5d9fc2a215cf1b74463fcfda9de736203&=&width=428&height=92)
 
 YouTube has supposedly reached out to Doggie which means his channel should be restored shortly.
-
-This is a developing situation. This article will be updated with new information as it comes out.
 
 # This method of hacking is not new
 
