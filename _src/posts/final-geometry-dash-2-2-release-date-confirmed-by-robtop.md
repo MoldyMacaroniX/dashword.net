@@ -10,7 +10,7 @@ tags:
   - "2.2"
   - featured
 author: moldymacaronix
-image: https://media.discordapp.net/attachments/370671012460888064/1140381747423490178/e45a6fbf3130d33f6b298e13000a1d12.png?width=1050&height=676
+image: https://i.imgur.com/kUIDsVI.jpeg
 imageSource: https://youtu.be/mWi_zuXBECw
 affiliateLinks: false
 hideAds: false

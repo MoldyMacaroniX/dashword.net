@@ -7,7 +7,7 @@ tags:
   - guide
   - "2.2"
 author: moldymacaronix
-image: https://media.discordapp.net/attachments/392087938239954950/1074130183583445062/94CC87DA-AB0E-4512-9324-54A19D818ED7.jpg?width=1209&height=675
+image: https://i.imgur.com/cMKrcOC.jpeg
 imageSource: https://www.reddit.com/r/geometrydash/comments/tqczgg/geometry_dash_22/
 affiliateLinks: false
 ---

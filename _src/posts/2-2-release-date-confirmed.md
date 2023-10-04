@@ -16,7 +16,7 @@ After over 5 years of waiting, RobTop confirmed a release time for Geometry Dash
 RobTop has since confirmed a final Geometry Dash 2.2 release date of October 2023. [Read more with this link](/posts/final-geometry-dash-2-2-release-date-confirmed-by-robtop/).
 {% endalert %}
 
-![RobTop confirms that the plan is for 2.2 to release this year](https://media.discordapp.net/attachments/392087938239954950/942907008754004048/unknown.png)
+![RobTop confirms that the plan is for 2.2 to release this year](https://i.imgur.com/fsGkPRh.png)
 
 This perfectly aligns with the [predicted release date I came up with](/posts/2-2-release-date/) in January, so needless to say, my prediction was correct.
 

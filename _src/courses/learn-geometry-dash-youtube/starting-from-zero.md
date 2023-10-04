@@ -27,7 +27,7 @@ Instead of making a video on **Geometry Dash 2.2**, let's narrow it down a bit. 
 
 Let's take a look at the search predictions.
 
-![Search results 1](https://media.discordapp.net/attachments/392087938239954950/1135677953439694989/image.png?width=715&height=676)
+![Search results 1](https://i.imgur.com/ORdGxd9.png)
 
 These are topics that Geometry Dash players are searching for, so let's choose one. To continue with our **Geometry Dash 2.2** example, we will choose that.
 
@@ -36,7 +36,7 @@ These are topics that Geometry Dash players are searching for, so let's choose o
 
 Now we're getting somewhere. While **Geometry Dash 2.2** will have lots of competition, some of these narrowed down topics will not.
 
-![Search results 2](https://media.discordapp.net/attachments/392087938239954950/1135678009228148967/image.png?width=713&height=676)
+![Search results 2](https://i.imgur.com/RAyyxEs.png)
 
 We can even take it a step further.
 
@@ -45,7 +45,7 @@ We can even take it a step further.
 
 Now we've found a list of topics with much less competition than our original **Geometry Dash 2.2** topic.
 
-![Search results 3](https://media.discordapp.net/attachments/392087938239954950/1135678108616372304/image.png?width=716&height=676)
+![Search results 3](https://i.imgur.com/Boet5nP.png)
 
 **However, it is important to not to go too deep using this method.** The deeper you go, the less people will be interested in the topic. 2 or 3 layers deep should be enough, any lower and you may struggle to find an audience for that video.
 

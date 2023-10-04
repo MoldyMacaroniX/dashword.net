@@ -55,4 +55,4 @@ However, the [World Gauntlet contest results video](https://youtu.be/IsJMpN7T8cY
 
 He also went on to share the graphics for the World Gauntlet, Galaxy Gauntlet, and Universe Gauntlet.
 
-![Graphics for the World Gauntlet, Galaxy Gauntlet, and Universe Gauntlet](https://media.discordapp.net/attachments/650172434846187521/1018731772692942938/gauntlet.png)
+![Graphics for the World Gauntlet, Galaxy Gauntlet, and Universe Gauntlet](https://i.imgur.com/vlNYnA5.png)

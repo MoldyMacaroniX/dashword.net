@@ -25,7 +25,7 @@ SUPERCHARGE is an easy demon by Elvii. Fortunately, using a secret way, you can 
 
 Jump over the yellow jump pad at 14%. After that, the level is completely free.
 
-![Secret way at 14%](https://media.discordapp.net/attachments/392087938239954950/1059722685732618280/Secret_Way_Easy_Demon_Supercharge_by_Elvii___Geometry_Dash_2.11_0-15_screenshot.png)
+![Secret way at 14%](https://i.imgur.com/LPG3QW3.png)
 
 See this [video walkthrough](https://youtu.be/w0iDFpz0Ifk) for help.
 
@@ -35,7 +35,7 @@ Ignore its elaborate name, as this secret way is incredibly easy to access.
 
 Simply jump over the blue pad at 13% to access the secret way and beat the level.
 
-![Secret way at 13%](https://media.discordapp.net/attachments/392087938239954950/1059723571829690398/3_FREE_DEMONS_SECRET_WAYS_Working_2020___Geometry_Dash_0-30_screenshot.png?width=1197&height=675)
+![Secret way at 13%](https://i.imgur.com/oAe7qVV.png)
 
 The timing is a little tricky, so we recommend you try it in practice mode first. Here is a [video walkthrough](https://youtu.be/FNRqTqxRMMU).
 
@@ -45,7 +45,7 @@ Midnight sun is a little harder, being an insane demon. But fortunately, it has 
 
 Simply jump into the indivisible teleport portal at the end of the auto blue orb part, or at 24%. With this, the rest of the level will be free.
 
-![Secret way at 24%](https://media.discordapp.net/attachments/392087938239954950/1059724981321334824/SECRET_WAY_IN_INSANE_DEMON_midnight_sun_by_roWey._0-28_screenshot.png?width=1201&height=676)
+![Secret way at 24%](https://i.imgur.com/p9VNULn.png)
 
 See this [video walkthrough](https://youtu.be/pDKLMkFF_Qs) for help.
 
@@ -55,7 +55,7 @@ Sundivine is a hard demon, but with a secret way at 41%.
 
 During the blue pads at 41%, start jumping as the UFO once you're upside down to go below the pads. Afterwards, jump 3 more times to go below the cube portal. The rest of the level is then free!
 
-![Secret way at 41%](https://media.discordapp.net/attachments/392087938239954950/1059726049191137350/Hard_Demon_secret_way_Sundivine_by_softable___Geometry_Dash_0-31_screenshot.png?width=1201&height=676)
+![Secret way at 41%](https://i.imgur.com/F8UkaZV.png)
 
 See this [video walkthrough](https://youtu.be/AzcGzrj9P6o) for help.
 
@@ -65,7 +65,7 @@ This old demon has a secret way at 42%. After that, there are a few obstacles to
 
 At 42%, take the lower ball path. Avoid a few spikes and you will fall to the ground. After a few seconds, a yellow pad will put you in a circle of portals. Time the yellow orb to go into the ship portal and avoid a saw. Avoid a few more obstacles and the rest of the level after 61% will be free.
 
-![Secret way at 42%](https://media.discordapp.net/attachments/392087938239954950/1059728641321341068/HUGE_SECRET_WAY_Ice_hell_escape_by_Minemario_0-44_screenshot.png?width=1201&height=676)
+![Secret way at 42%](https://i.imgur.com/nfAwoIU.png)
 
 See this [video walkthrough](https://youtu.be/_ajfbxNwKmU) for exactly what to do.
 

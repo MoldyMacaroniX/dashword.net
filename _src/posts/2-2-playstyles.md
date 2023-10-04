@@ -19,7 +19,7 @@ Let's first address star rewards. The amount of stars you receive at the end of 
 
 Now what about mana orbs? Giving orbs when you die at a certain percentage doesn't really work in a platformer level. There seems to be multiple ways to earn mana orbs in platformer mode aside from simply reaching the end of a level. Again, because platformer mode plays so differently from any current level, RobTop has implemented different methods of scoring levels. In 2.2, the amount of orbs awarded to you can be set up to be based on your completion time, or a number of collectables you get in the level!
 
-![RobTop says: "I have it setup so you can have score based on time. Collectibles. Or a combination. Like final score = time remaining + collectible * mutiplier:"](https://media.discordapp.net/attachments/392087938239954950/935641529366753280/unknown.png?width=1440&height=390)
+![RobTop says: "I have it setup so you can have score based on time. Collectibles. Or a combination. Like final score = time remaining + collectible * mutiplier:"](https://i.imgur.com/SF2WlEV.png)
 
 Depending on which method the creator chooses to have their level scored could drastically change how you play the level.
 

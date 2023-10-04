@@ -20,7 +20,7 @@ You can [watch all three Geometry Dash 2.2 sneak peeks with this link](/posts/wa
 
 Earlier, RobTop said that [sound effects would be saved for Geometry Dash 2.3](/posts/robtop-says-geometry-dash-2-2-platformer-mode-will-start-to-really-shine-in-2-3/) instead of 2.2. But this new sneak peek shows that he changed his mind and added sound effects to update 2.2.
 
-![RobTop saying he wasn't originally going to add sound effects to 2.2 but did it anyway.](https://media.discordapp.net/attachments/392087938239954950/1107934252919685120/image.png?width=789&height=158)
+![RobTop saying he wasn't originally going to add sound effects to 2.2 but did it anyway.](https://i.imgur.com/WoEVFOd.png)
 
 This news was shared in the [Geometry Dash Discord server](/posts/geometry-dash-discord-server-how-to-join-request-levels/).
 

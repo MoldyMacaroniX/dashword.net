@@ -21,7 +21,7 @@ In this lesson, we will take a look at two videos and analyze why they have grea
 
 The first video we will be analyzing is [Geometry Dash 2.2 Recent Levels are Weird](https://youtu.be/gkwv0_pi4yI).
 
-![Video 1](https://media.discordapp.net/attachments/392087938239954950/1135781866193043527/image.png?width=758&height=676)
+![Video 1](https://i.imgur.com/t5KIkbV.png)
 
 This video uses a **trend-focused idea**. The trend is Geometry Dash 2.2 and the original addition is recent levels. With this, we need to come up with a title and thumbnail to represent this idea.
 
@@ -43,7 +43,7 @@ That being said, don't spam keywords in the title. You can include additional ke
 
 The second video we will be analyzing is [I Played Would You Rather In Geometry Dash](https://youtu.be/nuB-Ru9ZOAc).
 
-![Video 2](https://media.discordapp.net/attachments/392087938239954950/1135780988937568256/image.png?width=756&height=676)
+![Video 2](https://i.imgur.com/5gSJNfY.png)
 
 This video uses a **recommended-focused idea**. The original concept is playing would you rather in Geometry Dash, which is a Geometry Dash challenge that has never been done before.
 
@@ -67,7 +67,7 @@ For the thumbnail, we want to show the fan made extension of the second 2.2 snea
 
 This style of thumbnail is great because it not only shows that the video is about the second sneak peek, but it clearly shows **new information** not shown in the official 2.2 sneak peek.
 
-![Thumbnail](https://media.discordapp.net/attachments/392087938239954950/1135790130729324554/image.png?width=1202&height=676)
+![Thumbnail](https://i.imgur.com/EgCOe3X.png)
 
 There are many routes we can go with the title.
 
@@ -77,7 +77,7 @@ There are many routes we can go with the title.
 
 Ultimately, I settled with the final one, **Geometry Dash 2.2 Sneak Peek 2 FULL VERSION**. It clearly outlines exactly what the video is, and includes an extra keyword ("full version" is a popular Geometry Dash keyword).
 
-![Thumbnail and title](https://media.discordapp.net/attachments/392087938239954950/1135791428413435914/image.png?width=745&height=676)
+![Thumbnail and title](https://i.imgur.com/JcJzYcR.png)
 
 That being said, the first one could work well too. Or even the second one. Something very important you need to know is that **you can change your title and thumbnail!**
 

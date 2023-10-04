@@ -28,7 +28,7 @@ However, there are a good few Geometry Dash projects without the limitations of 
 
 # Dashword ([dashword.net](/))
 
-![Dashword's user interface](https://media.discordapp.net/attachments/392087938239954950/1051415901506912266/image.png)
+![Dashword's user interface](https://i.imgur.com/7trKdI8.png)
 
 *Dashword's user interface.*
 
@@ -42,7 +42,7 @@ You can find out more [on our about page](/about/).
 
 # GDBrowser ([gdbrowser.com](https://gdbrowser.com/))
 
-![GDBrowser's home page user interface](https://media.discordapp.net/attachments/392087938239954950/1051415595742142524/image.png?width=1384&height=675)
+![GDBrowser's home page user interface](https://i.imgur.com/CbiLiqn.png)
 
 *GDBrowser's home page user interface.*
 
@@ -52,7 +52,7 @@ Whether or not it is bigger than the Demon List is unknown, but we estimate that
 
 # Demon List ([pointercrate.com](https://pointercrate.com/))
 
-![Demon List's user interface](https://media.discordapp.net/attachments/392087938239954950/1051415159068950568/image.png)
+![Demon List's user interface](https://i.imgur.com/c1wVeuP.png)
 
 *Demon List's user interface.*
 
@@ -64,7 +64,7 @@ While there are other Demon Lists out there, this is the most popular and is wha
 
 # Geometry Dash Demon Progression ([gddp.pro](https://gddp.pro/))
 
-![Geometry Dash Demon Progression's user interface. It has some holiday snow on it for the month of December!](https://media.discordapp.net/attachments/392087938239954950/1051414763604815872/image.png?width=781&height=675)
+![Geometry Dash Demon Progression's user interface. It has some holiday snow on it for the month of December!](https://i.imgur.com/Wj51FNt.png)
 
 *Geometry Dash Demon Progression's user interface. It has some holiday snow on it for the month of December!*
 
@@ -84,51 +84,13 @@ It is essentially a Geometry Dash level review site. Like some movie review site
 
 # GD Vault ([gdvault.net](https://gdvault.net))
 
-![GD Vault's user interface](https://media.discordapp.net/attachments/392087938239954950/1051413840295886888/image.png?width=1399&height=675)
+![GD Vault's user interface](https://i.imgur.com/5YIg7S4.png)
 
 *GD Vault's user interface.*
 
-G﻿D Vault is a website that houses information on a bunch of Geometry Dash levels with secret ways. You can browse its list of levels to grind free stars.
+GD Vault is a website that houses information on a bunch of Geometry Dash levels with secret ways. You can browse its list of levels to grind free stars.
 
 This website is very new so it is **unknown how popular it is** at the moment.
-
-<!--# GD Docs ([docs.gdprogra.me](https://docs.gdprogra.me/#/))
-
-![GD Docs's user interface](https://media.discordapp.net/attachments/392087938239954950/1051413069118578740/image.png?width=1397&height=676)
-
-*GD Docs's user interface.*
-
-G﻿D Docs is a Geometry Dash documentation of how to interact with the game's servers. If that sounds very complicated to you, don't worry, as this website is entirely designed for technical programmers and serves very little purpose to the average player.
-
-Because of so, it is possibly the **least popular website** on this list, but still very important! Websites like GDBrowser require accessing Geometry Dash's servers, which the GD Docs conveniently explains how to do.
-
-While it might not get as many views as other websites on this list, those who view it are usually very experienced!
-
-# Extreme Demon Roulette ([matcool.github.io/extreme-demon-roulette/](https://matcool.github.io/extreme-demon-roulette/))
-
-![Extreme Demon Roulette's user interface](https://media.discordapp.net/attachments/392087938239954950/1051413553451638814/image.png)
-
-*Extreme Demon Roulette's user interface.*
-
-This website allows you to track your progress on the famous Extreme Demon Roulette challenge!
-
-Unfortunately, it is now widely unused due to [Mega Hack v7](/posts/5-must-have-geometry-dash-mods-that-you-need-right-now/) implementing the challenge into the actual game.
-
-However, since not everyone has Mega Hack v7, this site likely still has some active users, likely making it **more popular than the GD Docs**.
-
-# Geometry Dash Heardle ([geometry-dash-heardle.glitch.me](https://geometry-dash-heardle.glitch.me/))
-
-![Geometry Dash Heardle's user interface](https://media.discordapp.net/attachments/392087938239954950/1051413287033638972/image.png?width=1323&height=676)
-
-*Geometry Dash Heardle's user interface.*
-
-Now for a fun one to finish this off: Geometry Dash Heardle. Geometry Dash Heardle is a game where you have to guess a Geometry Dash song by just listening to a short part of it. You can get more of the song to listen to but it costs points. At the end, the sooner you guess the song, the better!
-
-A﻿s its name suggests, it is based off of a game called Heardle, which itself is based off the popular game Wordle.
-
-While it is hard to estimate how popular this website is, it is likely **more popular than the GD Docs** assuming it still has some active players. If this isn't the case, it might even be less popular.
-
-Either way, this is a fun Geometry Dash game to try out every day! It is by far the most unique project on this list which is really cool.-->
 
 ---
 

@@ -9,7 +9,7 @@ tags:
   - news
   - "2.2"
 author: moldymacaronix
-image: https://media.discordapp.net/attachments/392087938239954950/1097788826077896734/IMG_0703.png
+image: https://i.imgur.com/tKCqnKF.jpeg
 affiliateLinks: false
 hideAds: false
 ---

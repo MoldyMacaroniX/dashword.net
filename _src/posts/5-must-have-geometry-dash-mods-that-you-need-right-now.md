@@ -111,7 +111,7 @@ Excluding Mega Hack v7 and Mega Hack v5, each mod on this list is installable wi
 
 **How To Install Geometry Dash Mods**
 
-* [Download Quick LDR](https://cdn.discordapp.com/attachments/837026406282035300/859008315413626920/quickldr-v1.1.zip).
+* [Download Quick LDR in this Discord server](https://discord.gg/yQMcpyYu) and go to [this channel](https://discord.com/channels/822510988409831486/837026406282035300/859008315753103360).
 * Open your Geometry Dash folder by going to your steam library, right clicking **Geometry Dash**, pressing **Manage**, and pressing **Browse local files.**
 * Drag and drop `libcurl.dll` and `quickldr.dll` into your Geometry Dash folder. Before doing this, you might want to backup the existing `libcurl.dll` file in your Geometry Dash folder by saving it in a different location. If your PC asks to replace existing files, allow it.
 * Inside your Geometry Dash folder, create a new folder called "`quickldr`".

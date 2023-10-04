@@ -21,7 +21,7 @@ As our first level on this list, [Altos Odyssey, by GD Charz.](https://youtu.be/
 
 Personal Rating: 6.5 stars.
 
-![Altos Odyssey](https://media.discordapp.net/attachments/934259786667655218/935001179258249266/VideoCapture_20220123-183711.jpg?width=1618&height=910)
+![Altos Odyssey](https://i.imgur.com/5yQISWh.jpeg)
 
 # Pipe Rush II
 
@@ -29,7 +29,7 @@ As our second level, we have [Pipe Rush II by Fofii.](https://youtu.be/ZvhnqlgEc
 
 Personal Rating: 7.5 stars.
 
-![Pipe Rush II](https://media.discordapp.net/attachments/934259786667655218/935001178155155456/VideoCapture_20220123-184031.jpg?width=1618&height=910)
+![Pipe Rush II](https://i.imgur.com/0Y0nwcs.jpeg)
 
 # InsidiouS
 
@@ -37,7 +37,7 @@ Our next level is [InsidiouS by Wintter.](https://youtu.be/fyhDak4VXAc) The leve
 
 Personal Rating: 7.5 stars.
 
-![InsidiouS](https://media.discordapp.net/attachments/934259786667655218/935001178532622487/VideoCapture_20220123-183753.jpg?width=1618&height=910)
+![InsidiouS](https://i.imgur.com/46sE1k8.jpeg)
 
 # Third Rail
 
@@ -45,7 +45,7 @@ Despite [Third Rail by Umbraleviathan](https://youtu.be/IsiC4mdfjNE) being the h
 
 Personal Rating: 9.2 stars.
 
-![Third Rail](https://media.discordapp.net/attachments/934259786667655218/935001179035955361/VideoCapture_20220123-183726.jpg?width=1618&height=910)
+![Third Rail](https://i.imgur.com/x8ORAIA.jpeg)
 
 # If Among Us Was Lv 2 
 
