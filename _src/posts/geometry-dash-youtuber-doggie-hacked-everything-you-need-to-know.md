@@ -41,6 +41,12 @@ This method of stealing channels is not new. [Linus Tech Tips](https://youtu.be/
 
 Needless to say, seeing how even big channels are being affected by this, [YouTube should consider doing more](https://twitter.com/MoldyMacaroniX/status/1709171944749228476).
 
+# Doggie Channel Recovery
+
+On October 4, 2:42 AM EDT, Doggie [shared](https://twitter.com/DasherDoggie/status/1709458856361767120) that he regained access to his Google account. While his YouTube channel is currently offline, it will get reinstated soon and everything will be back to normal.
+
 ---
 
 _**October 3, 11:16 AM EDT:** Original article is posted._
+
+_**October 4, 12:35 AM EDT:** "Doggie Channel Recovery" section added._
