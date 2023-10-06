@@ -31,4 +31,9 @@ The problem was [RobTop just kept adding new features](/posts/final-geometry-das
 
 But for the first time in the entire game's existence, RobTop seems to be sticking to a deadline. And this is fantastic. With a deadline, the cycle of adding more and more features forever won't happen. It will force RobTop to manage his time and carefully consider the features he wants to add.
 
-I don't want to understate this. Doing this is
+I don't want to understate this. This is fantastic on RobTop's part.
+
+However, I feel it is too late.
+
+# Why Geometry Dash 2.2 Will Be A Buggy Mess Upon Release
+
