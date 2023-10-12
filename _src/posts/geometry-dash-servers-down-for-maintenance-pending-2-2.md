@@ -19,4 +19,4 @@ While RobTop Games originally said the server migration should take 6 hours, he 
 
 With this, you can expect the Geometry Dash servers to be back up by 4:00 PM EDT.
 
-RobTop has confirmed that Geometry Dash 2.2 will not be releasing today or tomorrow because of the server downtime. However, we can still expect [update 2.2 this month](), but there is a chance [2.2 will be delayed until November]().
+RobTop has confirmed that Geometry Dash 2.2 will not be releasing today or tomorrow because of the server downtime. However, we can still expect [update 2.2 this month](/posts/final-geometry-dash-2-2-release-date-confirmed-by-robtop/), but there is a small chance that [update 2.2 will be delayed until November](/posts/geometry-dash-2-2-release-date-might-get-delayed-to-after-october/).
