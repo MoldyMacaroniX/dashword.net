@@ -590,9 +590,46 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
     {% if metadata.isBanner %}
     <div class="banner-top">
         <div class="container">
-            Geometry Dash 2.2 Release Date: October 2023. <a href="/posts/final-geometry-dash-2-2-release-date-confirmed-by-robtop/">Read the story here.</a>
+            Geometry Dash 2.2 will release within <b><span id="releaseDate22" style="display: inline-block;">October 2023</span></b> from now. <a href="/posts/final-geometry-dash-2-2-release-date-confirmed-by-robtop/">Read the story here.</a>
         </div>
     </div>
+    <script>
+    // https://www.w3schools.com/howto/howto_js_countdown.asp
+
+    // Set the date we're counting down to
+    var countDownDate = new Date("Oct 31, 2023 23:59:59").getTime();
+    
+    printCount();
+    function printCount() {
+        // Get today's date and time
+        var now = new Date().getTime();
+            
+        // Find the distance between now and the count down date
+        var distance = countDownDate - now;
+            
+        // Time calculations for days, hours, minutes and seconds
+        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+            
+        // Output the result in an element with id="demo"
+        document.getElementById("releaseDate22").innerHTML = days + "d " + hours + "h "
+        + minutes + "m " + seconds + "s";
+    }
+
+    // Update the count down every 1 second
+    var x = setInterval(function() {
+
+        printCount();
+            
+        // If the count down is over, write some text 
+        if (distance < 0) {
+            clearInterval(x);
+            document.getElementById("demo").innerHTML = "EXPIRED";
+        }
+    }, 1000);
+    </script>
     {% endif %}
 
     <div class="banner-top" id="ref-banner" style="display: none;">
