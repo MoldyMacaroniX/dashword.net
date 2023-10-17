@@ -22,12 +22,22 @@ Geometry Dash 2.2, the biggest update Geometry Dash has ever seen, has just rele
 
 - [How to install on iOS](#how-to-install-on-ios)
 - [How to install on Android](#how-to-install-on-android)
-- [How to install on PC]()
+- [How to install on PC](#how-to-install-on-pc)
 
 # How to install on iOS
 
 You can install Geometry Dash 2.2 on your iOS iPhone or iPad via the App Store.
 
-[Use this link to find Geometry Dash on the App Store](https://apps.apple.com/app/geometry-dash/id625334537) and press **Update** to update to Geometry Dash 2.2.
+[Use this link to find Geometry Dash on the App Store](https://apps.apple.com/app/geometry-dash/id625334537) and press **Update** or **Install** to install Geometry Dash 2.2.
 
 # How to install on Android
+
+You can install Geometry Dash 2.2 on your Android phone or tablet via the Google Play Store.
+
+[Use this link to find Geometry Dash on the Google Play Store](https://play.google.com/store/apps/details?id=com.robtopx.geometryjump) and press **Update** or **Install** to install Geometry Dash 2.2.
+
+# How to install on PC
+
+You can install Geometry Dash 2.2 on your desktop PC or laptop via Steam.
+
+[Use this link to find Geometry Dash on Steam](https://store.steampowered.com/app/322170/Geometry_Dash/) and press **Update** or **Install** to install Geometry Dash 2.2.
