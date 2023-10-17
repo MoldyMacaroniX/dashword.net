@@ -43,3 +43,7 @@ You can install Geometry Dash 2.2 on your Android phone or tablet via the Google
 You can install Geometry Dash 2.2 on your desktop PC or laptop via Steam.
 
 [Use this link to find Geometry Dash on Steam](https://store.steampowered.com/app/322170/Geometry_Dash/) and press **Update** or **Install** to install Geometry Dash 2.2.
+
+---
+
+Those are all the places where you can install Geometry Dash 2.2 now that the update is finally out.
