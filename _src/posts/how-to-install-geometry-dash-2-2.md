@@ -18,6 +18,8 @@ hideAds: false
 ---
 Geometry Dash 2.2, the biggest update Geometry Dash has ever seen, has just released on iOS, Android, and PC! Here is how to install it on your device.
 
+[Geometry Dash 2.2](/categories/2.2/) can be installed on iOS via the App Store, Android via the Google Play Store, and PC via Steam.
+
 # Table of contents
 
 - [How to install on iOS](#how-to-install-on-ios)
