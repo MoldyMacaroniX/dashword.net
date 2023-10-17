@@ -8,6 +8,7 @@ desc: On October 14, 2023, Geometry Dash YouTuber JamAttack premiered his new
 date: 2023-10-17T17:12:07.326Z
 tags:
   - news
+  - video
 author: moldymacaronix
 image: https://img.youtube.com/vi/UYAdeDAqSgc/maxresdefault.jpg
 imageSource: https://youtu.be/UYAdeDAqSgc?si=4d0Cu9P7cRgMR9Bf
