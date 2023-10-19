@@ -1,6 +1,6 @@
 ---
-pageSlug: geometry-dash-2-2-delayed-until-after-october
-title: Geometry Dash 2.2 Delayed Until After October
+pageSlug: geometry-dash-2-2-delayed-until-november-2023
+title: Geometry Dash 2.2 Delayed Until November 2023
 desc: On August 13, RobTop Games revealed the release date for Geometry Dash 2.2
   to be October 2023. However, as we feared, it is November and update 2.2 is
   still not out.
@@ -19,4 +19,6 @@ On August 13, RobTop Games revealed the release date for [Geometry Dash 2.2](/ca
 
 This is somewhat surprising, as RobTop kept [delaying](/posts/explorers-delayed-until-after-geometry-dash-2-2/) [features](/posts/robtop-cancels-geometry-dash-2-2-versus-mode-after-6-years-of-development/) from releasing in 2.2 supposedly so he could release the update in time.
 
-There is no new release date yet, but there is still a chance Geometry Dash 2.2 releases before the end of the year.
+However, he then went on to say that [Geometry Dash 2.2 will likely be delayed until November 2023](/posts/geometry-dash-2-2-release-date-likely-to-be-delayed-due-to-server-issues/). Now, we are living in that reality.
+
+RobTop has said that Geometry Dash 2.2 will release in November 2023, but there is no exact release day yet.
