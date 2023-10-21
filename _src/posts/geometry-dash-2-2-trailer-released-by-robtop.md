@@ -15,7 +15,7 @@ imageSource: https://youtu.be/LxA4NJMiZ8o?si=LsGz-sNtd3jz-0N-
 affiliateLinks: false
 hideAds: false
 ---
-RobTop Games has just released a [Geometry Dash 2.2 trailer](https://youtu.be/LxA4NJMiZ8o?si=Cqpv_OEaxjvKahMj). While this 2.2 trailer makes no mention of the [update being delayed](/posts/geometry-dash-2-2-release-date-delayed-until-november/), it showcases a bunch of 2.2 features, including many which have not been revealed before.
+RobTop Games has just released a [Geometry Dash 2.2 trailer](https://youtu.be/LxA4NJMiZ8o?si=Cqpv_OEaxjvKahMj). While this 2.2 trailer makes no mention of the [update being delayed](/posts/geometry-dash-2-2-release-date-delayed-until-november-2023/), it showcases a bunch of 2.2 features, including many which have not been revealed before.
 
 In total, the trailer showcases the following [update 2.2](/categories/2.2/) features:
 
