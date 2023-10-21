@@ -48,3 +48,5 @@ In addition, the following new editor features have been added:
 - Lots of new animations
 
 The trailer also revealed that there was still much more not showcased, along with a lot of hidden secrets.
+
+RobTop also revealed in the trailer's description that *at least* Viprin and AutoNick had access to the [update 2.2 beta](/posts/closed-geometry-dash-2-2-beta-released-on-steam/).
