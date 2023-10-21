@@ -18,8 +18,8 @@ In a [not so surprising move](/posts/geometry-dash-2-2-release-date-likely-to-be
 
 Surprisingly, the Geometry Dash community has taken this news well.
 
-Ultimately, this is very disappointing news. While the community should hold RobTop accountable, [hate will go nowhere]() and is unnecessary.
+Ultimately, this is very disappointing news. While the community should hold RobTop accountable, hate will go nowhere and is unnecessary.
 
-While RobTop said on Twitter (now X) that he intends to release update 2.2 in November, he failed to show this in the [Geometry Dash 2.2 Trailer]() that he also uploaded today, which could show a lack of confidence.
+While RobTop said on Twitter (now X) that he intends to release update 2.2 in November, he failed to show this in the [Geometry Dash 2.2 Trailer](/posts/geometry-dash-2-2-trailer-released-by-robtop/) that he also uploaded today, which could show a lack of confidence.
 
 Let's hope he isn't wrong this time and can finally release the update that we've been waiting [over 6 years for](/posts/geometry-dash-2-2-wait-turns-6-years-old/)!
