@@ -26,13 +26,11 @@ videoID: xAHrT0qf2rI
 This is the first paragraph of the article...
 ```
 
-### `pageSlug`
+### `pageSlug` (String)
 
-The URL path of the article in the form `dashword.net/posts/{VALUE}`. This is optional, and if not included, the `{VALUE}` will resort to the filename.
+The URL path of the article in the form `dashword.net/posts/{VALUE}`. This is optional, and if not included, the `{VALUE}` will resort to the filename. Do not use capital letters.
 
-### `title` and `desc`
-
-String values.
+### `title` and `desc` (Strings)
 
 Don't have to be wrapped in quotation marks unless there are restricted symbols in them, such as a colon (`:`). As usual, put a backslash (`\`) before quoation marks if you're wrapping the string in quotation marks, like so:
 
@@ -42,17 +40,15 @@ title: "RobTop Previews New \"Keyframe System\""
 
 This applies to all string values, not just the `title` and `desc`.
 
-### `image` and `imageSource`
+### `image` and `imageSource` (Strings)
 
-String values, but must be in the format of a valid link.
+Must valid links!
 
 The `image` link must end in the file extension (e.g. `.png` or `.jpg`) **and must lead to the image itself, not the webpage the image is on.**
 
 The `imageSource` is optional. Only include it to credit the source of the image, which you'll want to do in most cases. **Make sure this leads to the webpage the image was found on and not the image itself.**
 
-### date
-
-Date value.
+### `date` (date)
 
 Must be in the format ``yyyy-mm-dd``. If the month or day is only a single digit, include a zero, like so:
 
@@ -60,9 +56,7 @@ Must be in the format ``yyyy-mm-dd``. If the month or day is only a single digit
 date: 2022-01-07
 ```
 
-### `tags`
-
-Array of strings.
+### `tags` (String or Array of Strings)
 
 Can be written like...
 
@@ -86,13 +80,31 @@ tags: one,two # wrong
 
 The above is wrong and will result in the tag `one,two` rather than tags `one` and `two`.
 
-### `author`
-
-String value.
+### `author` (String or Array of Strings)
 
 Must be a valid author key.
 
-### `videoID`
+```yaml
+author: moldymacaronix
+```
+
+For multiple authors, use an Array of Strings, like...
+
+```yaml
+author:
+    - moldymacaronix
+    - dashword
+```
+
+As with tags, **this will not work:**
+
+```yaml
+tags: moldymacaronix,dashword #wrong
+```
+
+Multiple authors per article is not yet supported in the backend CMS and must be done via a pull request.
+
+### `videoID` (String)
 
 An optional parameter to specify a YouTube video ID. If included, the featured image will be replaced with the video embedded. Only include for posts featuring a single video.
 
