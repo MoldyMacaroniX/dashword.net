@@ -1,49 +1,44 @@
 # Dashword Authors
 
-All authors are found in `_src/_data/`. To add a new author, just add a new object to the file.
+All authors are found in `_src/_data/`. To add a new author, just add a new object to the end of the file.
 
 ## Author Object
 
-An author object looks like this.
+An author object looks something like this.
 
 ```json
 {
     "key":"moldymacaronix",
-    "name":"MoldyMacaroniX",
+    "name":"Moldy",
     "bio": "I am Moldy. Not literally, of course.",
-    "photo":"https://yt3.ggpht.com/ytc/AKedOLQr8KPiI594vmcI02OJ-1eIHRwESVuzCRm1bsauNA=s900-c-k-c0x00ffffff-no-rj",
-    "youtube":"moldymacaronix",
-    "customyt":"true",
-    "twitch":"moldymacaronix",
+    "photo":"https://www.moldygd.com/assets/logo.png",
+    "youtube":"MoldyGD",
+    "handle":true,
+    "twitch":"moldygd",
     "twitter":"moldymacaronix",
     "discord":"PqTUgx6",
     "gdbrowser":"CreatorMoldy",
-    "verified": "true",
-    "realVerified": "true"
+    "verified": true,
 }
 ```
 
-### `key`
+### `key` (String)
 
-String value.
+The author's unique ID. Make sure no two authors have the same `key`. Only use lowercase letters.
 
-The author's unique ID. Make sure no two authors have the same `key`.
+### `name` and `bio` (Strings)
 
-### `name` and `bio`
+The name and bio of the author. Keep bios short, preferably only a sentence or two.
 
-String values.
+### `photo` (String)
 
-The name and bio of the author.
-
-### `photo`
-
-String value, but must be in the format of a valid link.
+Must be a valid link.
 
 A link to the author's profile photo. Must end in the file extension (e.g. `.png` or `.jpg`)
 
-### `youtube`, `twitch`, `twitter`, `discord`, `gdbrowser` (optional)
+This is not optional, but if you don't want to use a profile photo, you can set it to `/assets/img/user.png`, which is a default profile photo.
 
-String values.
+### `youtube`, `twitch`, `twitter`, `discord`, `gdbrowser` (Strings, optional)
 
 Identifiers for the author's respective social media accounts.
 
@@ -57,19 +52,17 @@ Below documents where the value for each of the social media items will place in
 
 If an author doesn't have a social media, **don't include the respective item.**
 
-### `customyt`, `handle`,  `verified` and `realVerified`  (optional)
-
-String values (yes I know these should be boolean values, but for now they're String values).
+### `customyt`, `handle`,  `verified`, `partner`, and `staff`  (Booleans, optional)
 
 These values should read `true`.
 
-**Do not include the respective item if it isn't to be included. Don't just mark it as false - get rid of it altogether.**
+**To keep things clean, try not to include the respective item if it doesn't need to be included. Don't just mark it as false - get rid of it altogether.**
 
 Include `customyt` if the `youtube` value above is set to a channel ID instead of a custom URL ID. This will change the link to:
 
 - `youtube`: youtube.com/channel/**VALUE**
 
-This is important, because both `/channel` and `/c/` do not work with the opposite type of ID.
+This is important, because both `/channel/` and `/c/` do not work with the opposite type of ID.
 
 Replace `customyt` with `handle` if the `youtube` value above is set to a handle instead of a custom URL, ID, or a channel ID. This will change the link to:
 
@@ -77,4 +70,8 @@ Replace `customyt` with `handle` if the `youtube` value above is set to a handle
 
 Do not include the @ in the handle.
 
-Include `verified` if the user is verified (see the verified requirements).
+Include `verified` if the user is verified (see the [verified requirements](https://www.dashword.net/verified/)).
+
+Include `partner` if the user is an official partner of Dashword, i.e. another Geometry Dash community or website that we've partnered with.
+
+Include `staff` if the user is a Dashword staff or official Dashword profile.
