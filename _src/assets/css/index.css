@@ -1339,10 +1339,10 @@ h2 .header-anchor {
     font-weight: bold;
 }
 
-.article-meta-date a::after {
+/* .article-meta-date a::after {
     content:',';
     font-weight: normal;
-}
+} */
 
 .article-meta-date a:last-child:after {
     content:'';

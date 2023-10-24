@@ -4,16 +4,16 @@
 		"name": "Dashword Staff",
 		"bio": "Latest posts from the Dashword team!",
 		"photo": "/assets/img/dw-avatar.png",
-		"verified":"true",
-		"realVerified":"true"
+		"verified":true,
+		"staff":true
 	},
 	{
 		"key": "podcast",
 		"name": "The GD Podcast",
 		"bio": "Latest posts from The GD Podcast team!",
 		"photo": "/assets/img/dw-avatar.png",
-		"verified":"true",
-		"realVerified":"true"
+		"verified":true,
+		"staff":true
 	},
 	{
 		"key":"gdcs",
@@ -21,25 +21,23 @@
 		"bio": "The Geometry Dash Creator School is a place where aspiring creators can turn into experienced level makers!",
 		"photo":"/assets/img/gdcspfp.jpg",
 		"youtube":"GDCreatorSchool",
-		"customyt":"true",
+		"customyt":true,
 		"twitter":"GDCreatorSchool",
 		"discord":"gdcs",
-		"verified": "true",
-		"realVerified":"true"
+		"verified": true,
+		"partner":true
 	},
 	{
 		"key":"moldymacaronix",
 		"name":"Moldy",
-		"bio": "I am Moldy. Not literally, of course.",
-		"photo":"https://yt3.ggpht.com/ytc/AKedOLQr8KPiI594vmcI02OJ-1eIHRwESVuzCRm1bsauNA=s900-c-k-c0x00ffffff-no-rj",
+		"bio": "I am Moldy, a Geometry Dash YouTuber and Streamer.",
+		"photo":"https://www.moldygd.com/assets/logo.png",
 		"youtube":"moldygd",
-		"handle":"true",
-		"twitch":"moldymacaronix",
+		"handle":true,
 		"twitter":"moldymacaronix",
 		"discord":"PqTUgx6",
 		"gdbrowser":"CreatorMoldy",
-		"verified": "true",
-		"realVerified":"true"
+		"verified": true
 	},
 	{
 		"key":"esmik",
@@ -57,22 +55,22 @@
 		"bio":"BERP BERP BERP",
 		"photo":"https://yt3.ggpht.com/A7KsEjA1NPKNjZD4idAWyuwjkVIYiV_OnHG11G9ht3CovG6HJVw7b4DNyY-Hla9on-BXQC8C=s900-c-k-c0x00ffffff-no-rj",
 		"youtube":"Cobgd",
-		"handle":"true",
+		"handle":true,
 		"twitch":"gdcob",
 		"twitter":"gdcob2",
 		"discord":"bZcjgYUqHB",
 		"gdbrowser":"gdcob",
-		"verified": "true"
+		"verified": true
 	},
 	{
 		"key":"omegafalcon",
 		"name":"OmegaFalcon",
 		"photo":"https://yt3.ggpht.com/-ZYyIMdhNwHKdMjZcfsUAuTXgQcinpfUptfvVi95Yzf95WqqmVdk7h4GRde1M1DUc1WlukXwwA=s88-c-k-c0x00ffffff-no-rj",
 		"youtube":"OmegaFalcon",
-		"customyt":"true",
+		"customyt":true,
 		"twitter":"OmegaFalcon_",
 		"gdbrowser":"OmegaFalcon",
-		"verified": "true"
+		"verified": true
 	},
 	{
 		"key":"ryli",
@@ -119,7 +117,7 @@
 		"twitter":"BizaareGD",
 		"discord":"58HnfZKH4d",
 		"gdbrowser":"Bizaare",
-		"verified": "true"
+		"verified": true
 	},
 	{
 		"key":"isla",
@@ -199,7 +197,7 @@
 		"bio": "I am a Youtuber and Twitch streamer just tryna show people my stuff :)",
 		"photo":"https://i.ibb.co/L981t8C/Untitled-design-5.jpg",
 		"youtube":"TheStupidDodo",
-		"customyt":"true",
+		"customyt":true,
 		"twitch":"TheStupidDodo",
 		"discord":"Pnt5dcmMjJ",
 		"gdbrowser":"TheStupidDodo"
@@ -226,25 +224,25 @@
         "key": "ender",
         "name": "Ender",
         "photo": "https://yt3.ggpht.com/ytc/AMLnZu-aWjeOk3_7S7eMIawSjPP3hv3xo_-SUElCzL6lrw=s900-c-k-c0x00ffffff-no-rj",
-        "verified":"true"
+        "verified":true
     },
     {
         "key": "mathgenius",
         "name": "MathGenius",
         "photo": "https://yt3.ggpht.com/L-TzwTdpZ45fY6zeOetKEmu-adngQwXSs_RcwZb5gMii772iaBs9ApMSl3O42qyRuMOJfucejAs",
-        "verified":"true"
+        "verified":true
     },
 	{
 		"key":"tride",
 		"name":"Tride",
 		"photo":"https://yt3.ggpht.com/tBsA3U91wEOC7RC6pUHOORv6X_ei98o64CKf7FB-KpCkv62FJeIzWrjwls4NxNAdkSrPjRKQOiY=s900-c-k-c0x00ffffff-no-rj",
-		"verified":"true"
+		"verified":true
 	},
 	{
 		"key":"electrify",
 		"name":"Electrify",
 		"photo":"https://yt3.ggpht.com/ytc/AMLnZu9TwJUtC-8FDu9TaYnShdYFPKAjWy_26c_e01eX9w=s900-c-k-c0x00ffffff-no-rj",
-		"verified":"true"
+		"verified":true
 	},
 	{
 		"key":"herozer",
@@ -261,7 +259,7 @@
 		"name":"Brad",
 		"photo":"https://i.imgur.com/yAWW4V9.png",
 		"youtube":"zinkz",
-		"customyt":"true",
+		"customyt":true,
 		"twitch":"izinkz",
 		"twitter":"ytzinkz",
 		"gdbrowser":"zinkz"
@@ -272,7 +270,7 @@
 		"bio":"chaos",
 		"photo":"https://yt3.ggpht.com/ytc/AKedOLQr8KPiI594vmcI02OJ-1eIHRwESVuzCRm1bsauNA=s900-c-k-c0x00ffffff-no-rj",
 		"youtube":"wbilgini",
-		"handle":"true",
+		"handle":true,
 		"twitch":"wbilgini",
 		"twitter":"wbilgini",
 		"gdbrowser":"wbilgini"

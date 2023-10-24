@@ -25,7 +25,19 @@ layout: base.njk
 
 {% if (article or quiz) %}
 <div class="article-meta">
-	{% if author %}{% set myAuthor = authors | getAuthor(author) %}By <a class="article-meta-author" href="/authors/{{ myAuthor.key }}">{{ myAuthor.name }}</a>{% else %}Posted{% endif %} on <span class="article-meta-date">{% if date %}{{ date | readableDate }}{% else %}[no post publish date provided]{% endif %}</span>{% if tags %} in <span class="article-meta-date">{% for tag in tags %} <a href="/categories/{{ tag | slug }}/">{{ tag | capitalize }}</a>{% endfor %}</span>{% endif %}.
+	{% if author %}
+		{% set isArr = author | isArray %}
+		By
+		{% if isArr %}
+			{% for a in author %}
+				{% if loop.last and author.length != 1 %} and {% endif %}{% set myAuthor = authors | getAuthor(author[loop.index0]) %}<a class="article-meta-author" href="/authors/{{ myAuthor.key }}">{{ myAuthor.name }}</a>{% if not loop.last and author.length > 2 %}, {% endif %}
+			{% endfor %}
+		{% else %}
+			{% set myAuthor = authors | getAuthor(author) %}<a class="article-meta-author" href="/authors/{{ myAuthor.key }}">{{ myAuthor.name }}</a>
+		{% endif %}
+	{% else %}Posted{% endif %}
+		
+	on <span class="article-meta-date">{% if date %}{{ date | readableDate }}{% else %}[no post publish date provided]{% endif %}</span>{% if tags %} in <span class="article-meta-date">{% for tag in tags %} {% if loop.last and tags.length != 1 %} <span style="font-weight: normal;">and</span> {% endif %}<a href="/categories/{{ tag | slug }}/">{{ tag | capitalize }}</a>{% if not loop.last and tags.length > 2 %}<span style="font-weight: normal;">,</span> {% endif %}{% endfor %}</span>{% endif %}.
 </div>
 {# <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style" style="margin-top: 20px;">

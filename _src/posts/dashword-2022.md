@@ -8,7 +8,9 @@ date: 2022-12-29T22:12:17.780Z
 tags:
   - featured
   - editorial
-author: moldymacaronix
+author:
+  - moldymacaronix
+  - dashword
 image: https://i.ytimg.com/vi/Bqva66MyZvI/maxresdefault.jpg
 imageSource: https://www.youtube.com/watch?v=Bqva66MyZvI
 ---

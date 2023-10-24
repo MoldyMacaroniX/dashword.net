@@ -10,7 +10,9 @@ function getAllKeyValues(collectionArray, key) {
       let values = item.data[key] ? item.data[key] : [];
       return values;
     });
-  
+    
+    // flatten values array
+    allValues = lodash.flattenDeep(allValues);
     // to lowercase
     allValues = allValues.map((item) => item.toLowerCase());
     // remove duplicates
@@ -248,6 +250,10 @@ module.exports = (config) => {
         }
 
         return array.slice(0, n);
+    });
+
+    config.addFilter("isArray", (array) => {
+        return Array.isArray(array);
     });
 
     // Shortcodes

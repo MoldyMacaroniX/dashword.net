@@ -14,7 +14,28 @@
                         {% if post.data.desc %}{{ post.data.desc }}{% else %}No post description provided.{% endif %}
                     </a>
                     <span class="meta">
-                        {% if post.data.author %}{% set myAuthor = authors | getAuthor(post.data.author) %}<a href="/authors/{{ myAuthor.key }}" class="author">{{ myAuthor.name }} <i class="ri-user-3-line"></i></a>{% endif %} {% if post.data.date %}<a href="{{ post.url }}" class="date">{{ post.data.date | readableDate }} <i class="ri-time-line"></i></a>{% endif %} <span href="#" class="tags">{% for tag in post.data.tags %} <a href="/categories/{{ tag | slug }}/">{{ tag | capitalize }}</a>{% endfor %} <i class="ri-price-tag-3-line"></i></span>
+                        {% if post.data.author %}
+                            {# {% set myAuthor = authors | getAuthor(post.data.author) %}<a href="/authors/{{ myAuthor.key }}" class="author">{{ myAuthor.name }} <i class="ri-user-3-line"></i></a> #}
+
+                            {% set isArr = post.data.author | isArray %}
+                            {% if isArr %}
+                                <span href="#" class="tags">
+                                    {% for a in post.data.author %}
+                                        {% set myAuthor = authors | getAuthor(a) %}<a href="/authors/{{ myAuthor.key }}">{{ myAuthor.name }}</a>
+                                    {% endfor %}
+                                    <i class="ri-user-3-line"></i>
+                                </span>
+                            {% else %}
+                                {% set myAuthor = authors | getAuthor(post.data.author) %}<a href="/authors/{{ myAuthor.key }}" class="author">{{ myAuthor.name }} <i class="ri-user-3-line"></i></a>
+                            {% endif %}
+                            
+                        {% endif %}
+                        
+                        {% if post.data.date %}
+                            <a href="{{ post.url }}" class="date">{{ post.data.date | readableDate }} <i class="ri-time-line"></i></a>
+                        {% endif %}
+                        
+                        <span href="#" class="tags">{% for tag in post.data.tags %} <a href="/categories/{{ tag | slug }}/">{{ tag | capitalize }}</a>{% endfor %} <i class="ri-price-tag-3-line"></i></span>
                     </span>
                 </div>
             </div>

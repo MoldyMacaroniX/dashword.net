@@ -5,7 +5,7 @@ permalink: /verified/
 image: false
 ---
 
-The verified badge is assigned to authors who are well-known in the Geometry Dash community.
+The verified badge is assigned to authors who are well-known in the Geometry Dash community, partnered with Dashword, or a Dashword staff.
 
 # Requirements
 

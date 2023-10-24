@@ -213,7 +213,17 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
                 </form>
                 <div class="content">
                     <div class="desc">
-                        This author is verified because they are notable in the Geometry Dash community. <a href="/verified/">Verified Requirements</a>
+                        {% if pageID == "authorPosts" %}
+                            {% if myAuthor.staff %}
+                                This author is verified because they are a Dashword staff or an official Dashword profile. <a href="/verified/">Verified Requirements</a>
+                            {% elseif myAuthor.partner %}
+                                This author is verified because they are partnered with Dashword. <a href="/verified/">Verified Requirements</a>
+                            {% else %}
+                                This author is verified because they are notable in the Geometry Dash community. <a href="/verified/">Verified Requirements</a>
+                            {% endif %}
+                        {% else %}
+                            This should never show.
+                        {% endif %}
                     </div>
                     <button onclick="closeDialog('modalVerified')" class="button button-wide">Close</button>
                 </div>
