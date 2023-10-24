@@ -4,7 +4,7 @@ audio: https://anchor.fm/s/ce3ee4cc/podcast/play/60920492/https%3A%2F%2Fd3ctxlq1
 date: 2022-11-20
 desc: Is KOCMOC really that good a Geometry Dash level? What's up with the Demon List? Is there a problem with the Geometry Dash rate system? That and more is what we discuss on this episode of The GD Podcast!
 author:
-    - moldymacaronix
+    - moldy
     - ender
     - mathgenius
     - tride
