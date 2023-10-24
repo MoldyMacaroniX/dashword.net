@@ -7,7 +7,7 @@ date: 2023-01-03T06:32:59.324Z
 tags:
   - guide
   - featured
-author: moldymacaronix
+author: moldy
 image: https://i.ytimg.com/vi/V6HiW6t7CA0/maxresdefault.jpg
 imageSource: https://youtu.be/V6HiW6t7CA0
 ---

@@ -6,7 +6,7 @@ title: "Quiz Title"
 date: 2023-02-07
 desc: "Quiz Description"
 pageSlug: quiz-url-slug
-author: moldymacaronix
+author: moldy
 image: https://www.example.com/file.png
 imageSource: https://www.example.com/
 questions:

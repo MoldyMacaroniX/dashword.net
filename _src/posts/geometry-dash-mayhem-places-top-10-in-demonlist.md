@@ -7,7 +7,7 @@ date: 2022-09-19
 tags:
     - news
     - demonlist
-author: moldymacaronix
+author: moldy
 ---
 
 The top 5 Geometry Dash hardest demon Mayhem by Lordvadercraft and more [has placed at the #10 spot on the demonlist](https://twitter.com/demonlistgd/status/1570914896203894784), pushing Sonic Wave Infinity out of the top 10.

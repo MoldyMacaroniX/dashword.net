@@ -6,7 +6,7 @@ desc: What is the Geometry Dash level KOCMOC? Where will it place on the Demon
 date: 2022-10-24T02:57:40.726Z
 tags:
   - demonlist
-author: moldymacaronix
+author: moldy
 image: https://img.youtube.com/vi/KnuqV2hN4NY/maxresdefault.jpg
 imageSource: https://youtu.be/KnuqV2hN4NY
 ---

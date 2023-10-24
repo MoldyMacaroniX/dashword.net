@@ -7,7 +7,7 @@ date: 2022-10-01
 tags:
     - news
     - demonlist
-author: moldymacaronix
+author: moldy
 ---
 
 Geometry Dash Tartarus, the famous extreme demon, has fallen out of the top 10 after The Hallucination was raised from #14 to the #10 spot. This ends Tartarus's 2 year reign in the top 10 on the Pointercrate Demon List.

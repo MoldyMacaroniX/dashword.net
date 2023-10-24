@@ -6,7 +6,7 @@ desc: On September 16, Geometry Dash reached a new peak concurrent player count
 date: 2023-09-18T05:38:13.823Z
 tags:
   - news
-author: moldymacaronix
+author: moldy
 image: https://pbs.twimg.com/media/F6LuCoOawAEz3gB?format=jpg&name=medium
 imageSource: https://twitter.com/today_gd/status/1703185341359051237
 affiliateLinks: false

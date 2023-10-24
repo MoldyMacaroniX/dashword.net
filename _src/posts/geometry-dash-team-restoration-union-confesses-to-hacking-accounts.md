@@ -7,7 +7,7 @@ date: 2022-10-14T03:43:42.163Z
 tags:
   - news
   - history
-author: moldymacaronix
+author: moldy
 image: https://pbs.twimg.com/media/Fd_GGyWXoAIm8tv?format=jpg&name=large
 imageSource: https://twitter.com/restoration_uni/status/1576196245173174272
 ---

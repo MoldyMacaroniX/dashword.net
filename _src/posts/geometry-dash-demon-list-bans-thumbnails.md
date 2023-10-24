@@ -6,7 +6,7 @@ desc: The Geometry Dash Pointercrate Demon List has started banning irrelevant
 date: 2022-10-11T07:34:31.752Z
 tags:
   - demonlist
-author: moldymacaronix
+author: moldy
 image: https://i.imgur.com/ipDXrMo.png
 imageSource: /posts/geometry-dash-the-problem-with-the-demonlist/
 ---

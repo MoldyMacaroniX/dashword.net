@@ -6,7 +6,7 @@ date: 2022-11-17T06:00:30.885Z
 tags:
   - history
   - video
-author: moldymacaronix
+author: moldy
 image: https://img.youtube.com/vi/OQBGTr-Lb_k/maxresdefault.jpg
 imageSource: https://youtu.be/OQBGTr-Lb_k
 videoID: OQBGTr-Lb_k

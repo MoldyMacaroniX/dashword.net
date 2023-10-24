@@ -6,7 +6,7 @@ date: 2022-10-08T04:06:44.169Z
 tags:
   - news
   - demonlist
-author: moldymacaronix
+author: moldy
 address: geometry-dash-acheron-places-top-1-on-Demon List
 image: https://i.ytimg.com/vi/8NiVG9VqPlQ/maxresdefault.jpg
 imageSource: https://youtu.be/8NiVG9VqPlQ

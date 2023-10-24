@@ -8,7 +8,7 @@ An author object looks something like this.
 
 ```json
 {
-    "key":"moldymacaronix",
+    "key":"moldy",
     "name":"Moldy",
     "bio": "I am Moldy. Not literally, of course.",
     "photo":"https://www.moldygd.com/assets/logo.png",

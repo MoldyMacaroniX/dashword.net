@@ -5,7 +5,7 @@ image: https://i.imgur.com/UMK9uL3.jpeg
 date: 2022-01-26
 tags:
     - video
-author: moldymacaronix
+author: moldy
 ---
 
 The Geometry Dash 2.2 sneak peek astonished everybody. While some are more fond of it than others, it is safe to say that it will revolutionize the game when it comes out with update 2.2. However, like what creators did in updates prior, they made countless remakes of the sneak peek — some better than others.

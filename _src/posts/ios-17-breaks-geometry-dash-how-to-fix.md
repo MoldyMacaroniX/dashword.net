@@ -8,7 +8,7 @@ date: 2023-09-18T22:30:21.344Z
 tags:
   - news
   - guide
-author: moldymacaronix
+author: moldy
 image: https://pbs.twimg.com/media/Ffx6tbnWQAAT2m2?format=jpg&name=large
 imageSource: https://twitter.com/today_gd/status/1584276465365159936
 affiliateLinks: false

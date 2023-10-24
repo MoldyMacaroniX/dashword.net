@@ -6,7 +6,7 @@ date: 2022-10-23T06:35:15.476Z
 tags:
   - news
   - demonlist
-author: moldymacaronix
+author: moldy
 image: https://img.youtube.com/vi/DotolWoLYuU/maxresdefault.jpg
 imageSource: https://youtu.be/DotolWoLYuU
 ---

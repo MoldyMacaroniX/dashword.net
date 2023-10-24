@@ -10,7 +10,7 @@ date: 2023-05-25T23:31:51.067Z
 tags:
   - news
   - "2.2"
-author: moldymacaronix
+author: moldy
 image: https://i.imgur.com/ZNaTKaf.png
 imageSource: https://twitter.com/RobTopGames/status/1661817367603683330
 affiliateLinks: false

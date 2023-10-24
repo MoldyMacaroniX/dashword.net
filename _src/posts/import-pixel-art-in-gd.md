@@ -5,7 +5,7 @@ image: https://i.ytimg.com/vi/P4mL4MeAivI/maxresdefault.jpg
 date: 2022-01-25
 tags:
     - guide
-author: moldymacaronix
+author: moldy
 ---
 
 Pixel art is relatively underdeveloped in Geometry Dash due to how tedious it is to make. Most of the time it requires tracing art from outside the game, which can be very boring due to the lack of creativity needed. Fortunately, as modding has advanced, there now exists tools to import pixel art into the game, making this otherwise tedious task a breeze.

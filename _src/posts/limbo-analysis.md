@@ -5,7 +5,7 @@ image: https://i.ytimg.com/vi/8vc2YoLWM0c/maxresdefault.jpg
 date: 2022-01-30
 tags:
     - review
-author: moldymacaronix
+author: moldy
 ---
 
 To me, it feels as if it has been a long time since a really high quality top 1 level stormed the scene. However, [Limbo](https://youtu.be/ryBbuH_SPbs) seems to be a breath of fresh air from typical top 1 extreme demons. It features fantastic decoration, original gameplay, and an epic final part with a concept never before seen in another level.

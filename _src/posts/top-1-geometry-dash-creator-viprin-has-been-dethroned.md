@@ -5,7 +5,7 @@ desc: The former top 1 Geometry Dash creator, Viprin, has been dethroned after
 date: 2022-12-02T07:45:25.558Z
 tags:
   - news
-author: moldymacaronix
+author: moldy
 image: https://pbs.twimg.com/media/Fi6Ls9cXkAA1wBI?format=jpg&name=large
 imageSource: https://twitter.com/mrspaghettigd/status/1598368672870866944
 ---

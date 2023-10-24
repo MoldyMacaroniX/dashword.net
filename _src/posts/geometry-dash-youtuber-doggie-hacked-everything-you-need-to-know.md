@@ -9,7 +9,7 @@ date: 2023-10-03T15:16:41.957Z
 tags:
   - news
   - featured
-author: moldymacaronix
+author: moldy
 image: https://pbs.twimg.com/profile_banners/1184537642223984648/1640385869/1500x500
 imageSource: https://twitter.com/DasherDoggie/header_photo
 affiliateLinks: false

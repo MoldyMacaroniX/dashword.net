@@ -7,7 +7,7 @@ date: 2022-10-17T04:45:42.848Z
 tags:
   - news
   - "2.2"
-author: moldymacaronix
+author: moldy
 image: https://i.ytimg.com/vi/g4r6BTdU2M0/maxresdefault.jpg
 imageSource: https://game-solver.com/geometry-dash/testing-update-2-2-platformer-mode/
 ---

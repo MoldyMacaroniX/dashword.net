@@ -3,7 +3,7 @@ title: "What Limbo Key Are You? Geometry Dash Limbo Was Verified, So Find Out Wh
 date: 2023-02-01
 desc: BGram verified the famous Geometry Dash memory extreme demon Limbo. At the end of this level, you have to choose the right key. So let's find out which Limbo key you are!
 pageSlug: what-limbo-key-are-you-geometry-dash
-author: moldymacaronix
+author: moldy
 image: https://i.ytimg.com/vi/ryBbuH_SPbs/maxresdefault.jpg
 imageSource: https://www.youtube.com/watch?v=ryBbuH_SPbs
 questions:

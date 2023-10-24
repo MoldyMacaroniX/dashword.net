@@ -7,7 +7,7 @@ date: 2023-01-31T02:40:01.247Z
 tags:
   - news
   - "2.2"
-author: moldymacaronix
+author: moldy
 image: https://pbs.twimg.com/media/EkYqz_1UcAA47Fu?format=jpg&name=large
 imageSource: https://mobile.twitter.com/GDDiscord/status/1316787017468919808
 ---

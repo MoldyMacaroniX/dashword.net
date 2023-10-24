@@ -9,7 +9,7 @@ date: 2023-05-17T07:15:09.950Z
 tags:
   - news
   - "2.2"
-author: moldymacaronix
+author: moldy
 image: https://img.youtube.com/vi/fl2XphpQcFk/maxresdefault.jpg
 imageSource: https://youtu.be/fl2XphpQcFk
 affiliateLinks: false

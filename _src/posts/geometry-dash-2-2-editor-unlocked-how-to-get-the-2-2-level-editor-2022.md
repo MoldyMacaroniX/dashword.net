@@ -7,7 +7,7 @@ tags:
   - guide
   - featured
   - "2.2"
-author: moldymacaronix
+author: moldy
 image: https://i.imgur.com/JoYNOWb.png
 imageSource: https://androidprog.com/en/gdps-editor/
 ---

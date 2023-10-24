@@ -8,7 +8,7 @@ tags:
   - news
   - "2.2"
   - featured
-author: moldymacaronix
+author: moldy
 image: https://i.imgur.com/VILQyWO_d.webp?maxwidth=1520&fidelity=grand
 imageSource: https://imgur.com/a/32n8G3i
 affiliateLinks: false

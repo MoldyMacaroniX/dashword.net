@@ -7,7 +7,7 @@ date: 2022-09-27
 tags:
     - opinion
     - demonlist
-author: moldymacaronix
+author: moldy
 ---
 
 The hardest levels ever made in Geometry Dash are extreme demons and they are ranked on the Pointercrate Demon List. However, as of late, it has become incredibly controversial.

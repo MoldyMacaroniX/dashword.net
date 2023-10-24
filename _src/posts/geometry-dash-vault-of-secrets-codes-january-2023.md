@@ -6,7 +6,7 @@ desc: Here are all codes for the Geometry Dash Vault of Secrets. These codes
 date: 2023-01-06T01:45:19.557Z
 tags:
   - guide
-author: moldymacaronix
+author: moldy
 image: https://i.ytimg.com/vi/_AHO1yUYepE/maxresdefault.jpg
 imageSource: https://youtu.be/_AHO1yUYepE
 affiliateLinks: false

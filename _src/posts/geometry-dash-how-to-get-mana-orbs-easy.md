@@ -5,7 +5,7 @@ image: https://media.discordapp.net/attachments/392087938239954950/1018250191696
 date: 2022-09-17
 tags:
     - guide
-author: moldymacaronix
+author: moldy
 ---
 
 Mana Orbs are Geometry Dash's currency. You can use them to buy icons, ships, UFOs, and every other gamemode. They can also be used to buy death effects and other secrets, such as the Master Emblem.

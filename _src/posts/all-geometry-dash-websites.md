@@ -5,7 +5,7 @@ desc: There are many Geometry Dash websites, including the Pointercrate Demon
 date: 2022-12-11T08:39:24.864Z
 tags:
   - list
-author: moldymacaronix
+author: moldy
 image: https://pbs.twimg.com/media/FelRl-UXEAAD_ue?format=jpg&name=large
 imageSource: https://twitter.com/MyDemonList/status/1578883374785011713
 ---

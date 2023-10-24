@@ -5,7 +5,7 @@ image: https://i.imgur.com/YyEMgVj.png
 date: 2022-03-13
 tags:
     - guide
-author: moldymacaronix
+author: moldy
 ---
 
 How the magic tab works still remains a mystery. However, using Colon's [level analyzer](https://github.com/GDColon/GDBrowser), I believe I have come up with a *mostly accurate* list of how the magic tab works.

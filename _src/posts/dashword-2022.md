@@ -9,7 +9,7 @@ tags:
   - featured
   - editorial
 author:
-  - moldymacaronix
+  - moldy
   - dashword
 image: https://i.ytimg.com/vi/Bqva66MyZvI/maxresdefault.jpg
 imageSource: https://www.youtube.com/watch?v=Bqva66MyZvI

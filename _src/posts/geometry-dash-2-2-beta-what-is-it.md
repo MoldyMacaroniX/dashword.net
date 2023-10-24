@@ -6,7 +6,7 @@ date: 2022-10-11T07:17:21.921Z
 tags:
   - guide
   - "2.2"
-author: moldymacaronix
+author: moldy
 image: https://i.imgur.com/cMKrcOC.jpeg
 imageSource: https://www.reddit.com/r/geometrydash/comments/tqczgg/geometry_dash_22/
 affiliateLinks: false

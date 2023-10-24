@@ -4,7 +4,7 @@ desc: iOS 16 has been confirmed to fix the infamous Geometry Dash crash bug that
 image: https://media.discordapp.net/attachments/392087938239954950/1024040222608080906/unknown.png?width=1202&height=676
 imageSource: https://unsplash.com/photos/cQ90QkreiPQ
 date: 2022-09-26
-author: moldymacaronix
+author: moldy
 tags:
     - news
     - guide

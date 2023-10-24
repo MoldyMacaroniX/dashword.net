@@ -5,7 +5,7 @@ image: https://media.discordapp.net/attachments/392087938239954950/9396693256342
 date: 2022-02-05
 tags:
     - featured
-author: moldymacaronix
+author: moldy
 ---
 
 Ultimate Destruction is the unfinished beta level of Geometry Jump. Eventually, it would be replaced with Base After Base and the game's name changed to Geometry Dash. However, for some reason, I find Ultimate Destruction to have a sort of charm that other 1.0 levels don't have.

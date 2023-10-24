@@ -9,7 +9,7 @@ date: 2023-10-17T17:12:07.326Z
 tags:
   - news
   - video
-author: moldymacaronix
+author: moldy
 image: https://img.youtube.com/vi/UYAdeDAqSgc/maxresdefault.jpg
 imageSource: https://youtu.be/UYAdeDAqSgc?si=4d0Cu9P7cRgMR9Bf
 videoID: UYAdeDAqSgc

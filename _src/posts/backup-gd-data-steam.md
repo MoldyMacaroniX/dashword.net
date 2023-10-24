@@ -5,7 +5,7 @@ image: https://cdn.akamai.steamstatic.com/steam/apps/322170/capsule_616x353.jpg?
 date: 2022-01-31
 tags:
     - guide
-author: moldymacaronix
+author: moldy
 ---
 
 If you have ever used Geometry Dash's cloud save system, you are probably aware of its lack of functionality. It very often just does not work and is generally unreliable. Fortunately, if you play on the [Steam version](https://store.steampowered.com/app/322170/Geometry_Dash/) of the game, there is a way to backup your save data manually.

@@ -9,7 +9,7 @@ tags:
   - demonlist
   - list
   - featured
-author: moldymacaronix
+author: moldy
 image: https://img.youtube.com/vi/hW8qxKi1udY/maxresdefault.jpg
 imageSource: https://youtu.be/hW8qxKi1udY
 ---

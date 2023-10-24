@@ -7,7 +7,7 @@ date: 2022-09-27
 tags:
     - news
     - demonlist
-author: moldymacaronix 
+author: moldy 
 ---
 
 Geometry Dash Acheron, the supposed top 1 hardest extreme demon, has placed #2 on the Pointercrate demonlist following controversial decision by the list moderators.

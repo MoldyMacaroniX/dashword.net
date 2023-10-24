@@ -8,7 +8,7 @@ tags:
   - guide
   - featured
   - "2.2"
-author: moldymacaronix
+author: moldy
 image: https://external-preview.redd.it/NZMFL9nrkpGXC-y-krEbZjyF2uHHhqNFzN_ZUTn3By0.jpg?format=pjpg&auto=webp&s=86f106121dcdc47f82236819f105c2feb5469ffe
 imageSource: https://www.reddit.com/r/geometrydash/comments/n0indc/geometry_dash_22_private_server_platformer/
 affiliateLinks: false

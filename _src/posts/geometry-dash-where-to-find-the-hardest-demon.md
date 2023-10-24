@@ -8,7 +8,7 @@ tags:
   - demonlist
   - guide
   - featured
-author: moldymacaronix
+author: moldy
 image: https://img.youtube.com/vi/bpK_dN0rvZk/maxresdefault.jpg
 imageSource: https://youtu.be/bpK_dN0rvZk
 affiliateLinks: false

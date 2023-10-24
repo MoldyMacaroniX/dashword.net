@@ -8,7 +8,7 @@ tags:
   - news
   - "2.2"
   - featured
-author: moldymacaronix
+author: moldy
 image: https://media.discordapp.net/attachments/392087938239954950/1165369537525465108/image.png?ex=654699f5&is=653424f5&hm=9665ce32a7f95f023e48e81e89f9fd2958aff854f71af6be3ad4370ee77b39c6&=&width=912&height=480
 imageSource: https://twitter.com/RobTopGames/status/1715803442327732715
 affiliateLinks: false

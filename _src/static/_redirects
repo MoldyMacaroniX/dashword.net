@@ -29,3 +29,7 @@ https://gd-website.netlify.com/*   https://www.dashword.net/:splat   301!
 # Refs
 
 /ref/moldy/ /?ref=Moldy
+
+# Author page redirects
+
+/authors/moldymacaronix/ /authors/moldy/

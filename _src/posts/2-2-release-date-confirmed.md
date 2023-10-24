@@ -6,7 +6,7 @@ date: 2022-02-14
 tags:
   - news
   - "2.2"
-author: moldymacaronix
+author: moldy
 image: https://i.imgur.com/miyrBCr.jpeg
 ---
 

@@ -8,7 +8,7 @@ tags:
   - "2.2"
   - news
   - featured
-author: moldymacaronix
+author: moldy
 image: https://static.wikia.nocookie.net/741140a3-635e-4257-9a84-340830092e95
 imageSource: https://geometry-dash.fandom.com/f/p/4400000000000086946
 ---

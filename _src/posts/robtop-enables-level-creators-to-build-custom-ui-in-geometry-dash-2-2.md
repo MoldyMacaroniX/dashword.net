@@ -9,7 +9,7 @@ date: 2023-03-03T21:27:37.787Z
 tags:
   - "2.2"
   - news
-author: moldymacaronix
+author: moldy
 image: https://media.discordapp.net/attachments/392087938239954950/1081327424672894976/image.png?width=1239&height=674
 imageSource: https://twitter.com/GD_22News/status/1631571206716399617
 videoID: ""

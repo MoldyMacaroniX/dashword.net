@@ -19,7 +19,7 @@ date: 2022-08-28
 tags:
     - featured
     - guide
-author: moldymacaronix
+author: moldy
 videoID: xAHrT0qf2rI
 ---
 
@@ -85,21 +85,21 @@ The above is wrong and will result in the tag `one,two` rather than tags `one` a
 Must be a valid author key.
 
 ```yaml
-author: moldymacaronix
+author: moldy
 ```
 
 For multiple authors, use an Array of Strings, like...
 
 ```yaml
 author:
-    - moldymacaronix
+    - moldy
     - dashword
 ```
 
 As with tags, **this will not work:**
 
 ```yaml
-tags: moldymacaronix,dashword #wrong
+author: moldy,dashword #wrong
 ```
 
 Multiple authors per article is not yet supported in the backend CMS and must be done via a pull request.

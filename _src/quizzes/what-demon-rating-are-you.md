@@ -3,7 +3,7 @@ title: "What Demon Rating Are You? Geometry Dash Has Many Demon Ratings, So Find
 date: 2023-02-07
 desc: Geometry Dash has 2 types of players, them being players and creators. Players can usually beat extreme demons while creators can usually get creator points. Which are you?
 pageSlug: what-demon-rating-are-you-geometry-dash
-author: moldymacaronix
+author: moldy
 image: https://external-preview.redd.it/r336O4_P3THOvhDeZUUaCd8lFgwvpwW_xz0l_LZUZoc.jpg?auto=webp&s=366d74eb4820d67d2a368d1d28e03525f97786ce
 imageSource: https://www.reddit.com/r/geometrydash/comments/5jngzz/demon_rating_system/
 questions:

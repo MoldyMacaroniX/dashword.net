@@ -8,7 +8,7 @@ date: 2023-01-31T01:56:00.600Z
 tags:
   - news
   - demonlist
-author: moldymacaronix
+author: moldy
 image: https://pbs.twimg.com/media/FngaCOHakAARX0Z?format=jpg&name=large
 imageSource: https://twitter.com/today_gd
 ---

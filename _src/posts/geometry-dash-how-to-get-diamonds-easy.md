@@ -5,7 +5,7 @@ image: https://media.discordapp.net/attachments/392087938239954950/1018251147720
 date: 2022-09-17
 tags:
     - guide
-author: moldymacaronix
+author: moldy
 ---
 
 Geometry Dash diamonds are required to unlock many secrets in the game, such as the [Vault of Secrets](/posts/geometry-dash-all-vaults-and-secrets-2022/#vault-of-secrets) and the [Secret Shop](/posts/geometry-dash-all-vaults-and-secrets-2022/#secret-shop).

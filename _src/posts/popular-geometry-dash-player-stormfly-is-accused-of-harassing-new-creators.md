@@ -5,7 +5,7 @@ desc: Popular Geometry Dash player Stormfly has been the center of a Twitter
 date: 2022-10-15T03:16:58.521Z
 tags:
   - news
-author: moldymacaronix
+author: moldy
 image: https://img.youtube.com/vi/R2XxYX53IbQ/maxresdefault.jpg
 imageSource: https://youtu.be/R2XxYX53IbQ
 ---

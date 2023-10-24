@@ -7,7 +7,7 @@ tags:
     - featured
     - "2.2"
     - news
-author: moldymacaronix
+author: moldy
 ---
 
 RobTop has released a new Geometry Dash 2.2 sneak peek, showcasing the level "Explorers." This is the second 2.2 level showcased so far.

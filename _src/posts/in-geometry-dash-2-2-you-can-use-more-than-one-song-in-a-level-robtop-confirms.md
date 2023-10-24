@@ -8,7 +8,7 @@ date: 2023-09-02T04:50:52.183Z
 tags:
   - news
   - "2.2"
-author: moldymacaronix
+author: moldy
 image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/02d9c47c-4eb4-448d-9191-7475c91275e1/dg31bxn-ef4765cc-9760-47c2-b827-6aa68bad9c86.png/v1/fill/w_1280,h_720,q_80,strp/geometry_dash_2_2_boss_fight_by_wemmmmm_dg31bxn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMDJkOWM0N2MtNGViNC00NDhkLTkxOTEtNzQ3NWM5MTI3NWUxXC9kZzMxYnhuLWVmNDc2NWNjLTk3NjAtNDdjMi1iODI3LTZhYTY4YmFkOWM4Ni5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ayupLXGZtMa9WFX__5LY7qwomWhCgrtNTL5Kow_GHpQ
 imageSource: https://www.deviantart.com/wemmmmm/art/Geometry-dash-2-2-boss-fight-972559787
 affiliateLinks: false

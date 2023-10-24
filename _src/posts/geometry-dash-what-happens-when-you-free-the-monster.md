@@ -6,7 +6,7 @@ desc: After freeing the monster prisoner in Geometry Dash, here's what happens
 date: 2023-01-05T07:55:33.728Z
 tags:
   - guide
-author: moldymacaronix
+author: moldy
 image: https://i.ytimg.com/vi/Oe6jfYJmRho/maxresdefault.jpg
 imageSource: https://youtu.be/Oe6jfYJmRho
 ---

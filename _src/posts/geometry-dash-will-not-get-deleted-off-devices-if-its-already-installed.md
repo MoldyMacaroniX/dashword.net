@@ -7,7 +7,7 @@ desc: Geometry Dash will not get deleted off your device if it is already
 date: 2023-08-13T22:54:08.608Z
 tags:
   - guide
-author: moldymacaronix
+author: moldy
 image: https://i.ytimg.com/vi/Ofxp6THbVNM/maxresdefault.jpg
 imageSource: https://youtu.be/Ofxp6THbVNM
 affiliateLinks: false

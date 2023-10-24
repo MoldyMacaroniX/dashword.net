@@ -3,7 +3,7 @@ title: "What Shopkeeper Are You? Geometry Dash Has Many Shopkeepers, So Find Out
 date: 2023-02-01
 desc: There are many shopkeepers in the game right now and even more coming in Geometry Dash update 2.2! Which shopkeeper do you most closely represent?
 pageSlug: what-shopkeeper-are-you-geometry-dash
-author: moldymacaronix
+author: moldy
 image: https://i.ytimg.com/vi/4jlvlZqH1-A/maxresdefault.jpg
 imageSource: https://www.youtube.com/watch?v=4jlvlZqH1-A
 questions:

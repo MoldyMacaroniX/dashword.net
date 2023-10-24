@@ -8,7 +8,7 @@ date: 2023-08-21T21:31:45.042Z
 tags:
   - news
   - opinion
-author: moldymacaronix
+author: moldy
 image: https://pbs.twimg.com/media/F4FQzg5WAAAg-F0?format=jpg&name=large
 imageSource: https://twitter.com/MoldyMacaroniX/status/1693726350853505219
 affiliateLinks: false

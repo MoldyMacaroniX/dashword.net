@@ -6,7 +6,7 @@ date: 2022-10-02
 tags:
   - "2.2"
   - featured
-author: moldymacaronix
+author: moldy
 image: https://preview.redd.it/53rp5f80fwl91.jpg?width=640&crop=smart&auto=webp&s=bec7bf1ca9ec3b2fd079647166787f71a3c45c35
 imageSource: https://www.reddit.com/r/geometrydash/comments/x5wb4a/explorers_was_just_previewed_in_the_22_sneak_peek/
 ---

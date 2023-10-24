@@ -6,7 +6,7 @@ imageSource: https://www.youtube.com/watch?v=ZO5vQg4Bliw
 date: 2022-09-28
 tags:
     - news
-author: moldymacaronix
+author: moldy
 ---
 
 Popular Geometry Dash legend Cyclic [did his first stream in 2 years](https://youtu.be/vT6_X8otku8), playing the infamous level "Bloodbath" by Riot and more.

@@ -5,7 +5,7 @@ image: https://pm1.narvii.com/7750/8485661dfc27eb56dfff3763c8b509365944981er1-19
 date: 2022-09-19
 tags:
     - guide
-author: moldymacaronix
+author: moldy
 ---
 
 Geometry Dash has many icons, but how do you unlock them all? After all, there are so many!

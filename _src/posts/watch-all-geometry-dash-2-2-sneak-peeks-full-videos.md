@@ -8,7 +8,7 @@ tags:
   - "2.2"
   - guide
   - video
-author: moldymacaronix
+author: moldy
 image: https://i.imgur.com/9HfLs2t.png
 imageSource: https://youtu.be/CtEQ_EGlbQc
 ---

@@ -10,7 +10,7 @@ tags:
   - featured
   - news
   - "2.2"
-author: moldymacaronix
+author: moldy
 image: https://pbs.twimg.com/media/F081rd_X0AALJ9j?format=jpg&name=4096x4096
 imageSource: https://twitter.com/robtopgames/status/1679620807922778113
 affiliateLinks: false

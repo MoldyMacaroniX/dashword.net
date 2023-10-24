@@ -7,7 +7,7 @@ date: 2022-09-17
 tags:
     - featured
     - guide
-author: moldymacaronix
+author: moldy
 ---
 
 The Geometry Dash Chaos Gauntlet is required to free the demon guardian, which makes beating it crucial to progressing in the game. That being said, the Chaos Gauntlet will seem like a very difficult Gauntlet at first.

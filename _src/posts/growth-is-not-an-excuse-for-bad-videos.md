@@ -6,7 +6,7 @@ date: 2022-05-14
 tags:
     - featured
     - opinion
-author: moldymacaronix
+author: moldy
 ---
 
 It is no secret that Geometry Dash YouTube has seen a revival. Rather than there just being the few major channels like before, now there are more and more Geometry Dash YouTubers popping up and gaining tens of thousands of subscribers. However, I find that with this has come the rise of effortless content.

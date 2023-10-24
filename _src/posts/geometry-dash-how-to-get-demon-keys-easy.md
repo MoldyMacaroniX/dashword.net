@@ -5,7 +5,7 @@ image: https://media.discordapp.net/attachments/392087938239954950/1018249314176
 date: 2022-09-17
 tags:
     - guide
-author: moldymacaronix
+author: moldy
 ---
 
 Geometry Dash demon keys are used to unlock treasure chests from the [treasure room](/posts/geometry-dash-all-vaults-and-secrets-2022/#treasure-room), but how to obtain them is a little confusing at first.

@@ -5,7 +5,7 @@ desc: Geometry Dash level "OuterSpace" passes "Sonar," becoming the most
 date: 2022-09-28
 tags:
   - news
-author: moldymacaronix
+author: moldy
 image: https://pbs.twimg.com/media/Fdfe3nYX0AEPtto?format=jpg&name=4096x4096
 imageSource: https://twitter.com/today_gd/status/1573971770515808257
 ---

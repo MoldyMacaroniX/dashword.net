@@ -7,7 +7,7 @@ date: 2023-09-23T15:44:42.700Z
 tags:
   - news
   - "2.2"
-author: moldymacaronix
+author: moldy
 image: https://media.discordapp.net/attachments/392087938239954950/1155168307192811520/image.png?width=1221&height=651
 imageSource: https://steamdb.info/app/322170/depots/?branch=beta
 affiliateLinks: false

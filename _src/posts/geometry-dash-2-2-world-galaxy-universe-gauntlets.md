@@ -7,7 +7,7 @@ tags:
     - featured
     - news
     - "2.2"
-author: moldymacaronix
+author: moldy
 ---
 
 Geometry Dash 2.2 will be getting 3 new confirmed Gauntlets: the World Gauntlet, Galaxy Gauntlet, and Universe Gauntlet.

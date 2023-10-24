@@ -5,7 +5,7 @@ image: https://i.ytimg.com/vi/-mCX9ogzs54/maxresdefault.jpg
 date: 2022-01-18
 tags:
     - opinion
-author: moldymacaronix
+author: moldy
 alert: This article is based off an old video script from April 2020. Some opinions may no longer reflect the views of the author.
 ---
 

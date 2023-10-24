@@ -8,7 +8,7 @@ date: 2023-03-23T23:07:12.407Z
 tags:
   - news
   - featured
-author: moldymacaronix
+author: moldy
 image: https://img.youtube.com/vi/pZNodeYQGRc/maxresdefault.jpg
 imageSource: https://youtu.be/pZNodeYQGRc
 videoID: ""

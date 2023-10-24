@@ -7,7 +7,7 @@ date: 2022-11-25T17:37:13.999Z
 tags:
   - news
   - opinion
-author: moldymacaronix
+author: moldy
 image: https://pbs.twimg.com/media/FH9GlT-VgAADlFP.jpg
 imageSource: https://mobile.twitter.com/today_gd
 ---

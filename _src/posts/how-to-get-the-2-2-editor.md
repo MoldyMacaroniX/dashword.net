@@ -6,7 +6,7 @@ date: 2022-01-25
 tags:
     - guide
     - "2.2"
-author: moldymacaronix
+author: moldy
 ---
 
 You may have seen some YouTubers supposedly playing Geometry Dash 2.2. I myself am one of these YouTubers, and I've been making 2.2 content for over half a year now. In this content, I usually make 2.2 levels. So, how do I and many others do it?

@@ -10,7 +10,7 @@ tags:
   - news
   - demonlist
   - featured
-author: moldymacaronix
+author: moldy
 image: https://img.youtube.com/vi/rSMoWAZOun0/maxresdefault.jpg
 imageSource: https://youtu.be/rSMoWAZOun0
 affiliateLinks: false

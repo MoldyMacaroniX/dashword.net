@@ -6,7 +6,7 @@ desc: "VSC is said to be the hardest Geometry Dash level and top 1 on the
 date: 2023-01-22T09:46:38.338Z
 tags:
   - demonlist
-author: moldymacaronix
+author: moldy
 image: https://i.ytimg.com/vi/yXpTYLQpEOo/maxresdefault.jpg
 imageSource: https://youtu.be/yXpTYLQpEOo
 ---

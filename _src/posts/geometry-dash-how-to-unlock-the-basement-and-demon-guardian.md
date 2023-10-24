@@ -5,7 +5,7 @@ image: https://i.ytimg.com/vi/Lmsqt7m14GI/maxresdefault.jpg
 date: 2022-09-21
 tags:
     - guide
-author: moldymacaronix
+author: moldy
 ---
 
 There is a secret area in Geometry Dash called "The Basement." It holds a prisoner called the Demon Guardian. You can free him to unlock the Demon Gauntlet, icons, and other rewards.

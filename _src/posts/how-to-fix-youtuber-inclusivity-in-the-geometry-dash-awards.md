@@ -8,7 +8,7 @@ date: 2023-01-02T06:25:34.376Z
 tags:
   - opinion
   - featured
-author: moldymacaronix
+author: moldy
 image: https://img.youtube.com/vi/26bIEgoMR1s/maxresdefault.jpg
 imageSource: https://youtu.be/26bIEgoMR1s
 ---

@@ -5,7 +5,7 @@ image: https://img.youtube.com/vi/bSVcf-IP_tg/maxresdefault.jpg
 date: 2022-01-18
 tags:
     - review
-author: moldymacaronix
+author: moldy
 alert: This article is based off an old video script from May 2020. Some opinions may no longer reflect the views of the author.
 ---
 

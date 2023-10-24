@@ -7,7 +7,7 @@ date: 2023-07-24T23:43:50.539Z
 tags:
   - news
   - "2.2"
-author: moldymacaronix
+author: moldy
 image: https://media.discordapp.net/attachments/392087938239954950/1133183795546304633/IMG_0868.jpg
 imageSource: https://soundcloud.com/anonymous_nobody/sets/geometry-dash-music
 affiliateLinks: false

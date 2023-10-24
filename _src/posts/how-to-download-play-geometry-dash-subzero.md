@@ -5,7 +5,7 @@ desc: Geometry Dash SubZero is the third free spin-off game of Geometry Dash. It
 date: 2022-10-28T00:26:52.648Z
 tags:
   - guide
-author: moldymacaronix
+author: moldy
 image: https://img.youtube.com/vi/RpqNpRe9MZQ/hqdefault.jpg
 imageSource: https://youtu.be/RpqNpRe9MZQ
 ---

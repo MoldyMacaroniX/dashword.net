@@ -6,7 +6,7 @@ date: 2022-02-15
 tags:
     - featured
     - opinion
-author: moldymacaronix
+author: moldy
 ---
 
 The idea of categorizing "things" is common in philosophy. I decided to take this concept to Geometry Dash styles, where I came up with a model that I believe all styles in any level stem from. But in order for that to work, we need to answer this fundamental question: what is a style?

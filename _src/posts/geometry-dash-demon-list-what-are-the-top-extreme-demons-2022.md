@@ -7,7 +7,7 @@ desc: The Geometry Dash Demon List is a list of the hardest levels and extreme
 date: 2022-10-15T21:51:11.362Z
 tags:
   - demonlist
-author: moldymacaronix
+author: moldy
 image: https://img.youtube.com/vi/0q4toyeYzxA/maxresdefault.jpg
 imageSource: https://youtu.be/0q4toyeYzxA
 ---

@@ -8,7 +8,7 @@ desc: Silent Clubstep was one of the hardest Geometry Dash levels ever made and
 date: 2023-01-19T08:00:14.095Z
 tags:
   - demonlist
-author: moldymacaronix
+author: moldy
 image: https://img.youtube.com/vi/4VQzSID55lY/maxresdefault.jpg
 imageSource: https://youtu.be/4VQzSID55lY
 ---

@@ -7,7 +7,7 @@ desc: The famous Geometry Dash YouTuber and extreme demon player AeonAir has
 date: 2023-01-31T02:03:51.476Z
 tags:
   - news
-author: moldymacaronix
+author: moldy
 image: https://pbs.twimg.com/media/FnqtuGnXoAAs-Fy?format=jpg&name=large
 imageSource: https://twitter.com/today_gd/status/1619798267646050304
 ---

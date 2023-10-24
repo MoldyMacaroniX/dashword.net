@@ -8,7 +8,7 @@ date: 2023-04-18T07:39:02.491Z
 tags:
   - news
   - "2.2"
-author: moldymacaronix
+author: moldy
 image: https://i.imgur.com/tKCqnKF.jpeg
 affiliateLinks: false
 hideAds: false

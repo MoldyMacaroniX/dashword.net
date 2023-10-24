@@ -8,7 +8,7 @@ tags:
   - news
   - "2.2"
   - featured
-author: moldymacaronix
+author: moldy
 image: https://img.youtube.com/vi/CtEQ_EGlbQc/maxresdefault.jpg
 imageSource: /posts/geometry-dash-new-sneak-peek-analysis/
 affiliateLinks: false

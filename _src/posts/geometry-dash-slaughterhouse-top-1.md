@@ -6,7 +6,7 @@ imageSource: https://youtu.be/MQVvbcIf0Es
 date: 2022-09-19
 tags:
     - demonlist
-author: moldymacaronix
+author: moldy
 ---
 
 The top 1 hardest Geometry Dash level, Slaughterhouse, has remained in the top 1 position for almost an entire year.

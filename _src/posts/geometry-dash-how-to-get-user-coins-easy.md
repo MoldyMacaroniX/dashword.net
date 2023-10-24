@@ -6,7 +6,7 @@ date: 2022-09-17
 tags:
   - featured
   - guide
-author: moldymacaronix
+author: moldy
 image: https://img.youtube.com/vi/VL6XnGPSxhc/maxresdefault.jpg
 imageSource: https://www.youtube.com/watch?v=VL6XnGPSxhc
 ---

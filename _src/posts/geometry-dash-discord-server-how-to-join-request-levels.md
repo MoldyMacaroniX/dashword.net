@@ -6,7 +6,7 @@ desc: The Geometry Dash Discord server is home of the Geometry Dash community
 date: 2022-10-17T18:36:34.376Z
 tags:
   - guide
-author: moldymacaronix
+author: moldy
 image: https://media.discordapp.net/attachments/398631575908253697/852960785705336872/image0.jpg
 imageSource: https://discord.com/invite/geometrydash
 ---

@@ -9,7 +9,7 @@ date: 2023-05-11T02:39:01.479Z
 tags:
   - "2.2"
   - featured
-author: moldymacaronix
+author: moldy
 image: https://i.ytimg.com/vi/r9cDmJLWgY0/maxresdefault.jpg
 imageSource: https://youtu.be/r9cDmJLWgY0
 ---

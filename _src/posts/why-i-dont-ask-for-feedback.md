@@ -3,7 +3,7 @@ title: Why I Don't Ask For Feedback Anymore in Geometry Dash
 desc: 'Some time back, I came across a tweet making fun of generic Geometry Dash feedback terms, being "static," "empty," "outdated," and "monochromatic."'
 image: https://i.ytimg.com/vi/Togxc84TQk8/maxresdefault.jpg
 date: 2022-01-18
-author: moldymacaronix
+author: moldy
 tags:
     - opinion
 alert: This article is based off an old video script from June 2021. Some opinions may no longer reflect the views of the author.

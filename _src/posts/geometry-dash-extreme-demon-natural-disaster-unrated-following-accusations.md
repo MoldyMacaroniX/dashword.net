@@ -5,7 +5,7 @@ date: 2022-11-07
 tags:
   - news
   - demonlist
-author: moldymacaronix
+author: moldy
 image: https://preview.redd.it/natural-disaster-has-been-unrated-due-to-stealing-assets-v0-0h71j96fvky91.jpg?auto=webp&s=986de21f4ff28c2ac81d188a2000c1cd2b79ee31
 imageSource: https://www.reddit.com/r/geometrydash/comments/yowyh1/natural_disaster_has_been_unrated_due_to_stealing/
 ---

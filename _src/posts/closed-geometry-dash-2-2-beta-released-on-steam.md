@@ -9,7 +9,7 @@ tags:
   - news
   - "2.2"
   - featured
-author: moldymacaronix
+author: moldy
 image: https://pbs.twimg.com/media/F4UU_qpW0AA5aU5?format=jpg&name=medium
 imageSource: https://twitter.com/today_gd/status/1694784294479122741
 affiliateLinks: false

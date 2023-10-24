@@ -3,7 +3,7 @@ title: "Are You A Player Or Creator? Geometry Dash Has 2 Types Of Players. Which
 date: 2023-02-07
 desc: Geometry Dash has 2 types of players, them being players and creators. Players can usually beat extreme demons while creators can usually get creator points. Which are you?
 pageSlug: are-you-a-player-or-creator-geometry-dash
-author: moldymacaronix
+author: moldy
 image: https://i.ytimg.com/vi/wN99FsXddwc/maxresdefault.jpg
 imageSource: https://youtu.be/wN99FsXddwc
 questions:

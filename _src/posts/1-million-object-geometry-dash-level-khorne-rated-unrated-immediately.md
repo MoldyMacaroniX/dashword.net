@@ -6,7 +6,7 @@ date: 2022-12-08T22:41:47.458Z
 tags:
   - news
   - demonlist
-author: moldymacaronix
+author: moldy
 image: https://i.imgur.com/sjv1iTI.png
 imageSource: https://geometry-dash-fan.fandom.com/wiki/Khorne
 ---
