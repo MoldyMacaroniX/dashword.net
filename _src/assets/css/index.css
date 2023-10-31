@@ -259,6 +259,7 @@ a.item:hover {
     height: 100%;
     background-color: rgba(0, 0, 0, 0.35);
     backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
     cursor: pointer;
     opacity: 0;
     transition: opacity 0.25s ease;
@@ -1871,6 +1872,7 @@ details[open] .details-icon.ri-add-line:before {
     overflow: hidden;
     background-color: rgba(0, 0, 0, 0.35);
     backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
     position: fixed;
     height: 100%;
     display: none;
