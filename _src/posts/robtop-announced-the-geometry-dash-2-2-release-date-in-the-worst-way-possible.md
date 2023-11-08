@@ -42,6 +42,8 @@ From the start, [I had my suspicions that 2.2 was going to get delayed until Nov
 
 I'd imagine if RobTop was confident, he would give us a release day instead of a release month. Without a precise release date, 2.2's release felt like a far off estimate instead of a set-in-stone fact.
 
-I was surprised that RobTop wouldn't just give a release date like October 31st. I don't think there is any harm in finishing the update a few weeks early and giving us an actual release date to look forward to instead of [convincing the community that the update would just be dropped with no warning](https://twitter.com/MoldyMacaroniX/status/1703263177440436575).
+I was surprised that RobTop wouldn't just give a release date like October 31st (or November 1st if he didn't want to release it on Halloween). I don't think there is any harm in finishing the update a few weeks early and giving us an actual release date to look forward to instead of [convincing the community that the update would just be dropped with no warning](https://twitter.com/MoldyMacaroniX/status/1703263177440436575).
+
+Speaking of this, the lack of communication between RobTop and the community throughout this ordeal was very disappointing. All we were given were a few ominous Discord messages. We were only properly warned of the update being delayed only a little over a week before the end of October.
 
 But given that he did not do this, perhaps a far off estimate is all this "release date" ever was.
