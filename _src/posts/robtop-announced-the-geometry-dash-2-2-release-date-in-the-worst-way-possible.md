@@ -26,4 +26,10 @@ So let us take a look and see what went wrong. Let's see what led to this outcom
 
 I see a lot of people sending hate towards RobTop due to 2.2 getting delayed. And the first thing I can say before anything is that **hate is never justified**. You have the right to critique RobTop and be disappointed, but hate won't make anything better.
 
-I see a lot of people s
+One "argument" (if you can even call it that) I keep seeing, however, is that *RobTop is lazy*.
+
+But that couldn't be further from the truth.
+
+2.2 getting delayed was not a result of laziness. RobTop has [been working nonstop on update 2.2](/categories/2.2/), especially since [GD10](/posts/will-geometry-dash-2-2-come-out-on-the-games-10-year-anniversary/).
+
+RobTop hasn't always made the best decisions, but blaming this outcome on laziness is entirely unfounded.
