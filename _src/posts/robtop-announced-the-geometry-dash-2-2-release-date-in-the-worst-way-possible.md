@@ -21,3 +21,9 @@ With this single mistake, RobTop singlehandedly destroyed what little trustworth
 I'm honestly surprised that [most people are seemingly okay with this](https://twitter.com/sdslayer100/status/1715811132441829526). And don't get me wrong, I'm fine waiting an extra month for the update. But that doesn't change the fact that trusting RobTop is no longer possible. The update could get delayed to 2024 at this point and I genuinely wouldn't be surprised.
 
 So let us take a look and see what went wrong. Let's see what led to this outcome and how RobTop announced the [Geometry Dash 2.2 release date](/posts/final-geometry-dash-2-2-release-date-confirmed-by-robtop/) in the worst way possible.
+
+# First things first: RobTop is *not* lazy
+
+I see a lot of people sending hate towards RobTop due to 2.2 getting delayed. And the first thing I can say before anything is that **hate is never justified**. You have the right to critique RobTop and be disappointed, but hate won't make anything better.
+
+I see a lot of people s
