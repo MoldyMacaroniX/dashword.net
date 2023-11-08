@@ -13,3 +13,7 @@ affiliateLinks: false
 hideAds: false
 ---
 I've always been one to defend RobTop but it is really hard to do that when we've been waiting [nearly 7 years for Geometry Dash 2.2](/posts/geometry-dash-2-2-wait-turns-6-years-old/). I get game development has its hurdles but I can't help but think RobTop made a good amount of missteps along the way.
+
+But without a doubt the biggest misstep RobTop has made is [missing the Geometry Dash 2.2 release date](/posts/geometry-dash-2-2-release-date-delayed-until-november-2023/).
+
+With this single mistake, RobTop singlehandedly destroyed what little trustworthiness he had left.
