@@ -41,3 +41,5 @@ There are many things you can criticize RobTop for. But laziness is not one of t
 From the start, [I had my suspicions that 2.2 was going to get delayed until November](/posts/geometry-dash-2-2-release-date-might-get-delayed-to-after-october/). And it all started with a release *month*.
 
 I'd imagine if RobTop was confident, he would give us a release day instead of a release month. Without a precise release date, 2.2's release felt like a far off estimate instead of a set-in-stone fact.
+
+I was surprised that RobTop wouldn't just give a release date like October 31st. I don't think there is any harm in finishing the update a few weeks early and giving us an actual release date to look forward to instead of [expecting the update to be shadowdropped out of nowhere](https://twitter.com/MoldyMacaroniX/status/1703263177440436575).
