@@ -12,4 +12,4 @@ imageSource: https://twitter.com/GeoBlitzy/status/1715813505545240766
 affiliateLinks: false
 hideAds: false
 ---
-a
+I've always been one to defend RobTop but it is really hard to do that when we've been waiting [nearly 7 years for Geometry Dash 2.2](/posts/geometry-dash-2-2-wait-turns-6-years-old/). I get game development has its hurdles but I can't help but think RobTop made a good amount of missteps along the way.
