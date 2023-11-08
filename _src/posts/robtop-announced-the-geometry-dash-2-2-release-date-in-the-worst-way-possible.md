@@ -33,3 +33,11 @@ But that couldn't be further from the truth.
 2.2 getting delayed was not a result of laziness. RobTop has [been working nonstop on update 2.2](/categories/2.2/), especially since [GD10](/posts/will-geometry-dash-2-2-come-out-on-the-games-10-year-anniversary/).
 
 RobTop hasn't always made the best decisions, but blaming this outcome on laziness is entirely unfounded.
+
+There are many things you can criticize RobTop for. But laziness is not one of them.
+
+# Exhibit A: We were given a release *month?*
+
+From the start, [I had my suspicions that 2.2 was going to get delayed until November](/posts/geometry-dash-2-2-release-date-might-get-delayed-to-after-october/). And it all started with a release *month*.
+
+I'd imagine if RobTop was confident, he would give us a release day instead of a release month. Without a precise release date, 2.2's release felt like a far off estimate instead of a set-in-stone fact.
