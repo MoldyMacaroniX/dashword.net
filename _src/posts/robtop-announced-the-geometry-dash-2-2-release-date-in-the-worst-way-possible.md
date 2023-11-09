@@ -98,5 +98,3 @@ What I am most disappointed about in this whole situation is how lackluster RobT
 RobTop has historically [not been great with release dates](/posts/2-2-release-date-confirmed/) and even less great with planning ahead *(given the fact that we've been waiting nearly 7 years for 2.2 when it was only supposed to come out a few months after 2.11)*.
 
 This was his chance to prove us all wrong. But he failed.
-
-**But despite everything I've said thus far, I would still rather this outcome.**
