@@ -19,7 +19,7 @@ I've always been one to defend RobTop but it is really hard to do that when we'v
 
 But without a doubt the biggest misstep RobTop has made is [missing the Geometry Dash 2.2 release date](/posts/geometry-dash-2-2-release-date-delayed-until-november-2023/).
 
-With this single mistake, RobTop singlehandedly destroyed what little trustworthiness he had left. It doesn't matter that RobTop says it is being delayed to November. Its just impossible to trust him.
+With this single mistake, RobTop singlehandedly destroyed what little trustworthiness he had left. It doesn't matter that RobTop says it will come out in November. It is just impossible to trust him.
 
 I'm honestly surprised that [most people are seemingly okay with this](https://twitter.com/sdslayer100/status/1715811132441829526). And don't get me wrong, I'm fine waiting an extra month for the update. But that doesn't change the fact that trusting RobTop is no longer possible. The update could get delayed to 2024 at this point and I genuinely wouldn't be surprised.
 
