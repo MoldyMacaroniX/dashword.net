@@ -50,4 +50,4 @@ Given that RobTop did not feel confident enough to give a specific day in *one o
 
 I mean, maybe the reason that the community is so seemingly okay with the update getting delayed is because that's all this release date was ever seen as.
 
-Perhaps this was a deliberate decision made by RobTop to shield him from backlash if he were to miss the deadline. But I like to think he fully intended to release the update in October. Whether or not he gave himself ample time is the subject of Exhibit B.
+Perhaps this was a deliberate decision made by RobTop to shield him from backlash if he were to miss the deadline. But I like to think he fully intended to release the update in October. Whether or not he gave himself ample time, however, is the subject of Exhibit B.
