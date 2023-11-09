@@ -75,13 +75,13 @@ In some of these posts, its hard to imagine a world with 2.2 releasing in Octobe
 
 Ultimately, I am glad RobTop at least warned us that 2.2 wouldn't be releasing on time. I just wish he did so more officially like when he finally confirmed the update would be delayed. A few Discord messages lost in the sea of conversation is a far cry from an official status update on Twitter and YouTube.
 
-Ultimately, however, I think this all boils down to **RobTop greatly underestimating how long 2.2 would take to finish.**
+However, I think this all boils down to **RobTop greatly underestimating how long 2.2 would take to finish.**
 
 As the developer of [this very website you're on](/), I know more than most how difficult it is to aproximate how long a given programming task will take. I will start something at 10:00 PM expecting it to only take 15 minutes, but then see the clock at 1:00 AM and wonder where all the time went.
 
 But this is hardly an excuse. If you are going to be so bold enough as to give a release date in one of the most hyped up Geometry Dash videos ever, you should not delay such a release due to anything short of *Armageddon*.
 
-Given how server migration took nearly twice as long as expected and we're nearly two weeks into November with no word from RobTop on how close 2.2 is, one thing is clear: RobTop did not give himself anywhere near enough time to finish 2.2.
+Given how server migration took nearly twice as long as expected and we're well over a week into November with no word from RobTop on how close 2.2 is, one thing is clear: RobTop did not give himself anywhere near enough time to finish 2.2.
 
 # Exhibit C: RobTop blew his second chance
 
@@ -98,3 +98,19 @@ What I am most disappointed about in this whole situation is how lackluster RobT
 RobTop has historically [not been great with release dates](/posts/2-2-release-date-confirmed/) and even less great with planning ahead *(given the fact that we've been waiting nearly 7 years for 2.2 when it was only supposed to come out a few months after 2.11)*.
 
 This was his chance to prove us all wrong. But he failed.
+
+**At the end of the day, I am disappointed.** But given the series of events that unfolded, I do think delaying 2.2 is the best option. *I mean, I consider it to be the only option assuming releasing an unfinished game is the alternative,* but I digress.
+
+However, I still think RobTop has time to improve. There is still nearly 3 weeks left in November. RobTop can stil stick to his word and release the update on time. And in the process, perhaps he can give us an official release day in another video.
+
+Even if 2.2 gets delayed again, I hope instead of shoving out another trailer and gracefully promising a release in December, RobTop takes the time to plan ahead and give us an accurate release date. I'd rather be told the update is releasing well into 2024 than just be continuously promised the next month.
+
+# Afterword
+
+Nobody writes 1500 words about a subject, even if it is critical, unless they truly love it.
+
+I have the utmost respect for RobTop. Despite his shortcomings, I wouldn't rather anyone else be running this game. While RobTop can clearly improve in *a lot* of ways, he is without a doubt the most passionate about this game and its community. I would rather that than anything else.
+
+I don't want the tail end of 2.1 to live in infamy. I wish for this end of an era to go down in history as anything but a series of broken promises. I wish for RobTop to release 2.2 in a fantastic way and amaze all of us.
+
+And there is still time to do that. Both for 2.2 and all future updates.
