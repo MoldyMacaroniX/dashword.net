@@ -75,10 +75,28 @@ In some of these posts, its hard to imagine a world with 2.2 releasing in Octobe
 
 Ultimately, I am glad RobTop at least warned us that 2.2 wouldn't be releasing on time. I just wish he did so more officially like when he finally confirmed the update would be delayed. A few Discord messages lost in the sea of conversation is a far cry from an official status update on Twitter and YouTube.
 
+Ultimately, however, I think this all boils down to **RobTop greatly underestimating how long 2.2 would take to finish.**
+
+As the developer of [this very website you're on](/), I know more than most how difficult it is to aproximate how long a given programming task will take. I will start something at 10:00 PM expecting it to only take 15 minutes, but then see the clock at 1:00 AM and wonder where all the time went.
+
+But this is hardly an excuse. If you are going to be so bold enough as to give a release date in one of the most hyped up Geometry Dash videos ever, you should not delay such a release due to anything short of *Armageddon*.
+
+Given how server migration took nearly twice as long as expected and we're nearly two weeks into November with no word from RobTop on how close 2.2 is, one thing is clear: RobTop did not give himself anywhere near enough time to finish 2.2.
+
 # Exhibit C: RobTop blew his second chance
 
 As an apology for delaying 2.2, RobTop released a [Geometry Dash 2.2 trailer](/posts/geometry-dash-2-2-trailer-released-by-robtop/). This would have been a perfect opportunity to announce a new release date, but instead, [he only briefly mentioned that 2.2 would be delayed to November](https://twitter.com/RobTopGames/status/1715803442327732715).
 
 This drastically undermines the reliability of this new release date, which is why I wouldn't bat an eye if 2.2 got delayed until December or even further.
 
-RobTop had an opportunity to fix everything I've stated so far in this article. He could have given a release date, 
+RobTop had an opportunity to fix everything I've stated so far in this article. He could have given a new release day instead of a release month, given himself ample time to not show ample doubt, and announce this in another one of the biggest Geometry Dash videos, but he did none of this.
+
+---
+
+What I am most disappointed about in this whole situation is how lackluster RobTop handled everything.
+
+RobTop has historically [not been great with release dates](/posts/2-2-release-date-confirmed/) and even less great with planning ahead *(given the fact that we've been waiting nearly 7 years for 2.2 when it was only supposed to come out a few months after 2.11)*.
+
+This was his chance to prove us all wrong. But he failed.
+
+**But despite everything I've said thus far, I would still rather this outcome.**
