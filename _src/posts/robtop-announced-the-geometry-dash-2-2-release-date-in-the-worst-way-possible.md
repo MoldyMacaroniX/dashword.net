@@ -60,6 +60,6 @@ From the day it was announced, [we were very wary](/posts/final-geometry-dash-2-
 
 > it is possible that RobTop will miss this release date
 
-While we deemed 2.2 being delayed unlikely at the time, on September 27, [RobTop said he was only "aiming" to release the update on time](/posts/geometry-dash-2-2-release-date-might-get-delayed-to-after-october/), which is a far cry from a reliable release date.
+While we deemed 2.2 being delayed unlikely at the time, on September 27, [RobTop said he was only "aiming" to release the update in October 2023](/posts/geometry-dash-2-2-release-date-might-get-delayed-to-after-october/), which is a far cry from a reliable release date.
 
 ![RobTop says he is "aiming" to release 2.2 in October 2023.](https://pbs.twimg.com/media/F7NCRI4W0AEoqDl?format=png&name=small)
