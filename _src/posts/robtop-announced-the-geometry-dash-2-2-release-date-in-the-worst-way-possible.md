@@ -77,4 +77,8 @@ Ultimately, I am glad RobTop at least warned us that 2.2 wouldn't be releasing o
 
 # Exhibit C: RobTop blew his second chance
 
-As an apology for delaying 2.2, RobTop released a [Geometry Dash 2.2 trailer](/posts/geometry-dash-2-2-trailer-released-by-robtop/). This would have been a perfect opportunity to announce a new release date, but instead, he [only briefly mentioned that 2.2 would be delayed to November](https://twitter.com/RobTopGames/status/1715803442327732715).
+As an apology for delaying 2.2, RobTop released a [Geometry Dash 2.2 trailer](/posts/geometry-dash-2-2-trailer-released-by-robtop/). This would have been a perfect opportunity to announce a new release date, but instead, [he only briefly mentioned that 2.2 would be delayed to November](https://twitter.com/RobTopGames/status/1715803442327732715).
+
+This drastically undermines the reliability of this new release date, which is why I wouldn't bat an eye if 2.2 got delayed until December or even further.
+
+RobTop had an opportunity to fix everything I've stated so far in this article. He could have given a release date, 
