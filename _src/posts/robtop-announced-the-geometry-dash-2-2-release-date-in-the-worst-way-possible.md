@@ -69,7 +69,7 @@ While we deemed 2.2 being delayed unlikely at the time, on September 27, [RobTop
 
 RobTop lowered community confidence again when the [Geometry Dash server migration took over 10 hours instead of the 6 hours expected](/posts/geometry-dash-servers-down-for-maintenance-pending-2-2/). He then went on to lower community confidence even further by attributing [server maintenance to be a primary cause for having to delay update 2.2](/posts/geometry-dash-2-2-release-date-likely-to-be-delayed-due-to-server-issues/).
 
-In some of these posts, its hard to imagine a world with 2.2 releasing in October.
+In some of these posts, it is hard to imagine a world with 2.2 releasing in October.
 
 ![RobTop says he will consider pushing the Geometry Dash 2.2 release date into November 2023.](https://i.imgur.com/5wTVSuD.png)
 
