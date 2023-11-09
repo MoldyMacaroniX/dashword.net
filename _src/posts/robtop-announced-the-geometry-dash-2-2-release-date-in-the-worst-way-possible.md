@@ -47,3 +47,7 @@ I was surprised that RobTop wouldn't just give a release date like October 31st 
 Speaking of this, the lack of communication between RobTop and the community throughout this ordeal was very disappointing. All we were given were a few ominous Discord messages. We were only properly warned of the update being delayed only a little over a week before the end of October.
 
 Given that RobTop did not feel confident enough to give a specific day in *one of the most hyped up Geometry Dash videos ever made,* perhaps a far off estimate is all this "release date" ever was.
+
+I mean, maybe the reason that the community is so seemingly okay with the update getting delayed is because that's all this release date was ever seen as.
+
+Perhaps this was a deliberate decision made by RobTop to shield him from backlash if he were to miss the deadline. But I like to think he fully intended to release the update in October. Whether or not he gave himself ample time is the subject of Exhibit B.
