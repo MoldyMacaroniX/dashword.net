@@ -1,7 +1,10 @@
 ---
 pageSlug: robtop-announced-the-geometry-dash-2-2-release-date-in-the-worst-way-possible
 title: RobTop Announced The Geometry Dash 2.2 Release Date In The Worst Way Possible
-desc: a
+desc: I've always been one to defend RobTop but it is really hard to do that
+  when we've been waiting nearly 7 years for Geometry Dash 2.2. I get game
+  development has its hurdles but I can't help but think RobTop made a good
+  amount of missteps along the way.
 date: 2023-11-07T07:05:53.301Z
 tags:
   - "2.2"
@@ -73,3 +76,5 @@ In some of these posts, its hard to imagine a world with 2.2 releasing in Octobe
 Ultimately, I am glad RobTop at least warned us that 2.2 wouldn't be releasing on time. I just wish he did so more officially like when he finally confirmed the update would be delayed. A few Discord messages lost in the sea of conversation is a far cry from an official status update on Twitter and YouTube.
 
 # Exhibit C: RobTop blew his second chance
+
+As an apology for delaying 2.2, RobTop released a [Geometry Dash 2.2 trailer](/posts/geometry-dash-2-2-trailer-released-by-robtop/). This would have been a perfect opportunity to announce a new release date, but instead, he [only briefly mentioned that 2.2 would be delayed to November](https://twitter.com/RobTopGames/status/1715803442327732715).
