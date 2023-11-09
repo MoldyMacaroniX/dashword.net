@@ -9,7 +9,7 @@ date: 2023-11-09T06:13:54.289Z
 tags:
   - "2.2"
   - opinion
-author: moldymacaronix
+author: moldy
 image: https://pbs.twimg.com/media/F8_LSjwWgAAq_Ph?format=jpg&name=small
 imageSource: https://twitter.com/GeoBlitzy/status/1715813505545240766
 affiliateLinks: false
