@@ -5,7 +5,7 @@ desc: I've always been one to defend RobTop but it is really hard to do that
   when we've been waiting nearly 7 years for Geometry Dash 2.2. I get game
   development has its hurdles but I can't help but think RobTop made a good
   amount of missteps along the way.
-date: 2023-11-07T07:05:53.301Z
+date: 2023-11-09T06:13:54.289Z
 tags:
   - "2.2"
   - opinion
