@@ -25,3 +25,7 @@ While RobTop claims that the update is not done, there are no plans to delay it.
 [While still lacking confidence](/posts/robtop-announced-the-geometry-dash-2-2-release-date-in-the-worst-way-possible/), RobTop at least said that he only plans to delay the update if "something really bad shows up."
 
 ![RobTop says he will only delay Geometry Dash 2.2 if "something really bad shows up."](https://pbs.twimg.com/media/F-ll1qLboAIIF-W?format=jpg&name=medium)
+
+As for what "something really bad" could be, we do not know.
+
+RobTop cited bugs caused by the [Geometry Dash server migration](/posts/geometry-dash-servers-down-for-maintenance-pending-2-2/) to be at least part of why update 2.2 was delayed from October to November. Since there are no new server migration plans, chances are there should not be any major issues with Geometry Dash 2.2 before its release.
