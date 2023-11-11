@@ -1,0 +1,75 @@
+<form class="panel codebreaker" onsubmit="return false;" style="margin: 25px 0;">
+    <div class="col">
+        <h1 style="margin-top: 0px;">Cod3breaker Solver</h1>
+        <p>Type "Cod3breaker" into the Vault of Secrets and input the 6 numbers below to get the solution.</p>
+    </div>
+    <div class="grid-3" style="gap: 20px;">
+        <div>
+            <label for="num1">1<sup>st</sup> Number</label>
+            <input name="num1" id="num1" type="number" placeholder="First Number">
+        </div>
+        <div>
+            <label for="num2">2<sup>nd</sup> Number</label>
+            <input name="num2" id="num2" type="number" placeholder="Second Number">
+        </div>
+        <div>
+            <label for="num3">3<sup>rd</sup> Number</label>
+            <input name="num3" id="num3" type="number" placeholder="Third Number">
+        </div>
+        <div>
+            <label for="num4">4<sup>th</sup> Number</label>
+            <input name="num4" id="num4" type="number" placeholder="Fourth Number">
+        </div>
+        <div>
+            <label for="num5">5<sup>th</sup> Number</label>
+            <input name="num5" id="num5" type="number" placeholder="Fifth Number">
+        </div>
+        <div>
+            <label for="num6">6<sup>th</sup> Number</label>
+            <input name="num6" id="num6" type="number" placeholder="Sixth Number">
+        </div>
+    </div>
+    <button class="button button-wide secondary" onclick="codebreaker();"><span>Get Solution</span></button>
+    <div id="codebreaker-solution" style="margin-top: 20px; display: none;"></div>
+</form>
+<script>
+    function codebreaker() {
+        var num1 = document.getElementById("num1").value;
+        var num2 = document.getElementById("num2").value;
+        var num3 = document.getElementById("num3").value;
+        var num4 = document.getElementById("num4").value;
+        var num5 = document.getElementById("num5").value;
+        var num6 = document.getElementById("num6").value;
+        var numA = num2 - num1;
+        var numB = num3 - num2;
+        var numC = num4 - num3;
+        var numD = num5 - num4;
+        var numE = num6 - num5;
+        var ans = 'Your code is: ' + numA + numB + numC + numD + numE;
+        document.getElementById("codebreaker-solution").style = "margin-top: 20px;";
+        document.getElementById("codebreaker-solution").innerHTML = ans;
+    }
+</script>
+<style>
+    .codebreaker input {
+        background-color: var(--bg);
+        border: 0px;
+        width: 100%;
+        font-size: 1rem;
+        padding: 12px;
+        display: block;
+        border-radius: var(--edge);
+        font-family: 'Montserrat', sans-serif;
+    }
+    .codebreaker label {
+        cursor: text;
+        font-weight: bold;
+        font-size: 1.1rem;
+        margin-bottom: 10px;
+        display: block;
+    }
+    .codebreaker #codebreaker-solution {
+        font-weight: bold;
+        font-size: 1.5rem;
+    }
+</style>

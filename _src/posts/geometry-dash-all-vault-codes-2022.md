@@ -66,7 +66,8 @@ However, there are three more tricky codes.
     2. Enter [The Vault](#the-vault-codes) and keep pressing the NPC's face until he mentions Glubfub. Keep pressing until he is done talking about Glubfub.
     3. Go back to the Vault of Secrets and enter the code **Glubfub**.
 - **Cod3Breaker** — only works if you follow these instructions:
-    1. After entering **Cod3Breaker**, 6 numbers will flash on screen really quickly. Use a screen recorder or another device to record them.
+    1. After entering **Cod3Breaker**, 6 numbers will flash on screen really quickly. Make sure you record them with another device or write them down in order.
+    2. Use the online **Cod3Breaker** solver below or follow these next two instructions.
     2. Let's say the numbers are A, B, C, D, E, and F. Perform the following arithmetic:
         - B - A = V
         - C - B = W
@@ -74,6 +75,8 @@ However, there are three more tricky codes.
         - E - D = Y
         - F - E = Z
     3. Then, the code you enter next will be the string of numbers that is VWXYZ.
+
+{% include 'partials/snippets/codebreaker.njk' %}
 
 For a video tutorial of how to solve **Cod3Breaker**, [see this tutorial](https://youtu.be/7aBkYQFbwes).
 

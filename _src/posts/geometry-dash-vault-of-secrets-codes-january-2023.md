@@ -36,7 +36,9 @@ Some codes require further instructions:
 - ***The Challenge** — Unlocks "The Challenge," a level where you need 200 diamonds to play. You will get a reward after beating it.
 - ***[Your Star Count]** — Enter how many stars you have.
 - ***Glubfub** — Only works after the Keymaster tells you about Spooky's coin and Spooky tells you about the Keymaster's coin. To achieve this, [follow these Glubfub instructions](/posts/geometry-dash-all-vault-codes-2022/#vault-of-secrets-codes).
-- ***Cod3Breaker** — In order to solve this code, you need to follow these [Cod3Breaker instructions](/posts/geometry-dash-all-vault-codes-2022/#vault-of-secrets-codes).
+- ***Cod3Breaker** — In order to solve this code, you can use the online solver below or follow these [Cod3Breaker instructions](/posts/geometry-dash-all-vault-codes-2022/#vault-of-secrets-codes).
+
+{% include 'partials/snippets/codebreaker.njk' %}
 
 # Where To Enter Vault of Secrets Codes
 
