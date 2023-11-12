@@ -7,7 +7,7 @@ date: 2023-11-12T22:54:05.270Z
 tags:
   - "2.2"
   - opinion
-author: moldymacaronix
+author: moldy
 image: https://i.ytimg.com/vi/dx6Jm3IjS2I/maxresdefault.jpg
 imageSource: https://youtu.be/dx6Jm3IjS2I?si=5yaiqdowZTLzNY63
 affiliateLinks: false
