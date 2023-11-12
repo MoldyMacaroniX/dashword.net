@@ -1,39 +1,34 @@
 ---
 pageSlug: geometry-dash-2-2-will-be-a-buggy-mess-upon-release
 title: Geometry Dash 2.2 Will Be A Buggy Mess Upon Release
-desc: a
-date: 2023-10-02T20:59:26.961Z
+desc: I am very worried that Geometry Dash 2.2 is going to be a buggy mess of an
+  update upon release.
+date: 2023-11-12T22:54:05.270Z
 tags:
   - "2.2"
   - opinion
 author: moldymacaronix
-image: https://i.ytimg.com/vi/whl-Ag-jNZk/sddefault.jpg
-imageSource: https://youtu.be/whl-Ag-jNZk?si=XX9ph3WefcA7kYr6
+image: https://i.ytimg.com/vi/dx6Jm3IjS2I/maxresdefault.jpg
+imageSource: https://youtu.be/dx6Jm3IjS2I?si=5yaiqdowZTLzNY63
 affiliateLinks: false
 hideAds: false
 ---
-I was worried RobTop wouldn't stick to his word after this concerning post on the [Geometry Dash Discord server](/posts/geometry-dash-discord-server-how-to-join-request-levels/):
+I am very worried that [Geometry Dash 2.2](/categories/2.2/) is going to be a buggy mess of an update upon release.
 
-![RobTop expresses doubt about releasing 2.2 on time.](https://pbs.twimg.com/media/F7NCRI4W0AEoqDl?format=png&name=small)
+One thing is clear: [RobTop did not give himself enough time to finish 2.2](/posts/robtop-announced-the-geometry-dash-2-2-release-date-in-the-worst-way-possible/). And that will be made very clear once the update finally drops.
 
-But now he seems to be taking things more seriously. Instead of adding content as time goes on, RobTop is now [removing](/posts/robtop-cancels-geometry-dash-2-2-versus-mode-after-6-years-of-development/) [content](/posts/explorers-delayed-until-after-geometry-dash-2-2/), which is great, as it means [2.2 will be more likely to come out on time](/posts/geometry-dash-2-2-release-date-might-get-delayed-to-after-october/).
+RobTop has basically said that [he will release Geometry Dash 2.2 this month](/posts/robtop-confirms-geometry-dash-2-2-is-still-set-for-a-november-release-date/) unless a game breaking bug comes up.
 
-![RobTop says he is delaying Explorers to 2.21.](https://pbs.twimg.com/media/F7tfqtoXwAAZ5SC?format=png&name=small)
+![RobTop says he will only delay Geometry Dash 2.2 if "something really bad shows up."](https://pbs.twimg.com/media/F-ll1qLboAIIF-W?format=jpg&name=medium)
 
-Historically, the Geometry Dash 2.2 development cycle went like this:
+Unfortunately, this means that the update will likely release with a lot of annoying bugs that do not fit this definition.
 
-- Spend time on the update.
-- Add more features to make the update less disappointing.
-- Have to spend more time on the update as a result.
-- Add more features to make the update less disappointing, and repeat.
+![RobTop saying 2.2 will have lots of bugs.](https://i.imgur.com/wb6Aq2Y.png)
 
-The problem was [RobTop just kept adding new features](/posts/final-geometry-dash-2-2-sneak-peek-released-by-robtop-games/). He was able to do this because he never gave himself a deadline. However, that really hurt the game, as we've now gone over [6 years since the last update](/posts/geometry-dash-2-2-wait-turns-6-years-old/).
+And on top of all the bugs, the update will not be very polished at all.
 
-But for the first time in the entire game's existence, RobTop seems to be sticking to a deadline. And this is fantastic. With a deadline, the cycle of adding more and more features forever won't happen. It will force RobTop to manage his time and carefully consider the features he wants to add.
+![An example showing that 2.2 will not be polished.](https://i.imgur.com/W51zAcP.png)
 
-I don't want to understate this. This is fantastic on RobTop's part.
+With all this plus the lack of presets taken into consideration, I am afraid using the Geometry Dash 2.2 editor will be a pain. At least not without [7 years of practice](/posts/geometry-dash-2-2-wait-turns-6-years-old/), which RobTop conveniently has.
 
-However, I feel it is too late.
-
-# Why Geometry Dash 2.2 Will Be A Buggy Mess Upon Release
-
+Let's hope 2.21 will come out quick and fix these issues.
