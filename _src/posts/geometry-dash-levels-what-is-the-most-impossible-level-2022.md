@@ -8,8 +8,8 @@ tags:
   - list
   - featured
 author: moldy
-image: https://img.youtube.com/vi/_9rtn_Lcq7I/maxresdefault.jpg
-imageSource: https://www.youtube.com/watch?v=_9rtn_Lcq7I
+image: https://i.ytimg.com/vi/voyyOupL0lI/maxresdefault.jpg
+imageSource: https://youtu.be/voyyOupL0lI?si=M80AmgzUBnppPTZk
 ---
 Completing a demon level in Geometry Dash is a very difficult task. Completing an extreme demon is something only the top elite players can do. But what about impossible levels?
 

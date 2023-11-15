@@ -29,11 +29,11 @@ layout: base.njk
 		{% set isArr = author | isArray %}
 		By
 		{% if isArr %}
-			{% for a in author %}
-				{% if loop.last and author.length != 1 %} and {% endif %}{% set myAuthor = authors | getAuthor(author[loop.index0]) %}<a class="article-meta-author" href="/authors/{{ myAuthor.key }}">{{ myAuthor.name }}</a>{% if not loop.last and author.length > 2 %}, {% endif %}
+			{% for a in author | sort(attribute='key') %}
+				{% if loop.last and author.length != 1 %} and {% endif %}{% set myAuthor = authors | getAuthor(author[loop.index0]) %}<a class="article-meta-author" href="/authors/{{ myAuthor.key }}/">{{ myAuthor.name }}</a>{% if not loop.last and author.length > 2 %}, {% endif %}
 			{% endfor %}
 		{% else %}
-			{% set myAuthor = authors | getAuthor(author) %}<a class="article-meta-author" href="/authors/{{ myAuthor.key }}">{{ myAuthor.name }}</a>
+			{% set myAuthor = authors | getAuthor(author) %}<a class="article-meta-author" href="/authors/{{ myAuthor.key }}/">{{ myAuthor.name }}</a>
 		{% endif %}
 	{% else %}Posted{% endif %}
 		

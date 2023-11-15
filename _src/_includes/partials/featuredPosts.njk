@@ -21,12 +21,12 @@
                             {% if isArr %}
                                 <span href="#" class="tags">
                                     {% for a in post.data.author %}
-                                        {% set myAuthor = authors | getAuthor(a) %}<a href="/authors/{{ myAuthor.key }}">{{ myAuthor.name }}</a>
+                                        {% set myAuthor = authors | getAuthor(a) %}<a href="/authors/{{ myAuthor.key }}/">{{ myAuthor.name }}</a>
                                     {% endfor %}
                                     <i class="ri-user-3-line"></i>
                                 </span>
                             {% else %}
-                                {% set myAuthor = authors | getAuthor(post.data.author) %}<a href="/authors/{{ myAuthor.key }}" class="author">{{ myAuthor.name }} <i class="ri-user-3-line"></i></a>
+                                {% set myAuthor = authors | getAuthor(post.data.author) %}<a href="/authors/{{ myAuthor.key }}/" class="author">{{ myAuthor.name }} <i class="ri-user-3-line"></i></a>
                             {% endif %}
                             
                         {% endif %}

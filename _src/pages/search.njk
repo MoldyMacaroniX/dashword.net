@@ -63,7 +63,7 @@ hasModal: true
                             <a :href="result.url" class="title" style="text-transform: capitalize" v-html="result.title"></a>
                             <a :href="result.url" class="desc" v-html="result.content"></a>
                             <span class="meta">
-                                <a :href="result.authorKey" class="author"><span v-html="result.author"></span> <i class="ri-user-3-line"></i></a> <a :href="result.url" class="date"><span v-html="result.date"></span> <i class="ri-time-line"></i></a> <span class="tags" v-html="result.tags"></span>
+                                <span v-html="result.author"></span> <a :href="result.url" class="date"><span v-html="result.date"></span> <i class="ri-time-line"></i></a> <span class="tags" v-html="result.tags"></span>
                             </span>
                         </div>
                     </div>

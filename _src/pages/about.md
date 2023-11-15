@@ -10,8 +10,6 @@ Dashword first went live on February 1, 2022. It has since grown to be Geometry 
 
 And all of this is free and open source. It is our goal to provide you with the best Geometry Dash content for no charge whatsoever.
 
-With our 20,000 monthly users, we get over 50,000 unique page views and 300,000 impressions every month.
-
 You can read more about Dashword in our [editorial category](/categories/editorial/).
 
 Want to contribute? [You can learn how to submit your work for publication here](/contribute/)!
