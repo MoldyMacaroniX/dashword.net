@@ -5,7 +5,7 @@ desc: In response to questions about why RobTop Games has remained silent about
   Geometry Dash 2.2 since his last statement, Viprin said that a potential
   reason for why RobTop is silent is because he doesn't want to give too many
   hints as to when Geometry Dash 2.2 will release.
-date: 2023-12-01T07:10:36.697Z
+date: 2023-12-01T07:30:02.822Z
 tags:
   - news
   - "2.2"
