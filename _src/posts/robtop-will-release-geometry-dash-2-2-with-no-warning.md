@@ -20,7 +20,7 @@ In response to questions about why RobTop Games has remained silent about [Geome
 
 Viprin cited that the reason he believes this is because of the fact that the [Geometry Dash servers might go down](/posts/geometry-dash-servers-down-for-maintenance-pending-2-2/) if everyone plays the new 2.2 update at the same time.
 
-Instead, it would be better if everyone played the new 2.2 update when they discovered it released instead of being told the exact moment it would release, he says.
+Instead, it would be better if everyone played the new 2.2 update when they discovered it, instead of being told the exact moment it would release, he says.
 
 [Viprin also said](https://twitter.com/vipringd/status/1730322793491783730?s=61&t=20rQS364ZqLFxyriplQruA) that he knows "what's going on, but it's not [his] place to announce anything."
 
@@ -30,6 +30,6 @@ Given this, we can reasonably conclude that RobTop will not give anymore signifi
 
 In other news, Geometry Dash on Steam has not yet received any new manifests, meaning that RobTop has not sent Geometry Dash 2.2 to Steam yet.
 
-However, since Steam doesn't require extensive review like the App Store and Google Play, it is possible that RobTop has sent update 2.2 to Apple and Google and is waiting for them to finish before updating the game on Steam.
+However, since Steam doesn't require extensive review like the App Store and Google Play, it is possible that RobTop has already sent update 2.2 to Apple and Google and is waiting for them to finish before updating the game on Steam.
 
 For now, it is that stressful time where we must sit on the edge of our seats knowing that Geometry Dash 2.2 can release any day now.
