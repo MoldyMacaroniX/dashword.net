@@ -7,6 +7,7 @@ desc: Right now, Viprin has shared the final Geometry Dash 2023 Awards
 date: 2023-12-03T06:31:37.586Z
 tags:
   - news
+  - featured
 author: moldy
 image: https://i.ytimg.com/vi/AzcXMmNDdX4/hqdefault.jpg
 imageSource: https://youtu.be/AzcXMmNDdX4?si=FRTNgIY6KmWSSYqu
