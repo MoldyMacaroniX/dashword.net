@@ -1,6 +1,6 @@
 ---
 pageSlug: you-can-suggest-nominees-for-the-geometry-dash-2023-awards-right-now
-title: You Can Suggest Nominees For The Geometry Dash 2923 Awards Right Now
+title: You Can Suggest Nominees For The Geometry Dash 2023 Awards Right Now
 desc: Right now, Viprin has shared the final Geometry Dash 2023 Awards
   preliminary form! In it, you can suggest nominees who you think deserve a
   nomination in each category.
