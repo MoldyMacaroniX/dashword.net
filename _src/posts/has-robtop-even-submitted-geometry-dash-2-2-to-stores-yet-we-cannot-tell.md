@@ -33,3 +33,11 @@ The reason he is staying silent is because he doesn't want to give an exact rele
 In the worst case scenario, RobTop has not even finished update 2.2 yet and has yet to submit it to stores for review.
 
 With this, the reason he is staying silent could be because he has nothing new to say and is waiting to finish the update before giving another statement.
+
+- - -
+
+Both of these scenarios are possible, but given what Viprin shared, we believe the best case scenario is most likely to be the case. With that, we can expect Geometry Dash 2.2 to release any day now.
+
+However, if RobTop has yet to submit Geometry Dash 2.2 to stores for review, we could be waiting a lot longer.
+
+Only time will tell what is going on.
