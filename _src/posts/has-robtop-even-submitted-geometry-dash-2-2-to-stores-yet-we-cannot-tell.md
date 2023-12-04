@@ -4,7 +4,7 @@ title: Has RobTop Even Submitted Geometry Dash 2.2 To Stores Yet? We Cannot Tell
 desc: Despite saying that Geometry Dash 2.2 was "about to be completely finished
   for release," RobTop Games has shown no signs that the update has even been
   submitted to the App Store, Google Play Store, or Steam for review.
-date: 2023-12-04T08:12:32.884Z
+date: 2023-12-04T08:31:15.602Z
 tags:
   - news
   - "2.2"
