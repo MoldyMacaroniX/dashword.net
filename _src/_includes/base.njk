@@ -463,7 +463,7 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
                             <a href="/quizzes/" class="item">Quizzes <i class="ri-arrow-down-s-line"></i></a>
                             <div class="megamenu-content">
                                 <div class="container cols">
-                                    {% for post in collections.quizzes %}
+                                    {% for post in collections.quizzes | head(4) %}
                                     <div class="col">
                                         <div class="post-sidebar">
                                             <a class="image" href="{{ post.url }}">
