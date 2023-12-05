@@ -4,7 +4,7 @@
     "urlWithoutTrailingSlash":"https://www.dashword.net",
     "desc":"Dashword publishes Geometry Dash news, guides, reviews, opinions, lists, and all kinds of stories. All for free.",
     "image":"/assets/img/main2.png",
-    "isAds":true,
+    "isAds":false,
     "isBanner":true,
     "feed": {
 		"subtitle": "Dashword publishes Geometry Dash news, guides, reviews, opinions, lists, and all kinds of stories. All for free.",
