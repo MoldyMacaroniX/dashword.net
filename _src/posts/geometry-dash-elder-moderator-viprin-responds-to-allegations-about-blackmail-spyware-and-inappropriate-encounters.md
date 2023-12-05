@@ -4,7 +4,7 @@ title: Geometry Dash Elder Moderator Viprin Responds To Allegations About
 desc: Earlier, Geometry Dash Elder Moderator Viprin was accused of blackmail,
   using Discord bots as spyware, and inappropriate encounters with individuals
   younger than himself.
-date: 2023-12-05T08:39:03.509Z
+date: 2023-12-05T09:28:21.721Z
 tags:
   - news
   - featured
