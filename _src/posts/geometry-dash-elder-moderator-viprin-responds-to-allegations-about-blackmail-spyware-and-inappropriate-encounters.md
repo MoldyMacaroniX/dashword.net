@@ -17,3 +17,25 @@ hideAds: false
 Earlier, [Geometry Dash Elder Moderator Viprin was accused](/posts/geometry-dash-elder-moderator-viprin-exposed-for-a-lot-of-things-actually/) of blackmail, using Discord bots as spyware, and inappropriate encounters with individuals younger than himself.
 
 Viprin has since responded to many of these accusations, which is what we will be covering in this article.
+
+Dashword will keep the identities of many individuals private in this article out of respect for their privacy.
+
+To start things off, Viprin was accused of using private tweets leaked to him to blackmail another individual. [Viprin replied](https://twitter.com/vipringd/status/1731829260816429104) saying that while he admits his behavior was uncalled for, he apologizes and that he did not intend to blackmail anyone.
+
+There are two allegations of Viprin using Discord bots as spyware to spy on other users in their private chats. For the first, Geometry Dash moderator Alex1304 uses his popular Discord bot UltimateGDBot to spy on users in a private chat. This supposedly led to some of his victims getting unmodded.
+
+Viprin claimed that Alex did this on his own and that Viprin told him not to do it again. However, instead of punishing Alex, Viprin later promoted him to Geometry Dash Moderator, which has led to some controversy now that this has been brought to light.
+
+In the second instance of using Discord bots as spyware, Viprin was accused of using his bot, Sparky, to spy on cheaters. Sparky is a game where you have to guess the Geometry Dash level from a picture, and as such, Viprin does not want people to create answer keys or otherwise reveal the answers.
+
+As a result, the cheaters were banned from the official [Geometry Dash Discord server](/posts/geometry-dash-discord-server-how-to-join-request-levels/) and Viprin's personal Discord server.
+
+Viprin responded saying that the users were reported using a different system and that Sparky was never used as spyware. However, this "different system" used [supposedly gave the Discord user IDs of all users from a private chat](https://twitter.com/Allodoxaa/status/1731860082986475816). While Viprin claims no messages were read, some may still consider this spying.
+
+Viprin was also accused of striking down a YouTube video giving answers to Sparky, but Viprin denied this.
+
+Finally, someone leaked that Viprin, a 21 year old, was dating a 16 year old, with the exact age gap being 5 years and 10 months. This was the biggest allegation yet.
+
+In a long speech and the [only response he posted publicly on his profile](https://twitter.com/vipringd/status/1731925816693428430), Viprin confirms that the rumors of his relationship with someone nearly 6 years younger than him was true.
+
+He claims that nothing ever came of it and it was ended shortly after starting, but he admits that this is a mistake of his that he will not make again in the future.
