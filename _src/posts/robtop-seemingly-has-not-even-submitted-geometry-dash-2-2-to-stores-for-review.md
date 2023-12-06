@@ -1,10 +1,10 @@
 ---
-pageSlug: robtop-seemingly-has-not-even-submitted-geometry-dash-2-2-to-stores-for-review
-title: RobTop Seemingly Has Not Even Submitted Geometry Dash 2.2 To Stores For Review
+pageSlug: robtop-has-seemingly-not-even-submitted-geometry-dash-2-2-to-stores-for-review
+title: RobTop Has Seemingly Not Even Submitted Geometry Dash 2.2 To Stores For Review
 desc: RobTop has recently updated the Geometry Dash 2.2 beta twice within the
   span of an hour. This is confusing as RobTop said back on November 26th that
   the update was "about to be completely finished for release."
-date: 2023-12-06T23:58:43.594Z
+date: 2023-12-06T23:59:55.195Z
 tags:
   - news
   - "2.2"
