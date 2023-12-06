@@ -4,7 +4,7 @@ title: RobTop Seemingly Has Not Even Submitted Geometry Dash 2.2 To Stores For R
 desc: RobTop has recently updated the Geometry Dash 2.2 beta twice within the
   span of an hour. This is confusing as RobTop said back on November 26th that
   the update was "about to be completely finished for release."
-date: 2023-12-06T23:43:47.334Z
+date: 2023-12-06T23:58:43.594Z
 tags:
   - news
   - "2.2"
