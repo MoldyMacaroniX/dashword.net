@@ -36,7 +36,7 @@ Ultimately, we have three reasons for why RobTop updated the 2.2 beta. We've ord
 With all this being said, it is worth noting that only a few hours before the full release of Geometry Dash 2.1, RobTop updated the 2.1 beta on Steam. However, Geometry Dash 2.1 had a **staggered release**, something RobTop says he wants to avoid for update 2.2.
 
 {% alert %}
-By **staggered release**, we mean Geometry Dash 2.1 was released on different platforms at different times. RobTop wants Geometry Dash 2.2 to release on all platforms at the same time, hence why he is not doing a staggered release this time.
+By *staggered release*, we mean Geometry Dash 2.1 was released on different platforms at different times. RobTop wants Geometry Dash 2.2 to release on all platforms at the same time, hence why he is not doing a staggered release this time.
 {% endalert %}
 
 Let's hope [RobTop breaks his silence soon](/posts/robtop-will-release-geometry-dash-2-2-with-no-warning/) and tells us what is going on. [Dashword](/posts/) will report on this if it happens.
