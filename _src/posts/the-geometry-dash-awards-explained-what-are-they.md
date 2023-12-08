@@ -4,7 +4,7 @@ title: "The Geometry Dash Awards Explained: What Are They?"
 desc: The Geometry Dash Awards are a yearly awards show for Geometry Dash levels
   and players hosted by Geometry Dash Elder Moderator Viprin. The Awards are
   endorsed by RobTop Games, making them an official Geometry Dash event.
-date: 2023-12-08T08:54:24.736Z
+date: 2023-12-08T09:13:05.316Z
 tags:
   - guide
 author: moldy
