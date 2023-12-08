@@ -15,7 +15,7 @@ hideAds: false
 ---
 The Geometry Dash Awards are a yearly awards show for Geometry Dash levels and players hosted by [Geometry Dash Elder Moderator Viprin](/posts/geometry-dash-elder-moderator-viprin-responds-to-allegations-about-blackmail-spyware-and-inappropriate-encounters/).
 
-The Awards are endorsed by RobTop Games, making them an official Geometry Dash event.
+The Awards are endorsed by [RobTop Games](/posts/robtop-face-reveal-all-known-pictures-of-robtop-games/), making them an official Geometry Dash event.
 
 # What are the Geometry Dash Awards?
 
