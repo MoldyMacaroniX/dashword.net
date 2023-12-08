@@ -26,3 +26,7 @@ The community then votes for their favorite nominee to determine the winner for 
 While originally being done only once per Geometry Dash update, due to [Geometry Dash 2.2 taking so long to release](/posts/robtop-has-seemingly-not-even-submitted-geometry-dash-2-2-to-stores-for-review/), the Geometry Dash Awards were changed to be yearly.
 
 The Geometry Dash 2023 Awards have already been announced but no exact dates were given.
+
+# How to watch the Geometry Dash Awards?
+
+The Geometry Dash Awards will premiere on [Viprin's YouTube channel](https://youtube.com/@viprin?si=fp4kWcLwgzCiTL-d) every December. Keep an eye on [Viprin's community posts](https://youtube.com/@viprin/community) for updates.
