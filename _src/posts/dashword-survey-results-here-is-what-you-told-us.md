@@ -50,7 +50,7 @@ That being said, ads are necessary in order for Dashword to function. Dashword, 
 
 When asking if they would be interested in paying a small fee to remove ads, the vast majority of our readers were not interested. Fortunately, we have no plans on adding any purchases to Dashword. We want our content to remain free for all.
 
-# There are still so much more we want to ask!
+# There is still so much more we want to ask!
 
 Due to the success of this survey, we will consider running another survey later down the line. Some questions we want to ask are:
 
