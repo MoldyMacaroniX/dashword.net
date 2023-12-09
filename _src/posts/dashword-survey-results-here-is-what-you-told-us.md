@@ -14,7 +14,7 @@ hideAds: false
 ---
 We recently put out an optional survey for our readers to fill out in order to help us improve our website. Here is what you told us and our plans for the future.
 
-While this survey was 100% anonymous, we will not be releasing exact figures.
+While this survey was 100% anonymous, we will still not be releasing exact figures.
 
 # How often do you visit Dashword? A lot, surprisingly.
 
