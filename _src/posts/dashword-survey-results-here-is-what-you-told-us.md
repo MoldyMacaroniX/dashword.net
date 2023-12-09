@@ -4,7 +4,7 @@ title: "Dashword Survey Results: Here Is What You Told Us"
 desc: We recently put out an optional survey for our readers to fill out in
   order to help us improve our website. Here is what you told us and our plans
   for the future.
-date: 2023-12-09T08:22:19.887Z
+date: 2023-12-09T08:26:00.793Z
 tags:
   - editorial
 author: dashword
