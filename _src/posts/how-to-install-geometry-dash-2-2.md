@@ -9,7 +9,7 @@ tags:
   - "2.2"
   - guide
   - featured
-author: moldymacaronix
+author: moldy
 image: https://pbs.twimg.com/media/F3V6Hm2bgAAreVO?format=jpg&name=4096x4096
 imageSource: https://twitter.com/RobTopGames
 videoID: ""
