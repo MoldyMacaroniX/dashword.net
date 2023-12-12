@@ -1,12 +1,12 @@
 ---
-title: Code of Conduct
+title: Community Guidelines
 image: false
-permalink: /code-of-conduct/
+permalink: /community-guidelines/
 hideAds: true
 hideSidebar: true
 ---
 
-<h1>Code of Conduct for Dashword.net</h1>
+<h1>Community Guidelines for Dashword.net</h1>
 
 We wish to foster a positive, supportive, and encouraging environment for all who use our site. This, in part, requires your effort to avoid unwanted behavior.
 

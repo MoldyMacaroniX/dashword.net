@@ -54,7 +54,7 @@
           outline: none; }
     .green-audio-player .slider {
       flex-grow: 1;
-      background-color: #d8d8d8;
+      background-color: var(--grey);
       cursor: pointer;
       position: relative; }
       .green-audio-player .slider .gap-progress {
@@ -113,8 +113,12 @@
         outline: none; }
         .green-audio-player .volume .volume__button:focus {
           outline: none; }
-        .green-audio-player .volume .volume__button.open path {
-          fill: var(--primary); }
+          .green-audio-player .holder path {
+            fill: var(--print) !important; }
+          .green-audio-player .volume .volume__button path {
+            fill: var(--print) !important; }
+          .green-audio-player .volume .volume__button.open path {
+          fill: var(--primary) !important; }
       .green-audio-player .volume .volume__controls {
         width: 30px;
         height: 135px;
