@@ -62,4 +62,4 @@ Instead, we predict that this will all blow over in due time, for better or for 
 
 _**December 5, 2023, 4:28 AM EST:** Original article is posted._
 
-_**Update on December 14, 3:37 AM EST:** Fixed an error stating that Alex was promoted to mod after using UltimateGDBot to spy on users. The article has also been updated to add more recent events._
+_**Update on December 14, 3:37 AM EST:** Fixed an error stating that Alex1304 was promoted to mod after using UltimateGDBot to spy on users. The article has also been updated to add more recent events._
