@@ -30,4 +30,6 @@ Although Viprin did suggest that the reason RobTop is silent is so that update 2
 
 That being said, Dashword's ongoing theory is that RobTop is still working on Geometry Dash 2.2, likely so that he can give himself the rest of the month to finish it.
 
+Another reason for the wait could be that Apple, Google, or Steam has denied the update and is asking for RobTop to make changes.
+
 For now, let's hope RobTop gives us some news soon. If the update gets delayed to 2024, that will mark its third delay in three months.
