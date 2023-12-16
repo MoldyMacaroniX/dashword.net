@@ -4,7 +4,7 @@ desc: The Geometry Dash servers will now display up to 164 secret coins (not
   user coins) on your profile. Previously, the game only displayed up to 149
   secret coins, as that was the maximum amount obtainable. But in preparation
   for Geometry Dash 2.2, this has been changed.
-date: 2023-12-16T08:30:41.923Z
+date: 2023-12-16T08:53:16.882Z
 tags:
   - news
   - "2.2"
