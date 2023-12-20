@@ -4,7 +4,7 @@ title: How To Install Geometry Dash 2.2 - iOS, Android, & PC
 desc: Geometry Dash 2.2, the biggest update Geometry Dash has ever seen, has
   just released on iOS, Android, and PC! Here is how to install it on your
   device.
-date: 2023-10-17T03:04:14.978Z
+date: 2023-12-20T09:32:19.230Z
 tags:
   - "2.2"
   - guide
