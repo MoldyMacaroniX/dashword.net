@@ -7,6 +7,7 @@ desc: Geometry Dash 2.2, the biggest update Geometry Dash has ever seen, has
 date: 2023-12-20T09:32:19.230Z
 tags:
   - "2.2"
+  - news
   - guide
   - featured
 author: moldy
