@@ -4,7 +4,6 @@ desc: In this Geometry Dash 2.2 theory, I'll try to find out if RobTop will
   release 2.2 on 2/22/22!
 date: 2022-01-25
 tags:
-  - theory
   - "2.2"
 author: cob
 image: https://i.ytimg.com/vi/LqP089zwp_w/maxresdefault.jpg

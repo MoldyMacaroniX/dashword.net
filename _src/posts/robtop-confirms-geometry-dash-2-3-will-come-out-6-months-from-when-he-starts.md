@@ -7,6 +7,7 @@ date: 2023-01-31T02:27:26.079Z
 tags:
   - news
   - "2.2"
+  - "2.3"
   - featured
 author: moldy
 image: https://i.ytimg.com/vi/LqP089zwp_w/maxresdefault.jpg
