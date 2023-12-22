@@ -4,7 +4,7 @@ title: 'Geometry Dash: How To Beat "Dash" With All Coins'
 desc: Geometry Dash 2.2 added the new official level Dash! However, its coins
   are hidden quite well. Fortunately, while hidden well, they are easy to get
   once you learn where they are!
-date: 2023-12-22T21:30:16.929Z
+date: 2023-12-22T21:32:31.783Z
 tags:
   - "2.2"
   - guide
