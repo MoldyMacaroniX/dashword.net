@@ -18,7 +18,7 @@ hideAds: false
 
 Fortunately, while hidden well, they are easy to get once you learn where they are!
 
-Here are how to collect each coin in Dash:
+Here is how to collect each coin in Dash:
 
 1. After hitting all the yellow boxes in the first part, hit the last red box.
 2. Go through a red laser in the second swing copter part.
