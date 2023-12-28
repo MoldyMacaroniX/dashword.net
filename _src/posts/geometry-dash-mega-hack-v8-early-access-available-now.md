@@ -37,3 +37,7 @@ Along with these, Mega Hack v8 features some new 2.2 exclusive features. You can
 Mega Hack v8 is currently only supported for Windows devices that play Geometry Dash through Steam.
 
 But later in the update Absolute might make a new [Mega Hack Mobile](/posts/geometry-dash-mega-hack-mobile-full-release/) for Android devices running Geometry Dash 2.2.
+
+---
+
+If you don't yet have update 2.2, [here is how to install 2.2 on iOS, Android, and PC](/posts/how-to-install-geometry-dash-2-2/).
