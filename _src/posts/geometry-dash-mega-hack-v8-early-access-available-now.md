@@ -1,7 +1,8 @@
 ---
 pageSlug: geometry-dash-mega-hack-v8-early-access-available-now
 title: "Geometry Dash Mega Hack v8: Early Access Available Now"
-desc: a
+desc: Geometry Dash Mega Hack v8 is an update 2.2 mod menu by Absolute. It costs
+  $4.99 but is free if you're a Mega Hack v7 owner.
 date: 2023-12-28T01:21:07.603Z
 tags:
   - news
