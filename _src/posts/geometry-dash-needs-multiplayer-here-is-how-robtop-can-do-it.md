@@ -47,3 +47,5 @@ All triggers in a level will have two states: **local mode** and **server mode**
 - **Server mode** triggers will effect everyone who is playing together.
 
 So that old levels don't break, all triggers will default to **local mode**.
+
+This way, creators can connect keys that open doors to **server mode** triggers, whereas triggers that control the camera for each player can be kept on **local mode**.
