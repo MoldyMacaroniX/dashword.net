@@ -18,6 +18,8 @@ Geometry Dash Mega Hack v8 is an update 2.2 mod menu by Absolute. It costs $4.99
 
 While still in early access, this [Geometry Dash 2.2](/categories/2.2/) mod is available to all Mega Hack v7 owners.
 
+As time progresses, Mega Hack v8 will recieve auto updates until the full release is ready.
+
 # All Mods In Mega Hack v8
 
 The following Geometry Dash mods are included in Mega Hack v8:
