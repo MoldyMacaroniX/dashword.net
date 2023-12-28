@@ -1,7 +1,9 @@
 ---
 pageSlug: geometry-dash-needs-multiplayer-here-is-how-robtop-can-do-it
 title: Geometry Dash Needs Multiplayer. Here Is How RobTop Can Do It
-desc: a
+desc: "After Geometry Dash 2.2, Geometry Dash has pretty much every feature any
+  creator could ask for. However, there is something that the game still needs:
+  Multiplayer."
 date: 2023-12-28T20:41:05.080Z
 tags:
   - video
