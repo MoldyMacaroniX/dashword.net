@@ -21,7 +21,9 @@ But first, a Geometry Dash multiplayer update would contain three things:
 
 1. [Normal mode multiplayer](#normal-mode-multiplayer)
 2. [Platformer mode multiplayer](#platformer-mode-multiplayer)
-3. [Live collab system for the level editor](live-collab-system-for-the-level-editor)
+3. [Live collab system for the level editor](#live-collab-system-for-the-level-editor)
+
+---
 
 # Normal mode multiplayer
 
@@ -49,3 +51,20 @@ All triggers in a level will have two states: **local mode** and **server mode**
 So that old levels don't break, all triggers will default to **local mode**.
 
 This way, creators can connect keys that open doors to **server mode** triggers, whereas triggers that control the camera for each player can be kept on **local mode**.
+
+# Live collab system for the level editor
+
+This mod was already created back in update 2.1. It essentially allowed for multiple creators to collab on the same level, much like the popular collaborative writing platform, Google Docs.
+
+This is pretty self-explanatory and as such needs no further explanation.
+
+---
+
+# Final Considerations
+
+Here are some final considerations for multiplayer in Geometry Dash:
+
+- Should other player icons be dimmed? I think this should be a setting, much like how the opacity of platformer controls on mobile can be changed.
+- Should there be usernames displayed above other player icons? I think not. Icons are already diverse enough. But if they are added, there should be a setting to disable them.
+
+Hopefully, in the near future, RobTop can add all of these features to the game!
