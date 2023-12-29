@@ -31,7 +31,7 @@ While RobTop is [adding Versus Mode in 2.21](/posts/robtop-cancels-geometry-dash
 
 Fortunately, adding the ability to see other players is not as difficult as it may seem! Modders already made a multiplayer mod back in update 2.1, so if they could do it on their own, surely RobTop could do it with his resources.
 
-That being said, this approach to multiplayer may appear to have some issues on the surface. For one, there could be some cases where players look like they are flying or going through walls due to finding hidden secrets in the level.
+That being said, this approach to multiplayer may appear to have some issues. For one, there could be some cases where players look like they are flying or going through walls due to finding hidden secrets in the level.
 
 Since you only see the other player's icon and not the platforms that they are using, it could look a little strange.
 
