@@ -9,7 +9,8 @@ tags:
   - video
 author: moldy
 image: https://img.youtube.com/vi/FICQ4780gN8/maxresdefault.jpg
-imageSource: https://youtu.be/FICQ4780gN8?si=v4Hdrxd9LMyIOMRG
+imageSource: https://youtu.be/FICQ4780gN8
+videoID: FICQ4780gN8
 affiliateLinks: false
 hideAds: false
 ---
