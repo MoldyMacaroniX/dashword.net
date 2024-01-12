@@ -17,11 +17,11 @@ However, there are reliable ways to collect diamonds, and I'll go over each of t
 
 - [Daily Chests](#daily-chests)
 - [Daily Level](#daily-level)
-- [Weekly Demon](#weekly-demon)
 - [Quests](#quests)
 - [Gauntlets](#gauntlets)
 - [Treasure Room](#treasure-room)
 - [Rated Lists](#rated-lists)
+- [Weekly Demon](#weekly-demon)
 
 # Daily Chests
 
@@ -37,12 +37,6 @@ Excluding the Gauntlets and weekly demon, the daily level is the only level in t
 
 But also like daily chests, once you complete the daily level, you have to wait up to 24 hours before you can play another. So after this, you'll have to move onto the next method of collecting diamonds.
 
-# Weekly Demon
-
-Like daily levels, weekly demons are levels that reward diamonds. If you can complete every weekly demon, you will also be collecting a lot of diamonds.
-
-The only issue with this is that weekly demons are very hard, as weekly demons have the hardest difficulty rating in the game. But if you've tried all other options, weekly demons might not be a bad idea to get some extra diamonds.
-
 # Quests
 
 A quest can reward up to 15 diamonds for completing it. There are three difficulties of quests, but all of them require you to collect a certain amount of orbs, silver user coins, or stars.
@@ -54,7 +48,6 @@ However, quests are not renewable. Once you complete all the available quests, y
 Excluding the daily level and weekly demon, Gauntlet levels are the only levels in the game that reward diamonds. However, unlike the daily level, these do not expire and can be completed without having to wait a lot of time.
 
 Even if you can't complete a specific Gauntlet, completing a couple levels in one will reward diamonds. There are dozens of Gauntlet levels to keep you busy, but if you ever happen to complete them all, there is one more way to collect diamonds.
-
 
 # Treasure Room
 
@@ -76,6 +69,12 @@ We have a [full guide on how to unlock it](/posts/geometry-dash-all-vaults-and-s
 Rated lists also reward diamonds. You can find a list of rated lists using the "lists" button on the online menu. You can tell if a list is rated if it has a diamond count associated with it.
 
 Upon completing the list, you will be rewarded with the diamonds it offers.
+
+# Weekly Demon
+
+Like daily levels, weekly demons are levels that reward diamonds. If you can complete every weekly demon, you will also be collecting a lot of diamonds.
+
+The only issue with this is that weekly demons are very hard, as weekly demons have the hardest difficulty rating in the game. But if you've tried all other options, weekly demons might not be a bad idea to get some extra diamonds.
 
 ---
 
