@@ -213,19 +213,47 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
                 </form>
                 <div class="content">
                     <div class="desc">
-                        {% if pageID == "authorPosts" %}
-                            {% if myAuthor.staff %}
-                                This author is verified because they are a Dashword staff or an official Dashword profile. <a href="/verified/">Verified Requirements</a>
-                            {% elseif myAuthor.partner %}
-                                This author is verified because they are partnered with Dashword. <a href="/verified/">Verified Requirements</a>
-                            {% else %}
-                                This author is verified because they are notable in the Geometry Dash community. <a href="/verified/">Verified Requirements</a>
-                            {% endif %}
-                        {% else %}
-                            This should never show.
-                        {% endif %}
+                        This author is verified because they are notable in the Geometry Dash community. <a href="/badges/#verified-badge-requirements">Verified Requirements</a>
                     </div>
                     <button onclick="closeDialog('modalVerified')" class="button button-wide">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal" id="modalStaff">
+        <div class="modal-spacing">
+            <div class="modal-inner">
+                <form method="dialog" class="header">
+                    <button onclick="closeDialog('modalStaff')" class="back" type='button'>
+                        <i class="ri-close-line"></i>
+                    </button>
+                    <div class="label"><span>Staff</span></div>
+                </form>
+                <div class="content">
+                    <div class="desc">
+                        This author is an official Dashword staff. <a href="/badges/#staff-badge-requirements">Staff Requirements</a>
+                    </div>
+                    <button onclick="closeDialog('modalStaff')" class="button button-wide">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal" id="modalPartner">
+        <div class="modal-spacing">
+            <div class="modal-inner">
+                <form method="dialog" class="header">
+                    <button onclick="closeDialog('modalPartner')" class="back" type='button'>
+                        <i class="ri-close-line"></i>
+                    </button>
+                    <div class="label"><span>Partner</span></div>
+                </form>
+                <div class="content">
+                    <div class="desc">
+                        This author is an official Dashword partner. <a href="/badges/#partner-badge-requirements">Partner Requirements</a>
+                    </div>
+                    <button onclick="closeDialog('modalPartner')" class="button button-wide">Close</button>
                 </div>
             </div>
         </div>
@@ -790,7 +818,7 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
                     <p>
                         {# <a href="https://github.com/moldymacaronix/dashword.net/tree/master/{{ page.inputPath }}">Edit This Page</a> #}
                         <a href="/contribute/">Contribute</a>
-                        <a href="/verified/">Verified Badge</a>
+                        <a href="/badges/">Profile Badges</a>
                         <a href="/about/">About</a>
                         <a href="/author-terms/">Author Terms</a>
                         <a href="https://discord.gg/SqZuGCpHMm">Discord Server</a>

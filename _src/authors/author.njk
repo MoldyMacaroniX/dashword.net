@@ -30,6 +30,12 @@ layout: base.njk
         {% if myAuthor.verified %}
             <img src="/assets/img/verified.svg" alt="Verified Badge" onclick="openDialog('modalVerified');" style="cursor: pointer;">
         {% endif %}
+        {% if myAuthor.staff %}
+            <img src="/assets/img/staff.svg" alt="Staff Badge" onclick="openDialog('modalStaff');" style="cursor: pointer;">
+        {% endif %}
+        {% if myAuthor.partner %}
+            <img src="/assets/img/partner.svg" alt="Partner Badge" onclick="openDialog('modalPartner');" style="cursor: pointer;">
+        {% endif %}
         </span>
         <span class="author-desc">{{ myAuthor.bio }}</span>
         <div class="author-socials">

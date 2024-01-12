@@ -18,6 +18,7 @@ https://gd-website.netlify.com/*   https://www.dashword.net/:splat   301!
 /publish-article/ /contribute/
 /author-profile/ /contribute/
 /code-of-conduct/ /community-guidelines/
+/verified/ /badges/
 
 # Shortened links
 

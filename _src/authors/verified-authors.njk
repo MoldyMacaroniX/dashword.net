@@ -44,12 +44,13 @@ layout: base.njk
     <div class="author-preview-name">
         {{ author.name }}
         {% if author.verified %}
-            <!--<span class="badge ri-checkbox-circle-fill" data-tooltip="Verified" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></span>-->
-            {% if author.realVerified and false %}
-            <img src="/assets/img/verified-gold.svg" alt="Verified Badge">
-            {% else %}
             <img src="/assets/img/verified.svg" alt="Verified Badge">
-            {% endif %}
+        {% endif %}
+        {% if author.staff %}
+            <img src="/assets/img/staff.svg" alt="Staff Badge">
+        {% endif %}
+        {% if author.partner %}
+            <img src="/assets/img/partner.svg" alt="Partner Badge">
         {% endif %}
         {% if not hasArticles %}<span class="author-no-posts-tag">(no articles)</span>{% endif %}
     </div>
