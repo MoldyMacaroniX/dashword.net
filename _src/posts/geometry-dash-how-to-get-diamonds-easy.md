@@ -1,11 +1,12 @@
 ---
 title: "Geometry Dash Diamonds: 5 Easy Ways To Collect Diamonds"
-desc: Geometry Dash diamonds are required to unlock many secrets in the game, such as the Vault of Secrets and the Secret Shop.
-image: https://media.discordapp.net/attachments/392087938239954950/1018251147720532068/unknown.png?width=1202&height=676
+desc: Geometry Dash diamonds are required to unlock many secrets in the game,
+  such as the Vault of Secrets and the Secret Shop.
 date: 2022-09-17
 tags:
-    - guide
+  - guide
 author: moldy
+image: https://media.discordapp.net/attachments/392087938239954950/1018251147720532068/unknown.png?width=1202&height=676
 ---
 
 Geometry Dash diamonds are required to unlock many secrets in the game, such as the [Vault of Secrets](/posts/geometry-dash-all-vaults-and-secrets-2022/#vault-of-secrets) and the [Secret Shop](/posts/geometry-dash-all-vaults-and-secrets-2022/#secret-shop).
@@ -19,6 +20,8 @@ However, there are reliable ways to collect diamonds, and I'll go over each of t
 - [Quests](#quests)
 - [Gauntlets](#gauntlets)
 - [Treasure Room](#treasure-room)
+- [Rated Lists](#rated-lists)
+- [Weekly Demon](#weekly-demon)
 
 # Daily Chests
 
@@ -30,7 +33,7 @@ Unfortunately, after collecting the chests, they are non-renewable, so you'll ha
 
 # Daily Level
 
-Excluding the Gauntlets, the daily level is the only level in the game that rewards diamonds. Like when opening your daily chests, if you can complete every daily level, you'll be well on your way to collecting diamonds.
+Excluding the Gauntlets and weekly demon, the daily level is the only level in the game that rewards diamonds. Like when opening your daily chests, if you can complete every daily level, you'll be well on your way to collecting diamonds.
 
 But also like daily chests, once you complete the daily level, you have to wait up to 24 hours before you can play another. So after this, you'll have to move onto the next method of collecting diamonds.
 
@@ -42,10 +45,9 @@ However, quests are not renewable. Once you complete all the available quests, y
 
 # Gauntlets
 
-Excluding the daily level, Gauntlet levels are the only levels in the game that reward diamonds. However, unlike the daily level, these do not expire and can be completed without having to wait a lot of time.
+Excluding the daily level and weekly demon, Gauntlet levels are the only levels in the game that reward diamonds. However, unlike the daily level, these do not expire and can be completed without having to wait a lot of time.
 
 Even if you can't complete a specific Gauntlet, completing a couple levels in one will reward diamonds. There are dozens of Gauntlet levels to keep you busy, but if you ever happen to complete them all, there is one more way to collect diamonds.
-
 
 # Treasure Room
 
@@ -61,6 +63,18 @@ The most notable difference, however, is that a grey chest cost 1 demon key to o
 However, arguably the hardest part of this diamond collecting method is unlocking the Treasure Room.
 
 We have a [full guide on how to unlock it](/posts/geometry-dash-all-vaults-and-secrets-2022/#treasure-room), but you need at least 5 demon keys. If you're struggling to collect demon keys, we also have [a guide to help you easily collect them]().
+
+# Rated Lists
+
+Rated lists also reward diamonds. You can find a list of rated lists using the "lists" button on the online menu. You can tell if a list is rated if it has a diamond count associated with it.
+
+Upon completing the list, you will be rewarded with the diamonds it offers.
+
+# Weekly Demon
+
+Like daily levels, weekly demons are levels that reward diamonds. If you can complete every weekly demon, you will also be collecting a lot of diamonds.
+
+The only issue with this is that weekly demons are very hard, as weekly demons have the hardest difficulty rating in the game. But if you've tried all other options, weekly demons might not be a bad idea to get some extra diamonds.
 
 ---
 
