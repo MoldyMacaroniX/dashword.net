@@ -1,0 +1,105 @@
+---
+title: This Day In Geometry Dash History
+permalink: /daily/
+image: false
+desc: This is what happened today in Geometry Dash history.
+---
+
+<style>
+    .blue-verified, .blue-item {
+        display: flex;
+        gap: 15px;
+    }
+    .blue-verified {
+        background-color: var(--primary);
+        font-weight: bold;
+        color: var(--white);
+        padding: 25px;
+        font-size: 1.25rem;
+        line-height: 1.5;
+        border-radius: var(--edge);
+        margin-top: 25px;
+        align-items: center;
+    }
+    .blue-item {
+        margin-top: 25px;
+        align-items: center;
+    }
+    .blue-num {
+        width: 50px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: var(--bg-dim);
+        border-radius: 50%;
+        font-size: 1rem;
+        font-weight: bold;
+    }
+    .blue-content {
+        font-size: 1.15rem;
+        line-height: 1.5;
+        font-weight: bold;
+    }
+    .blue-content span {
+        font-weight: normal;
+        display: block;
+    }
+    .blue-badge {
+        width: 75px;
+        height: 75px;
+        background-color: var(--white);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+    }
+    .blue-badge img {
+        width: 50px;
+        height: 50px;
+    }
+</style>
+
+<div class="blue">
+
+    <div id="dailyFact"></div>
+
+</div>
+
+<script>
+let url = '/_data/daily.json';
+fetch(url)
+.then(res => res.json())
+.then(out => {
+    const d = new Date();
+    var month = d.getMonth() + 1;
+    var day = d.getDate();
+    var facts = out[month][day].length;
+    var output = "";
+    console.log(facts);
+
+    for (var i = 0; i < facts; i++) {
+        output += "<div class='blue-item'><div class='blue-num'>" + out[month][day][i]["year"] + "</div><div class='blue-content col'>" + out[month][day][i]["title"] + "<span>" + out[month][day][i]["desc"] + "</span></div></div>";
+        console.log(output);
+    }
+
+    if (facts == 0) {
+        var alert = '<article class="article" style="margin-top: 20px;"><div class="alert"><div class="alert-icon"><i class="ri-information-line"></i></div><div class="alert-content"><p>There is no data for today yet. Have an idea? <a href="/contact/">Let us know!</a></p></div></div></article>'
+        document.getElementById('dailyFact').innerHTML = alert;
+    } else {
+        document.getElementById('dailyFact').innerHTML = output;
+    }
+
+})
+</script>
+
+<div class="section">
+    <div class="panel cols">
+        <div class="col">
+            <h1 style="margin-top: 0;">This project is created by Dashword</h1>
+            <p>This project is created with ❤️ by Dashword. <a href="/contact/">Send us an email</a> if you have an idea for something to add!</p>
+        </div>
+    </div>
+</div>
+
+{# Many sources of info come from https://twitter.com/dates_gd #}

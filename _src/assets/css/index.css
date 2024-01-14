@@ -1814,6 +1814,7 @@ details[open] .details-icon.ri-add-line:before {
 .panel a {
     font-weight: bold;
     text-decoration: underline;
+    color: inherit;
 }
 
 .panel .button {
