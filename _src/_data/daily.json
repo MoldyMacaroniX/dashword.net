@@ -83,6 +83,11 @@
         ],
         "15": [
             {
+                "title":"Moldy uploads his first YouTube video.",
+                "desc":"Moldy is now a famous Geometry Dash YouTuber.",
+                "year":"2017"
+            },
+            {
                 "title":"The Daily Demon disbands.",
                 "desc":"The famous parody Geometry Dash news source, The Daily Demon, disbands.",
                 "year":"2021"
@@ -168,11 +173,6 @@
                 "title":"Geometry Dash 1.5 is released.",
                 "desc":"Geometry Dash 1.5 added the new level Theory of Everything and the UFO game mode.",
                 "year":"2014"
-            },
-            {
-                "title":"Bloodbath recieves three new 60 Hz mobile victors.",
-                "desc":"Chubs Dubs, Surpl3x, and Coopersuper are the 2nd, 3rd, and 4th players respectively to beat Bloodbath on 60 Hz mobile.",
-                "year":"2021"
             }
         ],
         "31": [
@@ -220,7 +220,7 @@
                 "year":"2017"
             },
             {
-                "title":"Void Wave is verified and release.",
+                "title":"Void Wave is verified and released.",
                 "desc":"Void Wave is a popular Extreme Demon.",
                 "year":"2020"
             }
