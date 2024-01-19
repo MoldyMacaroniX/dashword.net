@@ -6,7 +6,7 @@ desc: The Geometry Dash editor allows you to create whatever you want. However,
   Dash Editor Guide to help you learn the editor. This article will tell you how
   to access the editor guide and other useful tips and tricks to make using it
   easier.
-date: 2024-01-19T01:32:41.956Z
+date: 2024-01-19T02:15:41.429Z
 tags:
   - guide
 author: moldy
