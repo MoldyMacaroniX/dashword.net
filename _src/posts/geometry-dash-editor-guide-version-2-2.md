@@ -1,5 +1,5 @@
 ---
-pageSlug: geometry-dash-editor-guide-help-and-information
+pageSlug: geometry-dash-editor-guide-tips-and-tricks
 title: "Geometry Dash Editor Guide: Tips & Tricks"
 desc: The Geometry Dash editor allows you to create whatever you want. However,
   the level editor is somewhat complicated. Fortunately, there exists a Geometry
