@@ -1,5 +1,5 @@
 ---
-title: "Geometry Dash Vaults & Secrets: How To Unlock Every Secret Area (2023)"
+title: "Geometry Dash Vaults & Secrets: How To Unlock Every Secret Area (2024)"
 desc: If you're looking for free icons, colors, and rewards, every Geometry Dash
   secret area has something to offer.
 date: 2022-09-18
@@ -167,4 +167,4 @@ After completing The Basement, you will unlock an icon, some other rewards, and 
 
 ---
 
-And there you have it—a comprehensive guide to unlock every secret area in Geometry Dash, as of 2023 and the 2.113 update.
+And there you have it—a comprehensive guide to unlock every secret area in Geometry Dash, as of 2024 and the 2.2 update.
