@@ -1,5 +1,5 @@
 ---
-title: "Easiest Geometry Dash User Coins: Free & Easy Levels To Get User Coins (2023)"
+title: "Easiest Geometry Dash User Coins: Free & Easy Levels To Get User Coins (2024)"
 desc: Geometry Dash 3 free and 9 easy silver user coins! With silver user coins,
   you can unlock a lot of Geometry Dash icons, ships, UFOs, and more.
 date: 2022-09-17
