@@ -2,7 +2,7 @@
 title: Geometry Dash Update 2.205 Released On iOS & Android
 desc: Geometry Dash on mobile have finally received a new update! Update 2.205
   is out on the App Store and Google Play.
-date: 2024-01-26T03:30:54.204Z
+date: 2024-01-26T03:47:04.323Z
 tags:
   - news
   - featured
