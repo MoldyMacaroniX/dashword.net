@@ -1,7 +1,7 @@
 ---
 title: Castle Gauntlet Released In Geometry Dash
-desc: "After over a month since the release of Geometry Dash 2.2, RobTop has
-  added the first new gauntlet: the Castle Gauntlet!"
+desc: "After over a month since the release of Geometry Dash 2.2, RobTop Games
+  has added the first new gauntlet: the Castle Gauntlet!"
 date: 2024-01-26T03:47:31.371Z
 tags:
   - news
@@ -11,7 +11,7 @@ imageSource: https://www.reddit.com/r/geometrydash/comments/1ab72kq/castle_gaunt
 affiliateLinks: false
 hideAds: false
 ---
-After over a month since the release of [Geometry Dash 2.2](/posts/geometry-dash-2-2-released/), RobTop has added the first new gauntlet: the **Castle Gauntlet**!
+After over a month since the release of [Geometry Dash 2.2](/posts/geometry-dash-2-2-released/), RobTop Games has added the first new gauntlet: the **Castle Gauntlet**!
 
 This gauntlet features the following levels:
 
