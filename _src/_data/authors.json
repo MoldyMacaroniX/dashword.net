@@ -4,6 +4,7 @@
 		"name": "Dashword Staff",
 		"bio": "Latest posts from the Dashword team!",
 		"photo": "/assets/img/dw-avatar.png",
+		"website":"www.dashword.net",
 		"verified":true,
 		"staff":true
 	},
@@ -12,6 +13,7 @@
 		"name": "The GD Podcast",
 		"bio": "Latest posts from The GD Podcast team!",
 		"photo": "/assets/img/dw-avatar.png",
+		"website":"www.dashword.net/podcast/",
 		"verified":true,
 		"staff":true
 	},
@@ -37,6 +39,7 @@
 		"twitter":"moldymacaronix",
 		"discord":"PqTUgx6",
 		"gdbrowser":"CreatorMoldy",
+		"website":"www.moldygd.com",
 		"verified": true,
 		"staff":true
 	},
@@ -263,7 +266,8 @@
 		"customyt":true,
 		"twitch":"izinkz",
 		"twitter":"ytzinkz",
-		"gdbrowser":"zinkz"
+		"gdbrowser":"zinkz",
+		"website":"bradgd.com"
 	},
 	{
 		"key":"wbilgini",

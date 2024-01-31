@@ -7,7 +7,7 @@ hideAds: true
 hideSidebar: true
 ---
 
-Last Updated: August 8, 2023
+Last Updated: January 30, 2023
 
 In order to get your Article or Course published to Dashword.net, you will have to agree to these terms. As such, these terms apply to anyone who has a published Article or Course on Dashword.net.
 
@@ -38,6 +38,7 @@ By confirming that we can use your Article or Course, you agree that:
     - The short, one or two sentence bio for your Author Page
     - Your YouTube, your Twitch, your Twitter, and your Discord server
     - Your Geometry Dash profile name
+    - The website URL you would like to show on your Author Page
 - All information on your unique Author Page will be displayed publicly on our website. You can request changes to your unique Author Page by emailing us. All changes must be confirmed by us but you can remove your Author Page at any time. In order to get a unique Author Page, you must have at least one Article. Courses do not count as Articles.
 - You have not shared any email communications with us with anyone else.
 

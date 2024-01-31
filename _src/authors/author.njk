@@ -44,6 +44,7 @@ layout: base.njk
             {% if myAuthor.twitter %}<a href="https://twitter.com/{{ myAuthor.twitter }}" class="ri-twitter-fill" data-tooltip="Twitter" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></a>{% endif %}
             {% if myAuthor.discord %}<a href="https://discord.gg/{{ myAuthor.discord }}" class="ri-discord-fill" data-tooltip="Discord" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></a>{% endif %}
             {% if myAuthor.gdbrowser %}<a href="https://gdbrowser.com/u/{{ myAuthor.gdbrowser }}" class="ri-gamepad-fill" data-tooltip="GDBrowser" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"></a>{% endif %}
+            {% if myAuthor.website %}<a style="display: inline-flex; align-items: center; gap: 5px; padding: 3px 0;" href="https://{{ myAuthor.website }}" data-tooltip="Website" data-tooltip-position="top" data-tooltip-additional-classes="tooltip"><i style="font-size: 1rem;" class="ri-link"></i> <span style="font-size: 0.9rem;">{{ myAuthor.website }}</span></a>{% endif %}
         </div>
     </div>
 </div>

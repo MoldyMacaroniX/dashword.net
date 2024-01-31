@@ -1700,11 +1700,14 @@ details[open] .details-icon.ri-add-line:before {
     color: rgb(138, 138, 138);
     margin-top: 5px;
     font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    gap: 5px 10px;
+    flex-wrap: wrap;
 }
 
 .author-socials a {
-    padding: 10px;
-    padding-left: 0;
+    display: block;
 }
 
 .badge {
