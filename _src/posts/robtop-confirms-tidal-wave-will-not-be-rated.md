@@ -4,7 +4,7 @@ title: RobTop Confirms Tidal Wave Will Not Be Rated
 desc: Ever since Tidal Wave was verified in September, the level has remained
   unrated, meaning it cannot be placed on the Geometry Dash Demon List. Now,
   RobTop has revealed he has no intention to rate Tidal Wave.
-date: 2024-02-11T22:01:00.386Z
+date: 2024-02-12T08:16:10.287Z
 tags:
   - news
   - demonlist
