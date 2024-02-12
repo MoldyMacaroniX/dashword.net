@@ -22,6 +22,6 @@ While nothing is 100% confirmed, the leading theories are the following:
 
 Back when Geometry Dash Moderators used to vote on Demon ratings, they voted against rating Tidal Wave, meaning the only way for it to get rated is for RobTop himself to acknowledge it.
 
-However, after acknowledging Tidal Wave in the [Geometry Dash Discord server](/posts/geometry-dash-discord-server-how-to-join-request-levels/) while not rating it, he has made the statement saying he will not be rating it.
+However, after acknowledging Tidal Wave in the [Geometry Dash Discord server](/posts/geometry-dash-discord-server-how-to-join-request-levels/) while not rating it, he has practically made a statement saying he will not be rating it.
 
 One theory for why he won't rate it is because it was verified on 360 Hz. Despite most [top extreme demons](/posts/geometry-dash-demon-list-what-are-the-top-extreme-demons-2022/) being verified on 360 Hz, RobTop wants to update the rules and Retroactively apply them despite the community's wishes.
