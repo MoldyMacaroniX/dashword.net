@@ -1,6 +1,6 @@
 ---
 pageSlug: geometry-dash-multiplayer-how-to-download-and-install
-title: "Geometry Dash Multiplayer: How To Download & Install (2024)"
+title: "Geometry Dash Globed Mod: How To Download & Install (2024)"
 desc: a
 date: 2024-02-13T22:52:05.114Z
 tags:
