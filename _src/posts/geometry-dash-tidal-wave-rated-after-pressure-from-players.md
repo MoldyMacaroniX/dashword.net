@@ -5,7 +5,7 @@ desc: After months of pressure from Geometry Dash players, RobTop has finally
   rated Tidal Wave. After the top 1 extreme demon was verified by Zoink in
   September 2023, it remained unrated, meaning it could not officially claim the
   top 1 spot on the Geometry Dash Demon List.
-date: 2024-02-18T22:29:05.101Z
+date: 2024-02-18T22:40:38.329Z
 tags:
   - news
   - demonlist
