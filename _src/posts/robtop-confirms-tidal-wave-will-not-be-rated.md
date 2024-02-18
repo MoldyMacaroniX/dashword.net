@@ -1,6 +1,6 @@
 ---
 pageSlug: robtop-confirms-tidal-wave-will-not-be-rated
-title: RobTop Confirms Tidal Wave Will Not Be Rated
+title: "Geometry Dash: RobTop Says Why He Doesn't Want To Rate Tidal Wave"
 desc: Ever since Tidal Wave was verified in September, the level has remained
   unrated, meaning it cannot be placed on the Geometry Dash Demon List. Now,
   RobTop has revealed he has no intention to rate Tidal Wave.
@@ -25,3 +25,7 @@ Back when Geometry Dash Moderators used to vote on Demon ratings, they voted aga
 However, after acknowledging Tidal Wave in the [Geometry Dash Discord server](/posts/geometry-dash-discord-server-how-to-join-request-levels/) while not rating it, he has practically made a statement saying he will not be rating it.
 
 One theory for why he won't rate it is because it was verified on 360 Hz. Despite most [top extreme demons](/posts/geometry-dash-demon-list-what-are-the-top-extreme-demons-2022/) being verified on 360 Hz, RobTop wants to update the rules and Retroactively apply them despite the community's wishes.
+
+_**Update:** This theory has been proven incorrect. RobTop came out and said the reason he doesn't want to rate the level is because he doesn't think it will be fun and that it doesn't represent the game very well._
+
+While RobTop has said there is a possibility that it will be rated, he said it is solely his decision.
