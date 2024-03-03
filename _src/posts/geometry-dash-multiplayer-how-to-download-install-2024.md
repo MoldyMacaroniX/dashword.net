@@ -1,10 +1,12 @@
 ---
 pageSlug: geometry-dash-multiplayer-how-to-download-and-install
 title: "Geometry Dash Globed Mod: How To Download & Install (2024)"
-desc: a
-date: 2024-02-13T22:52:05.114Z
+desc: Globed is a Geometry Dash multiplayer mod for Geode that allows you to
+  play multiplayer with your friends and anyone else with the mod.
+date: 2024-03-03T07:05:12.806Z
 tags:
   - guide
+  - featured
 author: moldy
 image: https://i.ytimg.com/vi/Q3pjd1t9Ju0/maxresdefault.jpg
 imageSource: https://youtu.be/Q3pjd1t9Ju0?si=8OsxwWKiWcBJdBeW
