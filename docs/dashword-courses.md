@@ -14,6 +14,7 @@ Fill the json with the following information, as per this example:
 {
     "coursename":"Learn Geometry Dash YouTube",
     "courseslug":"learn-geometry-dash-youtube",
+    "image":"https://example.com/file.png",
     "courselessons":10,
     "courseinfo": [
         {
@@ -62,6 +63,7 @@ Fill the json with the following information, as per this example:
 
 - `coursename` is the name of the course.
 - `courseslug` is used in the URL structure of the course.
+- `image` is a link to an image to be used as the course cover. **See below.**
 - `courselessons` is the amount of lessons in the course. Start counting from 1 and not 0.
 - `courseinfo` contains the names and url slugs for the course navigation. Put this in the order you want to it to appear on the sidebar. The first/home page of the course must have a url of `null` and be the first entry.
 

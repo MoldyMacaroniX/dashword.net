@@ -59,7 +59,7 @@ layout: base.njk
 </div>
 {% endif %} #}
 
-{% if image %}
+{% if image and not course %}
 <div class="article-cover">
 	{% if videoID %}
 		<div class="video-iframe">
@@ -70,7 +70,7 @@ layout: base.njk
 			<img src="{{ image }}" alt="{% if title %}{{ title }}{% else %}No post title provided.{% endif %}" loading="lazy">
 		</div>
 	{% endif %}
-	{% if imageSource and not videoID %}<a href="{{ imageSource }}" target="_blank" class="article-cover-source">Cover Source</a>{% endif %}
+	{% if imageSource and not videoID %}<a href="{{ imageSource }}" target="_blank" class="article-cover-source" id="cover-src">Cover Source</a>{% endif %}
 	{% if affiliateLinks %}
 	<style>
 		.affiliate {
