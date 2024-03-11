@@ -291,5 +291,12 @@
 		"bio":"i'm not ready for 2.3 guys",
 		"photo":"https://i.imgur.com/LbqT11v.png",
 		"gdbrowser":"LiamInGd"
+	},
+	{
+		"key":"mrhoot2000",
+		"name":"MrHoot2000",
+		"photo":"/assets/img/user.png",
+		"twitter":"MrHoot2000",
+		"gdbrowser":"MrHoot2000"
 	}
 ]
