@@ -4,7 +4,7 @@ title: "Geometry Dash Mega Hack: How To Download & Install (2024)"
 desc: Mega Hack is a Geometry Dash mod by Absolute. The latest version is Mega
   Hack v8 Pro and is available on the Steam version of Geometry Dash for
   Windows.
-date: 2024-03-15T22:22:09.512Z
+date: 2024-03-15T22:26:18.833Z
 tags:
   - guide
 author: moldy
@@ -17,7 +17,7 @@ Mega Hack is a Geometry Dash mod by Absolute Mods Ltd. The latest version is Meg
 
 This article will explain how to buy Mega Hack v8 Pro and install it, but we will also reveal a free alternative at the end.
 
-**Table of Contents:**
+**Table of contents:**
 
 - [What is Mega Hack v8 Pro?](#what-is-mega-hack-v8-pro%3F)
 - [How To Download And Install Mega Hack v8 Pro](#how-to-download-and-install-mega-hack-v8-pro)
