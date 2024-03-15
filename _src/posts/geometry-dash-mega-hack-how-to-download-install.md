@@ -20,32 +20,33 @@ This article will explain how to buy Mega Hack v8 Pro and install it, but we wil
 **Table of Contents:**
 
 - [What is Mega Hack v8 Pro?](#what-is-mega-hack-v8-pro%3F)
-- [How To Download Mega Hack v8 Pro](#how-to-download-mega-hack-v8-pro)
-- [How to Install Mega Hack v8 Pro](#how-to-install-mega-hack-v8-pro)
-
----
+- [How To Download And Install Mega Hack v8 Pro](#how-to-download-and-install-mega-hack-v8-pro)
+- [How To Download And Install OpenHack](#how-to-download-and-install-openhack)
 
 # What Is Mega Hack v8 Pro?
 
 Mega Hack v8 Pro is a Geometry Dash mod menu developed by Absolute Mods Ltd available for for the Steam version of Geometry Dash for Windows. It is available for $4.99 on the official Mega Hack v8 Pro store.
 
-# How To Download Mega Hack v8 Pro
+# How To Download And Install Mega Hack v8 Pro
 
-Here is how to download Mega Hack v8 Pro:
+Here is how to download and install Mega Hack v8 Pro:
 
 1. Go to the official [Mega Hack v8 Pro store](https://absolllute.com/store/view_mega_hack_pro) and login or sign up.
 2. Purchase Mega Hack v8 Pro for $4.99.
 3. Download the installer.
-
-# How to Install Mega Hack v8 Pro
-
-Here is how to install Mega Hack v8 Pro after downloading the installer:
-
-1. Open the Mega Hack v8 Pro installer.
-2. Set **Geometry Dash folder** to your Geometry Dash folder if it hasn't automatically set it. On most Windows devices, this is found at `C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\`.
-3. Set the version to **v8.0-alpha**.
-4. Press **Install**.
+4. Open the Mega Hack v8 Pro installer.
+5. Set **Geometry Dash folder** to your Geometry Dash folder if it hasn't automatically set it. On most Windows devices, this is found at `C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\`.
+6. Set the version to **v8.0-alpha**.
+7. Press **Install**.
 
 If you need help, you can [contact Absolute Mods Ltd for support](https://absolllute.com/).
 
----
+# Mega Hack v8 Pro Alternative: OpenHack
+
+OpenHack is a free, Mega Hack v8 Pro alternative released under a MIT license, which allows for anyone to use it for free. It contains over 70 hacks, including noclip, speedhack, and many more.
+
+# How To Download And Install OpenHack
+
+Here is how to download and install OpenHack:
+
+1. 
