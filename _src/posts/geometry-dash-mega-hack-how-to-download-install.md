@@ -21,6 +21,7 @@ This article will explain how to buy Mega Hack v8 Pro and install it, but we wil
 
 - [What is Mega Hack v8 Pro?](#what-is-mega-hack-v8-pro%3F)
 - [How To Download And Install Mega Hack v8 Pro](#how-to-download-and-install-mega-hack-v8-pro)
+- [Mega Hack v8 Pro Alternative: OpenHack](#mega-hack-v8-pro-alternative-openhack)
 - [How To Download And Install OpenHack](#how-to-download-and-install-openhack)
 
 # What Is Mega Hack v8 Pro?
