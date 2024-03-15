@@ -4,7 +4,7 @@ title: "Geometry Dash Mega Hack: How To Download & Install (2024)"
 desc: Mega Hack is a Geometry Dash mod by Absolute. The latest version is Mega
   Hack v8 Pro and is available on the Steam version of Geometry Dash for
   Windows.
-date: 2024-03-15T21:43:25.596Z
+date: 2024-03-15T22:22:09.512Z
 tags:
   - guide
 author: moldy
@@ -43,12 +43,16 @@ If you need help, you can [contact Absolute Mods Ltd for support](https://absoll
 
 # Mega Hack v8 Pro Alternative: OpenHack
 
-OpenHack is a free, Mega Hack v8 Pro alternative released under a MIT license, which allows for anyone to use it for free. It contains over 70 hacks, including noclip, speedhack, and many more.
+OpenHack is a free, Mega Hack v8 Pro alternative available for for the Steam version of Geometry Dash for Windows. released under a MIT license, which allows for anyone to use it for free. It contains over 70 hacks, including noclip, speedhack, and many more.
 
 # How To Download And Install OpenHack
 
 Here is how to download and install OpenHack:
 
-Go to [https://geode-sdk.org/install/](https://geode-sdk.org/install/) and install **Geode** for your device. The supported devices include **Windows**, **Mac**, **Android 64 bit**, and **Android 32 bit**. There is no **iOS** support.
+1. Go to [https://geode-sdk.org/install/](https://geode-sdk.org/install/) and install **Geode** for your Windows.
 2. Once Geode is installed, press the new **Geode** button on the Geometry Dash title screen and go to the **Download** tab. Search for and download the **OpenHack** mod.
 3. Restart your game and press the **tab** key on your keyboard to open the OpenHack menu and enable the mods you choose. Then press **tab** again to close the menu.
+
+---
+
+And that's it! Now you can play Geometry Dash with Mega Hack v8 Pro or OpenHack.
