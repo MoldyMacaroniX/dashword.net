@@ -13,7 +13,7 @@ imageSource: https://youtu.be/akQWW_Pk7Ns?si=gfWpzNgyGZdWpqVQ
 affiliateLinks: false
 hideAds: false
 ---
-Mega Hack is a Geometry Dash mod by Absolute. The latest version is Mega Hack v8 Pro and is available on the Steam version of Geometry Dash for Windows.
+Mega Hack is a Geometry Dash mod by Absolute Mods Ltd. The latest version is Mega Hack v8 Pro and is available on the Steam version of Geometry Dash for Windows.
 
 This article will explain how to buy Mega Hack v8 Pro and install it, but we will also reveal a free alternative at the end.
 
@@ -23,13 +23,17 @@ This article will explain how to buy Mega Hack v8 Pro and install it, but we wil
 - [How To Download Mega Hack v8 Pro](#how-to-download-mega-hack-v8-pro)
 - [How to Install Mega Hack v8 Pro](#how-to-install-mega-hack-v8-pro)
 
+---
+
 # What Is Mega Hack v8 Pro?
+
+Mega Hack v8 Pro is a Geometry Dash mod menu developed by Absolute Mods Ltd available for for the Steam version of Geometry Dash for Windows. It is available for $4.99 on the official Mega Hack v8 Pro store.
 
 # How To Download Mega Hack v8 Pro
 
 Here is how to download Mega Hack v8 Pro:
 
-1. Go to [Absolute's store](https://absolllute.com/store/view_mega_hack_pro) and login or sign up.
+1. Go to the official [Mega Hack v8 Pro store](https://absolllute.com/store/view_mega_hack_pro) and login or sign up.
 2. Purchase Mega Hack v8 Pro for $4.99.
 3. Download the installer.
 
@@ -42,4 +46,6 @@ Here is how to install Mega Hack v8 Pro after downloading the installer:
 3. Set the version to **v8.0-alpha**.
 4. Press **Install**.
 
-If you need help, you can [contact Absolute for support](https://absolllute.com/).
+If you need help, you can [contact Absolute Mods Ltd for support](https://absolllute.com/).
+
+---
