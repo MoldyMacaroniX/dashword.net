@@ -298,5 +298,12 @@
 		"photo":"/assets/img/user.png",
 		"twitter":"MrHoot2000",
 		"gdbrowser":"MrHoot2000"
+	},
+	{
+		"key":"zsyfy",
+		"name":"zSYFY",
+		"bio":"I like GD History and interesting stuff.",
+		"photo":"https://i.imgur.com/vBNlrdZ.png",
+		"gdbrowser":"zSYFY"
 	}
 ]
