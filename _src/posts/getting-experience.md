@@ -1,6 +1,6 @@
 ---
-title: "Getting Experience"
-desc: "In this lesson we’ll focus on how you can become experienced at creating."
+title: "Getting Experience In Geometry Dash Creating"
+desc: "In this lesson we'll focus on how you can become experienced at creating."
 image: /assets/img/GDCSBanner.jpg
 date: 2022-02-20
 tags:
@@ -23,6 +23,10 @@ As a warning, you shouldn't let the game interfere with your physical or mental 
 If some of this sounds vaguely familiar, that's because you've probably learned it in school already. When you take a test, it's best not to leave any blank spaces because any answer you write down can help your grade. Geometry Dash is the same, except you get infinite retakes and the scorer can be anyone — even yourself. If your only experience comes from half-finished levels, you'll have a harder time finishing anything at all.
 
 Just like with tests, you'll do better sometimes and worse at other times, but you'll generally do better with practice. This is completely natural! Progress is never linear, no matter what anyone tells you. It's perfectly fine to not do your best in this game, because the experience you're gaining will make everything worth it in the end.
+
+# Join the Geometry Dash Creator School!
+
+Join the [Geometry Dash Creator School Discord with this link](https://discord.gg/gdlevels) to learn how to become a great level maker!
 
 # Credits                                                            
 

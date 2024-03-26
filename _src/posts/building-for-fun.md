@@ -1,5 +1,5 @@
 ---
-title: "Building For Fun"
+title: "How To Enjoy Creating In Geometry Dash"
 desc: "In this lesson, we will explore how you can enjoy making levels."
 image: /assets/img/GDCSBanner.jpg
 date: 2022-02-20
@@ -26,6 +26,10 @@ This will feel weird at first. It's counterintuitive to see your mistakes and ju
 
 Anytime you feel burned out with creating, either use the 50% Rule or take a break. It's best if you can embrace your levels, your skills, and ultimately your mistakes. That's the key to growth, and it's how you can have fun again.
  
+# Join the Geometry Dash Creator School!
+
+Join the [Geometry Dash Creator School Discord with this link](https://discord.gg/gdlevels) to learn how to become a great level maker!
+
 # Credits                                                            
 
 * Research by Xul
