@@ -6,7 +6,7 @@ desc: The Geometry Dash Platformer Demon List is a list ranking the top 100
   hardest platformer levels in the game. It features many platformer extreme
   demons like The Tower XXII, Tower of Infinity, The Abyss, Terminal Heaven, I
   wanna be the guy, and many more of the hardest Geometry Dash levels.
-date: 2024-04-03T20:07:05.663Z
+date: 2024-04-03T20:08:43.057Z
 tags:
   - demonlist
   - guide
