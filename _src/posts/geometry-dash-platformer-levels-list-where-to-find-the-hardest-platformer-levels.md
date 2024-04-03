@@ -42,6 +42,12 @@ According to the Geometry Dash Platformer Demon List, the hardest platformer lev
 4. Bouncy Ball
 5. Entrenched
 
+![The Abyss YouTube thumbnail](https://img.youtube.com/vi/HWwURHUwvu4/maxresdefault.jpg)
+
+*The Abyss YouTube thumbnail, from [mikoshii](https://youtu.be/HWwURHUwvu4?si=LT3iRpa40j3kLk3m).*
+
+This list only includes [levels rated by RobTop Games](/posts/geometry-dash-levels-how-to-make-a-featured-level-2022/). For a list of the hardest unrated platformer levels, see the [Unrated Geometry Dash Platformer Demon List]().
+
 # Geometry Dash Platformer Demon List
 
 The Geometry Dash Platformer Demon List ranks the hardest platformer levels. Both the regular Geometry Dash Platformer Demon List and the Unrated Geometry Dash Platformer Demon List can be found below:
