@@ -305,5 +305,13 @@
 		"bio":"I like GD History and interesting stuff.",
 		"photo":"https://i.imgur.com/vBNlrdZ.png",
 		"gdbrowser":"zSYFY"
+	},
+	{
+		"key":"blooxen",
+		"name":"BlooXen",
+		"photo":"https://i.imgur.com/vbkMAVK.png",
+		"youtube":"BlooXen",
+		"handle":true,
+		"gdbrowser":"BlooXen"
 	}
 ]
