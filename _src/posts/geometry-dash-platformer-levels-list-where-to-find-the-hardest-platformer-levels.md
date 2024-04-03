@@ -21,8 +21,6 @@ hideAds: false
 ---
 The Geometry Dash Platformer Demon List is a list ranking the top 100 hardest platformer levels in the game. It features many platformer extreme demons like The Tower XXII, Tower of Infinity, The Abyss, Terminal Heaven, I wanna be the guy, and many more of the hardest Geometry Dash levels.
 
-First developed by RobTop Games in 2013, Geometry Dash levels and extreme demons have gotten harder and harder every year. Now, we have levels so hard that they can only be beaten by bots, not humans!
-
 Every since the release of [Geometry Dash 2.2](/posts/how-to-install-geometry-dash-2-2/), platformer levels have been added to the game. As a result, the Geometry Dash community have been pushing this new level type to its limits by creating some of the [hardest levels ever made in Geometry Dash](/posts/geometry-dash-levels-what-is-the-hardest-level-ever-made/).
 
 This guide will show you how to access the Geometry Dash Platformer Demon List so that you can see all the hardest platformer levels!
