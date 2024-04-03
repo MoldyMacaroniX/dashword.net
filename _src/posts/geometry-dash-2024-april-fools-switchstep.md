@@ -1,7 +1,7 @@
 ---
 pageSlug: creator-of-dash-full-version-teases-explorers-full-version
 title: Creator Of Dash Full Version Teases Explorers Full Version
-desc:
+desc: The creator of Dash Full Version, SwitchstepGD, is currently creating a fanmade recreation of the official Geometry Dash 2.2 level, Explorers. Does this mean there will be an Explorers Full Version?
 date: 2024-04-03
 tags:
   - news
@@ -12,7 +12,7 @@ affiliateLinks: false
 hideAds: false
 ---
 
-The creator of Dash Full Version, SwitchstepGD, is currently creating a fanmade recreation of the [official Geometry Dash 2.2 level, Explorers](/posts/explorers-delayed-until-after-geometry-dash-2-2/).
+The creator of Dash Full Version, SwitchstepGD, is currently creating a fanmade recreation of the [official Geometry Dash 2.2 level, Explorers](/posts/explorers-delayed-until-after-geometry-dash-2-2/). Does this mean there will be an Explorers Full Version?
 
 After weeks of waiting, on April 1st, 2024, a live YouTube video premiere of what was supposedly his Explorers remake was published. From the thumbnail, it looked to be an extended version of the [official level that was previewed by RobTop Games](/posts/geometry-dash-new-sneak-peek-analysis/).
 
