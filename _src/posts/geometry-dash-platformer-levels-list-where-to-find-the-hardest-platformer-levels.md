@@ -25,7 +25,7 @@ First developed by RobTop Games in 2013, Geometry Dash levels and extreme demons
 
 Every since the release of [Geometry Dash 2.2](/posts/how-to-install-geometry-dash-2-2/), platformer levels have been added to the game. As a result, the Geometry Dash community have been pushing this new level type to its limits by creating some of the [hardest levels ever made in Geometry Dash](/posts/geometry-dash-levels-what-is-the-hardest-level-ever-made/).
 
-This guide will show you how to access the Geometry Dash platformer Demon List so that you can see all the hardest platformer levels!
+This guide will show you how to access the Geometry Dash Platformer Demon List so that you can see all the hardest platformer levels!
 
 # Table of Contents
 
@@ -34,6 +34,17 @@ This guide will show you how to access the Geometry Dash platformer Demon List s
 
 # Geometry Dash's Hardest Platformer Levels
 
+According to the Geometry Dash Platformer Demon List, the hardest platformer levels in Geometry Dash are:
+
+1. The Abyss
+2. Terminal Heaven
+3. 22 Trials of PAIN
+4. Bouncy Ball
+5. Entrenched
+
 # Geometry Dash Platformer Demon List
 
-The
+The Geometry Dash Platformer Demon List ranks the hardest platformer levels. Both the regular Geometry Dash Platformer Demon List and the Unrated Geometry Dash Platformer Demon List can be found below:
+
+- [Geometry Dash Platformer Demon List](https://www.demonlist.com/platformer/rated)
+- [Unrated Geometry Dash Platformer Demon List (contains unrated levels)](https://www.demonlist.com/platformer/unrated)
