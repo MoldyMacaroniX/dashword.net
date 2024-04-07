@@ -1,9 +1,25 @@
 {% if metadata.isAds and not hideAds %}
-<div class="container">
-<div style="display: flex; justify-content: center; align-items: center;">
-<div style="width: fit-content; height: fit-content;">
-
 <style>
+.close-fixed {
+     font-size: 1.25rem;
+     width: 15px;
+     height: 15px;
+     border-radius: 50%;
+     margin: 5px;
+     padding: 12px;
+     position: fixed;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     z-index: 525;
+     bottom: 75px; /* 0 */
+     right: 0;
+     background-color: var(--bg);
+     color: var(--print);
+     /*box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;*/
+     cursor: pointer;
+     border: 0px;
+}
 .fixed-mobile {
      display: none;
 }
@@ -14,10 +30,40 @@
      .fixed-pc {
           display: none;
      }
+     .close-fixed {
+          bottom: 85px; /* 0 */
+     }
 }
 </style>
 
-<div class="fixed-pc">
+<button onclick="closeFixed()" class="close-fixed" id="close-fixed">
+     <i class="ri-close-fill"></i>
+</button>
+<script>
+     function closeFixed() {
+          try {
+               document.getElementById("fixed-pc").style.display = "none";
+          } catch (e) {
+               console.log("FIXED-PC is missing - this is OK! : " + e);
+          }
+          try {
+               document.getElementById("fixed-mobile").style.display = "none";
+          } catch (e) {
+               console.log("FIXED-MOBILE is missing - this is OK! : " + e);
+          }
+          try {
+               document.getElementById("close-fixed").style.display = "none";
+          } catch (e) {
+               console.log("CLOSE-FIXED is missing - this is NOT OK!!!!!!!!!!!! ALERT!!!!!! : " + e);
+          }
+          document.getElementById("footer").style.paddingBottom = "25px";
+     }
+</script>
+<div class="container">
+<div style="display: flex; justify-content: center; align-items: center;">
+<div style="width: fit-content; height: fit-content;">
+
+<div class="fixed-pc" id="fixed-pc">
      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4971544242804665"
      crossorigin="anonymous"></script>
      <!-- Fixed Wide Big -->
@@ -30,7 +76,7 @@
      </script>
 </div>
 
-<div class="fixed-mobile">
+<div class="fixed-mobile" id="fixed-mobile">
      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4971544242804665"
      crossorigin="anonymous"></script>
      <!-- Fixed Wide Small -->
