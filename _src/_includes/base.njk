@@ -118,36 +118,34 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
 <body onmouseleave="beforeLeave();" id="body">
 
     <script>
-        window.onload = async function() {
-            console.log("Detected Theme: " + barn.get("theme"));
-            if (barn.get("theme") == "system") {
-                setThemeDevice();
-            }
-            if (barn.get("theme") == "light") {
-                setThemeLight();
-            }
-            if (barn.get("theme") == "dark") {
-                setThemeDark();
-            }
-        }
-    </script>
-
-    <script>
-        var bod = document.getElementById("body");
+        var body = document.getElementById("body");
         async function setThemeDevice() {
-            barn.set("theme", "system");
+            localStorage.setItem("theme", "system");
             body.classList.remove("light");
             body.classList.remove("dark");
         }
         async function setThemeLight() {
-            barn.set("theme", "light");
+            localStorage.setItem("theme", "light");
             body.classList.add("light");
             body.classList.remove("dark");
         }
         async function setThemeDark() {
-            barn.set("theme", "dark");
+            localStorage.setItem("theme", "dark");
             body.classList.add("dark");
             body.classList.remove("light");
+        }
+        checkTheme();
+        async function checkTheme() {
+            console.log("Detected Theme: " + localStorage.getItem("theme"));
+            if (localStorage.getItem("theme") == "system") {
+                setThemeDevice();
+            }
+            if (localStorage.getItem("theme") == "light") {
+                setThemeLight();
+            }
+            if (localStorage.getItem("theme") == "dark") {
+                setThemeDark();
+            }
         }
     </script>
 
