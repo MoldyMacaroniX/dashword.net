@@ -754,6 +754,8 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
 
                     {% include 'formats/display-vertical.njk'%}
 
+                    <div style="height: 100px;" id="removeMeWhenNoAd"></div>
+
                 </div>
                 {% endif %}
             </div>
@@ -893,7 +895,7 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
     var bSpace = 20;
     try {
         {% if metadata.isAds and not hideAds %}
-        bSpace = bSpace + 100;
+        bSpace = bSpace + 0; // + 100
         {% else %}
         document.getElementById("footer").style.paddingBottom = "25px";
         {% if article %}document.getElementById("rfloat").style.bottom = "0";{% endif %}

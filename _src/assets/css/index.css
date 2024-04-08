@@ -685,6 +685,13 @@ button.mobile-item {
 
 /* Sidebar Post */
 
+#removeMeWhenNoAd {
+    display: none;
+}
+
+.is-affixed[style] #removeMeWhenNoAd {
+    display: block;
+}
 .post-sidebar {
     margin-top: 25px;
 }
