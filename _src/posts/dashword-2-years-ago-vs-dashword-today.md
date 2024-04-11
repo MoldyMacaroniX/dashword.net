@@ -17,3 +17,5 @@ When Dashword was first launched, it was marketed towards an entirely different 
 We are writing this article to help both our old users and our new users learn about what Dashword was and what Dashword has become. We're proud of the direction this site has taken, even if it wasn't our intention. As such, we want to document our original goal for Dashword in this article, and why we strayed away from that goal.
 
 And by "we," I mostly mean me—Moldy, the founder of this website. As such, from hear on out, I will be saying "I" instead of "we," because the direction this site has taken is mostly due to me.
+
+# The original idea for Dashword
