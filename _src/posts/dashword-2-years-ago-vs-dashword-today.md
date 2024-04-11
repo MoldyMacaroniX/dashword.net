@@ -13,4 +13,4 @@ This very website has a lot of history. While it now mainly serves as a source f
 
 When Dashword was first launched, it was marketed towards an entirely different set of players. So now, when these players hear about Dashword, they imagine it as a dead, forgotten website. But that is far from the case.
 
-We are writing this article to help both our old users and our new users learn about what Dashword was and what Dashword has become. We're proud of the direction this site has taken, even if it wasn't our intention. As such, we want to document this.
+We are writing this article to help both our old users and our new users learn about what Dashword was and what Dashword has become. We're proud of the direction this site has taken, even if it wasn't our intention. As such, we want to document our original goal for Dashword in this article, and why we strayed away from that goal.
