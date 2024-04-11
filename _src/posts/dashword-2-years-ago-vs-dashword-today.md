@@ -1,5 +1,6 @@
 ---
-title: Dashword 2 Years Ago Vs Dashword Today
+title: "Dashword 2 Years Ago Vs Dashword Today: Why We Strayed Away From Our
+  Original Goal"
 desc: a
 date: 2024-04-11T19:35:36.362Z
 tags:
