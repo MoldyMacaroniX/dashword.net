@@ -8,8 +8,8 @@ tags:
   - featured
   - list
 author: moldy
-image: https://camo.githubusercontent.com/dc5b185e63954ed73001bc85df168e3f62164302ed4ae440aae1322371e63549/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3832323531373336303730363435333535342f3833323730353837333034313934383734332f756e6b6e6f776e2e706e673f77696474683d31323435266865696768743d373031
-imageSource: https://github.com/HJfod/HJfod
+image: https://staticdelivery.nexusmods.com/mods/4306/images/thumbnails/4/4-1665625877-474078636.png
+imageSource: https://www.nexusmods.com/geometrydash
 ---
 Geometry Dash is a good game, but there are some things that are mildly annoying. Whether that's with the game's level editor, menus, or features, there are things that could use some improving.
 
