@@ -8,8 +8,8 @@ tags:
   - featured
   - "2.2"
 author: moldy
-image: https://i.ytimg.com/vi/8VaF3akb4Lk/maxresdefault.jpg
-imageSource: https://youtu.be/8VaF3akb4Lk?si=gHoCsTgFtLoUIfXp
+image: https://i.ytimg.com/vi/LhaNL2PUe4I/maxresdefault.jpg
+imageSource: https://youtu.be/LhaNL2PUe4I?si=MDpHsQcGH920JVa5
 affiliateLinks: false
 hideAds: false
 ---
