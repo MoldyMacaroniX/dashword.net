@@ -7,6 +7,7 @@ desc: Mega Hack is a Geometry Dash mod by Absolute. The latest version is Mega
 date: 2024-03-15T22:26:18.833Z
 tags:
   - guide
+  - mods
 author: moldy
 image: https://i.ytimg.com/vi/akQWW_Pk7Ns/maxresdefault.jpg
 imageSource: https://youtu.be/akQWW_Pk7Ns?si=gfWpzNgyGZdWpqVQ
