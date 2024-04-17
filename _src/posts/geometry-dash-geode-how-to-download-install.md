@@ -42,4 +42,4 @@ After downloading and installing Geode for Geometry Dash, we recommend installin
 2. [BetterEdit](/posts/5-must-have-geometry-dash-mods-that-you-need-right-now/#better-edit), a Geometry Dash editor improvement mod,
 3. [BetterInfo](/posts/5-must-have-geometry-dash-mods-that-you-need-right-now/#better-info), a mod that improves Geometry Dash by adding a lot of new customization options.
 
-For a complete list of mods we recommend, check out these [10 best Geometry Dash mods for Geode]().
+For a complete list of mods we recommend, check out these [10 best Geometry Dash mods for Geode](https://youtu.be/kj9xBTkEnsk?si=sP1q_poA5BTzqUel).
