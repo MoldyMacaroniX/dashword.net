@@ -1,7 +1,9 @@
 ---
 pageSlug: best-geometry-dash-mods-for-geode
 title: 7 Best Geometry Dash Mods For Geode
-desc: a
+desc: There are hundreds of Geometry Dash Geode mods available. Ever since the
+  Geometry Dash mod loader Geode released, modders have made countless Geometry
+  Dash mods to improve your experience in the game.
 date: 2024-04-17T21:42:23.013Z
 tags:
   - list
@@ -33,7 +35,7 @@ Globed is one of the most popular Geometry Dash mods and has thousands of active
 
 # 2. BetterEdit
 
-![BetterEdit interface.](https://preview.redd.it/36x7zpl9mrab1.jpg?vthumb=1&s=54f161a31d145afddf4ba559326b2c88b4257d24)
+![BetterEdit user interface.](https://preview.redd.it/36x7zpl9mrab1.jpg?vthumb=1&s=54f161a31d145afddf4ba559326b2c88b4257d24)
 
 [BetterEdit](https://geode-sdk.org/mods/hjfod.betteredit/) is a Geometry Dash mod for Geode that improves the level editor. With it, you can make great levels much faster.
 
@@ -47,3 +49,9 @@ BetterEdit includes many features, including:
 
 
 *Image credit: [Mysteriousshowdown](https://www.reddit.com/r/geometrydash/comments/14u89jz/so_i_just_installed_better_edit_but_its_breaking/).*
+
+# 3. BetterInfo
+
+![BetterInfo user interface.](https://i.ytimg.com/vi/pe_Jn3_wdvU/maxresdefault.jpg)
+
+*Image credit: [Cvolton](https://youtu.be/pe_Jn3_wdvU?si=VNBm4sTmGlF6Iyni).*
