@@ -6,6 +6,7 @@ desc: Globed is a Geometry Dash multiplayer mod for Geode that allows you to
 date: 2024-03-03T07:07:47.900Z
 tags:
   - guide
+  - mods
   - featured
 author: moldy
 image: https://i.ytimg.com/vi/Q3pjd1t9Ju0/maxresdefault.jpg
