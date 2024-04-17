@@ -369,9 +369,10 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
             <a href="/categories/2.2/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> 2.21 <div class="news-chip">New</div></a>
             <a href="/categories/news/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> News</a>
             <a href="/categories/demonlist/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> Demonlist</a>
+            <a href="/categories/mods/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> Mods</a>
             <a href="/categories/guide/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> Guide</a>
-            <a href="/quizzes/" class="mobile-item categ"><i class="ri-price-tag-3-fill"></i> Quizzes</a>
             <div class="divider"></div>
+            <a href="/quizzes/" class="mobile-item"><i class="ri-flask-fill"></i> Quizzes</a>
             <a href="/courses/" class="mobile-item"><i class="ri-file-list-3-fill"></i> Courses</a>
             <a href="/podcast/" class="mobile-item"><i class="ri-mic-fill"></i> Podcast</a>
             <a href="/categories/" class="mobile-item"><i class="ri-price-tag-3-fill"></i> Categories</a>
@@ -464,6 +465,28 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
                         </div>
 
                         <div class="megamenu">
+                            <a href="/categories/mods/" class="item">Mods <i class="ri-arrow-down-s-line"></i></a>
+                            <div class="megamenu-content">
+                                <div class="container cols">
+                                    {% for post in collections[ "mods" ] | reverse | head(4) %}
+                                    <div class="col">
+                                        <div class="post-sidebar">
+                                            <a class="image" href="{{ post.url }}">
+                                                <div class="aspect">
+                                                    <img src="{{ post.data.image | url }}" alt="">
+                                                </div>
+                                            </a>
+                                            <div class="content col">
+                                                <a href="{{ post.url }}" class="title" style="text-transform: capitalize">{% if post.data.title %}{{ post.data.title }}{% else %}No post title provided{% endif %}</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    {% endfor %}
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="megamenu">
                             <a href="/categories/guide/" class="item">Guide <i class="ri-arrow-down-s-line"></i></a>
                             <div class="megamenu-content">
                                 <div class="container cols">
@@ -485,7 +508,7 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
                             </div>
                         </div>
 
-                        <div class="megamenu">
+                        {# <div class="megamenu">
                             <a href="/quizzes/" class="item">Quizzes <i class="ri-arrow-down-s-line"></i></a>
                             <div class="megamenu-content">
                                 <div class="container cols">
@@ -505,7 +528,7 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
                                     {% endfor %}
                                 </div>
                             </div>
-                        </div>
+                        </div> #}
 
                         {# <div class="megamenu">
                             <a href="/categories/opinion/" class="item">More <i class="ri-arrow-down-s-line"></i></a>
