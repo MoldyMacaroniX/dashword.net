@@ -6,8 +6,9 @@ desc: There are hundreds of Geometry Dash Geode mods available. Ever since the
   Dash mods to improve your experience in the game.
 date: 2024-04-17T21:42:23.013Z
 tags:
-  - list
   - guide
+  - mods
+  - featured
 author: moldy
 image: https://pbs.twimg.com/media/GLG5UoeXIAAg6De?format=jpg&name=medium
 imageSource: https://twitter.com/KibaGD/status/1779407206892355872
@@ -16,12 +17,15 @@ hideAds: false
 ---
 There are hundreds of Geometry Dash Geode mods available. Ever since the Geometry Dash mod loader Geode released, modders have made countless Geometry Dash mods to improve your experience in the game.
 
-From adding editor improvement mods to making an entire multiplayer system, Geode has many Geometry Dash mods for you to use. So here are the 7 best Geometry Dash Geode mods for you to try.
+From adding editor improvement mods to making an entire multiplayer system, Geode has many [Geometry Dash mods](/categories/mods/) for you to use. So here are the 7 best Geometry Dash Geode mods for you to try.
+
+If you need help, [here is how to download and install Geode](/posts/geometry-dash-geode-how-to-download-and-install/).
 
 # Table of contents
 
 1. [Globed](#1.-globed)
 2. [BetterEdit](#2.-betteredit)
+3.
 
 # 1. Globed
 
