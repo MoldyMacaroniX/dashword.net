@@ -7,6 +7,7 @@ desc: Geometry Dash Mega Hack Mobile is a mobile port of Absolute's popular
 date: 2023-03-23T23:07:12.407Z
 tags:
   - news
+  - mods
   - featured
 author: moldy
 image: https://img.youtube.com/vi/pZNodeYQGRc/maxresdefault.jpg
