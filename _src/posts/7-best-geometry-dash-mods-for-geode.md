@@ -25,7 +25,7 @@ If you need help, [here is how to download and install Geode](/posts/geometry-da
 
 1. [Globed](#1.-globed)
 2. [BetterEdit](#2.-betteredit)
-3.
+3. [BetterInfo](#3.-betterinfo)
 
 # 1. Globed
 
