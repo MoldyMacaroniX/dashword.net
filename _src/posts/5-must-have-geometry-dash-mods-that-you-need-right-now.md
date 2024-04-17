@@ -9,8 +9,8 @@ tags:
   - list
   - mods
 author: moldy
-image: https://staticdelivery.nexusmods.com/mods/4306/images/thumbnails/4/4-1665625877-474078636.png
-imageSource: https://www.nexusmods.com/geometrydash
+image: https://preview.redd.it/i-downloaded-a-mod-but-nothing-changed-v0-74sslt0h4omb1.png?width=1080&crop=smart&auto=webp&s=6bcca0274daa935d720565d0751def7282afe3e9
+imageSource: https://www.reddit.com/r/geometrydash/comments/16bpxuc/i_downloaded_a_mod_but_nothing_changed/
 ---
 Geometry Dash is a good game, but there are some things that are mildly annoying. Whether that's with the game's level editor, menus, or features, there are things that could use some improving.
 
