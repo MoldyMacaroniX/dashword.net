@@ -7,6 +7,7 @@ desc: Geode is a Geometry Dash mod loader for version 2.2 of the game. It
 date: 2024-04-17T06:35:02.271Z
 tags:
   - guide
+  - mods
   - featured
 author: moldy
 image: https://img.youtube.com/vi/2r-YvkBtpto/maxresdefault.jpg
