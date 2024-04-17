@@ -34,5 +34,8 @@
     },
     "2.3": {
         "desc":"The latest Geometry Dash 2.3 news. From 2.3 leaks, previews, and guides, anything RobTop reveals will be covered here."
+    },
+    "mods": {
+        "desc":"Discover the latest and greatest Geometry Dash mods for Geode, Mega Hack, and other mod loaders."
     }
 }
