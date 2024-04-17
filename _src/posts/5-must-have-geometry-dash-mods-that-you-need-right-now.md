@@ -7,6 +7,7 @@ date: 2022-11-13T06:19:11.281Z
 tags:
   - featured
   - list
+  - mods
 author: moldy
 image: https://staticdelivery.nexusmods.com/mods/4306/images/thumbnails/4/4-1665625877-474078636.png
 imageSource: https://www.nexusmods.com/geometrydash
