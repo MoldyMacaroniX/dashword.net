@@ -8,6 +8,7 @@ date: 2024-04-17T21:42:23.013Z
 tags:
   - guide
   - mods
+  - list
   - featured
 author: moldy
 image: https://pbs.twimg.com/media/GLG5UoeXIAAg6De?format=jpg&name=medium
