@@ -16,10 +16,27 @@ a
 
 # 1. Globed
 
-## A multiplayer mod for Geometry Dash
-
 ![Globed players playing Nine Circles.](https://i.ytimg.com/vi/mLvaB2d_z8A/maxresdefault.jpg)
 
-*Globed players playing Nine Circles, image from [dest1ny](https://youtu.be/mLvaB2d_z8A?si=XxhRQEj88YUX_PC7).*
-
 [Globed](https://geode-sdk.org/mods/dankmeme.globed2/) is one of the best Geode mods for Geometry Dash. It adds multiplayer servers to Geometry Dash, allowing you to join any server and see hundreds of other players in levels.
+
+Globed is one of the most popular Geometry Dash mods and has thousands of active players at any given moment. You can [use this link to learn how to install Globed](/posts/geometry-dash-multiplayer-how-to-download-and-install/).
+
+*Image credit: [dest1ny](https://youtu.be/mLvaB2d_z8A?si=XxhRQEj88YUX_PC7).*
+
+# 2. BetterEdit
+
+![BetterEdit interface.](https://preview.redd.it/36x7zpl9mrab1.jpg?vthumb=1&s=54f161a31d145afddf4ba559326b2c88b4257d24)
+
+[BetterEdit](https://geode-sdk.org/mods/hjfod.betteredit/) is a Geometry Dash mod for Geode that improves the level editor. With it, you can make great levels much faster.
+
+BetterEdit includes many features, including:
+
+- Better color selection menu
+- Better font selection menu
+- Scroll wheel improvements
+- Manually change the Grid size
+- Set offset for Group IDs in Next Free
+
+
+*Image credit: [Mysteriousshowdown](https://www.reddit.com/r/geometrydash/comments/14u89jz/so_i_just_installed_better_edit_but_its_breaking/).*
