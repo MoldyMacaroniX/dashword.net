@@ -1,5 +1,5 @@
 ---
-title: All Geometry Dash Websites - Big & Small
+title: 6 Geometry Dash Websites & How Big They Are
 desc: There are many Geometry Dash websites, including the Pointercrate Demon
   List, Geometry Dash Demon Progression, GDBrowser, MyDemonlist, and more!
 date: 2022-12-11T08:39:24.864Z
