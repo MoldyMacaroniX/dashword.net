@@ -14,7 +14,7 @@ hideAds: false
 ---
 The Geometry Dash Click Between Frames mod is said to revolutionize the game. According to top players, this Geode mod makes playing Geometry Dash so much easier and very satisfying.
 
-The Click Between Frames mod is available on the Geode mod loader. This guide will go over how to download and install the Geometry Dash Click Between Frames mod using Geode.
+The Click Between Frames mod is available on the Geode mod loader. This [Geometry Dash guide](/categories/guide/) will go over how to download and install the Click Between Frames mod using Geode.
 
 # Table of contents
 
