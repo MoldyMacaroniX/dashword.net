@@ -1,5 +1,5 @@
 ---
-title: How to Improve Geometry Dash's Triggers
+title: How To Improve Geometry Dash's Triggers
 desc: Here's how some of Geometry Dash's triggers can be improved to save you
   time and make your effects easier to achieve.
 date: 2022-03-08
@@ -11,13 +11,15 @@ image: https://i.imgur.com/xcTrpF1.jpeg
 videoID: iCdgShauKQI
 ---
 
-Geometry Dash's triggers are some amazing tools, allowing creators to build some amazing works of art in the editor. But anyone who's tried to become more advanced in their trigger use knows that you can get lost in a sea of triggers when creating some of the more exceptional effects. I'm going to break down some ways GD's triggers can be improved so that creators can more efficiently design what they want without the headache of tedious trigger logic.
+Geometry Dash's triggers are some amazing tools, allowing creators to build some amazing works of art in the editor. But anyone who's tried to become more advanced in their trigger use knows that you can get lost in a sea of triggers when creating some of the more exceptional effects.
+
+I'm going to break down some ways Geometry Dash's triggers can be improved so that creators can more efficiently design what they want without the headache of tedious trigger logic.
 
 # Spawn Trigger
 
 One thing all triggers need is a delay parameter. That is, a number which delays the execution of a trigger for a specified amount of time. Now, this was kind of already the purpose of the spawn trigger. The spawn trigger is great if you want to delay a group or triggers, but if you're only delaying one trigger, using a whole spawn trigger seems like a waste. It makes editing faster if you don't have to go into a separate trigger to change a single delay time variable.
 
-Speaking of the spawn trigger, that needs an upgrade as well. While spawns, on the surface, are just a delay trigger, stringing a sequence of spawn triggers together can allow you to create loops. These loops are crucial for levels with non-GD gameplay, such as Serponge's Altergames and other minigames. The thing with spawn loops is that you need as many spawn triggers as groups you're looping through. If you're looping through 10 groups, you need at least 10 spawn triggers. This is because the spawn trigger can only call one group.
+Speaking of the spawn trigger, that needs an upgrade as well. While spawns, on the surface, are just a delay trigger, stringing a sequence of spawn triggers together can allow you to create loops. These loops are crucial for levels with non-Geometry Dash gameplay, such as Serponge's Altergames and other minigames. The thing with spawn loops is that you need as many spawn triggers as groups you're looping through. If you're looping through 10 groups, you need at least 10 spawn triggers. This is because the spawn trigger can only call one group.
 
 The obvious fix for this would be to have the spawn trigger call multiple groups. If the trigger could call multiple groups and set the delays for each one, it'd essentially function as multiple spawn triggers. Add a simple loop button and your loop is ready! For bonus points, RobTop could add a value for how many times you want to loop so you don't have to introduce all the pickup and count triggers, and the item ID system.
 
@@ -41,7 +43,7 @@ The pulse trigger doesn't override those, and in fact, once you set them in the 
 
 # Move Trigger
 
-Last for today will be the move trigger. There is just so much potential for it, but I'll cover just one improvement. If you've ever tried to use move triggers with rotate triggers, you know it can be a nightmare. Just look at Jezor's [Most Tedious Effects In GD](https://youtu.be/QuIeQwK32NI) video to see the hundreds of triggers used for an effect using the two types of triggers.
+Last for today will be the move trigger. There is just so much potential for it, but I'll cover just one improvement. If you've ever tried to use move triggers with rotate triggers, you know it can be a nightmare. Just look at Jezor's [Most Tedious Effects In Geometry Dash](https://youtu.be/QuIeQwK32NI) video to see the hundreds of triggers used for an effect using the two types of triggers.
 
 The reason move and rotate triggers don't work well together is because all their movements stack on top of one another. This stacking is actually incredibly useful for the most part, but this is one time where it's a hindrance. To paint a clearer picture, if you have an object rotating around a target and you use the "use target" option in the move trigger to move the object towards the target, the object will miss the target. While the object moves, the rotate is still in effect and effectively offsets the object to where it's no longer heading in the right direction.
 
