@@ -1,12 +1,14 @@
 ---
-title: "How to Improve Geometry Dash's Triggers"
-desc: "Here's how some of Geometry Dash's triggers can be improved to save you time and make your effects easier to achieve."
-image: https://i.imgur.com/xcTrpF1.jpeg
+title: How to Improve Geometry Dash's Triggers
+desc: Here's how some of Geometry Dash's triggers can be improved to save you
+  time and make your effects easier to achieve.
 date: 2022-03-08
 tags:
-    - featured
-    - video
+  - featured
+  - video
 author: omegafalcon
+image: https://i.imgur.com/xcTrpF1.jpeg
+videoID: iCdgShauKQI
 ---
 
 Geometry Dash's triggers are some amazing tools, allowing creators to build some amazing works of art in the editor. But anyone who's tried to become more advanced in their trigger use knows that you can get lost in a sea of triggers when creating some of the more exceptional effects. I'm going to break down some ways GD's triggers can be improved so that creators can more efficiently design what they want without the headache of tedious trigger logic.
@@ -46,11 +48,5 @@ The reason move and rotate triggers don't work well together is because all thei
 Now, RobTop doesn't have to implement a whole parent-child system to have the object move relative to its parent. A simpler option would be to have the move trigger recalculate the move direction. That way, the object is updated to always move towards the target, even while it is rotating. And boom, a whole field of effects combining the move and rotate triggers is unleashed to creators!
 
 # Conclusion
-
-More trigger improvement suggestions are discussed in this video.
-
-{% video %}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iCdgShauKQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-{% endvideo %}
 
 RobTop usually adds new triggers to suit his own creative needs while working on new updates, so he's clearly not creating all these effects or I'm sure he'd have implemented these features already. RobTop said he'd be taking more community requests post 2.2, so we have a chance for these ideas to be heard. Fingers crossed!
