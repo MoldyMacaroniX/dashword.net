@@ -30,6 +30,7 @@ If you need help, [here is how to download and install Geode](/posts/geometry-da
 4. [Better Progression](#4.-better-progression)
 5. [YouTubers](#5.-youtubers)
 6. [Integrated Demonlist](#6.-integrated-demonlist)
+7. [Level Thgumbnails](#7.-level-thumbnails)
 
 # 1. Globed
 
@@ -109,4 +110,12 @@ The mod also adds a lot of filters for searching for extreme demons in the Demon
 
 *Image credit: [Internet Archive](https://archive.org/details/www.pointercrate.comdemonlist).*
 
-# 7.
+# 7. Level Thumbnails
+
+![Level thumbnails shown on levels page.](https://pbs.twimg.com/media/GIdAQZ_akAA9YdS.jpg:large)
+
+[Level Thumbnails](https://geode-sdk.org/mods/cdc.level_thumbnails/) is a popular Geometry Dash Geode mod that gives levels unique thumbnails that are displayed in search results. To make your Geometry Dash browsing experience so much better, we recommend this mod.
+
+Do note that not every level has a thumbnail yet. But as time goes on, more and more levels will recieve thumbnails.
+
+*Image credit: [Sdslayer](https://twitter.com/sdslayer100/status/1767452202019537028).*
