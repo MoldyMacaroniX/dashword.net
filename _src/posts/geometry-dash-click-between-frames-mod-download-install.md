@@ -24,7 +24,7 @@ The Click Between Frames mod is available on the Geode mod loader. This [Geometr
 
 # What the Geometry Dash Click Between Frames mod does
 
-Click Between Frames is a Geometry Dash mod that improves input precision by allowing your clicks to register between visual frames.
+Click Between Frames is a [Geometry Dash mod](/categories/mods/) that improves input precision by allowing your clicks to register between visual frames.
 
 This is especially helpful when playing with low frame rates like 60 FPS.
 
