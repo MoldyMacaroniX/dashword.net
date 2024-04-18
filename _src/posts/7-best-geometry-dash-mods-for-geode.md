@@ -27,6 +27,7 @@ If you need help, [here is how to download and install Geode](/posts/geometry-da
 1. [Globed](#1.-globed)
 2. [BetterEdit](#2.-betteredit)
 3. [BetterInfo](#3.-betterinfo)
+4. [Better Progression](#4.-better-progression)
 
 # 1. Globed
 
@@ -87,3 +88,5 @@ BetterEdit includes the following features:
 Better Progression adds custom badges that you can unlock and publicly display on your profile for others to see, a custom experience bar that appears when you beat a rated level, and a new animation when you level up.
 
 *Image credit: [ItzKiba](https://twitter.com/KibaGD/status/1779407206892355872).*
+
+# 5. 
