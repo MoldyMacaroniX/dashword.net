@@ -77,3 +77,13 @@ BetterEdit includes the following features:
 - Daily/weekly level history
 
 *Image credit: [Cvolton](https://youtu.be/pe_Jn3_wdvU?si=VNBm4sTmGlF6Iyni).*
+
+# 4. Better Progression
+
+![Better Progression tiers.](https://pbs.twimg.com/media/GLG5UoeXIAAg6De?format=jpg&name=medium)
+
+[Better Progression](https://geode-sdk.org/mods/itzkiba.better_progression/) adds a better achievement system to Geometry Dash. This Geode mod introduces a level and experience system where you can level up to to unlock new badges.
+
+Better Progression adds custom badges that you can unlock and publicly display on your profile for others to see, a custom experience bar that appears when you beat a rated level, and a new animation when you level up.
+
+*Image credit: [ItzKiba](https://twitter.com/KibaGD/status/1779407206892355872).*
