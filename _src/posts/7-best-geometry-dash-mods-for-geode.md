@@ -86,7 +86,7 @@ BetterEdit includes the following features:
 
 ![Better Progression tiers.](https://pbs.twimg.com/media/GLG5UoeXIAAg6De?format=jpg&name=medium)
 
-[Better Progression](https://geode-sdk.org/mods/itzkiba.better_progression/) adds a better achievement system to Geometry Dash. This Geode mod introduces a level and experience system where you can level up to to unlock new badges.
+[Better Progression](https://geode-sdk.org/mods/itzkiba.better_progression/) adds a better achievement system to Geometry Dash. This Geode mod introduces a level and experience system where you can level up to unlock new badges.
 
 Better Progression adds custom badges that you can unlock and publicly display on your profile for others to see, a custom experience bar that appears when you beat a rated level, and a new animation when you level up.
 
