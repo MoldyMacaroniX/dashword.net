@@ -10,7 +10,6 @@ date: 2024-04-03T20:08:43.057Z
 tags:
   - demonlist
   - guide
-  - list
   - "2.2"
   - featured
 author: moldy

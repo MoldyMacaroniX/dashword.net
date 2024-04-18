@@ -5,7 +5,6 @@ desc: Geometry Dash top 1 extreme demons are hard, but what is the most
 date: 2022-10-31T19:09:45.486Z
 tags:
   - demonlist
-  - list
   - featured
 author: moldy
 image: https://i.ytimg.com/vi/voyyOupL0lI/maxresdefault.jpg
