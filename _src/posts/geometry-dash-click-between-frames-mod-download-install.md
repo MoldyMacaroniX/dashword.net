@@ -12,7 +12,7 @@ imageSource: https://youtu.be/xO7kPl7OSS8?si=ZWAKbCLmISUunfCt
 affiliateLinks: false
 hideAds: false
 ---
-a
+The Geometry Dash Click Between Frames mod is said to revolutionize the game. According to top players, this Geode mod makes playing Geometry Dash so much easier and very satisfying.
 
 # Table of contents
 
