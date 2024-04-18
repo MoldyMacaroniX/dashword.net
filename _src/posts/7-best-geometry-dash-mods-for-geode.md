@@ -29,6 +29,7 @@ If you need help, [here is how to download and install Geode](/posts/geometry-da
 3. [BetterInfo](#3.-betterinfo)
 4. [Better Progression](#4.-better-progression)
 5. [YouTubers](#5.-youtubers)
+6. [Integrated Demonlist](#6.-integrated-demonlist)
 
 # 1. Globed
 
@@ -97,3 +98,15 @@ Better Progression adds custom badges that you can unlock and publicly display o
 The [YouTubers](https://geode-sdk.org/mods/xanii.youtubers/) mod for Geode adds a new verified badge for famous Geometry Dash players, including YouTubers. Since many Geometry Dash YouTubers sometimes have different usernames in-game, this mod is essential for recognizing your favorite YouTubers in the game.
 
 *Image credit: [Xanii](https://twitter.com/_Xanii_/status/1754072452286607716).*
+
+# 6. Integrated Demonlist
+
+![Geometry Dash Demon List website.](https://archive.org/download/www.pointercrate.comdemonlist/Geometry%20Dash%20Demonlist%20and%202%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%203_11_2022%2010_00_17%20PM.png)
+
+[Integrated Demonlist](https://geode-sdk.org/mods/hiimjustin000.integrated_demonlist/) adds the [Geometry Dash Demon List](/categories/demonlist/) in-game. If you've ever wanted to browse the Geometry Dash Demon List directly from the game, this mod is essential.
+
+The mod also adds a lot of filters for searching for extreme demons in the Demon List and seeing a level's ranking on the list.
+
+*Image credit: [Internet Archive](https://archive.org/details/www.pointercrate.comdemonlist).*
+
+# 7.
