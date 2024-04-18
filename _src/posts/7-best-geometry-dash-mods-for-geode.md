@@ -30,7 +30,7 @@ If you need help, [here is how to download and install Geode](/posts/geometry-da
 4. [Better Progression](#4.-better-progression)
 5. [YouTubers](#5.-youtubers)
 6. [Integrated Demonlist](#6.-integrated-demonlist)
-7. [Level Thgumbnails](#7.-level-thumbnails)
+7. [Level Thumbnails](#7.-level-thumbnails)
 
 # 1. Globed
 
