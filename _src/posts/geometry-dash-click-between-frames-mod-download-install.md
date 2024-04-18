@@ -18,6 +18,7 @@ a
 
 1. [What the Geometry Dash Click Between Frames mod does](#what-the-geometry-dash-click-between-frames-mod-does)
 2. [How to download and install the Geometry Dash Click Between Frames mod](#how-to-download-the-geometry-dash-click-between-frames-mod)
+3. [How to use the Geometry Dash Click Between Frames mod](#how-to-use-the-geometry-dash-click-between-frames-mod)
 
 # What the Geometry Dash Click Between Frames mod does
 
