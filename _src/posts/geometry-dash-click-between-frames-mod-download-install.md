@@ -38,3 +38,7 @@ This is especially helpful when playing with low frame rates like 60 FPS.
 If you need help with the first step, [follow this guide to download and install Geode](/posts/geometry-dash-geode-how-to-download-and-install/).
 
 # How to use the Geometry Dash Click Between Frames mod
+
+You can change your keybinds in the Geometry Dash options menu by pressing the **Keys** button in the top right corner. To enable right click input, use the Click Between Frames mod options menu.
+
+This mod is recommended to use with a **Physics Bypass** mod enabled and set to any FPS such as 60, 80, 120, 240.
