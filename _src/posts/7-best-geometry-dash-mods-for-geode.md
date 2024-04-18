@@ -96,7 +96,7 @@ Better Progression adds custom badges that you can unlock and publicly display o
 
 ![YouTubers verified badge.](https://pbs.twimg.com/media/GFe3mRxW4AAkVyP?format=jpg&name=large)
 
-The [YouTubers](https://geode-sdk.org/mods/xanii.youtubers/) mod for Geode adds a new verified badge for famous Geometry Dash players, including YouTubers. Since many Geometry Dash YouTubers sometimes have different usernames in-game, this mod is essential for recognizing your favorite YouTubers in the game.
+The [YouTubers](https://geode-sdk.org/mods/xanii.youtubers/) mod for Geode adds a new verified badge for famous Geometry Dash players, including YouTubers. Since many Geometry Dash YouTubers sometimes have different usernames in the game, this mod is essential for recognizing your favorite YouTubers in Geometry Dash.
 
 *Image credit: [Xanii](https://twitter.com/_Xanii_/status/1754072452286607716).*
 
