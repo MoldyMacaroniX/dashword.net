@@ -1,5 +1,5 @@
 ---
-title: "The Most Popular Geometry Dash YouTube Trends in 2021"
+title: "4 Historic Geometry Dash YouTube Trends"
 desc: "GD YouTube went through vast changes in 2021, at such a fast rate that you may have missed some of the trends that occurred. In this article, I'm going to cover four of these trends."
 image: https://i.imgur.com/cg13isN.jpeg
 date: 2022-03-12
