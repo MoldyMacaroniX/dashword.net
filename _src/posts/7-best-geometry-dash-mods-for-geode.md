@@ -59,4 +59,21 @@ BetterEdit includes many features, including:
 
 ![BetterInfo user interface.](https://i.ytimg.com/vi/pe_Jn3_wdvU/maxresdefault.jpg)
 
+[BetterInfo](https://geode-sdk.org/mods/cvolton.betterinfo/) is a Geometry Dash Geode mod that adds many features to Geometry Dash. This will allow you to browse Geometry Dash with much more ease.
+
+BetterEdit includes the following features:
+
+- More filters
+- Profiles for unregistered users
+- Extended level info
+- More search options
+- Better progress tracking
+- Fix green user usernames
+- Jump to page for comments
+- Uncapped jump to page for levels
+- View level comments for deleted levels
+- IDs visible at first glance
+- Daily chest history
+- Daily/weekly level history
+
 *Image credit: [Cvolton](https://youtu.be/pe_Jn3_wdvU?si=VNBm4sTmGlF6Iyni).*
