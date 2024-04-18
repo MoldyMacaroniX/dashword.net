@@ -13,3 +13,9 @@ affiliateLinks: false
 hideAds: false
 ---
 a
+
+# What the Geometry Dash Click Between Frames mod does
+
+# How to download and install the Geometry Dash Click Between Frames mod
+
+# How to use the Geometry Dash Click Between Frames mod
