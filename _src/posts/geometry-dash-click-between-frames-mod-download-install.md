@@ -35,4 +35,6 @@ This is especially helpful when playing with low frame rates like 60 FPS.
 3. Search for the Click Between Frames mod and install it.
 4. Restart Geometry Dash.
 
+If you need help with the first step, [follow this guide to download and install Geode](/posts/geometry-dash-geode-how-to-download-and-install/).
+
 # How to use the Geometry Dash Click Between Frames mod
