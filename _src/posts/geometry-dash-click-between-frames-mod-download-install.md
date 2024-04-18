@@ -41,4 +41,4 @@ If you need help with the first step, [follow this guide to download and install
 
 You can change your keybinds in the Geometry Dash options menu by pressing the **Keys** button in the top right corner. To enable right click input, use the Click Between Frames mod options menu.
 
-This mod is recommended to use with a **Physics Bypass** mod enabled and set to any FPS such as 60, 80, 120, 240.
+This mod is recommended to use with a **Physics Bypass** mod enabled and set to any FPS such as 60, 80, 120, 240. [Mega Hack](/posts/geometry-dash-mega-hack-how-to-download-and-install/) includes a Physics Bypass mod.
