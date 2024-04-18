@@ -1,13 +1,17 @@
 ---
-title: "What Could A Post-2.2 RobTop Games Look Like?"
-desc: "With Geometry Dash 2.2 on the horizon, it seems that RobTop could take on more developers to enable updates to release faster. Here are the best names for the team."
-image: https://i.imgur.com/2QlLeZU.jpg
+title: 4 Geometry Dash Players Who Could Join RobTop Games
+desc: With Geometry Dash 2.2 on the horizon, it seems that RobTop could take on
+  more developers to enable updates to release faster. Here are the best names
+  for the team.
 date: 2022-02-04
 tags: list
 author: airplaneniner
+image: https://i.imgur.com/2QlLeZU.jpg
 ---
 
-The Geometry Dash community has waited over 5 years for update 2.2, and many blame RobTop for issues such as laziness, or adding too much to the update and not knowing when to stop. RobTop has provided apologies for the long wait, and explained his interest in potentially hiring game developers to RobTop Games, his company. This is to make new updates like 2.3 or 2.4 come out faster. But what could this new RobTop Games look like? Who would be the best names behind it? In this article, we take a look at some of the best candidates for a post-2.2 RobTop Games.
+The Geometry Dash community has waited over 5 years for update 2.2, and many blame RobTop for issues such as laziness, or adding too much to the update and not knowing when to stop. RobTop has provided apologies for the long wait, and explained his interest in potentially hiring game developers to RobTop Games, his company.
+
+This is to make new updates like 2.3 or 2.4 come out faster. But what could this new RobTop Games look like? Who would be the best names behind it? In this article, we take a look at some of the best candidates for a post-2.2 RobTop Games.
 
 # Colon
 
