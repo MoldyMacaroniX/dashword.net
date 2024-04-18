@@ -28,6 +28,7 @@ If you need help, [here is how to download and install Geode](/posts/geometry-da
 2. [BetterEdit](#2.-betteredit)
 3. [BetterInfo](#3.-betterinfo)
 4. [Better Progression](#4.-better-progression)
+5. [YouTubers](#5.-youtubers)
 
 # 1. Globed
 
@@ -89,4 +90,10 @@ Better Progression adds custom badges that you can unlock and publicly display o
 
 *Image credit: [ItzKiba](https://twitter.com/KibaGD/status/1779407206892355872).*
 
-# 5. 
+# 5. YouTubers
+
+![YouTubers verified badge.](https://pbs.twimg.com/media/GFe3mRxW4AAkVyP?format=jpg&name=large)
+
+The [YouTubers](https://geode-sdk.org/mods/xanii.youtubers/) mod for Geode adds a new verified badge for famous Geometry Dash players, including YouTubers. Since many Geometry Dash YouTubers sometimes have different usernames in-game, this mod is essential for recognizing your favorite YouTubers in the game.
+
+*Image credit: [Xanii](https://twitter.com/_Xanii_/status/1754072452286607716).*
