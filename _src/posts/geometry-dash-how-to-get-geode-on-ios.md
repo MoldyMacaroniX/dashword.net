@@ -7,8 +7,8 @@ tags:
   - mods
   - guide
 author: dashword
-image: https://preview.redd.it/what-is-your-opinion-about-geode-v0-tblkh84aw9hc1.png?auto=webp&s=42f780482cdfe40841dfc1c634089b52422aa752
-imageSource: https://www.reddit.com/r/geometrydash/comments/1alkzhc/what_is_your_opinion_about_geode/
+image: https://i.ytimg.com/vi/EG-b0knEVnw/maxresdefault.jpg
+imageSource: https://youtu.be/EG-b0knEVnw?si=A2B687hQAw7dZGh6
 affiliateLinks: false
 hideAds: false
 ---
