@@ -12,4 +12,4 @@ imageSource: https://youtu.be/EG-b0knEVnw?si=A2B687hQAw7dZGh6
 affiliateLinks: false
 hideAds: false
 ---
-a
+Geode is a Geometry Dash mod loader for installing mods such as [Globed](/posts/geometry-dash-multiplayer-how-to-download-and-install/). While installing it on most platforms is easy, iOS users have been baffled by the lack of iOS support.
