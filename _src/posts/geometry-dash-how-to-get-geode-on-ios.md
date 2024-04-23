@@ -32,3 +32,5 @@ In specific, a Geode developer clarified that "iOS doesn't allow some features o
 That being said, another Geode developer said that Geode for iOS could be possible by jailbreaking the device. But due to jailbreaking being so uncommon, they said they will not make a jailbreak-exclusive solution.
 
 # How iOS players can still use Geode
+
+As of right now, there is no known way to run Geode on iOS devices.
