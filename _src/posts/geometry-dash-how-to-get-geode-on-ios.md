@@ -35,5 +35,9 @@ That being said, another Geode developer said that Geode for iOS could be possib
 
 As of right now, there is no known way to run Geode on iOS devices. However, there are still some ways for iOS players to use Geode's features.
 
-- When using Geode for added editor features, such as to use scale bypass, you can get your friends with Geode to do it for you
+- When using Geode for added editor features, such as to use scale bypass, you can get your friends with Geode to do it for you.
 - For mods like Globed, you can still make levels for people to play on multiplayer with their friends. You will only need an Android, Mac, or Windows PC to play with others.
+
+Likewise, there are other mod menus available for iOS that add mods such as noclip and speedhack.
+
+With all that being said, if you really want to mod your games, your best bet is to avoid iOS devices in the future, as they are very restrictive.
