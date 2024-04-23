@@ -13,3 +13,5 @@ affiliateLinks: false
 hideAds: false
 ---
 Geode is a Geometry Dash mod loader for installing mods such as [Globed](/posts/geometry-dash-multiplayer-how-to-download-and-install/). While installing it on most platforms is easy, iPhone and iPad users have been baffled by the lack of iOS support.
+
+As it stands right now, Apple makes modding applications very difficult on their devices.
