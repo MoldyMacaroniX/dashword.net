@@ -1,8 +1,11 @@
 ---
 pageSlug: geometry-dash-how-ios-users-can-still-use-geode
 title: "Geometry Dash: How iOS Players Can Still Use Geode"
-desc: a
-date: 2024-04-23T22:52:29.820Z
+desc: The Geometry Dash mod loader Geode is currently not available on iOS.
+  Geode is a Geometry Dash mod loader for installing mods such as Globed. While
+  installing it on most platforms is easy, iPhone and iPad users have been
+  baffled by the lack of iOS support.
+date: 2024-04-23T23:25:39.914Z
 tags:
   - mods
   - guide
