@@ -1,5 +1,5 @@
 ---
-pageSlug: geometry-dash-how-to-get-geode-on-ios
+pageSlug: geometry-dash-how-ios-users-can-still-use-geode
 title: "Geometry Dash: How iOS Players Can Still Use Geode"
 desc: a
 date: 2024-04-23T22:52:29.820Z
