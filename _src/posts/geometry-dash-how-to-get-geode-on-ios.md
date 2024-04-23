@@ -40,7 +40,7 @@ That being said, another Geode developer said that Geode for iOS could be possib
 
 As of right now, there is no known way to run Geode on iOS devices. However, there are still some ways for iOS players to use Geode's features.
 
-- Use Geode on a different device. You can still do things like build levels on your iOS device, but then use another device to play your levels with Geode mods.
+- Use Geode on a different device. You can still do things like build levels on your iOS device, but then use another device to play your levels with [Geode mods](/posts/best-geometry-dash-mods-for-geode/).
 - When using Geode for added editor features, such as to use scale bypass, you can get your friends with Geode to do it for you.
 - For mods like Globed, you can still make levels for people to play on multiplayer with their friends. You will only need an Android, Mac, or Windows PC to play with others.
 
