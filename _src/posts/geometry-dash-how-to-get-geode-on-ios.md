@@ -21,6 +21,7 @@ This article will go over why Geode is not officially available on iOS and how i
 # Table of contents
 
 * [Why Geode is not available on iOS](#why-geode-is-not-available-on-ios)
+* [How iOS players can still use Geode](#how-ios-players-can-still-use-geode)
 
 # Why Geode is not available on iOS
 
@@ -28,4 +29,6 @@ Geode developers have stated that right now, Geode support for iOS devices is no
 
 In specific, a Geode developer clarified that "iOS doesn't allow some features other platforms do that are required for Geode."
 
-That being said, another Geode developer said that Geode for iOS could be possible by jailbreaking the device. But due to jailbreaking being so uncommon, they said they will not make a jailbreak-exlusive solution.
+That being said, another Geode developer said that Geode for iOS could be possible by jailbreaking the device. But due to jailbreaking being so uncommon, they said they will not make a jailbreak-exclusive solution.
+
+# How iOS players can still use Geode
