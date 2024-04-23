@@ -18,7 +18,7 @@ As it stands right now, Apple makes modding applications very difficult on their
 
 This article will go over why Geode is not officially available on iOS and how iOS players can use Geode in other ways.
 
-**Recommended: [Geometry Dash Geode: How To Download & Install](/posts/geometry-dash-geode-how-to-download-and-install/).**
+* **Recommended: [Geometry Dash Geode: How To Download & Install](/posts/geometry-dash-geode-how-to-download-and-install/)**
 
 # Table of contents
 
