@@ -18,11 +18,13 @@ Fortunately, there are levels to jump over 1,000,000 times super fast in Geometr
 
 # Icons you unlock for jumping in Geometry Dash
 
-There are 11 achievements for jumping in Geometry Dash, ranging from 1000 to 1,000,000 jumps. They include the following:
+There are 11 achievements for jumping in Geometry Dash, ranging from 1,000 to 1,000,000 jumps. They include the following:
 
-| Jump 1000 Times | a |
+| Achievement | Reward |
 |-----------------|-----|
-| Jump 1000 Times | a |
+| Jump 1,000 Times | Blue Secondary Color |
+| Jump 10,000 Times | Yellow Secondary Color |
+| Jump 100,000 Times | White Secondary Color |
 
 # How to jump 1,000,000 times super fast in Geometry Dash
 
