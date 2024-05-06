@@ -10,6 +10,26 @@ imageSource: https://youtu.be/Zp1YzBgbByc?si=wj3QVg3-K-xenvfi
 affiliateLinks: false
 hideAds: false
 ---
-Geometry Dash has jump icons that can be unlocked by jumping a certain amount of times. The highest of these jump achievements requires 1,000,000 jumps to unlock.
+Geometry Dash has many icons that can be unlocked by jumping a certain amount of times. The biggest of which is locked behind the Jump King achievement and requires 1,000,000 jumps to unlock.
 
 Fortunately, there are levels to jump over 1,000,000 times super fast in Geometry Dash to make grinding these achievements super easy.
+
+# Icons you unlock for jumping in Geometry Dash
+
+There are 11 achievements for jumping in Geometry Dash, ranging from 1000 to 1,000,000 jumps. They include the following:
+
+| Jump 1000 Times | a |
+|-----------------|-----|
+| Jump 1000 Times | a |
+
+# How to jump 1,000,000 times super fast in Geometry Dash
+
+While just holding the jump button in Stereo Madness sounds easy, that is a really slow way of farming jumps. Instead, there are levels specifically designed for you to farm jumps super fast.
+
+Here are some Geometry Dash levels to farm jumps fast:
+
+- **Jump Farming** (32805571)
+- **Jump Farm** (97623433)
+- **100000 Jumps** (10481188)
+
+**Jump Farming** (32805571) gets you over 100,000 jumps every 8 minutes. **Jump Farm** (97623433) gets you over 1,000,000 jumps in a little over an hour. **100000 Jumps** (10481188) gets you 100,000 jumps after playing.
