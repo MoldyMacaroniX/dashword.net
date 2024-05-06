@@ -24,7 +24,15 @@ There are 11 achievements for jumping in Geometry Dash, ranging from 1,000 to 1,
 |-----------------|-----|
 | Jump 1,000 Times | Blue Secondary Color |
 | Jump 10,000 Times | Yellow Secondary Color |
-| Jump 100,000 Times | White Secondary Color |
+| Jump 20,000 Times | White Secondary Color |
+| Jump 50,000 Times | UFO |
+| Jump 100,000 Times | Ball |
+| Jump 200,000 Times | Brown Primary Color |
+| Jump 300,000 Times | Cube |
+| Jump 400,000 Times | Wave |
+| Jump 500,000 Times | Cube |
+| Jump 750,000 Times | Wave |
+| Jump 1,000,000 Times | Swing Copter |
 
 # How to jump 1,000,000 times super fast in Geometry Dash
 
