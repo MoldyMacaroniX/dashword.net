@@ -1,6 +1,8 @@
 ---
 title: "Geometry Dash: How To Jump 1,000,000 Times Super Fast"
-desc: a
+desc: Geometry Dash has jump icons that can be unlocked by jumping a certain
+  amount of times. The highest of these jump achievements requires 1,000,000
+  jumps to unlock.
 date: 2024-05-06T01:31:04.413Z
 tags:
   - guide
