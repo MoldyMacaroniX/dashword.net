@@ -6,7 +6,7 @@ desc: Geometry Dash has jump icons that can be unlocked by jumping a certain
 date: 2024-05-06T01:31:04.413Z
 tags:
   - guide
-author: moldy
+author: dashword
 image: https://img.youtube.com/vi/Zp1YzBgbByc/maxresdefault.jpg
 imageSource: https://youtu.be/Zp1YzBgbByc?si=wj3QVg3-K-xenvfi
 affiliateLinks: false
