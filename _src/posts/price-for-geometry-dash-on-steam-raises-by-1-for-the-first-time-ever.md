@@ -14,10 +14,10 @@ hideAds: false
 ---
 For the first time in the history of Geometry Dash, its price on Steam has increased. From a price of $3.99 to $4.99, this is the first ever price increase for Geometry Dash on Steam.
 
-The Geometry Dash community's reaction is largely indifferent, although many acknowledge that Geometry Dash 2.2 justifies the price increase.
+The Geometry Dash community's reaction is largely indifferent, although many acknowledge that [Geometry Dash 2.2](/categories/2.2/) justifies the price increase.
 
 One user on Twitter/X [noted](https://twitter.com/vasilyn2/status/1787697598427488261) the following:
 
 > Well I mean with what the game offers in 2.2 I don’t think it is really a bad decision from rob. I know he said he was keeping the price the same cuz he had to keep the game cheap but I mean 1 buck isn’t that bad imo. A bit shocking yes but could you really blame him.
 
-What do you think about this price increase? Do you think it is justified or not?
+What do you think about this price increase? Do you think it is justified or not? Do you think [Geometry Dash has too many bugs](/posts/ios-17-breaks-geometry-dash-how-to-fix/) to warrant this? Let us know!
