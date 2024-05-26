@@ -1,9 +1,9 @@
 ---
 pageSlug: geometry-dash-2-206-preview-released-by-robtop
 title: Geometry Dash 2.206 Preview Released By RobTop (Release Date Information)
-desc: Geometry Dash 2.206 news will be released on June 1, 2024. RobTop Games
-  recently posted a teaser for Geometry Dash 2.206 specifying how more
-  information—possibly even the update itself—will be released on June 1st.
+desc: Geometry Dash 2.206 was previewed to add a play from last checkpoint
+  option, a 64 bit version of Geometry Dash on Steam, and support for Mac
+  devices.
 date: 2024-05-26T00:47:23.031Z
 tags:
   - news
