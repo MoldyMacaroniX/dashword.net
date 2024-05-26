@@ -8,6 +8,7 @@ date: 2024-05-26T00:47:23.031Z
 tags:
   - news
   - "2.2"
+  - featured
 author: moldy
 image: https://pbs.twimg.com/media/GOdT0n7XIAAIwu6?format=jpg&name=large
 imageSource: https://x.com/RobTopGames/status/1794495260371964140
