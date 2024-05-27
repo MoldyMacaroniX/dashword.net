@@ -7,7 +7,7 @@ desc: Geometry Dash multiplayer is a mod available for the Geode mod loader
 date: 2024-05-27T20:28:11.707Z
 tags:
   - guide
-author: moldy
+author: dashword
 image: https://i.ytimg.com/vi/0Z2IpNOJbHo/sddefault.jpg
 imageSource: https://youtu.be/0Z2IpNOJbHo?si=J7HMrI4h5ps_Rs_i
 affiliateLinks: false
