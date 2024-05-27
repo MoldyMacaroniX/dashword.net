@@ -10,8 +10,8 @@ tags:
   - mods
   - featured
 author: moldy
-image: https://img.youtube.com/vi/2r-YvkBtpto/maxresdefault.jpg
-imageSource: https://youtu.be/2r-YvkBtpto?si=bofrkC81RwfWqNdF
+image: https://i.imgur.com/xB2BzmV.png
+imageSource: https://imgur.com/a/qR8Gixy
 affiliateLinks: false
 hideAds: false
 ---

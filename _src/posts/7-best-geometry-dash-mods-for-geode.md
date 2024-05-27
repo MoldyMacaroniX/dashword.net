@@ -6,7 +6,6 @@ desc: There are hundreds of Geometry Dash Geode mods available. Ever since the
   Dash mods to improve your experience in the game.
 date: 2024-04-18T01:48:14.206Z
 tags:
-  - guide
   - mods
   - list
   - featured
