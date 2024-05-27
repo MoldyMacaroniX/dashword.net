@@ -4,7 +4,7 @@ title: "Geometry Dash Multiplayer: Download & Install (Guide)"
 desc: Geometry Dash multiplayer is a mod available for the Geode mod loader
   called Globed. It is available on all platforms that support Geode, including
   Windows, Mac, and Android.
-date: 2024-05-27T20:15:51.853Z
+date: 2024-05-27T20:28:11.707Z
 tags:
   - guide
 author: moldy
@@ -16,6 +16,10 @@ hideAds: false
 Geometry Dash multiplayer is a mod available for the Geode mod loader called Globed. It is available on all platforms that support Geode, including Windows, Mac, and Android.
 
 This guide will go over all information about the Geometry Dash multiplayer mod, Globed, and provide resources for how to download and install it.
+
+Here is a screenshot (by [dest1ny](https://youtu.be/mLvaB2d_z8A?si=h67cmiY8vTfNKxwk)) featuring Geometry Dash multiplayer gameplay:
+
+![Geometry Dash multiplayer gameplay](https://i.ytimg.com/vi/mLvaB2d_z8A/maxresdefault.jpg)
 
 # Geometry Dash Multiplayer Download
 
