@@ -1,6 +1,10 @@
 ---
 title: How To Stop Geometry Dash From Updating And Keep Your Mods
-desc: a
+desc: With the release of Geometry Dash 2.206, all mods will stop working,
+  including Mega Hack, the Geode mod loader, and the Globed multiplayer mod.
+  Fortunately, you can stop Geometry Dash from updating and keep your mods. With
+  this guide, you can stop Geometry Dash from updating and keep your mods. Note
+  that this only works for the Steam version of Geometry Dash.
 date: 2024-06-01T21:58:27.793Z
 tags:
   - guide
