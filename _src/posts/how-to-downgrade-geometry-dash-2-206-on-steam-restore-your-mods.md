@@ -9,8 +9,8 @@ tags:
   - guide
   - featured
 author: dashword
-image: https://geode-sdk.org/main-menu.webp
-imageSource: https://geode-sdk.org/install/
+image: https://i.imgur.com/F9WmZIS.png
+imageSource: https://imgur.com/a/geometry-dash-main-menu-tN9ttQi
 affiliateLinks: false
 hideAds: false
 ---
