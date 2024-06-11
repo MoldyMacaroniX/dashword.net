@@ -1,5 +1,5 @@
 ---
-title: "Geometry Dash Levels: What Is The Hardest Level Ever Made? (2022)"
+title: "Geometry Dash Levels: What Is The Hardest Level Ever Made?"
 desc: Geometry Dash main levels like Deadlocked and Theory of Everything 2 are
   hard, but what is the hardest level ever made in Geometry Dash?
 date: 2022-10-15T18:19:41.056Z
