@@ -7,8 +7,8 @@ tags:
   - demonlist
   - featured
 author: moldy
-image: https://media.discordapp.net/attachments/392087938239954950/1030912772151726170/image0.jpg
-imageSource: https://youtu.be/ddRR7NA6kKE
+image: https://i.ytimg.com/vi/4QPlqiD-3IM/maxresdefault.jpg
+imageSource: https://youtu.be/4QPlqiD-3IM?si=JCqbgD41wABuOnyX
 ---
 Geometry Dash main levels like Deadlocked and Theory of Everything 2 are hard, but what is the hardest level ever made in Geometry Dash?
 
