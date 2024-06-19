@@ -12,4 +12,4 @@ imageSource: https://x.com/GeodeSDK/status/1801245897390481715
 affiliateLinks: false
 hideAds: false
 ---
-a
+The Geometry Dash Geode mod loader for version 2.206 is now available. While still in its early stages, it includes some basic [Geometry Dash mods](/categories/mods/).
