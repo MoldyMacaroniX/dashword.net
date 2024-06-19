@@ -27,7 +27,7 @@ You can download Geode for your Windows, Mac, or Android device from the [offici
 
 1. Download Geode for your device [from its GitHub release page](https://github.com/geode-sdk/geode/releases/tag/v3.0.0-alpha.1).
 2. Run the installer you just downloaded.
-3. Delete any `.dll` files from your game files if the installer tells you too. This is because Geode does not support other mod loaders.
+3. Delete any `.dll` files from your game files if the installer tells you to. This is because Geode does not support other mod loaders.
 
 Note that this is currently an early alpha release of Geode, so there may be bugs!
 
