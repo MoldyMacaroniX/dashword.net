@@ -18,7 +18,7 @@ The Geometry Dash Geode mod loader for version 2.206 is now available. While sti
 Geode is a Geometry Dash mod loader available on Windows, Mac, and Android. In specific, this guide will go over how to get Geode for Geometry Dash version 2.206.
 
 {% alert %}
-Whenever you mod your game, you should backup your save files, just in case. [Follow this guide to backup your Geometry Dash save files](/posts/backup-gd-data-steam/) before downloading Geode!
+Whenever you mod your game, you should backup your save files, just in case. [Follow this guide to backup your Geometry Dash save files](/posts/backup-gd-data-steam/) before downloading Geode for 2.206!
 {% endalert %}
 
 # How to get Geode for Geometry Dash 2.206
