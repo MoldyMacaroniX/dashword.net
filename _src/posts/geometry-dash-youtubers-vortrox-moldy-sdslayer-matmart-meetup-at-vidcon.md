@@ -18,3 +18,5 @@ Geometry Dash YouTubers Vortrox, Tride, Moldy, Sdslayer, and MatMart have met up
 In addition, content creators Rykiion and Lopsided Chicken also joined them, as reported by [Vortrox](http://youtube.com/post/UgkxWkmtkMOY-B_X0WhFKG9VYH36JGebRYZ1?si=1G_ECJBNnE7U6_H3).
 
 After hanging out at the VidCon convention, Vortrox, Tride, Moldy, and Sdslayer streamed together on the latter's YouTube channel.
+
+By now, the YouTubers are working on spending a few more days together before flying back to their respective home countries.
