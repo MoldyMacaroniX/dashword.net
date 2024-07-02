@@ -12,3 +12,5 @@ affiliateLinks: false
 hideAds: false
 ---
 Geometry Dash YouTubers Vortrox, Moldy, Sdslayer, and MatMart have met up at VidCon Anaheim this year.
+
+In addition, content creators Rykiion and Lopsided Chicken also joined them, as reported by [Vortrox](http://youtube.com/post/UgkxWkmtkMOY-B_X0WhFKG9VYH36JGebRYZ1?si=1G_ECJBNnE7U6_H3).
