@@ -6,7 +6,8 @@ date: 2024-07-01T14:08:35.701Z
 tags:
   - news
 author: dashword
-image: a
+image: https://img.youtube.com/vi/3uW5EV3n9pg/maxresdefault.jpg
+imageSource: https://www.youtube.com/live/3uW5EV3n9pg?si=KNvVOBYnJsepck7M
 affiliateLinks: false
 hideAds: false
 ---
