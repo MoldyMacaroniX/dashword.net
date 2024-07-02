@@ -1,7 +1,9 @@
 ---
-pageSlug: geometry-dash-youtubers-vortrox-moldy-sdslayer-and-matmart-meetup-at-vidcon
-title: Geometry Dash YouTubers Vortrox, Moldy, Sdslayer, & MatMart Meetup At VidCon
-desc: A
+pageSlug: geometry-dash-youtubers-vortrox-tride-moldy-sdslayer-and-matmart-meetup-at-vidcon
+title: Geometry Dash YouTubers Vortrox, Tride, Moldy, Sdslayer, & MatMart Meetup
+  At VidCon
+desc: Geometry Dash YouTubers Vortrox, Tride, Moldy, Sdslayer, and MatMart have
+  met up at VidCon Anaheim this year.
 date: 2024-07-01T14:08:35.701Z
 tags:
   - news
@@ -11,6 +13,8 @@ imageSource: https://www.youtube.com/live/3uW5EV3n9pg?si=KNvVOBYnJsepck7M
 affiliateLinks: false
 hideAds: false
 ---
-Geometry Dash YouTubers Vortrox, Moldy, Sdslayer, and MatMart have met up at VidCon Anaheim this year.
+Geometry Dash YouTubers Vortrox, Tride, Moldy, Sdslayer, and MatMart have met up at VidCon Anaheim this year.
 
 In addition, content creators Rykiion and Lopsided Chicken also joined them, as reported by [Vortrox](http://youtube.com/post/UgkxWkmtkMOY-B_X0WhFKG9VYH36JGebRYZ1?si=1G_ECJBNnE7U6_H3).
+
+After hanging out at the VidCon convention, Vortrox, Tride, Moldy, and Sdslayer streamed together on the latter's YouTube channel.
