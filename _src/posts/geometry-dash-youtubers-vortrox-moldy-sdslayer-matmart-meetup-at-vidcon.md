@@ -11,4 +11,4 @@ imageSource: https://www.youtube.com/live/3uW5EV3n9pg?si=KNvVOBYnJsepck7M
 affiliateLinks: false
 hideAds: false
 ---
-A
+Geometry Dash YouTubers Vortrox, Moldy, Sdslayer, and MatMart have met up at VidCon Anaheim this year.
