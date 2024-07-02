@@ -4,7 +4,7 @@ title: Geometry Dash YouTubers Vortrox, Tride, Moldy, Sdslayer, & MatMart Meetup
   At VidCon
 desc: Geometry Dash YouTubers Vortrox, Tride, Moldy, Sdslayer, and MatMart have
   met up at VidCon Anaheim this year.
-date: 2024-07-01T14:08:35.701Z
+date: 2024-07-02T04:55:32.342Z
 tags:
   - news
 author: dashword
