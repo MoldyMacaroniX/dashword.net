@@ -7,7 +7,6 @@ desc: After installing the latest Geometry Dash update, you may want to
 date: 2024-06-10T23:36:42.699Z
 tags:
   - guide
-  - featured
 author: dashword
 image: https://i.imgur.com/F9WmZIS.png
 imageSource: https://imgur.com/a/geometry-dash-main-menu-tN9ttQi
