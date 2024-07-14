@@ -47,10 +47,18 @@ hideSidebar: true
 
 <p>Like any other website, Dashword.net uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.</p>
 
+<h2>Google Analytics</h2>
+
+<p>Dashword.net uses Google Analytics to collect analytics. Use the <a href="https://tools.google.com/dlpage/gaoptout">Google Analytics opt-out browser add-on</a> to opt-out of Google Analytics.</p>
+
+<p>For more information, see the following:</p>
+
+- [Google's Privacy & Terms](https://policies.google.com/technologies/partner-sites)
+- [Google's "Safeguarding your data" help page](https://support.google.com/analytics/answer/6004245)
+
 <h2>Google DoubleClick DART Cookie</h2>
 
 <p>Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – <a href="https://policies.google.com/technologies/ads">https://policies.google.com/technologies/ads</a></p>
-
 
 <h2>Advertising Partners Privacy Policies</h2>
 
