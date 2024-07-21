@@ -12,3 +12,5 @@ affiliateLinks: false
 hideAds: false
 ---
 Ever since SpaceUK was exposed in April 2023, I haven't stopped thinking about it, which is unlike any other hacking scandal in Geometry Dash history.
+
+The main difference between SpaceUK and other hacking scandals is that SpaceUK genuinely robbed people. Not only of their accomplishments, but also of raw dollars.
