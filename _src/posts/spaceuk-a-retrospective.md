@@ -44,3 +44,9 @@ In his second apology, SpaceUK said he would pay back some of the players who he
 So while we can confirm that Trick has received some money from SpaceUK, there is no evidence known to Dashword that SpaceUK has paid anyone else.
 
 We also think it is unlikely that SpaceUK would ever pay back everything he made, especially since he already [poured a lot of it into a new PC](/posts/top-1-geometry-dash-player-spaceuk-exposed-for-hacking-achievements/#spaceuk's-response).
+
+# Some people want SpaceUK to return
+
+The fact that some people *want* SpaceUK to return is baffling to me after he caused so much damage.
+
+According to Samifying's interviews, most top players and friends of SpaceUK admit that SpaceUK should not make a comeback, even if it was legit. Trick even went as far as to say that it would be disrespectful for SpaceUK to come back to the game.
