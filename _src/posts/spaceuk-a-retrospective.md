@@ -19,4 +19,8 @@ SpaceUK robbed so many verifiers and first victors of deserved ad revenue. Inste
 
 And somehow, this never got to him. He never decided that stealing all this clout and money was enough. He never decided to come clean. In fact, even when he was first exposed, he continued to lie.
 
-And even his second apology, which was originally seen as truthful, has been called into question.
+And even his second and final apology, which was originally seen as truthful, has been called into question.
+
+# When did SpaceUK start lying?
+
+In SpaceUK's second apology, he claimed that his absurd difficulty jumps at the start of his career, such as Leyak being his third demon, are legitimate.
