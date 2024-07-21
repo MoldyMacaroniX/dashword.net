@@ -17,4 +17,4 @@ The main difference between SpaceUK and other hacking scandals is that SpaceUK g
 
 SpaceUK robbed so many verifiers and first victors of deserved ad revenue. Instead of coming clean, he stole thousands of dollars for himself by lying and cheating.
 
-And somehow, this never got to him. He never decided that stealing all this was enough. He never decided to come clean. In fact, even when he was first exposed, he continued to lie.
+And somehow, this never got to him. He never decided that stealing all this clout and money was enough. He never decided to come clean. In fact, even when he was first exposed, he continued to lie.
