@@ -47,6 +47,14 @@ We also think it is unlikely that SpaceUK would ever pay back everything he made
 
 # Some people want SpaceUK to return
 
-The fact that some people *want* SpaceUK to return is baffling to me after he caused so much damage.
-
 According to Samifying's interviews, most top players and friends of SpaceUK admit that SpaceUK should not make a comeback, even if it was legit. Trick even went as far as to say that it would be disrespectful for SpaceUK to come back to the game.
+
+But despite that, some people *want* SpaceUK to return, This is baffling to me, especially after all the damage he caused.
+
+Regardless, I can see why. Many documentaries have romanticized previous Geometry Dash hacking scandals, such as the Riot vs Cyclic rivalry and Andromeda's comeback from his hacking scandal.
+
+This has made one thing sure: the community loves a good redemption story.
+
+But what people need to recognize is that not only has the retelling of these past stories been romanticized, but that SpaceUK caused so much more damage than previous hacking scandals.
+
+Back in the days of Cyclic and Andromeda, making ad revenue off of Geometry Dash completions was a rare commodity. But now, most top Geometry Dash players are monetized on YouTube. Geometry Dash completions have become a valid way to make a ton of money. So to cheat would be to steal that money from people who do things legit.
