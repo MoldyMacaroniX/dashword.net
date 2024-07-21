@@ -5,6 +5,7 @@ desc: a
 date: 2024-07-21T23:20:37.886Z
 tags:
   - opinion
+  - featured
 author: moldy
 image: https://pbs.twimg.com/media/FulkySyaMAEy3p0.jpg
 imageSource: https://x.com/today_gd/status/1650961626768764928
