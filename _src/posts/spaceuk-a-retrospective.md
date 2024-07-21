@@ -31,6 +31,10 @@ This means that if SpaceUK didn't cheat prior to The Golden, he at the very leas
 
 *As of the publication of this article, Samifying has not updated the pinned comment or description of his video with a possible explanation for this, so it does appear that SpaceUK was lying about his absurd difficulty jumps, at least to an extent.*
 
+At the very least, this means SpaceUK has been lying since before The Golden, if not cheating. Maybe that is why he had no issue cheating and lying to the community and his closest friends for so long.
+
+This could also explain his egotistical attitude towards the community, as throughout his entire career, he constantly downplayed his achievements and joked about being a hacker.
+
 # Paying people back
 
 In his second apology, SpaceUK said he would pay back some of the players who he robbed of ad revenue. According to Samifying's video, SpaceUK has paid popular Geometry Dash player Trick. Also according to that video, Doggie denied being paid by SpaceUK.
