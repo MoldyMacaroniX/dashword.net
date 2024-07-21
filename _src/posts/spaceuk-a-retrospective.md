@@ -61,18 +61,10 @@ Back in the days of Cyclic and Andromeda, making ad revenue off of Geometry Dash
 
 To rank the damage of these hacking scandals, I would do so like this:
 
-1. SpaceUK
-2. NoctaFly
-3. Cyclic/Andromeda/Noobas/Neptune
-4. SaRy and all those other old players who lied about their achievements
-
-SpaceUK stole lots of ad revenue and clout from people who deserved it.
-
-NoctaFly led to the leaderboards getting frozen for years.
-
-Cyclic and friends were in an era where monetizing Geometry Dash content was rare.
-
-SaRy and friends were in an era where monetizing Geometry Dash content was even rarer.
+1. **SpaceUK:** stole lots of ad revenue and clout from people who deserved it
+2. **NoctaFly:** led to the leaderboards getting frozen for years
+3. **Cyclic/Andromeda/Noobas/Neptune:** were in an era where monetizing Geometry Dash content was rare
+4. **SaRy and all those other old players who lied about their achievements:** were in an era where monetizing Geometry Dash content was even rarer
 
 So, to put it simply: I don't think SpaceUK should be given a second chance anytime soon.
 
