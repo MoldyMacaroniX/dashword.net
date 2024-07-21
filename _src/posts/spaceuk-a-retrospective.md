@@ -23,4 +23,16 @@ And even his second and final apology, which was originally seen as truthful, ha
 
 # When did SpaceUK start lying?
 
-In SpaceUK's second apology, he claimed that his absurd difficulty jumps at the start of his career, such as Leyak being his third demon, are legitimate.
+In SpaceUK's second apology, he claimed that the absurd difficulty jumps at the start of his career, such as The Golden being his fifth demon, are legitimate.
+
+However, as [Samifying](https://youtu.be/9uLNjFiV1Is?si=hEJ-W31LVqY5PRoZ) noted, SpaceUK has been displayed on the in-game Cataclysm leaderboard since approximately June 2020, which would predate his attempts on The Golden.
+
+This means that if SpaceUK didn't cheat prior to The Golden, he at the very least was lying. Which means his second apology also lied. So how can we know that everything else in there is truthful?
+
+*As of the publication of this article, Samifying has not updated the pinned comment or description of his video with a possible explanation for this, so it does appear that SpaceUK was lying about his absurd difficulty jumps, at least to an extent.*
+
+# Paying people back
+
+In his second apology, SpaceUK said he would pay back some of the players who he robbed of ad revenue. According to Samifying's video, SpaceUK has paid popular Geometry Dash player Trick. Also according to that video, Doggie denied being paid by SpaceUK.
+
+So while we can confirm that Trick has received some money from SpaceUK, there is no evidence known to Dashword that SpaceUK has paid anyone else.
