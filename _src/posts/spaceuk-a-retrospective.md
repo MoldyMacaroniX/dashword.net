@@ -11,4 +11,4 @@ imageSource: https://x.com/today_gd/status/1650961626768764928
 affiliateLinks: false
 hideAds: false
 ---
-a
+Ever since SpaceUK was exposed in April 2023, I haven't stopped thinking about it, which is unlike any other hacking scandal in Geometry Dash history.
