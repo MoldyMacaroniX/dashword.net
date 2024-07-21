@@ -76,4 +76,4 @@ SaRy and friends were in an era where monetizing Geometry Dash content was even 
 
 So, to put it simply: I don't think SpaceUK should be given a second chance anytime soon.
 
-*Especially since, as noted before, he might still not be giving the whole truth regarding his Catalysm record.*
+*Especially since, as noted before, he might still not be giving the whole truth regarding his Cataclysm record.*
