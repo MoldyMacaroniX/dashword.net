@@ -36,3 +36,5 @@ This means that if SpaceUK didn't cheat prior to The Golden, he at the very leas
 In his second apology, SpaceUK said he would pay back some of the players who he robbed of ad revenue. According to Samifying's video, SpaceUK has paid popular Geometry Dash player Trick. Also according to that video, Doggie denied being paid by SpaceUK.
 
 So while we can confirm that Trick has received some money from SpaceUK, there is no evidence known to Dashword that SpaceUK has paid anyone else.
+
+We also think it is unlikely that SpaceUK would ever pay back everything he made, especially since he already [poured a lot of it into a new PC](/posts/top-1-geometry-dash-player-spaceuk-exposed-for-hacking-achievements/#spaceuk's-response).
