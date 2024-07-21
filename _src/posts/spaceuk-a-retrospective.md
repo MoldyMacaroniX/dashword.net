@@ -55,6 +55,25 @@ Regardless, I can see why. Many documentaries have romanticized previous Geomet
 
 This has made one thing sure: the community loves a good redemption story.
 
-But what people need to recognize is that not only has the retelling of these past stories been romanticized, but that SpaceUK caused so much more damage than previous hacking scandals.
+But what people need to recognize is that not only has the retelling of these past stories been romanticized, but also that SpaceUK caused so much more damage than previous hacking scandals.
 
 Back in the days of Cyclic and Andromeda, making ad revenue off of Geometry Dash completions was a rare commodity. But now, most top Geometry Dash players are monetized on YouTube. Geometry Dash completions have become a valid way to make a ton of money. So to cheat would be to steal that money from people who do things legit.
+
+To rank the damage of these hacking scandals, I would do so like this:
+
+1. SpaceUK
+2. NoctaFly
+3. Cyclic/Andromeda/Noobas/Neptune
+4. SaRy and all those other old players who lied about their achievements
+
+SpaceUK stole lots of ad revenue and clout from people who deserved it.
+
+NoctaFly led to the leaderboards getting frozen for years.
+
+Cyclic and friends were in an era where monetizing Geometry Dash content was rare.
+
+SaRy and friends were in an era where monetizing Geometry Dash content was even rarer.
+
+So, to put it simply: I don't think SpaceUK should be given a second chance anytime soon.
+
+*Especially since, as noted before, he might still not be giving the whole truth regarding his Catalysm record.*
