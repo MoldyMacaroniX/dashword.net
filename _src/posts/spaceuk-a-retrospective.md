@@ -70,6 +70,8 @@ So, to put it simply: I don't think SpaceUK should be given a second chance anyt
 
 *Especially since, as noted before, he might still not be giving the whole truth regarding his Cataclysm record.*
 
+So when I hear people say they want to see SpaceUK make a comeback, I can only hope they are mistaken and are unaware of the sheer damage he caused.
+
 ---
 
 If I could ask SpaceUK one thing, I would ask him why he continued lying and cheating for so long. Why he lied and kept lying even when he was called out. How he slept at night knowing he was stealing so much ad revenue and clout from others.
