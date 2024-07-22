@@ -63,9 +63,15 @@ To rank the damage of these hacking scandals, I would do so like this:
 
 1. **SpaceUK:** stole lots of ad revenue and clout from people who deserved it
 2. **NoctaFly:** led to the leaderboards getting frozen for years
-3. **Cyclic/Andromeda/Noobas/Neptune:** were in an era where monetizing Geometry Dash content was rare
-4. **SaRy and all those other old players who lied about their achievements:** were in an era where monetizing Geometry Dash content was even rarer
+3. **Cyclic/Andromeda/Noobas/Neptune:** were in an era where monetizing Geometry Dash content was rare (though they did definitely steal accomplishments from others, e.g. Cyclic hacking Cataclysm)
+4. **SaRy and all those other old players who lied about their achievements:** were in an era where monetizing Geometry Dash content was even rarer (they also probably stole accomplishments from others, but less so given that the community was much smaller back then)
 
 So, to put it simply: I don't think SpaceUK should be given a second chance anytime soon.
 
 *Especially since, as noted before, he might still not be giving the whole truth regarding his Cataclysm record.*
+
+---
+
+If I could ask SpaceUK one thing, I would ask him why he continued lying and cheating for so long. Why he lied and kept lying even when he was called out. How he slept at night knowing he was stealing so much ad revenue and clout from others.
+
+I make my living through Geometry Dash content, so after hearing about someone else making lots of money from cheating in the game I love, I find it very hard to forget that.
