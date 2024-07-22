@@ -4,9 +4,10 @@ title: "SpaceUK: A Retrospective On The Biggest Hacking Scandal In Geometry Dash
   History"
 desc: Ever since SpaceUK was exposed in April 2023, I haven't stopped thinking
   about it, which is unlike any other hacking scandal in Geometry Dash history.
-date: 2024-07-21T23:20:37.886Z
+date: 2024-07-22T00:02:33.675Z
 tags:
   - opinion
+  - demonlist
   - featured
 author: moldy
 image: https://pbs.twimg.com/media/FulkySyaMAEy3p0.jpg
