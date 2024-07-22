@@ -1,6 +1,7 @@
 ---
-pageSlug: geometry-dash-spaceuk-retrospective
-title: "SpaceUK: A Retrospective"
+pageSlug: spaceuk-retrospective-on-the-biggest-hacking-scandal-in-geometry-dash-history
+title: "SpaceUK: A Retrospective On The Biggest Hacking Scandal In Geometry Dash
+  History"
 desc: Ever since SpaceUK was exposed in April 2023, I haven't stopped thinking
   about it, which is unlike any other hacking scandal in Geometry Dash history.
 date: 2024-07-21T23:20:37.886Z
