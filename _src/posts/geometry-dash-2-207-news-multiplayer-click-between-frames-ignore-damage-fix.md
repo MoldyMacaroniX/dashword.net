@@ -1,7 +1,8 @@
 ---
 title: "Geometry Dash 2.207 News: Multiplayer, Click Between Frames, & Ignore
   Damage Fix"
-desc: a
+desc: RobTop Games revealed Geometry Dash 2.207 news while teasing an official
+  multiplayer mode and Click Between Frames feature.
 date: 2024-07-26T08:02:38.912Z
 tags:
   - news
@@ -12,4 +13,4 @@ imageSource: https://youtu.be/ierxHa0ED5A?si=vmd7MEORavTxBvoc
 affiliateLinks: false
 hideAds: false
 ---
-a
+RobTop Games revealed Geometry Dash 2.207 news while teasing an official multiplayer mode and Click Between Frames feature.
