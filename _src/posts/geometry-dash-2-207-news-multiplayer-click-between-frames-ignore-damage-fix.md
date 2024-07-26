@@ -15,3 +15,19 @@ affiliateLinks: false
 hideAds: false
 ---
 RobTop Games revealed Geometry Dash 2.207 news while teasing an official multiplayer mode and Click Between Frames feature.
+
+As always, RobTop gave us this [Geometry Dash 2.207 news](/categories/2.2/) in the [official Geometry Dash Discord server](/posts/geometry-dash-discord-server-how-to-join-request-levels/).
+
+# Geometry Dash 2.207 Features
+
+Geometry Dash 2.207 will fix Ignore Damage not working and fix issues with Windows Borderless mode. The update will also feature minor improvements and bug fixes.
+
+# Official Multiplayer Update
+
+RobTop expressed interest in creating an official multiplayer feature [like the Globed multiplayer mod for Geode](/posts/geometry-dash-multiplayer-how-to-download-and-install/).
+
+While this is likely a long ways away, this might be a good replacement for [Versus Mode](/posts/robtop-cancels-geometry-dash-2-2-versus-mode-after-6-years-of-development/), as Versus Mode does not allow you to see other players.
+
+# Official Click Between Frames Feature
+
+RobTop also expressed interest in 
