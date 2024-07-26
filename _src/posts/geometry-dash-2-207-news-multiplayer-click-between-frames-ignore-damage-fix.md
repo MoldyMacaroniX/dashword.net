@@ -30,4 +30,6 @@ While this is likely a long ways away, this might be a good replacement for [Ver
 
 # Official Click Between Frames Feature
 
-RobTop also expressed interest in 
+RobTop also said he started making his own Click Between Frames feature for the game. However, RobTop said that this addition to the game is not confirmed, as he has not yet tested it on all devices.
+
+RobTop also confirmed it will not work the same way as the current [Click Between Frames mod for Geode](/posts/geometry-dash-click-between-frames-mod-download-and-install/), but it will be similar.
