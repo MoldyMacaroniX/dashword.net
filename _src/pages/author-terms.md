@@ -7,7 +7,7 @@ hideAds: true
 hideSidebar: true
 ---
 
-Last Updated: January 30, 2023
+Last Updated: August 28, 2024
 
 In order to get your Article or Course published to Dashword.net, you will have to agree to these terms. As such, these terms apply to anyone who has a published Article or Course on Dashword.net.
 
@@ -40,6 +40,7 @@ By confirming that we can use your Article or Course, you agree that:
     - Your Geometry Dash profile name
     - The website URL you would like to show on your Author Page
 - All information on your unique Author Page will be displayed publicly on our website. You can request changes to your unique Author Page by emailing us. All changes must be confirmed by us but you can remove your Author Page at any time. In order to get a unique Author Page, you must have at least one Article. Courses do not count as Articles.
+- We have the right to publish everything you acknowledge we can publicly share on our website (as described above) to other sources on the internet and to irrevocable public databases, meaning any of this content/information may not be able to be removed from the internet. This means that, should you request the deleting of this content/information from our site, we can remove it from our site, but not from the internet or any other third party sources. This is required because some of our systems make use of public sources on the internet to operate.
 - You have not shared any email communications with us with anyone else.
 
 If you would like to make changes to your submission first, please do so before confirming that we can use your Article or Course.
@@ -49,6 +50,8 @@ If you would like to make changes to your submission first, please do so before 
 You can make changes to or remove your Article, Course, or Author Page by emailing us. All changes must be confirmed by us but you can remove your Article, Course, or Author Page at any time. All Articles by you that we publish will be available on your unique Author Page. Courses will be available on our [Courses page](/Courses/) and you can credit yourself in your Course.
 
 You can request copies of your Articles, Courses, or Author Page by emailing us.
+
+Note that any changes you make are also subject to these Author Terms, meaning any content/information you give us are subject to the terms outlined in the previous sections above.
 
 # Help
 
