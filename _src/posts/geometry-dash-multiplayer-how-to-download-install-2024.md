@@ -20,10 +20,20 @@ Globed is a mod available on Geode, a [modloader for Geometry Dash](/posts/5-mus
 
 # How to download and install Globed
 
-1. Go to [https://geode-sdk.org/install/](https://geode-sdk.org/install/) and install **Geode** for your device. The supported devices include **Windows**, **Mac**, **Android 64 bit**, and **Android 32 bit**. There is no **iOS** support.
-2. Once Geode is installed, press the new **Geode** button on the Geometry Dash title screen and go to the **Download** tab. Download the **Globed** mod.
-3. Restart your game and press the new **Globed** button and join one of the available servers. Make sure you and your friends each join the same server if you want to play together.
+You can download and install the Globed multiplayer mod for Geometry Dash by following these instructions:
+
+## Download Geode
+
+Go to [https://geode-sdk.org/install/](https://geode-sdk.org/install/) and install **Geode** for your device. The supported devices include **Windows**, **Mac**, **Android 64 bit**, and **Android 32 bit**. There is no **iOS** support.
+
+## Download Globed
+
+Once Geode is installed, press the new **Geode** button on the Geometry Dash title screen and go to the **Download** tab. Download the **Globed** mod.
+
+## Restart your game
+
+Restart your game and press the new **Globed** button and join one of the available servers. Make sure you and your friends each join the same server if you want to play together.
 
 ---
 
-And there you have it! Downloading and installing Globed is very easy thanks to Geode. If you need any help, we recommend joining the [Globed Discord server](https://discord.gg/globed).
+And there you have it! Downloading and installing Globed is very easy thanks to Geode. If you need any help, we recommend joining the [Globed Discord server](https://discord.gg/globed).
