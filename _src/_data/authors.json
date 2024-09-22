@@ -32,8 +32,8 @@
 	{
 		"key":"moldy",
 		"name":"Moldy",
-		"bio": "I am Moldy, a Geometry Dash YouTuber.",
-		"photo":"https://www.moldygd.com/assets/logo.png",
+		"bio": "Not literally, of course.",
+		"photo":"/assets/img/moldy-avatar.png",
 		"youtube":"moldygd",
 		"handle":true,
 		"twitter":"moldymacaronix",
