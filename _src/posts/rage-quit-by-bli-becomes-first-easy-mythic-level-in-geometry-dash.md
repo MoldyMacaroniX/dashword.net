@@ -1,5 +1,5 @@
 ---
-pageSlug: rage-quit-bli-becomes-first-easy-mythic-level-in-geometry-dash
+pageSlug: rage-quit-by-bli-becomes-first-easy-mythic-level-in-geometry-dash
 title: Rage Quit By Bli Becomes First Easy Mythic Level In Geometry Dash
 desc: Rage Quit by Bli has become the first easy rated Mythic level in Geometry
   Dash. After winning Waboo's creator contest and recieving the grand prize of
