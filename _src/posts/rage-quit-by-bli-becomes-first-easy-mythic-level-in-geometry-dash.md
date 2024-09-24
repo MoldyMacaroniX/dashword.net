@@ -5,7 +5,7 @@ desc: Rage Quit by Bli has become the first easy rated Mythic level in Geometry
   Dash. After winning Waboo's creator contest and recieving the grand prize of
   $1000, Rage Quit by Bli was uploaded and swiftly recieved a Mythic rating by
   RobTop.
-date: 2024-09-21T03:23:36.546Z
+date: 2024-09-24T01:09:38.046Z
 tags:
   - news
   - featured
