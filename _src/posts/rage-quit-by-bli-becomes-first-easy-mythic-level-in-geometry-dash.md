@@ -8,6 +8,7 @@ desc: Rage Quit by Bli has become the first easy rated Mythic level in Geometry
 date: 2024-09-21T03:23:36.546Z
 tags:
   - news
+  - featured
 author: moldy
 image: https://img.youtube.com/vi/mzNK3f3NSKw/maxresdefault.jpg
 imageSource: https://youtu.be/mzNK3f3NSKw?si=V2mF29gCsx8FqRfe
