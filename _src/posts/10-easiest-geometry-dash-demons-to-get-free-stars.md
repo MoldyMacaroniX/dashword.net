@@ -24,6 +24,14 @@ This easy demon list will consist of classic easy demons to newer ones that you 
 
 1. [The Lightning Road]()
 2. [The Nightmare]()
+3. [Platinum Adventure]()
+4. [Xstep v2]()
+5. [Demon Mixed]()
+6. [Lights And Thunder]()
+7. [Speed Racer]()
+8. [Shiver]()
+9. [Altos Odyssey]()
+10. [InsidiouS]()
 
 ---
 
