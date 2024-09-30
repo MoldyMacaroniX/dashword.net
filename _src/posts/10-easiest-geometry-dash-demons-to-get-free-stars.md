@@ -5,7 +5,7 @@ desc: a
 date: 2024-09-30T19:20:29.001Z
 tags:
   - guide
-author: moldymacaronix
+author: moldy
 image: https://i.ytimg.com/vi/w4iL4IgLI8o/maxresdefault.jpg
 affiliateLinks: false
 hideAds: false
