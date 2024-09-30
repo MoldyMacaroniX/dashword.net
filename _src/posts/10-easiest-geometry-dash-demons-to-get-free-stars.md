@@ -32,11 +32,11 @@ The Nightmare by Jax is regarded as one of the easiest Geometry Dash demon. If y
 
 # Shiver (56210242)
 
-The Nightmare by Jax is regarded as one of the easiest Geometry Dash demon. If you want a free demon, completing this and getting its 10 stars should be easy.
+Shiver by SpKale is a newer addition to this list, but don't let that fool you. It is regarded as one of the easiest demons of our time. With just a single practice run, you should have this level down in no time!
 
 **Level ID:** 56210242
 
-![The Nightmare](https://external-preview.redd.it/shiver-by-spkale-100-and-idk-why-this-was-rated-as-a-demon-v0-aG12NHBqejk2bDdiMVW_F3Vrv9TBR6SVCq46z41Ct1qb3DoXG97y49YMPw9W.png?format=pjpg&auto=webp&s=41bd269362bc73c635a6827f0541d9ee42137838)
+![Shiver](https://external-preview.redd.it/shiver-by-spkale-100-and-idk-why-this-was-rated-as-a-demon-v0-aG12NHBqejk2bDdiMVW_F3Vrv9TBR6SVCq46z41Ct1qb3DoXG97y49YMPw9W.png?format=pjpg&auto=webp&s=41bd269362bc73c635a6827f0541d9ee42137838)
 
 [Image Source.](https://www.reddit.com/r/geometrydash/comments/14g694u/shiver_by_spkale_100_and_idk_why_this_was_rated/)
 
