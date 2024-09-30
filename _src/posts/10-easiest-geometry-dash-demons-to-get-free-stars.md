@@ -26,16 +26,16 @@ This easy demon list will consist of classic easy demons to newer ones that you 
 
 # Table of Contents
 
-1. [The Lightning Road]()
-2. [The Nightmare]()
-3. [Platinum Adventure]()
-4. [Xstep v2]()
-5. [Demon Mixed]()
-6. [Lights And Thunder]()
-7. [Speed Racer]()
-8. [Shiver]()
-9. [Altos Odyssey]()
-10. [InsidiouS]()
+1. [The Lightning Road](#the-lightning-road-(55520))
+2. [The Nightmare](#the-nightmare-(13519))
+3. [Platinum Adventure](#platinum-adventure-(5904109))
+4. [Xstep v2](#xstep-v2-(341613))
+5. [Demon Mixed](#demon-mixed-(566659))
+6. [Lights And Thunder](#lights-and-thunder-(848722))
+7. [Speed Racer](#speed-racer-(3543219))
+8. [Shiver](#shiver-(56210242))
+9. [Altos Odyssey](#altos-odyssey-(69752931))
+10. [InsidiouS](#insidious-(48275252))
 
 ---
 
