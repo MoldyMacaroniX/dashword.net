@@ -7,7 +7,8 @@ tags:
   - guide
   - featured
 author: moldy
-image: https://i.ytimg.com/vi/w4iL4IgLI8o/maxresdefault.jpg
+image: https://i.ytimg.com/vi/pAxWLIOZItU/maxresdefault.jpg
+imageSource: https://youtu.be/pAxWLIOZItU?si=dOqSxczcRBF41Yb4
 affiliateLinks: false
 hideAds: false
 ---
