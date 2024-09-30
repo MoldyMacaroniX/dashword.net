@@ -69,3 +69,13 @@ Altos Odyssey by GD Charz is another really easy demon from the modern day. With
 ![Altos Odyssey](https://i.imgur.com/5yQISWh.jpeg)
 
 [Image Source.](https://imgur.com/5yQISWh)
+
+# InsidiouS (48275252)
+
+InsidiouS by Wintter is an epic easy demon that can be beaten quickly. Just do a run through it with practice mode and you should be able to collect 10 more stars in no time!
+
+**Level ID:** 48275252
+
+![InsidiouS](https://i.imgur.com/46sE1k8.jpeg)
+
+[Image Source.](https://imgur.com/46sE1k8)
