@@ -1,7 +1,11 @@
 ---
 pageSlug: 10-easiest-geometry-dash-demons-to-get-100-free-stars
 title: 10 Easiest Geometry Dash Demons To Get 100 Free Stars
-desc: a
+desc: In Geometry Dash, demon levels reward you with 10 stars, the highest
+  reward available in online levels. This is why we've compiled a list of the 10
+  easiest Geometry Dash demons in order to help you get 100 free stars. This
+  easy demon list will consist of levels like The Lightning Road, The Nightmare,
+  Platinum Adventure, Xstep v2, and many more Geometry Dash easy demons!
 date: 2024-09-30T19:20:29.001Z
 tags:
   - guide
