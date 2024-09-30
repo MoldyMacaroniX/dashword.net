@@ -1,6 +1,6 @@
 ---
 pageSlug: 10-easiest-geometry-dash-demons-to-get-free-stars
-title: 10 Easiest Geometry Dash Demons To Get Free Stars
+title: 10 Easiest Geometry Dash Demons To Get 100 Free Stars
 desc: a
 date: 2023-10-02T03:22:33.885Z
 tags:
