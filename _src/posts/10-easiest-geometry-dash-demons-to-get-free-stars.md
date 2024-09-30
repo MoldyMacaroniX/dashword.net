@@ -62,6 +62,16 @@ Demon Mixed by RealOggY is one of the easiest demons in Geometry Dash. Featuring
 
 [Image Source.](https://youtu.be/EcdsFejldXQ?si=Lwn28i1hACLAVOsP)
 
+# Speed Racer (3543219)
+
+Speed Race by ZenthicAlpha is one of the most popular easy demons in Geometry Dash. While it has some tough ship and ball parts, with some practice, you can collect its 10 stars.
+
+**Level ID:** 3543219
+
+![Speed Racer](https://external-preview.redd.it/speed-racer-100-on-mobile-speed-changes-make-me-cry-v0-bHdhY2JmZWVjbTliMb_tP70ng4JFtyg5PCO86srjxm_dd21_vIgNwANJbuvk.png?format=pjpg&auto=webp&s=a85ff28e6c9bf14f2671d207a3692140b025d9cc)
+
+[Image Source.](https://www.reddit.com/r/geometrydash/comments/14ozmn4/speed_racer_100_on_mobile_speed_changes_make_me/)
+
 # Shiver (56210242)
 
 Shiver by SpKale is a newer addition to this list, but don't let that fool you. It is regarded as one of the easiest demons of our time. With just a single practice run, you should have this level down in no time!
