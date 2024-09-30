@@ -48,4 +48,4 @@ Demon Mixed by RealOggY is one of the easiest demons in Geometry Dash. Featuring
 
 ![Demon Mixed](https://i.ytimg.com/vi/EcdsFejldXQ/maxresdefault.jpg)
 
-[Image Source](https://youtu.be/EcdsFejldXQ?si=Lwn28i1hACLAVOsP)
+[Image Source.](https://youtu.be/EcdsFejldXQ?si=Lwn28i1hACLAVOsP)
