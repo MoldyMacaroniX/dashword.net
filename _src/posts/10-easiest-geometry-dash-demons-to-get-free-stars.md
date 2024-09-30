@@ -58,4 +58,4 @@ xStep v2 is a remake of the [Geometry Dash Lite](/posts/how-to-play-geometry-das
 
 ![Xstep v2](https://i.ytimg.com/vi/p7TtJ46He1g/sddefault.jpg)
 
-![Image Source.](https://youtu.be/p7TtJ46He1g?si=OLd6l3fG9SR1Leyk)
+[Image Source.](https://youtu.be/p7TtJ46He1g?si=OLd6l3fG9SR1Leyk)
