@@ -9,6 +9,7 @@ desc: The NCS Gauntlet Contest has seen many entries, but the first NCS Mythic
 date: 2024-09-30T18:45:39.112Z
 tags:
   - news
+  - featured
 author: moldy
 image: https://i.ytimg.com/vi/W3Sk8cpdYyY/maxresdefault.jpg
 imageSource: https://youtu.be/W3Sk8cpdYyY?si=alv7wtJiQy4bKSBW
