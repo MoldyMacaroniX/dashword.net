@@ -62,7 +62,7 @@ xStep v2 is a remake of the [Geometry Dash Lite](/posts/how-to-play-geometry-das
 
 # Altos Odyssey (69752931)
 
-Altos Odyssey by GD Charz is another really easy demon from the modern day. With very few choke points, GD Charz has designed a fun and easy demon to collect 10 easy stars.
+Altos Odyssey by GD Charz is another really easy demon from the modern day. With [very few choke points](/posts/5-free-demons/), GD Charz has designed a fun and easy demon to collect 10 easy stars.
 
 **Level ID:** 69752931
 
