@@ -49,3 +49,13 @@ Demon Mixed by RealOggY is one of the easiest demons in Geometry Dash. Featuring
 ![Demon Mixed](https://i.ytimg.com/vi/EcdsFejldXQ/maxresdefault.jpg)
 
 [Image Source.](https://youtu.be/EcdsFejldXQ?si=Lwn28i1hACLAVOsP)
+
+# Xstep v2 (341613)
+
+xStep v2 is a remake of the [Geometry Dash Lite](/posts/how-to-play-geometry-dash-lite-meltdown-world-subzero-for-free/) level xStep. Considering that xStep itself is very easy, this easy demon remake should be easy to beat and get rewarded with 10 new stars.
+
+**Level ID:** 341613
+
+![Xstep v2](https://i.ytimg.com/vi/p7TtJ46He1g/sddefault.jpg)
+
+![Image Source.](https://youtu.be/p7TtJ46He1g?si=OLd6l3fG9SR1Leyk)
