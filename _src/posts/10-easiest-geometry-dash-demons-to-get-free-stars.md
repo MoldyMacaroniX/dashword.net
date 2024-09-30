@@ -32,15 +32,25 @@ The Nightmare by Jax is regarded as one of the easiest Geometry Dash demon. If y
 
 [Image Source.](https://aminoapps.com/c/geometry-dash/page/blog/the-nightmare-review-parody/ZD27_EXCBuQLD52K4qplKbm1XkW56ZPQXv)
 
-# Shiver (56210242)
+# Platinum Adventure (5904109)
 
-Shiver by SpKale is a newer addition to this list, but don't let that fool you. It is regarded as one of the easiest demons of our time. With just a single practice run, you should have this level down in no time!
+Platinum Adventure by Jerry4 has been one of the easiest demons in Geometry Dash since 2015. While a few moving obstacles might get you early on, after a few attempts, these 10 stars will be some of the easiest you'll ever get!
 
-**Level ID:** 56210242
+**Level ID:** 5904109
 
-![Shiver](https://external-preview.redd.it/shiver-by-spkale-100-and-idk-why-this-was-rated-as-a-demon-v0-aG12NHBqejk2bDdiMVW_F3Vrv9TBR6SVCq46z41Ct1qb3DoXG97y49YMPw9W.png?format=pjpg&auto=webp&s=41bd269362bc73c635a6827f0541d9ee42137838)
+![Platinum Adventure](https://i.ytimg.com/vi/DWGGjNnU5CA/maxresdefault.jpg)
 
-[Image Source.](https://www.reddit.com/r/geometrydash/comments/14g694u/shiver_by_spkale_100_and_idk_why_this_was_rated/)
+[Image Source.](https://youtu.be/DWGGjNnU5CA?si=FR-26_Gj04sCZ9-k)
+
+# Xstep v2 (341613)
+
+xStep v2 is a remake of the [Geometry Dash Lite](/posts/how-to-play-geometry-dash-lite-meltdown-world-subzero-for-free/) level xStep. Considering that xStep itself is very easy, this easy demon remake should be easy to beat and get rewarded with 10 new stars.
+
+**Level ID:** 341613
+
+![Xstep v2](https://i.ytimg.com/vi/FJ_YIYtu_ZI/maxresdefault.jpg)
+
+[Image Source.](https://youtu.be/FJ_YIYtu_ZI?si=qg_xrhJ_kEpeMik8)
 
 # Demon Mixed (566659)
 
@@ -52,15 +62,15 @@ Demon Mixed by RealOggY is one of the easiest demons in Geometry Dash. Featuring
 
 [Image Source.](https://youtu.be/EcdsFejldXQ?si=Lwn28i1hACLAVOsP)
 
-# Xstep v2 (341613)
+# Shiver (56210242)
 
-xStep v2 is a remake of the [Geometry Dash Lite](/posts/how-to-play-geometry-dash-lite-meltdown-world-subzero-for-free/) level xStep. Considering that xStep itself is very easy, this easy demon remake should be easy to beat and get rewarded with 10 new stars.
+Shiver by SpKale is a newer addition to this list, but don't let that fool you. It is regarded as one of the easiest demons of our time. With just a single practice run, you should have this level down in no time!
 
-**Level ID:** 341613
+**Level ID:** 56210242
 
-![Xstep v2](https://i.ytimg.com/vi/FJ_YIYtu_ZI/maxresdefault.jpg)
+![Shiver](https://external-preview.redd.it/shiver-by-spkale-100-and-idk-why-this-was-rated-as-a-demon-v0-aG12NHBqejk2bDdiMVW_F3Vrv9TBR6SVCq46z41Ct1qb3DoXG97y49YMPw9W.png?format=pjpg&auto=webp&s=41bd269362bc73c635a6827f0541d9ee42137838)
 
-[Image Source.](https://youtu.be/FJ_YIYtu_ZI?si=qg_xrhJ_kEpeMik8)
+[Image Source.](https://www.reddit.com/r/geometrydash/comments/14g694u/shiver_by_spkale_100_and_idk_why_this_was_rated/)
 
 # Altos Odyssey (69752931)
 
@@ -81,13 +91,3 @@ InsidiouS by Wintter is an epic easy demon that can be beaten quickly. Just do a
 ![InsidiouS](https://i.imgur.com/46sE1k8.jpeg)
 
 [Image Source.](https://imgur.com/46sE1k8)
-
-# Platinum Adventure (5904109)
-
-Platinum Adventure by Jerry4 has been one of the easiest demons in Geometry Dash since 2015. While a few moving obstacles might get you early on, after a few attempts, these 10 stars will be some of the easiest you'll ever get!
-
-**Level ID:** 5904109
-
-![Platinum Adventure](https://i.ytimg.com/vi/DWGGjNnU5CA/maxresdefault.jpg)
-
-[Image Source.](https://youtu.be/DWGGjNnU5CA?si=FR-26_Gj04sCZ9-k)
