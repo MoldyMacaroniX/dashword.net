@@ -32,6 +32,8 @@ One community member [said the following](https://www.reddit.com/r/geometrydash/
 
 Many players are expressing concern with the level's gameplay, saying the team focused too much on decoration at the cost of gameplay. And while many players are calling the coin very creative, many admit that they do not believe it to be worth going for.
 
+# Next Cab Soon's Mythic Rating
+
 Considering that the NCS Gauntlet Contest is in part a promotion for NoCopyrightSounds, it makes sense for at least one entry to get a Mythic rating. But with so many good candidates, it also makes sense that some community members may be disappointed to see this level receive a Mythic rate instead of other entries they like.
 
 At the end of the day, RobTop has the final say, and if he believes Next Cab Soon to be worthy of Mythic, then he can give it a Mythic rating.
