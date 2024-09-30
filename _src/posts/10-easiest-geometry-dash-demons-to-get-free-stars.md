@@ -29,13 +29,3 @@ The Nightmare by Jax is regarded as one of the easiest Geometry Dash demon. If y
 ![The Nightmare](https://pm1.aminoapps.com/7170/9fb602da968f8c6f6a23494e4ae06850f0291ce6r1-1920-1080v2_hq.jpg)
 
 [Image Source.](https://aminoapps.com/c/geometry-dash/page/blog/the-nightmare-review-parody/ZD27_EXCBuQLD52K4qplKbm1XkW56ZPQXv)
-
-# Iris Gradu (94753259)
-
-Don't let its medium demon difficulty fool you, this level is definitely an easy demon! So long as you play the part at 45% in practice mode, you should have no issue beating this level.
-
-**Level ID:** 94753259
-
-![Iris Gradu](https://i.ytimg.com/vi/6CHI4jzLaJs/maxresdefault.jpg)
-
-[Image Source.](https://youtu.be/6CHI4jzLaJs?si=7VpTvYDoh0cHEkTc)
