@@ -6,7 +6,7 @@ desc: The NCS Gauntlet Contest has seen many entries, but the first NCS Mythic
   seventh Mythic level ever, the third classic mythic level, first Mythic NCS
   level, and first mythic weekly demon. This also makes Geogamer12 the first
   creator to have two mythic levels.
-date: 2024-09-30T18:45:39.112Z
+date: 2024-09-30T19:12:53.761Z
 tags:
   - news
   - featured
