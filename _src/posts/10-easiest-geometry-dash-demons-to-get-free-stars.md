@@ -81,3 +81,13 @@ InsidiouS by Wintter is an epic easy demon that can be beaten quickly. Just do a
 ![InsidiouS](https://i.imgur.com/46sE1k8.jpeg)
 
 [Image Source.](https://imgur.com/46sE1k8)
+
+# Platinum Adventure (5904109)
+
+Platinum Adventure by Jerry4 has been one of the easiest demons in Geometry Dash since 2015. While a few moving obstacles might get you early on, after a few attempts, these 10 stars will be some of the easiest you'll ever get!
+
+**Level ID:** 5904109
+
+![Platinum Adventure](https://i.ytimg.com/vi/DWGGjNnU5CA/maxresdefault.jpg)
+
+[Image Source.](https://youtu.be/DWGGjNnU5CA?si=FR-26_Gj04sCZ9-k)
