@@ -62,6 +62,16 @@ Demon Mixed by RealOggY is one of the easiest demons in Geometry Dash. Featuring
 
 [Image Source.](https://youtu.be/EcdsFejldXQ?si=Lwn28i1hACLAVOsP)
 
+# Lights And Thunder (848722)
+
+Lights And Thunder by Loyd is an easy demon remake of Electrodynamics from Geometry Dash Lite. If you've mastered Electrodynamics, then you can beat Lights And Thunder in no time!
+
+**Level ID:** 848722
+
+![Lights And Thunder](https://i.imgur.com/6kN6zou.jpeg)
+
+[Image Source.](https://imgur.com/a/lights-thunder-geometry-dash-level-3sc5HYN)
+
 # Speed Racer (3543219)
 
 Speed Race by ZenthicAlpha is one of the most popular easy demons in Geometry Dash. While it has some tough ship and ball parts, with some practice, you can collect its 10 stars.
