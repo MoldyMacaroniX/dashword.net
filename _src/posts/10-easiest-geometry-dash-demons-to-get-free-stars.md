@@ -2,7 +2,7 @@
 pageSlug: 10-easiest-geometry-dash-demons-to-get-100-free-stars
 title: 10 Easiest Geometry Dash Demons To Get 100 Free Stars
 desc: a
-date: 2023-10-02T03:22:33.885Z
+date: 2024-09-30T19:20:29.001Z
 tags:
   - guide
 author: moldymacaronix
