@@ -20,7 +20,7 @@ In Geometry Dash, demon levels reward you with 10 stars, the highest reward avai
 
 While some [demon levels are hard](/posts/geometry-dash-demon-list-where-to-find-the-hardest-demons/) and other [demon levels feature secret ways](/posts/geometry-dash-5-secret-way-free-demons/) that can get patched, this is a list of easy Geometry Dash demons that are widely regarded as the easiest in the game.
 
-This easy demon list will consist of classic easy demons to newer ones that you may not have heard of before in order to maximize the amount of new stars you can collect.
+This easy demon list will consist of classic easy demons and newer ones that you may not have heard of before in order to maximize the amount of new stars you can collect.
 
 ---
 
