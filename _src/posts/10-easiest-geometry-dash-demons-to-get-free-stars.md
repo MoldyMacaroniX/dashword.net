@@ -138,3 +138,7 @@ InsidiouS by Wintter is an epic easy demon that can be beaten quickly. Just do a
 ![InsidiouS](https://i.imgur.com/46sE1k8.jpeg)
 
 [Image Source.](https://imgur.com/46sE1k8)
+
+---
+
+For more of the easiest demon levels to collect even more stars, see our list of [free Geometry Dash demons with secret ways](/posts/geometry-dash-5-secret-way-free-demons/).
