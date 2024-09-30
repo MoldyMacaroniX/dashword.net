@@ -16,7 +16,7 @@ imageSource: https://youtu.be/pAxWLIOZItU?si=dOqSxczcRBF41Yb4
 affiliateLinks: false
 hideAds: false
 ---
-In Geometry Dash, demon levels reward you with 10 stars, the highest reward available in online levels. This is why we've compiled a list of the 10 easiest Geometry Dash demons in order to help you get 100 free stars.
+In Geometry Dash, demon levels reward you with 10 stars, the highest reward available in online levels. This is why we've compiled a list of the 10 easiest Geometry Dash demons to help you get 100 free stars.
 
 While some [demon levels are hard](/posts/geometry-dash-demon-list-where-to-find-the-hardest-demons/) and other [demon levels feature secret ways](/posts/geometry-dash-5-secret-way-free-demons/), this is a list of easy Geometry Dash demons that are widely regarded as the easiest in the game.
 
