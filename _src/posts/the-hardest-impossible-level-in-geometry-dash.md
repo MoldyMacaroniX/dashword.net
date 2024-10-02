@@ -10,6 +10,7 @@ desc: The hardest impossible level in Geometry Dash is a widely debated topic,
 date: 2024-10-02T04:24:41.655Z
 tags:
   - demonlist
+  - featured
 author: moldy
 image: https://img.youtube.com/vi/f2Wt1xpvOAs/maxresdefault.jpg
 imageSource: https://youtu.be/f2Wt1xpvOAs?si=dA6rux4B4OgcHrJe
