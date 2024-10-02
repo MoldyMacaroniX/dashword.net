@@ -1,5 +1,5 @@
 ---
-pageSlug: the-hardest-impossible-level-in-geometry-dash
+pageSlug: the-hardest-impossible-level-in-geometry-dash-where-to-find-the-hardest-levels
 title: The Hardest Impossible Level In Geometry Dash - Where To Find The Hardest
   Levels
 desc: The hardest impossible level in Geometry Dash is a widely debated topic,
