@@ -11,8 +11,9 @@ date: 2024-10-02T04:24:41.655Z
 tags:
   - demonlist
 author: moldy
-image: https://i.ytimg.com/vi/5RbZnPb8t_c/maxresdefault.jpg
-imageSource: https://youtu.be/5RbZnPb8t_c?si=KgI56L3WKOJC1VNe
+image: https://img.youtube.com/vi/f2Wt1xpvOAs/maxresdefault.jpg
+imageSource: https://youtu.be/f2Wt1xpvOAs?si=dA6rux4B4OgcHrJe
+videoID: ""
 affiliateLinks: false
 hideAds: false
 ---
