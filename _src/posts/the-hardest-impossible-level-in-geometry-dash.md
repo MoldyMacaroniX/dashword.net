@@ -30,7 +30,7 @@ With all that being said, our list of the hardest impossible levels, hardest lev
 
 1. [The Hardest Impossible Level In Geometry Dash](#the-hardest-impossible-level-in-geometry-dash)
 2. [The Hardest Possible Level In Geometry Dash](#the-hardest-possible-level-in-geometry-dash)
-3. [The Best Geometry Dash Players](the-best-geometry-dash-players)
+3. [The Best Geometry Dash Players](#the-best-geometry-dash-players)
 
 ---
 
