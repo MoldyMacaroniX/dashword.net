@@ -27,6 +27,10 @@ With all that being said, our list of the hardest impossible levels, hardest lev
 
 ---
 
+![Back on Track by Skub, former ](https://i.ytimg.com/vi/NuVZJ7M4gt0/maxresdefault.jpg)
+
+*Back on Track by Skub, one of the most impossible levels in Geometry Dash. [Image Source](https://youtu.be/NuVZJ7M4gt0?si=MbcXsGJKCiFCobLq).*
+
 # The Hardest Impossible Level In Geometry Dash
 
 The hardest impossible level in Geometry Dash is Formosa by Eightos, as ranked by the Hardest Impossible Levels List.
