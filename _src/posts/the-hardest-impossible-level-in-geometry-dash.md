@@ -48,6 +48,10 @@ But there are still many more [impossible levels](/posts/geometry-dash-levels-wh
 9. Ballistic Wistfully by Eightos and more
 10. RAIN by Skyyee
 
+![Formosa by Eightos](https://i.ytimg.com/vi/IvPEk5FKq0A/maxresdefault.jpg)
+
+*Formosa by Eightos, the hardest impossible level in Geometry Dash. [Image Source](https://youtu.be/IvPEk5FKq0A?si=xgYkB_cjmiPbSxEk).*
+
 # The Hardest Possible Level In Geometry Dash
 
 The hardest Geometry Dash level completed is Tidal Wave by OniLink and completed by Zoink. This is the hardest level in Geometry Dash, featuring lots of decorations and fast wave gameplay.
@@ -67,4 +71,23 @@ Aside from Tidal Wave, levels like Acheron, [Slaughterhouse](/posts/geometry-das
 9. Sakupen Circles by Diamond
 10. KOCMOC by Cherry Team
 
+![Tidal Wave by OniLink, verified by Zoink.](https://pbs.twimg.com/ext_tw_video_thumb/1716498597833809920/pu/img/EhqOUDA4MEH8G4t9.jpg:large)
+
+*Tidal Wave by OniLink, verified by Zoink. [Image Source](https://x.com/GD_Loops/status/1716499198818779487).*
+
 # The Best Geometry Dash Players
+
+The current best Geometry Dash player is Zoink. Aside from Zoink, Trick, wPopoff, and Thnnder are other top players.
+
+To include more of the [top Geometry Dash players](/posts/top-10-best-countries-at-geometry-dash/) ranked by the [Demon List](/categories/demonlist/), here is a list of the 10 best players in Geometry Dash:
+
+1. Zoink
+2. Trick
+3. wPopoff
+4. Thnnder
+5. Taiago
+6. Netermind
+7. Doggie
+8. SnowBallerr
+9. ViperVenom95
+10. Laniakea
