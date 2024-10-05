@@ -79,9 +79,9 @@ module.exports = (config) => {
         const $ = cheerio.load(content);
         // Inject ads after 3rd <p> tag, then after every 3
         const r = $("article p:nth-of-type(3), article p:nth-of-type(3n)");
-        $(r).after('<div class="inline-slot"><div class="article-notice">Article continues after ad</div><div style="background-color: var(--grey); max-width: 1300px; margin: 10px 0;"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4971544242804665" crossorigin="anonymous"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4971544242804665" data-ad-slot="7482589955"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>');
+        $(r).after('<div class="inline-slot"><div class="article-notice" aria-hidden="true">Article continues after ad</div><div style="background-color: var(--format-bg); max-width: 1300px; margin: 10px 0;"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4971544242804665" crossorigin="anonymous"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4971544242804665" data-ad-slot="7482589955"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>');
         const s = $("article p:nth-of-type(2)");
-        $(s).after('<div id="rec-filler"></div><script>document.getElementById("rec-filler").innerHTML = rec</script>');
+        $(s).after('<!--<div id="rec-filler"></div><script>document.getElementById("rec-filler").innerHTML = rec</script>-->');
         return $.html();
     });
 

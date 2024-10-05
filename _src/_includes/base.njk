@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-color-scheme="system">
 <head>
 
     <!--
@@ -121,24 +121,47 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
     <script type="text/javascript" src="/assets/js/barn.js"></script>
 
 </head>
-<body onmouseleave="beforeLeave();" id="body">
-
+<body id="body">
+    {# onmouseleave="beforeLeave();" #}
     <script>
+        var isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
         var body = document.getElementById("body");
         async function setThemeDevice() {
             localStorage.setItem("theme", "system");
-            body.classList.remove("light");
-            body.classList.remove("dark");
+            //body.classList.remove("light");
+            //body.classList.remove("dark");
+            document.body.classList.remove('light');
+            document.body.classList.remove('dark');
+            document.documentElement.style.overflow = "hidden";
+            if (isDarkMode) {
+                document.documentElement.setAttribute("data-color-scheme", "dark");
+            } else {
+                document.documentElement.setAttribute("data-color-scheme", "light");
+            }
+            document.body.clientWidth;
+            document.documentElement.style.overflow = "";
         }
         async function setThemeLight() {
             localStorage.setItem("theme", "light");
-            body.classList.add("light");
-            body.classList.remove("dark");
+            //body.classList.add("light");
+            //body.classList.remove("dark");
+            document.body.classList.add('light');
+            document.body.classList.remove('dark');
+            document.documentElement.style.overflow = "hidden";
+            document.documentElement.setAttribute("data-color-scheme", "light");
+            document.body.clientWidth;
+            document.documentElement.style.overflow = "";
         }
         async function setThemeDark() {
             localStorage.setItem("theme", "dark");
-            body.classList.add("dark");
-            body.classList.remove("light");
+            //body.classList.add("dark");
+            //body.classList.remove("light");
+            document.body.classList.remove('light');
+            document.body.classList.add('dark');
+            document.documentElement.style.overflow = "hidden";
+            document.documentElement.setAttribute("data-color-scheme", "dark");
+            document.body.clientWidth;
+            document.documentElement.style.overflow = "";
         }
         checkTheme();
         async function checkTheme() {
