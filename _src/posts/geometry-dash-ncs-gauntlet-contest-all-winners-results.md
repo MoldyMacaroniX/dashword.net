@@ -22,6 +22,8 @@ The [Geometry Dash NCS Gauntlet Contest](/posts/robtop-announces-geometry-dash-n
 
 With up to $1000 available for the top spot, masterpieces were submitted to this contest. With this resulting in three [new Mythic levels](/posts/rage-quit-by-bli-becomes-first-easy-mythic-level-in-geometry-dash/), [Next Cab Soon](/posts/ncs-mythic-level-next-cab-soon-becomes-7th-mythic-in-geometry-dash/), BER ZER KER, and WANNACRY, the NCS Gauntlet Contest has been one of the best events Geometry Dash has ever seen.
 
+Along with [NCS being added to the Geometry Dash Music Library](/posts/ncs-added-to-geometry-dash-music-library/) and the [release of Geometry Dash update 2.206](/posts/geometry-dash-2-206-released-on-ios-android-and-steam/), the NCS Gauntlet Contest was announced on June 1, 20204. Since then, [amazing levels](/posts/geometry-dash-levels-how-to-make-a-featured-level-2022/) by creators like Serponge, Subwoofer, and more have amazed the Geometry Dash community.
+
 Here, you'll find a list of all the winning levels and creators. The levels which made it into Geometry Dash's two new NCS Gauntlets will also be listed.
 
 # Geometry Dash NCS Gauntlet Results
