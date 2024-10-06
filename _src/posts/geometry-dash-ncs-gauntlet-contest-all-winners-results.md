@@ -13,8 +13,8 @@ tags:
   - "2.2"
   - featured
 author: moldy
-image: https://i.imgur.com/bFagY5e.png
-imageSource: https://imgur.com/a/geometry-dash-ncs-gauntlet-contest-results-qmiNppY
+image: https://i.imgur.com/PPThiTo.png
+imageSource: https://imgur.com/a/geometry-dash-ncs-gauntlet-contest-results-icons-64To9Dp
 affiliateLinks: false
 hideAds: false
 ---
