@@ -1,16 +1,18 @@
 ---
-title: "Geometry Dash Demon Keys: 2 Easy Ways To Collect Demon Keys"
-desc: Here are 2 easy ways to farm demon keys in Geometry Dash, including the best methods to do so.
-image: https://media.discordapp.net/attachments/392087938239954950/1018249314176348191/unknown.png?width=1202&height=676
+title: "Geometry Dash Demon Keys: Easy Ways To Collect Demon Keys"
+desc: Here are two easy ways to farm demon keys in Geometry Dash, including the
+  best methods to do so.
 date: 2022-09-17
 tags:
-    - guide
+  - guide
 author: moldy
+image: https://i.imgur.com/anGahiL.png
+imageSource: https://imgur.com/anGahiL
 ---
 
 Geometry Dash demon keys are used to unlock treasure chests from the [treasure room](/posts/geometry-dash-all-vaults-and-secrets-2022/#treasure-room), but how to obtain them is a little confusing at first.
 
-You get 1 demon key for every 500 [mana orbs](/posts/geometry-dash-how-to-get-mana-orbs-easy/) you collect, **excluding** mana orbs from daily chests and treasure chests. This means that mana orbs only count towards demon keys [if you get them from a rated level](/posts/geometry-dash-how-to-get-mana-orbs-easy/#complete-levels) (excluding auto levels).
+You get one demon key for every 500 [mana orbs](/posts/geometry-dash-how-to-get-mana-orbs-easy/) you collect, **excluding** mana orbs from daily chests and treasure chests. This means that mana orbs only count towards demon keys [if you get them from a rated level](/posts/geometry-dash-how-to-get-mana-orbs-easy/#complete-levels) (excluding auto levels).
 
 Fortunately, there are some simple techniques to easily get mana orbs from levels and collect demon keys.
 
