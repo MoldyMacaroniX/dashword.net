@@ -102,6 +102,6 @@ To include more of the [top Geometry Dash players](/posts/top-10-best-countries-
 
 ---
 
-**There you go, that's everything you need to know about the hardest Geometry Dash levels. For more on the hardest Geometry Dash levels, you can our other stories on the topic:**
+**There you go, that's everything you need to know about the hardest Geometry Dash levels. For more on the hardest Geometry Dash levels, you can see our other stories on the topic:**
 
 [Geometry Dash Platformer Demon List - Where To Find The Hardest Platformer Levels](/posts/geometry-dash-platformer-demon-list-where-to-find-the-hardest-platformer-levels/) - [Geometry Dash: RobTop Says Why He Doesn't Want To Rate Tidal Wave](/posts/robtop-confirms-tidal-wave-will-not-be-rated/) - [Geometry Dash Slaughterhouse Remake "Grief" Finished & Set To Be Verified By Doggie](/posts/geometry-dash-slaughterhouse-sequel-grief-verified-and-set-to-be-verified-by-doggie/)

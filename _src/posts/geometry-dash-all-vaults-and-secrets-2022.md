@@ -7,7 +7,8 @@ tags:
   - featured
   - guide
 author: moldy
-image: https://media.discordapp.net/attachments/392087938239954950/1013589026709712996/unknown.png?width=1202&height=676
+image: https://i.imgur.com/k6aaeWq.png
+imageSource: https://imgur.com/a/geometry-dash-basement-42YEGxA
 ---
 
 If you're looking for free icons, colors, and rewards, every Geometry Dash secret area has something to offer.
@@ -22,11 +23,13 @@ In case you're looking for easy icons to add to your kit, here is how to unlock 
 - [Treasure Room](#treasure-room)
 - [Secret Shop](#secret-shop)
 - [Community Shop](#community-shop)
+- [The Mechanic](#the-mechanic)
+- [Diamond Shop](#diamond-shop)
 - [The Basement](#the-basement)
 
 # The Vault
 
-![The Vault](https://media.discordapp.net/attachments/392087938239954950/1013588383458656467/unknown.png?width=1202&height=676)
+![The Vault](https://i.imgur.com/aSGtgnb.png)
 
 The Vault is the easiest secret area to unlock. All you need is 10 silver user coins. Once it is unlocked, you can get free icons, colours, and coins.
 
@@ -42,7 +45,7 @@ Once The Vault is unlocked, [enter these codes to get free rewards](/posts/geome
 
 # Vault of Secrets
 
-![Vault of Secrets](https://media.discordapp.net/attachments/392087938239954950/1013588500114849812/unknown.png?width=1202&height=676)
+![Vault of Secrets](https://i.imgur.com/0bDZMJo.png)
 
 The Vault of Secrets is slightly harder to unlock than The Vault. You need 50 diamonds to unlock it. Once you do, you can get free icons, colours, and even a secret level.
 
@@ -58,7 +61,7 @@ Once the Vault of Secrets is unlocked, [enter these codes to get free rewards](/
 
 # Chamber of Time
 
-![Chamber of Time](https://media.discordapp.net/attachments/392087938239954950/1013588586286809088/unknown.png?width=1202&height=676)
+![Chamber of Time](https://i.imgur.com/C1jrRjy.png)
 
 The Chamber of Time is the hardest of the three vaults to unlock. It requires many steps, but by following this easy guide, I'm sure you'll unlock it in no time. Once unlocked, you can get free rewards and a secret key.
 
@@ -84,13 +87,13 @@ Here is how to unlock the Chamber of Time:
 16. Go to the last page. It will say "coming soon."
 17. Press the bottom middle of the page. Finally, you're in!
 
-If you are having trouble collecting demon keys, here is [how to get demon keys easily](/posts/geometry-dash-how-to-get-demon-keys-easy/). If you are having trouble collecting Mana Orbs, here are [some tips for getting lots of Mana Orbs](/posts/geometry-dash-how-to-get-mana-orbs-easy/).
+If you are having trouble collecting Mana Orbs, here are [some tips for getting lots of Mana Orbs in Geometry Dash](/posts/geometry-dash-how-to-get-mana-orbs-easy/).
 
 Once the Chamber of Time is unlocked, [enter these codes to get free rewards](/posts/geometry-dash-all-vault-codes-2022/#chamber-of-time-codes).
 
 # Treasure Room
 
-![Treasure Room](https://media.discordapp.net/attachments/392087938239954950/1013588686920757278/unknown.png?width=1202&height=676)
+![Treasure Room](https://i.imgur.com/anGahiL.png)
 
 The Treasure Room is one of the easiest secret areas to unlock. All you need is 5 demon keys. Once obtained, you unlock over a hundred treasure chests that can be unlocked with the demon keys you collected and any future demon keys you get.
 
@@ -100,13 +103,13 @@ Here is how to unlock the Treasure Room:
 2. Once on the main menu, press the toolkit button (right of the big play button) to access the online portion of the game.
 3. Press the door in the bottom right corner.
 
-You collect A demon keys for every 500 Mana Orbs you collect. Here is [how to get demon keys easily](/posts/geometry-dash-how-to-get-demon-keys-easy/).
+You collect A demon keys for every 500 Mana Orbs you collect. Here is a guide on [how to get demon keys easily in Geometry Dash](/posts/geometry-dash-how-to-get-demon-keys-easy/).
 
 Once you unlock the Treasure Room, you can unlock treasure chests using demon keys. They can reward icons, orbs, shards, or other rewards.
 
 # Secret Shop
 
-![Secret Shop](https://media.discordapp.net/attachments/392087938239954950/1013588766675456071/unknown.png?width=1202&height=676)
+![Secret Shop](https://i.redd.it/i7vm3ayr8pbc1.jpeg)
 
 You may be familiar with The Shop, which can be accessed by clicking the rope on the icon select page. However, there are two other shops in the game. 
 
@@ -121,13 +124,11 @@ Here is how to unlock the Secret Shop:
 4. Press the left arrow to access the secret shops page.
 5. Keep pressing the blueish-green rope until you are let into the Secret Shop.
 
-If you need help collecting demon keys and diamonds, here are [easy ways to get demon keys](/posts/geometry-dash-how-to-get-demon-keys-easy/) and [easy ways to get diamonds](/posts/geometry-dash-how-to-get-diamonds-easy/).
-
 Once you unlock the Secret Shop, you can buy many cool icons and effects. You also need to unlock this shop to access the [Chamber of Time](#chamber-of-time) and complete the prisoner's quest.
 
 # Community Shop
 
-![Community Shop](https://media.discordapp.net/attachments/392087938239954950/1013588915246088223/unknown.png?width=901&height=676)
+![Community Shop](https://i.redd.it/y0m666h3fr721.jpg)
 
 The community shop contains some of the coolest icons in the game, having been designed by the game players. You can unlock it with only 5 demon keys and 200 diamonds, making it easier to access than the Secret Shop, which requires 500 diamonds.
 
@@ -137,16 +138,46 @@ Here is how to unlock the Community Shop:
 2. Collect 200 diamonds.
 3. Once on the main menu, press the toolkit button (right of the big play button) to access the online portion of the game.
 3. Press the door in the bottom right corner.
-4. Press the left array to access the secret shops page.
+4. Press the left arrow to access the secret shops page.
 5. Keep pressing the purple rope until you are let into the Community Shop.
-
-If you need help collecting demon keys and diamonds, here are [easy ways to get demon keys](/posts/geometry-dash-how-to-get-demon-keys-easy/) and [easy ways to get diamonds](/posts/geometry-dash-how-to-get-diamonds-easy/).
 
 Once you unlock the Community Shop, you can buy some of the coolest icons in the game, designed by the community.
 
+# The Mechanic
+
+![The Mechanic](https://i.redd.it/why-is-everything-at-the-mechanic-so-expensive-v0-unv1o9ppy18c1.jpg?width=1652&format=pjpg&auto=webp&s=5f3d2da1a3a0c9683aa43d2644c5508dd4ea2f7a)
+
+Added in [Geometry Dash update 2.2](/categories/2.2/), The Mechanic not only sells cool icons, but also icon animations for the [robot and spider game modes](/posts/full-history-of-geometry-dash-gamemodes-1-0-2-2/) and the ability to change your menu music, among other things.
+
+You can unlock it with 5 demon keys and 2000 diamonds, making it an expensive shop to access, but it has some of the best icons for sale in the entire game.
+
+Here is how to unlock the Mechanic:
+
+1. Collect 5 demon keys.
+2. Collect 2000 diamonds.
+3. Once on the main menu, press the toolkit button (right of the big play button) to access the online portion of the game.
+3. Press the door in the bottom right corner.
+4. Press the left arrow to access the secret shops page.
+5. Keep pressing the grey rope with a wrench on it until you are let into the Mechanic's shop.
+
+# Diamond Shop
+
+![Diamond Shop](https://i.ytimg.com/vi/FGd7tm-Vt48/maxresdefault.jpg)
+
+Added in [Geometry Dash update 2.2](/categories/2.2/), the diamond shop sells cool icons not only sells cool icons of all kinds. It costs 5 demon keys and 1000 diamonds to enter, making it expensive, but not as expensive as [the Mechanic's shop](#the-mechanic).
+
+Here is how to unlock the Diamond Shop:
+
+1. Collect 5 demon keys.
+2. Collect 1000 diamonds.
+3. Once on the main menu, press the toolkit button (right of the big play button) to access the online portion of the game.
+3. Press the door in the bottom right corner.
+4. Press the left arrow to access the secret shops page.
+5. Keep pressing the blue rope with a diamond on it until you are let into the Mechanic's shop.
+
 # The Basement
 
-![The Basement](https://media.discordapp.net/attachments/392087938239954950/1013589026709712996/unknown.png?width=1202&height=676)
+![The Basement](https://i.imgur.com/k6aaeWq.png)
 
 The final and hardest to complete secret area in Geometry Dash is The Basement. Unlocking this area is easy, but getting its rewards is not. Once you complete the quest associated with The Basement, you will get a treasure chest with an icon and will unlock the Demon Gauntlet.
 
