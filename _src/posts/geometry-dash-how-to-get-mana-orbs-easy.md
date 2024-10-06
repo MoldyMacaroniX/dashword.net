@@ -1,11 +1,13 @@
 ---
 title: "Geometry Dash Mana Orbs: 3 Easy Ways To Collect Mana Orbs And Buy Icons"
-desc: Geometry Dash diamonds are required to unlock many secrets in the game, such as the Vault of Secrets and the Secret Shop.
-image: https://media.discordapp.net/attachments/392087938239954950/1018250191696048148/unknown.png?width=1202&height=676
+desc: Geometry Dash diamonds are required to unlock many secrets in the game,
+  such as the Vault of Secrets and the Secret Shop.
 date: 2022-09-17
 tags:
-    - guide
+  - guide
 author: moldy
+image: https://i.ytimg.com/vi/GgrLb6AzJDY/maxresdefault.jpg
+imageSource: https://youtu.be/GgrLb6AzJDY?si=5-0xyt0IQ9AAOekF
 ---
 
 Mana Orbs are Geometry Dash's currency. You can use them to buy icons, ships, UFOs, and every other gamemode. They can also be used to buy death effects and other secrets, such as the Master Emblem.
