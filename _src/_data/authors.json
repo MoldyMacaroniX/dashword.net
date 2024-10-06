@@ -233,8 +233,15 @@
     {
         "key": "mathgenius",
         "name": "MathGenius",
+		"bio":"Geometry Dash Content Creator // Graphic Design, Film, Journalism Student // Geography and Music Enthusiast ",
         "photo": "https://yt3.googleusercontent.com/Y8rESU1Ak_g17pacA_lgRBI5Z4BZQ_3tM37MFz58jKmXP5ptlp_CrrUU6nBXzrHL3e-j0ijfZw=s160-c-k-c0x00ffffff-no-rj",
-        "verified":true
+        "youtube":"@MathGeniusGD",
+		"twitch":"mathgeniusgd",
+		"handle":true,
+		"twitter":"mathgeniusgd",
+		"discord":"sZMCpj7Pwq",
+		"gdbrowser":"MathGeniusGD",
+		"verified":true
     },
 	{
 		"key":"tride",
