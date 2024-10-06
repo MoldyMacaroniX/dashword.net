@@ -22,6 +22,27 @@ layout: false
       "tags":"{% for tag in post.data.tags %} <a href='/categories/{{ tag | slug }}/'>{{ tag | capitalize }}</a>{% endfor %} <i class='ri-price-tag-3-line'></i>",
       "image":"{{ post.data.image | safe }}",
       "date":"{{ post.data.date | readableDate }}"
+   },
+   {# {% if not loop.last %},{% endif %} #}
+   {% endfor %} 
+   {% for post in collections.quizzes %}
+   {% set myAuthor = authors | getAuthor(post.data.author) %}
+   {
+      "title":"{{ post.data.title }}",
+      "url":"{{ post.url }}",
+      {# "author":"{{ myAuthor.name }}", #}
+      {% set isArr = post.data.author | isArray %}
+      {% if isArr %}
+      "author":"<span class='tags'>{% for a in post.data.author %}{% set myAuthor = authors | getAuthor(a) %}<a href='/authors/{{ myAuthor.key }}/'>{{ myAuthor.name }}</a>{% endfor %}<i class='ri-user-3-line'></i></span>",
+      {% else %}
+      "author":"{% set myAuthor = authors | getAuthor(post.data.author) %}<a href='/authors/{{ myAuthor.key }}/' class='author'>{{ myAuthor.name }} <i class='ri-user-3-line'></i></a>",
+      {% endif %}
+      "authorKey":"{{ myAuthor.key }}",
+      "authorName":"{{ myAuthor.name }}",
+      "content":"{{ post.data.desc }}",
+      "tags":"{% for tag in post.data.tags %} <a href='/categories/{{ tag | slug }}/'>{{ tag | capitalize }}</a>{% endfor %} <i class='ri-price-tag-3-line'></i>",
+      "image":"{{ post.data.image | safe }}",
+      "date":"{{ post.data.date | readableDate }}"
    }{% if not loop.last %},{% endif %}
    {% endfor %} 
 ]

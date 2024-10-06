@@ -185,7 +185,7 @@ module.exports = (config) => {
         const itemsPerPage = postsPerPaginatedPage;
         let blogpostsByCategories = [];
         let allBlogposts = collection
-        .getFilteredByGlob("_src/posts/*.md")
+        .getFilteredByGlob(["_src/posts/*.md", "_src/podcast/*.md", "_src/quizzes/*.md"])
         .reverse();
         let blogpostsCategories = getAllKeyValues(allBlogposts, "author");
     

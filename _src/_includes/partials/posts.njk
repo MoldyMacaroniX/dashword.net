@@ -1,3 +1,6 @@
+{% if post.data.podcast %}
+{% include 'partials/podcasts.njk' %}
+{% else %}
 <div class="post cols">
     <a class="image" href="{{ post.url }}">
         <div class="aspect">
@@ -38,3 +41,4 @@
         </span>
     </div>
 </div>
+{% endif %}
