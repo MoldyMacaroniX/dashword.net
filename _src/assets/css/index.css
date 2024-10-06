@@ -632,6 +632,10 @@ button.mobile-item {
 
 /* Post */
 
+.podcast {
+    align-items: center;
+}
+
 .post {
     margin-top: 25px;
 }

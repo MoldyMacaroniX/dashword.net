@@ -4,6 +4,22 @@
         <a class="title" href="{{ post.url }}">{{ post.data.title }}</a>
         <a class="desc" href="{{ post.url }}">{{ post.data.desc }}</a>
         <span class="meta">
+            {% if post.data.author %}
+                {# {% set myAuthor = authors | getAuthor(post.data.author) %}<a href="/authors/{{ myAuthor.key }}" class="author">{{ myAuthor.name }} <i class="ri-user-3-line"></i></a> #}
+
+                {% set isArr = post.data.author | isArray %}
+                {% if isArr %}
+                    <span href="#" class="tags">
+                        {% for a in post.data.author %}
+                            {% set myAuthor = authors | getAuthor(a) %}<a href="/authors/{{ myAuthor.key }}/">{{ myAuthor.name }}</a>
+                        {% endfor %}
+                        <i class="ri-user-3-line"></i>
+                    </span>
+                {% else %}
+                    {% set myAuthor = authors | getAuthor(post.data.author) %}<a href="/authors/{{ myAuthor.key }}/" class="author">{{ myAuthor.name }} <i class="ri-user-3-line"></i></a>
+                {% endif %}
+
+            {% endif %}
             <a href="{{ post.url }}" class="date">{{ post.data.date | readableDate }} <i class="ri-time-line"></i></a>
         </span>
     </div>

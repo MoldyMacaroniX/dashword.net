@@ -53,17 +53,20 @@ hasModal: true
                             <p class="result-desc"><a :href="result.url"><span v-html="result.content"></span></a></p>
                         </div>
                     </div> #}
-                    <div class="post cols">
-                        <a class="image" :href="result.url">
+                    <div class="podcast post cols">
+                        <a class="image" :href="result.url" v-if="result.image">
                             <div class="aspect">
                                 <img :src="result.image" :alt="result.title" loading="lazy">
                             </div>
+                        </a>
+                        <a class="play" :href="result.url" v-else>
+                            <i class="ri-play-fill"></i>
                         </a>
                         <div class="content col">
                             <a :href="result.url" class="title" style="text-transform: capitalize" v-html="result.title"></a>
                             <a :href="result.url" class="desc" v-html="result.content"></a>
                             <span class="meta">
-                                <span v-html="result.author"></span> <a :href="result.url" class="date"><span v-html="result.date"></span> <i class="ri-time-line"></i></a> <span class="tags" v-html="result.tags"></span>
+                                <span v-html="result.author"></span> <a :href="result.url" class="date"><span v-html="result.date"></span> <i class="ri-time-line"></i></a> <span class="tags" v-html="result.tags" v-if="result.tags"></span>
                             </span>
                         </div>
                     </div>
