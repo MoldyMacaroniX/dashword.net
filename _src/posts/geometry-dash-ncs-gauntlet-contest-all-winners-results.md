@@ -82,3 +82,9 @@ The second Geometry Dash NCS Gauntlet consists of the five hardest levels in the
 | 5 | WANNACRY | Kyra9999 | 110774330 |
 
 Like the first Gauntlet, these levels are ordered from easiest to hardest, not by where they placed in the contest.
+
+---
+
+[Geometry Dash update 2.2](/posts/geometry-dash-2-2-released/) has only been out for less than a year, but we've already seen some of the best levels ever made in this indie mobile game by RobTop Games. Not to mention an official collaboration with NCS.
+
+This event has made clear that the Geometry Dash community is unlike any other in its dedication. Props to all who made a level for this contest, not just the winners! And if you didn't make a level, don't worry. There's always the next contest!
