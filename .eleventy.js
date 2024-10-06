@@ -80,8 +80,12 @@ module.exports = (config) => {
         // Inject ads after 3rd <p> tag, then after every 3
         const r = $("article p:nth-of-type(3), article p:nth-of-type(3n)");
         $(r).after('<div class="inline-slot"><div class="article-notice" aria-hidden="true">Article continues after ad</div><div style="background-color: var(--format-bg); max-width: 1300px; margin: 10px 0;"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4971544242804665" crossorigin="anonymous"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4971544242804665" data-ad-slot="7482589955"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>');
+        // Inject up next after 2nd <p> tag
         const s = $("article p:nth-of-type(2)");
         $(s).after('<!--<div id="rec-filler"></div><script>document.getElementById("rec-filler").innerHTML = rec</script>-->');
+        // Wrap all article tables with table wrapper div
+        const t = $("article table");
+        $(t).wrap('<div class="table-wrapper"></div>');
         return $.html();
     });
 
