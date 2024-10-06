@@ -1,6 +1,6 @@
 ---
 title: "Geometry Dash Demon Keys: Easy Ways To Collect Demon Keys"
-desc: Here are 2 easy ways to farm demon keys in Geometry Dash, including the
+desc: Here are two easy ways to farm demon keys in Geometry Dash, including the
   best methods to do so.
 date: 2022-09-17
 tags:
