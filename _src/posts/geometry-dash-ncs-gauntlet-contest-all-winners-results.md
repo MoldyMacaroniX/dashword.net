@@ -54,3 +54,31 @@ You can see all the winning NCS Gauntlet Contest levels and creators below.
 | 18 | Electric Algal Bloom | ImMaXx1 | 110535166 |
 | 19 | The Whale | Serponge | 110741112 |
 | 20 | The Diablo | Pipenachho | 110679874 |
+
+# Geometry Dash NCS Gauntlet 1 Levels
+
+The first Geometry Dash NCS Gauntlet consists of the five easiest levels in the top 10. They are listed in the order they are in the Gauntlet in the table below.
+
+| Order | Level | Creator | ID |
+|-----------|-------|---------|----|
+| 1 | BUSSIN | connot | 110715909 |
+| 2 | BER ZER KER | Grax | 110774313 |
+| 3 | Quebrantar | Debihan | 110665441 |
+| 4 | Next Cab Soon | Geogamer12 | 110610038|
+| 5 | The Incinerator | vegtam | 109432148 |
+
+Note that these levels are ordered from easiest to hardest, not by where they placed in the NCS Gauntlet Contest.
+
+# Geometry Dash NCS Gauntlet 2 Levels
+
+The second Geometry Dash NCS Gauntlet consists of the five hardest levels in the top 10. They are listed in the order they are in the Gauntlet in the table below.
+
+| Order | Level | Creator | ID |
+|-----------|-------|---------|----|
+| 1 | Slasher | Whirl | 110681124 |
+| 2 | I See Stars | meeloz | 110774310 |
+| 3 | Neozenith | F5night | 110638716 |
+| 4 | MAGISTRO | CHRAPIVA | 110473393 |
+| 5 | WANNACRY | Kyra9999 | 110774330 |
+
+Like the first Gauntlet, these levels are ordered from easiest to hardest, not by where they placed in the contest.
