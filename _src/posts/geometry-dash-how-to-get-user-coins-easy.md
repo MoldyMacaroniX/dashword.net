@@ -34,15 +34,15 @@ Here are how to get all three coins in ReTraY:
 
 1. The first coin is in the first ship part. After flying through two green pillars, fly to the top of the screen to collect the first user coin. While the green squares look like obstacles, you can pass right through them, so it's easy!
 
-    ![ReTraY first coin](https://media.discordapp.net/attachments/392087938239954950/1013584762390196324/ReTrAy_geometry_dash_made_by_DiMa_viKuLov26_0-11_screenshot.png?width=1202&height=676)
+    <!--![ReTraY first coin](https://media.discordapp.net/attachments/392087938239954950/1013584762390196324/ReTrAy_geometry_dash_made_by_DiMa_viKuLov26_0-11_screenshot.png?width=1202&height=676)-->
 
 2. The second coin is in the first ball part. This part has some pillar obstacles to avoid. However, you can simply go through the second one, rewarding you with the second coin. Once again, there are no other obstacles to stop you.
 
-    ![ReTraY second coin](https://media.discordapp.net/attachments/392087938239954950/1013584946318807100/ReTrAy_geometry_dash_made_by_DiMa_viKuLov26_0-23_screenshot.png?width=1202&height=676)
+    <!--![ReTraY second coin](https://media.discordapp.net/attachments/392087938239954950/1013584946318807100/ReTrAy_geometry_dash_made_by_DiMa_viKuLov26_0-23_screenshot.png?width=1202&height=676)-->
 
 3. The third coin in ReTraY is the easiest. At the end of the level, there is a yellowish-green heart. Once you collect it, you get a coin. There are no obstacles in the part to hurt you, so it's essentially free.
 
-    ![ReTraY third coin](https://media.discordapp.net/attachments/392087938239954950/1013585323810365450/ReTrAy_geometry_dash_made_by_DiMa_viKuLov26_0-57_screenshot.png?width=1202&height=676)
+    <!--![ReTraY third coin](https://media.discordapp.net/attachments/392087938239954950/1013585323810365450/ReTrAy_geometry_dash_made_by_DiMa_viKuLov26_0-57_screenshot.png?width=1202&height=676)-->
 
 # Dark Paradise by Roli GD (11280109)
 
@@ -52,15 +52,15 @@ Here are how to get all three coins in Dark Paradise:
 
 1. The first coin is in the first part. Once your gravity is flipped, you will be bounced onto a slope. At the end of the slope, is a jump pad. Rather than using the jump pad, you can jump over it to collect the first coin in a secret route. But be careful, because the timing can be a little tricky.
 
-    ![Dark Paradise first coin](https://media.discordapp.net/attachments/392087938239954950/1013585847913816134/Dark_Paradise_All_Coins_II_By_Roli_GD_II_Geometry_Dash_0-11_screenshot.png?width=1198&height=676)
+    <!--![Dark Paradise first coin](https://media.discordapp.net/attachments/392087938239954950/1013585847913816134/Dark_Paradise_All_Coins_II_By_Roli_GD_II_Geometry_Dash_0-11_screenshot.png?width=1198&height=676)-->
 
 2. The second coin is in the first ball part. Instead of pressing on the first yellow jump ring, you can ignore it and continue down an alternate route. You can then collect a coin and press to go back to the main route.
 
-    ![Dark Paradise second coin](https://media.discordapp.net/attachments/392087938239954950/1013585961801756724/Dark_Paradise_All_Coins_II_By_Roli_GD_II_Geometry_Dash_0-22_screenshot.png?width=1198&height=676)
+    <!--![Dark Paradise second coin](https://media.discordapp.net/attachments/392087938239954950/1013585961801756724/Dark_Paradise_All_Coins_II_By_Roli_GD_II_Geometry_Dash_0-22_screenshot.png?width=1198&height=676)-->
 
 3. The third coin is the hardest to get but fortunately isn't hidden very well. In the first ship part, there is an obstacle that you are supposed to fly above, but underneath it is a coin. However, there are also deadly spikes, so getting through is not easy. I recommend sliding on the floor and with a light press, you can just make it through with minimal input. I recommend using practice mode before trying it out in normal mode.
 
-    ![Dark Paradise second coin](https://media.discordapp.net/attachments/392087938239954950/1013586045985620080/Dark_Paradise_All_Coins_II_By_Roli_GD_II_Geometry_Dash_0-44_screenshot.png?width=1198&height=676)
+    <!--![Dark Paradise second coin](https://media.discordapp.net/attachments/392087938239954950/1013586045985620080/Dark_Paradise_All_Coins_II_By_Roli_GD_II_Geometry_Dash_0-44_screenshot.png?width=1198&height=676)-->
 
 # Sonar by Jerkrat (4454123)
 
@@ -70,15 +70,15 @@ Here are how to get all three coins in Sonar:
 
 1. The first coin is in the ship part. There is a spot in the first pillar on the top of the screen you can fly through to get a coin.
 
-    ![Sonar first coin](https://media.discordapp.net/attachments/392087938239954950/1013586521040879736/Geometry_Dash_-_Sonar_By_Jerkrat_All_Coins_0-35_screenshot.png?width=1202&height=676)
+    <!--![Sonar first coin](https://media.discordapp.net/attachments/392087938239954950/1013586521040879736/Geometry_Dash_-_Sonar_By_Jerkrat_All_Coins_0-35_screenshot.png?width=1202&height=676)-->
 
 2. The second coin is right after the ship part. There are some pillars you're supposed to jump up, but you can fall before the last one to collect a coin. But be careful, as you have to jump quickly after to make it back to the main route, but not too early or you'll hit the ceiling.
 
-    ![Sonar second coin](https://media.discordapp.net/attachments/392087938239954950/1013586668126736404/Geometry_Dash_-_Sonar_By_Jerkrat_All_Coins_0-47_screenshot.png?width=1202&height=676)
+    <!--![Sonar second coin](https://media.discordapp.net/attachments/392087938239954950/1013586668126736404/Geometry_Dash_-_Sonar_By_Jerkrat_All_Coins_0-47_screenshot.png?width=1202&height=676)-->
 
 3. The third coin is in the wave part. There is a structure you can easily go through to get the last coin. You can also slide on the floor once you're in the structure, making it easy to leave once you're in.
 
-    ![Sonar third coin](https://media.discordapp.net/attachments/392087938239954950/1013586999959109652/Geometry_Dash_-_Sonar_By_Jerkrat_All_Coins_1-6_screenshot.png?width=1202&height=676)
+    <!--![Sonar third coin](https://media.discordapp.net/attachments/392087938239954950/1013586999959109652/Geometry_Dash_-_Sonar_By_Jerkrat_All_Coins_1-6_screenshot.png?width=1202&height=676)-->
 
 # Wistful by Waffl3X (57266538)
 
@@ -88,11 +88,11 @@ Here are how to get all three coins in Wistful:
 
 1. The first coin requires no inputs! A little ways into the level, a floating drone will approach you. You can choose not to approach it by pressing, but if you do nothing, you will get a coin.
 
-    ![Wistful first coin](https://media.discordapp.net/attachments/392087938239954950/1013587277282299904/Wistful_by_Waffl3X_3_coins_GD_2.11_0-42_screenshot.png?width=1202&height=676)
+    <!--![Wistful first coin](https://media.discordapp.net/attachments/392087938239954950/1013587277282299904/Wistful_by_Waffl3X_3_coins_GD_2.11_0-42_screenshot.png?width=1202&height=676)-->
 
 2. To get the second coin, you have to press once you see this elevator. If you don't press, you'll go up and won't find anything. If you do press, you'll go down and find a coin.
 
-    ![Wistful second coin](https://media.discordapp.net/attachments/392087938239954950/1013587276904808550/Wistful_by_Waffl3X_3_coins_GD_2.11_1-30_screenshot.png?width=1202&height=676)
+    <!--![Wistful second coin](https://media.discordapp.net/attachments/392087938239954950/1013587276904808550/Wistful_by_Waffl3X_3_coins_GD_2.11_1-30_screenshot.png?width=1202&height=676)-->
 
 3. The third coin is completely free! You get it for beating the level, and since the level is auto, you don't have to do anything. No matter what you choose throughout the level, you will get rewarded this coin once you complete the level.
 
