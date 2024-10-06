@@ -9,6 +9,7 @@ tags:
 author: moldy
 image: https://i.imgur.com/k6aaeWq.png
 imageSource: https://imgur.com/a/geometry-dash-basement-42YEGxA
+videoID: ""
 ---
 
 If you're looking for free icons, colors, and rewards, every Geometry Dash secret area has something to offer.

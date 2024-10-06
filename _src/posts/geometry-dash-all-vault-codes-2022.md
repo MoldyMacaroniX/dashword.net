@@ -7,7 +7,8 @@ tags:
   - featured
   - guide
 author: moldy
-image: https://media.discordapp.net/attachments/392087938239954950/1013588500114849812/unknown.png?width=1202&height=676
+image: https://i.ytimg.com/vi/YAazssI4cPg/maxresdefault.jpg
+imageSource: https://youtu.be/YAazssI4cPg?si=luRTxY0zmfpWKw0C
 ---
 
 You can get easy Geometry Dash icons, ships, UFOs, and more by simply entering some codes. It's free loot!
@@ -20,7 +21,7 @@ In Geometry Dash, there are three vaults that you can enter codes in: [The Vault
 
 # The Vault Codes
 
-![The Vault](https://media.discordapp.net/attachments/392087938239954950/1013588383458656467/unknown.png?width=1202&height=676)
+![The Vault](https://i.imgur.com/aSGtgnb.png)
 
 To unlock The Vault, [follow these instructions](/posts/geometry-dash-all-vaults-and-secrets-2022/#the-vault).
 
@@ -45,7 +46,7 @@ However, there are two more tricky codes.
 
 # Vault of Secrets Codes
 
-![Vault of Secrets](https://media.discordapp.net/attachments/392087938239954950/1013588500114849812/unknown.png?width=1202&height=676)
+![Vault of Secrets](https://i.imgur.com/0bDZMJo.png)
 
 To unlock the Vault of Secrets, [follow these instructions](/posts/geometry-dash-all-vaults-and-secrets-2022/#vault-of-secrets).
 
@@ -84,7 +85,7 @@ For a video tutorial of how to solve **Cod3Breaker**, [see this tutorial](https:
 
 # Chamber of Time Codes
 
-![Chamber of Time](https://media.discordapp.net/attachments/392087938239954950/1013588586286809088/unknown.png?width=1202&height=676)
+![Chamber of Time](https://i.imgur.com/C1jrRjy.png)
 
 To unlock the Chamber of Time, [follow these instructions](/posts/geometry-dash-all-vaults-and-secrets-2022/#chamber-of-time).
 
