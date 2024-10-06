@@ -27,18 +27,14 @@ Fortunately, this guide will tell you how to access it, what levels are on it, a
 
 # Geometry Dash Impossible Levels List
 
-The Impossible Levels List is a ranking of the most impossible levels in Geometry Dash. It used to be accessible from a Google Doc but is now accessible from their new website.
-
-![Impossible Levels List Website](https://media.discordapp.net/attachments/392087938239954950/1038281165926318109/image.png?width=1440&height=437)
-
-*﻿Impossible Levels List Website.*
+The Impossible Levels List is a ranking of the most impossible levels in Geometry Dash. It can be accessed via its Google Doc.
 
 Levels on this list are considered to be some of [the hardest levels ever made in Geometry Dash](/posts/geometry-dash-levels-what-is-the-hardest-level-ever-made/). This list also contains levels harder than the [Pointercrate Demon List, the considered most accurate listing of rated extreme demons](/posts/geometry-dash-demon-list-what-are-the-top-extreme-demons-2022/).
 
-**Use the following links to access the Impossible Levels List:**
+**You can use the following links to access the Impossible Levels List:**
 
-* [Impossible Levels List Website - Access the Impossible Levels List!](https://impossible-list.com/home)
-* [Impossible Levels List Google Doc - Access the old Impossible Levels List (outdated)](https://docs.google.com/document/d/1TNNkuLVUE4kUv6bCnh-RuXroLky8yyL-HdWJoYNbRlI/edit)
+* [Impossible Levels List](https://docs.google.com/document/d/1byBf60vW_Tq7TjQPyniBxQ1Iw9CtSURJU4_Cl1IziqY/)
+* [Impossible Levels List Rules](https://docs.google.com/document/d/11TKF-9GuR4QQMCT2PLi9aKCJ_Wcw1hCwnkhA9jKZaZw/)
 
 # Geometry Dash Hardest Impossible Levels
 
@@ -69,18 +65,6 @@ The most famous upcoming impossible Geometry Dash levels include:
 *﻿Bottomless Pit by fnm04 and more, screenshot from [fnm04](https://youtu.be/nvbzefeGrvY).*
 
 Bottomless Pit doesn't have any completed design yet, but the layout is detailed enough to showcase.
-
-![Exasperation](https://media.discordapp.net/attachments/392087938239954950/1038286538766815312/EXASPERATION_DECO_PREVIEW_2_3-31_screenshot.png?width=1201&height=676)
-
-*﻿Exasperation by Thycket, Nacho, and more, screenshot from [fnm04](https://youtu.be/acF0CS16f8I).*
-
-Exasperation is an old impossible level layout by Thycket. Now, with the help of others, it is being decorated.
-
-![Vivisect by Greafer, Burgadahz, and more](https://img.youtube.com/vi/f2Wt1xpvOAs/maxresdefault.jpg)
-
-*Vivisect by Greafer, Burgadahz, and more, screenshot from [fnm04](https://youtu.be/f2Wt1xpvOAs).*
-
-V﻿ivisect is called the best red extreme demon. Do you think it lives up to this standard?
 
 ---
 
