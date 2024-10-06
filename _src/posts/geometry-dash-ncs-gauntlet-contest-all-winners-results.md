@@ -7,7 +7,7 @@ desc: The Geometry Dash NCS Gauntlet Contest has concluded after many of the
   this resulting in three new Mythic levels, Next Cab Soon, BER ZER KER, and
   WANNACRY, the NCS Gauntlet Contest has been one of the best events Geometry
   Dash has ever seen.
-date: 2024-10-06T00:29:22.713Z
+date: 2024-10-06T01:10:01.618Z
 tags:
   - news
   - "2.2"
@@ -88,3 +88,7 @@ Like the first Gauntlet, these levels are ordered from easiest to hardest, not b
 [Geometry Dash update 2.2](/posts/geometry-dash-2-2-released/) has only been out for less than a year, but we've already seen some of the best levels ever made in this indie mobile game by RobTop Games. Not to mention an official collaboration with NCS.
 
 This event has made clear that the Geometry Dash community is unlike any other in its dedication. Props to all who made a level for this contest, not just the winners! And if you didn't make a level, don't worry. There's always the next contest!
+
+For more [Geometry Dash 2.21](/categories/2.2/) news, see our news stories here:
+
+[Geometry Dash 2.207 News: Multiplayer, Click Between Frames, & Ignore Damage Fix](/posts/geometry-dash-2-207-news-multiplayer-click-between-frames-ignore-damage-fix/) - [Geometry Dash 2.206 Preview Released By RobTop (Release Date Information)](/posts/geometry-dash-2-206-preview-released-by-robtop/) - [How To Install Geometry Dash 2.2 - IOS, Android, & PC](/posts/how-to-install-geometry-dash-2-2/)
