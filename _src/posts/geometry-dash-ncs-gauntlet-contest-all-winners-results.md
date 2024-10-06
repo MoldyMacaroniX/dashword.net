@@ -9,6 +9,7 @@ date: 2024-10-06T00:29:22.713Z
 tags:
   - news
   - "2.2"
+  - featured
 author: moldy
 image: https://i.imgur.com/bFagY5e.png
 imageSource: https://imgur.com/a/geometry-dash-ncs-gauntlet-contest-results-qmiNppY
