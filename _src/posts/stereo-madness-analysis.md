@@ -1,11 +1,13 @@
 ---
 title: "Stereo Madness: A Critical Analysis"
-desc: "Geometry Dash's first level Stereo Madness never gets the recognition for creativity it deserves. I want to fill that void."
-image: https://cdn.discordapp.com/attachments/933985129695694848/938962449313456228/unknown.png
+desc: Geometry Dash's first level Stereo Madness never gets the recognition for
+  creativity it deserves. I want to fill that void.
 date: 2022-02-04
 tags:
-    - review
+  - review
 author: mosquitogirl
+image: https://i.ytimg.com/vi/E5L083YQzVE/sddefault.jpg
+imageSource: https://youtu.be/E5L083YQzVE?si=nLwv2lO73BlclLmn
 ---
 
 We all remember what it was like; opening Geometry Dash for the first time and playing Stereo Madness. I'm here, 4-5 years after that moment happened for me, to give a critical analysis of everyone's first level.
