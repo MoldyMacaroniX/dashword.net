@@ -5,7 +5,7 @@ desc: Geometry Dash 2.21 is the next update coming to Geometry Dash that will
   include features such as Versus Mode, the map, and events. Although there is
   no set release date, RobTop Games has revealed information that hint at when
   update 2.21 will release.
-date: 2024-10-11T19:09:14.672Z
+date: 2024-10-11T20:09:08.073Z
 tags:
   - news
   - "2.2"
@@ -29,3 +29,11 @@ That being said, now that all of these events have concluded, this gives RobTop 
 # New Features in Geometry Dash 2.21
 
 Geometry Dash 2.21 will not be as big an update as version 2.2, but will still contain a bunch of new features. In specific, it will contain all features that were planned for version 2.2, but rejected in order to [meet the deadline for Geometry Dash 2.2](/posts/geometry-dash-2-2-might-get-delayed-to-2024/).
+
+These features include Versus Mode, the [second sneak peek level, Explorers](/posts/geometry-dash-new-sneak-peek-analysis/), the map, and events. But in addition to these features, RobTop has expressed interest in adding the following features:
+
+- Multiplayer mode. RobTop has commented about the [Globed multiplayer mod](/posts/geometry-dash-multiplayer-how-to-download-and-install/) and expressed interest in adding official multiplayer support to the game.
+- Click Between Frames. RobTop has also tested his own version of the popular [Click Between Frames](/posts/geometry-dash-click-between-frames-mod-download-and-install/) mod. While his version [will not be the same](/posts/geometry-dash-2-207-news-multiplayer-click-between-frames-ignore-damage-fix/), if implemented, it should even the playing field for all Geometry Dash players, regardless of device.
+- More Gauntlets. While Gauntlets are server-side, meaning new Gauntlets can be added without updating the game, that only applies to Gauntlets that already have their files in the game. So we may see more Gauntlets added in Geometry Dash 2.21.
+
+With all this in mind, what do you think of Geometry Dash 2.21? Do you think it will be worth the 10-months-and-counting wait, or would you like to see more features added? Let us know in the comments!
