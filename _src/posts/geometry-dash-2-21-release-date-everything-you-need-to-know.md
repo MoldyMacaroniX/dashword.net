@@ -13,4 +13,4 @@ imageSource: https://youtu.be/u67JABOe9dA?si=x4EV6V9ziHryqwAW
 affiliateLinks: false
 hideAds: false
 ---
-a
+Geometry Dash 2.21 is the next update coming to Geometry Dash that will include features such as [Versus Mode](/posts/robtop-cancels-geometry-dash-2-2-versus-mode-after-6-years-of-development/), and the map, and events. Although there is no set release date, RobTop Games have revealed information that hint at when update 2.21 will release.
