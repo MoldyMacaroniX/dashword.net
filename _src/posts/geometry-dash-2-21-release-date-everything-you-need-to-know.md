@@ -1,7 +1,10 @@
 ---
 pageSlug: geometry-dash-2-21-release-date-everything-you-need-to-know
 title: "Geometry Dash 2.21 Release Date: Everything You Need To Know"
-desc: a
+desc: Geometry Dash 2.21 is the next update coming to Geometry Dash that will
+  include features such as Versus Mode, and the map, and events. Although there
+  is no set release date, RobTop Games have revealed information that hint at
+  when update 2.21 will release.
 date: 2024-10-11T19:09:14.672Z
 tags:
   - news
