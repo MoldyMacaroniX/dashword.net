@@ -1,5 +1,5 @@
 ---
-title: "Stereo Madness: A Critical Analysis"
+title: "A Critical Analysis Of The First Geometry Dash Level: Stereo Madness"
 desc: Geometry Dash's first level Stereo Madness never gets the recognition for
   creativity it deserves. I want to fill that void.
 date: 2022-02-04
