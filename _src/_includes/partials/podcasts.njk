@@ -11,7 +11,7 @@
                 {% if isArr %}
                     <span href="#" class="tags">
                         {% for a in post.data.author %}
-                            {% set myAuthor = authors | getAuthor(a) %}<a href="/authors/{{ myAuthor.key }}/">{{ myAuthor.name }}</a>
+                            {% if loop.index0 < 2 %}{% set myAuthor = authors | getAuthor(a) %}<a href="/authors/{{ myAuthor.key }}/">{{ myAuthor.name }}</a>{% elseif loop.index0 == 2 %}<a href="{{ post.url }}">and {{ (post.data.author | length) - 2 }} more</a>{% endif %}
                         {% endfor %}
                         <i class="ri-user-3-line"></i>
                     </span>
