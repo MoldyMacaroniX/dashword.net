@@ -5,7 +5,7 @@ desc: The Geometry Dash 2.21 release date might be only days away, new
   information reveals. While 2.21 was initially predicted to be far away, new
   information regarding the Geometry Dash x NCS collaboration predict that the
   update may be far closer than we originally thought.
-date: 2024-11-07T04:18:49.702Z
+date: 2024-11-07T05:20:01.357Z
 tags:
   - "2.2"
   - news
