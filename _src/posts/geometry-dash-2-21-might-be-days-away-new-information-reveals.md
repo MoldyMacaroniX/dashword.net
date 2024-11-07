@@ -32,6 +32,8 @@ It is believed that RobTop is testing this new feature in preparation for the up
 
 With event levels will be available in 2.21, this suggests that RobTop will release 2.21 soon in order to release event levels.
 
+In addition to this, RobTop has been testing new Geometry Dash betas, which he is believed to do whenever a new update is near release. This also means there might not be a [2.207 update](/posts/geometry-dash-2-207-news-multiplayer-click-between-frames-ignore-damage-fix/) and we will be instead jumping straight to version 2.21.
+
 # New Features in Geometry Dash 2.21
 
 Along with event levels, we can expect the map to be released, as it currently says in-game that is when it will come out.
