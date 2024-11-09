@@ -1,6 +1,6 @@
 ---
 pageSlug: geometry-dash-all-wraith-vault-codes
-title: Geometry Dash All Wraith Vault Codes (2024)
+title: "Geometry Dash: All Wraith Vault Codes (2024)"
 desc: Here are all codes for the Geometry Dash Wraith Vault. These codes unlock
   free Mana Orbs, Demon Keys, Diamonds, and other rewards!
 date: 2024-11-09T02:45:31.345Z
