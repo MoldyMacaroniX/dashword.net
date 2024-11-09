@@ -30,7 +30,7 @@ Here are all the Wraith Vault codes in Geometry Dash:
 - **WaterOnTheHill**
 - **ThickOfIt**
 - **Bussin**
-- **Touch Grass**
+- **TouchGrass**
 
 Note that you have to be connected to the internet for these codes to work.
 
