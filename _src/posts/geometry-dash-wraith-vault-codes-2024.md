@@ -9,8 +9,8 @@ tags:
   - "2.2"
   - featured
 author: moldy
-image: https://i.ytimg.com/vi/gaxa6FAqb5k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLANG--ZJf2RNNYCEByse4sB_BW2RQ
-imageSource: https://youtu.be/gaxa6FAqb5k?si=DIBnF8DpiieXmnJm
+image: https://i.imgur.com/GINXuSC.png
+imageSource: https://imgur.com/a/wraith-vault-8UrSBGt
 affiliateLinks: false
 hideAds: false
 ---
