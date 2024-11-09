@@ -24,6 +24,7 @@ Currently, the update is only available for Windows and Mac devices, but it will
 - New achievements and rewards
 - New song trigger options
 - Bugfixes and optimizations
+- The [Wraith Vault](/posts/geometry-dash-all-wraith-vault-codes/)
 - Secrets...
 
 This news comes from the [Geometry Dash Discord server](https://www.dashword.net/posts/geometry-dash-discord-server-how-to-join-request-levels/).
