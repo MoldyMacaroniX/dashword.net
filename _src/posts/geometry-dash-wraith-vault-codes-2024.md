@@ -14,7 +14,7 @@ imageSource: https://imgur.com/a/wraith-vault-8UrSBGt
 affiliateLinks: false
 hideAds: false
 ---
-Here are all codes for the Geometry Dash Wraith Vault. These codes unlock free [Mana Orbs](/posts/geometry-dash-how-to-get-mana-orbs-easy/), [Demon Keys](/posts/geometry-dash-how-to-get-demon-keys-easy/), [Diamonds](/posts/geometry-dash-how-to-get-diamonds-easy/), and other rewards!
+Here are all codes for the Geometry Dash Wraith Vault. These codes unlock free [Mana Orbs](/posts/geometry-dash-how-to-get-mana-orbs-easy/), [Demon Keys](/posts/geometry-dash-how-to-get-demon-keys-easy/), [Diamonds](/posts/geometry-dash-how-to-get-diamonds-easy/), icons, and other rewards!
 
 In Geometry Dash, one of the available vaults is the Wraith Vault. This guide will tell you all the Wraith Vault codes and how to complete them.
 
@@ -22,6 +22,7 @@ In Geometry Dash, one of the available vaults is the Wraith Vault. This guide wi
 
 Here are all the Wraith Vault codes in Geometry Dash:
 
+- **Back on Dash**
 - **RobTopIsNice**
 - **CheckSteam**
 - **FireInTheHole**
