@@ -12,7 +12,7 @@ imageSource: https://www.reddit.com/r/geometrydash/comments/1d67q1b/guys_2206_up
 affiliateLinks: false
 hideAds: false
 ---
-With the release of Geometry Dash 2.207, all mods have stopped working. Fortunately, you can downgrade to Geometry Dash 2.206 to restore your mods.
+With the release of Geometry Dash 2.207, all mods have stopped working. Fortunately, you can downgrade to Geometry Dash 2.206 to restore your mods if you are on Windows.
 
 Before doing anything, [backup your save data](/posts/backup-gd-data-steam/)! This way you can restore it if anything goes wrong.
 
