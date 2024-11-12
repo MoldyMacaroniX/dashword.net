@@ -28,4 +28,3 @@ First, backup your save data. Then, follow these steps to downgrade Geometry Das
 6. Reinstall all your mods
 
 You will have to reinstall all your mods, but your save data should be intact. That being said, it is still a good idea to back it up before following these steps!
-
