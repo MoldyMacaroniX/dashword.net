@@ -33,6 +33,8 @@ Here are all the Wraith Vault codes in Geometry Dash:
 - **Bussin**
 - **TouchGrass**
 - **Key**
+- **SpaceGauntlet**
+- **Citadel**
 
 Note that you have to be connected to the internet for these codes to work.
 
