@@ -23,8 +23,14 @@ In Geometry Dash, one of the available vaults is the Wraith Vault. This guide wi
 Here are all the Wraith Vault codes in Geometry Dash:
 
 - **Back on Dash**
-- **RobTopIsNice**
+- **Geometry**
+- **Citadel**
+- **Retrospective**
+- **Ruins**
+- **SpaceGauntlet**
+- **Key**
 - **CheckSteam**
+- **RobTopIsNice**
 - **FireInTheHole**
 - **Skibidi**
 - **WellMet**
@@ -32,9 +38,6 @@ Here are all the Wraith Vault codes in Geometry Dash:
 - **ThickOfIt**
 - **Bussin**
 - **TouchGrass**
-- **Key**
-- **SpaceGauntlet**
-- **Citadel**
 
 Note that you have to be connected to the internet for these codes to work.
 
