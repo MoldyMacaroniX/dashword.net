@@ -6,7 +6,8 @@ desc: While RobTop never gave an exact estimate, he did say there would be
   is likely where the false recollection comes from.
 date: 2024-12-06T17:28:26.932Z
 tags:
-  - news
+  - "2.2"
+  - featured
 author: dashword
 image: https://i.ytimg.com/vi/8yKafgUClXU/maxresdefault.jpg
 imageSource: https://youtu.be/8yKafgUClXU?si=0_oxIKSaJUegEQmy
