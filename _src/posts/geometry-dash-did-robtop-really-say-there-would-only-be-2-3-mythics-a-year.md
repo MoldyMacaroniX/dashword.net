@@ -25,8 +25,6 @@ This claim calls for a Snopes Geometry Dash parody.
 | **Context:**|
 | Geometry Dash players have collectively recalled that RobTop said there would only be "2-3 Mythic levels a year." |
 
----
-
 While RobTop never gave an exact estimate, he did say there would be "Godlike" (the original name for "Mythic") levels "a few times a year," which is likely where the false recollection comes from.
 
 RobTop started by saying Godlike levels will almost never happen:
