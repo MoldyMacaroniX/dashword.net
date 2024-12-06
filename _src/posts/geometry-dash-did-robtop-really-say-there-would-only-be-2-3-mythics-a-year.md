@@ -14,7 +14,9 @@ imageSource: https://youtu.be/8yKafgUClXU?si=0_oxIKSaJUegEQmy
 affiliateLinks: false
 hideAds: false
 ---
-| This claim calls for a Snopes Geometry Dash parody: |
+This claim calls for a Snopes Geometry Dash parody.
+
+| Did RobTop really say there would only be 2-3 Mythics a year? |
 |--------|
 | **Claim:** |
 | RobTop said there would be only 2-3 Mythics a year. |
