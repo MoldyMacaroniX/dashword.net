@@ -27,7 +27,7 @@ This claim calls for a Snopes Geometry Dash parody.
 
 While RobTop never gave an exact estimate, he did say there would be "Godlike" (the original name for "Mythic") levels "a few times a year," which is likely where the false recollection comes from.
 
-RobTop started by saying Godlike levels will almost never happen:
+RobTop started by saying Godlike levels would almost never happen:
 
 ![yea well godlike will almost never happen BUT](https://i.imgur.com/KEpe1v1.png)
 
