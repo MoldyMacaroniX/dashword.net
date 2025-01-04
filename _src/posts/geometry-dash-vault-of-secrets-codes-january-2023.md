@@ -1,6 +1,6 @@
 ---
 pageSlug: geometry-dash-vault-of-secrets-codes
-title: Geometry Dash Vault Of Secrets Codes (2024)
+title: Geometry Dash Vault Of Secrets Codes (2025)
 desc: Here are all codes for the Geometry Dash Vault of Secrets. These codes
   unlock free icons, ships, UFOs, and more.
 date: 2023-01-06T01:45:19.557Z
