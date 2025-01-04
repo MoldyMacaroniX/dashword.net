@@ -217,4 +217,4 @@ After completing The Basement, you will unlock an icon, some other rewards, and 
 
 ---
 
-And there you have it—a comprehensive guide to unlock every secret area in Geometry Dash, as of 2024 and the 2.2 update.
+And there you have it—a comprehensive guide to unlock every secret area in Geometry Dash!
