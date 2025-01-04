@@ -1,5 +1,5 @@
 ---
-title: "Geometry Dash Vaults & Secrets: How To Unlock Every Secret Area (2024)"
+title: "Geometry Dash Vaults & Secrets: How To Unlock Every Secret Area (2025)"
 desc: If you're looking for free icons, colors, and rewards, every Geometry Dash
   secret area has something to offer.
 date: 2022-09-18
@@ -19,6 +19,7 @@ Geometry Dash is among one of the hardest mobile games available. It can take mo
 In case you're looking for easy icons to add to your kit, here is how to unlock every Geometry Dash vault and secret area.
 
 - [The Vault](#the-vault)
+- [The Vault](#wraith-vault)
 - [Vault of Secrets](#vault-of-secrets)
 - [Chamber of Time](#chamber-of-time)
 - [Treasure Room](#treasure-room)
@@ -43,6 +44,23 @@ Here is how to unlock The Vault:
 If you are having trouble collecting 10 silver user coins, here are [some easy levels to get user coins fast](/posts/geometry-dash-how-to-get-user-coins-easy/).
 
 Once The Vault is unlocked, [enter these codes to get free rewards](/posts/geometry-dash-all-vault-codes-2022/#the-vault-codes).
+
+# Wraith Vault
+
+![Wraith Vault](https://i.imgur.com/GINXuSC.png)
+
+The Wraith Vault is a secret vault that you can access for free and rewards tons of free icons! You can access it for free, but you have to know where to look.
+
+Here is how to unlock the Wraith Vault:
+
+1. Go to the main menu
+2. Press play to access the official levels
+3. Keep scrolling until you find the portal to the Tower
+4. Press it to enter the Tower's menu screen
+5. Press the door on the Tower to enter the Tower
+6. Wait a few seconds, then press the Wraith Vault icon in the bottom right
+
+Once you discover the Wraith Vault, [use these codes](/posts/geometry-dash-all-wraith-vault-codes/) to unlock tons of free rewards, including a Golden Key!
 
 # Vault of Secrets
 
