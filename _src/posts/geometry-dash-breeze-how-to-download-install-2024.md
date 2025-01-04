@@ -1,6 +1,6 @@
 ---
 pageSlug: geometry-dash-breeze-how-to-download-and-install
-title: "Geometry Dash Breeze: How To Download & Install (2024)"
+title: "Geometry Dash Breeze: How To Download & Install (2025)"
 desc: Geometry Dash Breeze is a fanmade spinoff similar to Geometry Dash
   Meltdown and Geometry Dash SubZero. Geometry Dash Breeze includes 4 new
   levels, 2 new backgrounds, and lots of new icons. This guide will go over how
