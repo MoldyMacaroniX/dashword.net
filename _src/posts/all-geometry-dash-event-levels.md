@@ -8,6 +8,7 @@ date: 2024-12-30T05:46:03.677Z
 tags:
   - news
   - "2.2"
+  - featured
 author: moldy
 image: https://i.ytimg.com/vi/lH6iSvbzRpU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDVSbsXwiQgtKfPVfMEHpxlYhg2oA
 imageSource: https://youtu.be/lH6iSvbzRpU?si=mlc07hQdAuGZ3Yyt
