@@ -1,5 +1,5 @@
 ---
-title: "Geometry Dash Vault Codes: Get Free Icons, Ships, UFOs, & More (2024)"
+title: "Geometry Dash Vault Codes: Get Free Icons, Ships, UFOs, & More (2025)"
 desc: With silver user coins, you can unlock a lot of Geometry Dash icons,
   ships, UFOs, and more.
 date: 2022-09-18
@@ -13,11 +13,34 @@ imageSource: https://youtu.be/YAazssI4cPg?si=luRTxY0zmfpWKw0C
 
 You can get easy Geometry Dash icons, ships, UFOs, and more by simply entering some codes. It's free loot!
 
-In Geometry Dash, there are three vaults that you can enter codes in: [The Vault](/posts/geometry-dash-all-vaults-and-secrets-2022/#the-vault), the [Vault of Secrets](/posts/geometry-dash-all-vaults-and-secrets-2022/#vault-of-secrets), and the [Chamber of Time](/posts/geometry-dash-all-vaults-and-secrets-2022/#chamber-of-time). So, here is a comprehensive list of every single vault vode in Geometry Dash.
+In Geometry Dash, there are four vaults that you can enter codes in: the [Wraith Vault](#wraith-vault-codes), the [Vault](/posts/geometry-dash-all-vaults-and-secrets-2022/#the-vault), the [Vault of Secrets](/posts/geometry-dash-all-vaults-and-secrets-2022/#vault-of-secrets), and the [Chamber of Time](/posts/geometry-dash-all-vaults-and-secrets-2022/#chamber-of-time). So, here is a comprehensive list of every single vault code in Geometry Dash.
 
+- [Wraith Vault Codes](#wraith-vault-codes)
 - [The Vault Codes](#the-vault-codes)
 - [Vault of Secrets Codes](#vault-of-secrets-codes)
 - [Chamber of Time Codes](#chamber-of-time-codes)
+
+# Wraith Vault Codes
+
+![Wraith Vault](https://i.imgur.com/GINXuSC.png)
+
+The Wraith Vault is free to unlock, you just have to know where to look. You can [follow these instructions to unlock the Wraith Vault](/posts/geometry-dash-all-vaults-and-secrets-2022/#wraith-vault).
+
+Not all Wraith Vault codes are known, but here are some that reward free icons and a Golden Key:
+
+- **GD2025**
+- **Back on Dash**
+- **Geometry**
+- **Citadel**
+- **Retrospective**
+- **Ruins**
+- **Cheat Codes**
+- **Backstreet Boy**
+- **Noel Electra**
+
+Note that you will need an internet connection in order to redeem these codes.
+
+**To enter a code, type the code and press the Wraith to input it.**
 
 # The Vault Codes
 
