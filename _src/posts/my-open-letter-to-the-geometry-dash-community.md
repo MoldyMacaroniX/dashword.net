@@ -8,8 +8,8 @@ tags:
   - featured
   - news
 author: moldy
-image: https://i.ytimg.com/pl_c/PLvG1lI0KWDE0jemQVKjMHLtIS8xj81ust/studio_square_thumbnail.jpg?sqp=CJuk_LsG-oaymwEICKoDEPABSFqi85f_AwYInPHTuwY=&rs=AOn4CLADMOY20sSXm3lOsGFfZL24A04VxA
-imageSource: https://www.youtube.com/playlist?list=PLvG1lI0KWDE0jemQVKjMHLtIS8xj81ust
+image: https://i.imgur.com/XUdA8xt.png
+imageSource: https://imgur.com/a/best-of-gdyt-p67UYu0
 affiliateLinks: false
 hideAds: false
 ---
