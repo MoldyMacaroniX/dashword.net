@@ -31,6 +31,7 @@ Notable Event Levels include Back on Dash by AudieoVisual, Citadel by Subwoofer,
 6. Cheat Codes by Whirl
 7. Backstreet Boy by Zoroa
 8. Noel Electra by Serponge
+9. Duckstep by Knots
 
 # First Event Level
 
