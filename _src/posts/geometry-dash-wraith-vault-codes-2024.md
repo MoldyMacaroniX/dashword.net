@@ -31,6 +31,7 @@ Here are all the Wraith Vault codes in Geometry Dash:
 - **Cheat Codes**
 - **Backstreet Boy**
 - **Noel Electra**
+- **Duckstep**
 - **SpaceGauntlet**
 - **Key**
 - **CheckSteam**
