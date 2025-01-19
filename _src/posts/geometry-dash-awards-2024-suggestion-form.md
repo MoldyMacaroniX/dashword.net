@@ -22,4 +22,4 @@ You do not have to answer every question, so if you don't have any suggestions f
 
 The Geometry Dash Awards have historically have been criticized for [underrepresenting certain parts of the community](/posts/will-the-geometry-dash-awards-be-better-this-year/), so this year is just as important as any to suggest your favorite levels and creators.
 
-You can [suggest nominees for the 2024 Geometry Dash Awards with this form](https://store.steampowered.com/news/app/322170/view/6337210861903348767).
+You can [suggest nominees for the 2024 Geometry Dash Awards with this form](https://forms.gle/PZHPjUfKQen7eYwk6).
