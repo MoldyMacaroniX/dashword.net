@@ -2,7 +2,8 @@
 title: Split Surpasses YunHaSeu To Become New Top 1 Creator In Geometry Dash
 desc: Geometry Dash creator Split72 has surpassed YunHaSeu14 in creator points
   and became the new top creator in Geometry Dash. This is after approximately
-  two years of YunHaSeu14 holding the spot.
+  two years of YunHaSeu14 holding the spot. This also makes Split72 the first
+  creator to take the top spot on the creators leaderboard in update 2.2.
 date: 2025-01-31T19:52:07.795Z
 tags:
   - news
