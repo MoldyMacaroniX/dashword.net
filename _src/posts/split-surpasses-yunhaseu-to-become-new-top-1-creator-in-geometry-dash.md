@@ -12,7 +12,7 @@ imageSource: https://x.com/Split_72/status/1884739592487641400
 affiliateLinks: false
 hideAds: false
 ---
-Geometry Dash creator Split72 has surpassed YunHaSeu14 in creator points and became the new top creator in Geometry Dash. This is after approximately [two years of YunHaSeu14 holding the spot](/posts/top-1-geometry-dash-creator-viprin-has-been-dethroned/).
+Geometry Dash creator Split72 has surpassed YunHaSeu14 in creator points and became the new top creator in Geometry Dash. This is after approximately [two years of YunHaSeu14 holding the spot](/posts/top-1-geometry-dash-creator-viprin-has-been-dethroned/). This also makes Split72 the first creator to take the top spot on the creators leaderboard in [update 2.2](/categories/2.2/).
 
 The top creator in Geometry Dash is determined by who has the most creator points. Creators get 1-5 creator points per level of theirs that gets rated.
 
