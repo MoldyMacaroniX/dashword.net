@@ -7,6 +7,7 @@ desc: Geometry Dash creator Split72 has surpassed YunHaSeu14 in creator points
 date: 2025-01-31T19:52:07.795Z
 tags:
   - news
+  - featured
 author: moldy
 image: https://pbs.twimg.com/media/GifwqmYWsAA2H3D?format=jpg&name=large
 imageSource: https://x.com/Split_72/status/1884739592487641400
