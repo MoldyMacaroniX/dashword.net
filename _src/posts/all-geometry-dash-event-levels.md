@@ -32,12 +32,15 @@ Notable Event Levels include Back on Dash by AudieoVisual, Citadel by Subwoofer,
 7. Backstreet Boy by Zoroa
 8. Noel Electra by Serponge
 9. Duckstep by Knots
+10. Skyline Pt II
+11. Boogie
+12. Button Masher
 
 # First Event Level
 
 The first Event Level is Back on Dash by AudieoVisual. It kickstarted the NCS Album, which subsequent Event Levels would be made for. It is rated Epic.
 
-Citadel by Serponge was also the first Event Level to be rated Legendary.
+Citadel by Serponge was also the first Event Level to be rated Legendary and Button Masher by Viprin and more was the first Event level to be rated Mythic.
 
 # How to beat Event Levels
 
