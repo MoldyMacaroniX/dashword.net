@@ -32,6 +32,9 @@ Here are all the Wraith Vault codes in Geometry Dash:
 - **Backstreet Boy**
 - **Noel Electra**
 - **Duckstep**
+- **Skyline Pt 2**
+- **Boogie**
+- **Button Masher**
 - **SpaceGauntlet**
 - **Key**
 - **CheckSteam**
