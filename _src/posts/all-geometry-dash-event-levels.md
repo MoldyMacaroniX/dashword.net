@@ -32,9 +32,9 @@ Notable Event Levels include Back on Dash by AudieoVisual, Citadel by Subwoofer,
 7. Backstreet Boy by Zoroa
 8. Noel Electra by Serponge
 9. Duckstep by Knots
-10. Skyline Pt II
-11. Boogie
-12. Button Masher
+10. Skyline Pt II by Pocke
+11. Boogie by Connot
+12. Button Masher by Viprin
 
 # First Event Level
 
