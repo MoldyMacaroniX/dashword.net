@@ -6,6 +6,7 @@ date: 2025-02-16T02:19:55.053Z
 tags:
   - news
   - video
+  - featured
 author: moldy
 image: https://img.youtube.com/vi/aTc1R5ZTqSw/maxresdefault.jpg
 imageSource: https://youtu.be/aTc1R5ZTqSw?si=FJf_VIXnWn_70cZ0
