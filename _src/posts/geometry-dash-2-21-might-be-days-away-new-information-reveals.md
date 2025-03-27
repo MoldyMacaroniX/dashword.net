@@ -11,8 +11,8 @@ tags:
   - news
   - featured
 author: moldy
-image: https://i.ytimg.com/vi/dsQBz6vaXpU/maxresdefault.jpg
-imageSource: https://youtu.be/dsQBz6vaXpU?si=vPngaZ_xheXwyZkM
+image: https://i.ytimg.com/vi/dsQBz6vaXpU/sddefault.jpg
+imageSource: https://youtu.be/dsQBz6vaXpU?si=lJSLslDQZUwyJ-n8
 affiliateLinks: false
 hideAds: false
 ---
