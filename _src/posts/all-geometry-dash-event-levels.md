@@ -35,12 +35,15 @@ Notable Event Levels include Back on Dash by AudieoVisual, Citadel by Subwoofer,
 10. Skyline Pt II by Pocke
 11. Boogie by Connot
 12. Button Masher by Viprin
+13. Heave Ho by Magpipe
 
 # First Event Level
 
 The first Event Level is Back on Dash by AudieoVisual. It kickstarted the NCS Album, which subsequent Event Levels would be made for. It is rated Epic.
 
 Citadel by Serponge was also the first Event Level to be rated Legendary and Button Masher by Viprin and more was the first Event level to be rated Mythic.
+
+Heave Ho by Magpipe was also the first Event Level to not be made for the Geometry Dash and NCS collaboration. 
 
 # How to beat Event Levels
 
