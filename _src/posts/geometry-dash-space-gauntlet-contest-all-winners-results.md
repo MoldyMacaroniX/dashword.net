@@ -11,7 +11,8 @@ tags:
   - "2.2"
   - featured
 author: mathgenius
-image: https://cdn.discordapp.com/attachments/598712144434954254/1359682344574914671/space_gauntlet_dashword.png?ex=67f85e5c&is=67f70cdc&hm=d436850cbd7b2b6659292d69f0c0d8e2682a8cb7e075b1b90e0c5d73540cde69&
+image: https://i.imgur.com/TiJOkx3.png
+imageSource: https://imgur.com/TiJOkx3
 affiliateLinks: false
 hideAds: false
 ---
