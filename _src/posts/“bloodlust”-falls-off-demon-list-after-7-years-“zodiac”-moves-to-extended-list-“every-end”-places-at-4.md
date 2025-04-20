@@ -11,7 +11,7 @@ tags:
   - demonlist
   - featured
 author: mathgenius
-image: https://imgur.com/a/h2892Lj
+image: https://i.imgur.com/5ykvctc.png
 affiliateLinks: false
 hideAds: false
 ---
