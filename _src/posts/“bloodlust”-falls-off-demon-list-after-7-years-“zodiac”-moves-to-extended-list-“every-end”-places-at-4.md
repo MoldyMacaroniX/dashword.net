@@ -30,7 +30,7 @@ To understand the significance of these changes, it is important to look at the 
 
 The official [Demonlist account on X](https://x.com/demonlistgd) (formerly known as Twitter), posted this on April 20 regarding the placement of Every End:
 
-> Every End has been placed at #4, below BOOBAWAMBA and above andromeda, with a list requirement of 67%. This change pushes Zodiac to the extended list, and Bloodlust to the legacy list.
+> Every End has been placed at #4, below BOOBAWAMBA and above andromeda, with a list requirement of 67%. Zodiac has been pushed into the Extended List and Bloodlust has been pushed off from the Demon List.
 
 **Technical**, verifier of Zodiac, expressed his feelings on the list changes in the official [Demonlist Discord server](https://discord.gg/demonlist), stating:
 
