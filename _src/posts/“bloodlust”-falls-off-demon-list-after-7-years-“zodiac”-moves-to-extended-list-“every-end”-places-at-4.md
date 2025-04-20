@@ -9,6 +9,7 @@ date: 2025-04-20T18:15:16.219Z
 tags:
   - news
   - demonlist
+  - featured
 author: mathgenius
 image: https://imgur.com/a/h2892Lj
 affiliateLinks: false
