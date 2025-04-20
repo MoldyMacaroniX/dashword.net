@@ -41,3 +41,7 @@ The official [Demonlist account on X](https://x.com/demonlistgd) (formerly known
 These changes to the Demonlist highlight the true dynamic nature of Geometry Dash. The constant new achievements players make have reshaped the competitive landscape in ways that the community never believed to be possible, even just a few years ago.
 
 As these players continue to create and conquer increasingly difficult levels, the community will continue to redefine what the *"pinnacle of difficulty"* is in this game, and we will become even closer to reaching the coveted **human skill ceiling.**
+
+<hr>
+
+Read more Geometry Dash Demon List news **[here](https://www.dashword.net/categories/demonlist/)**.
