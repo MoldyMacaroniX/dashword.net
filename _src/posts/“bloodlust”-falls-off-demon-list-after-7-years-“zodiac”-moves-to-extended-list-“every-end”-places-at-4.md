@@ -10,7 +10,7 @@ tags:
   - demonlist
   - featured
 author: mathgenius
-image: https://i.imgur.com/5ykvctc.png
+image: https://i.imgur.com/erRTOO6.png
 affiliateLinks: false
 hideAds: false
 ---
