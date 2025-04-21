@@ -1,6 +1,6 @@
 ---
 pageSlug: 3-former-top-1-hardest-demons-fall-off-demonlist-bloodlust-zodiac-kenos
-title: 3 Former Top 1 Hardest Demons Fall Off the Demonlist in Less Than __ Hours
+title: 3 Former Top 1 Hardest Demons Fall Off the Demonlist On the Same Day
 desc: The Geometry Dash community experienced a major shift Sunday as former top
   1 demons “Bloodlust,” “Zodiac” and “Kenos” fall out of the top 150 and 75
   hardest levels, respectively, on the Pointercrate Demonlist.
