@@ -25,4 +25,4 @@ However, it appears RobTop is actually finished Geometry Dash 2.2 this time arou
 
 While this news would normally mean we can expect the update to release within a week, due to the holidays, it may take stores like the App Store and Google Play Store more time to review the update. Once Apple, Google, and Steam accept the update, it will be ready for release.
 
-While it is still possible that [Geometry Dash 2.2 gets delayed to 2024](posts/geometry-dash-2-2-might-get-delayed-to-2024/), if it is true that RobTop has submitted the update now, then we might see it this month or at least in very early January of 2024.
+While it is still possible that [Geometry Dash 2.2 gets delayed to 2024](/posts/geometry-dash-2-2-might-get-delayed-to-2024/), if it is true that RobTop has submitted the update now, then we might see it this month or at least in very early January of 2024.
