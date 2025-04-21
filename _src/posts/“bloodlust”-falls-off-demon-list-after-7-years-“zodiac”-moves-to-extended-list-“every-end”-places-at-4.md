@@ -1,5 +1,5 @@
 ---
-pageSlug: bloodlust-falls-off-demonlist-after-7-years-zodiac-moves-to-extended-list
+pageSlug: 3-former-top-1-hardest-demons-fall-off-demonlist-bloodlust-zodiac-kenos
 title: 3 Former Top 1 Hardest Demons Fall Off the Demonlist in Less Than __ Hours
 desc: The Geometry Dash community experienced a major shift Sunday as former top
   1 demons “Bloodlust,” “Zodiac” and "Kenos" fall out of the top 150 and 75
