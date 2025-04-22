@@ -14,7 +14,7 @@ image: https://i.imgur.com/erRTOO6.png
 affiliateLinks: false
 hideAds: false
 ---
-(April 20, 2025) — The Geometry Dash community experienced a major shift Sunday as three former top 1 demons "[Bloodlust](https://www.youtube.com/watch?v=pZlRHWuVDn4)," "[Zodiac](https://www.youtube.com/watch?v=HCQK_y8JutU&pp=ygUJem9kaWFjIGdk)" and "[Kenos](https://www.youtube.com/watch?v=TfwUCuC6Z2I&pp=ygUIa2Vub3MgNGvSBwkJfgkBhyohjO8%3D)" fell out of the top 150 and 75 hardest levels, respectively, on the [Pointercrate Demon List](https://pointercrate.com/demonlist).
+The Geometry Dash community experienced a major shift Sunday as three former top 1 demons "[Bloodlust](https://www.youtube.com/watch?v=pZlRHWuVDn4)," "[Zodiac](https://www.youtube.com/watch?v=HCQK_y8JutU&pp=ygUJem9kaWFjIGdk)" and "[Kenos](https://www.youtube.com/watch?v=TfwUCuC6Z2I&pp=ygUIa2Vub3MgNGvSBwkJfgkBhyohjO8%3D)" fell out of the top 150 and 75 hardest levels, respectively, on the [Pointercrate Demon List](https://pointercrate.com/demonlist).
 
 These changes are due to the recent addition of "[Every End](https://www.youtube.com/watch?v=KexrBfBCZJA)" — a new Extreme Demon created by MindCap and more — being placed at **\#4** on the Demon List, ending the levels' **7-year-long** reign.
 
