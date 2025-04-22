@@ -1659,6 +1659,7 @@ summary::-webkit-details-marker {
     border-radius: var(--radius);
     padding: 20px;
     border: 1px solid var(--grey);
+    margin: 15px 0;
 }
 
 .article summary {
