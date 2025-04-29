@@ -25,7 +25,7 @@ One player is is proud of SpaceUK for returning and wishes him good luck in what
 
 Another player overlooks the fact that SpaceUK robbed top players of their achievements and ad revenue for years, calling it a simple mess up.
 
-> thank you for inspiring me to play space. u might've [messed] up but at least you came back and finished what you started all those years ago, GG.
+> thank you for inspiring me to play space. u might've \[messed] up but at least you came back and finished what you started all those years ago, GG.
 
 Another player is proud of SpaceUK for making a comeback:
 
@@ -36,8 +36,7 @@ This amount of support for SpaceUK is concerning. I'm not saying people should d
 This comment summarizes my stance well:
 
 > Whether one stands by and respect SpaceUK's decision, or find oneself at a loss in attempt to forgive him, providing destructive criticism and encouraging him to continue are both ends of a medium that should be avoided. By encouraging him and welcoming him back with open arms, one sets of the impression that cheaters are allowed to be welcomed back to a community without consequences, which encourage others to engage in the act of cheating, as the punishment appears limited.
-
-> 
+>
 > However, derogatory comments and abusive language, such as death threats in the extreme cases, are intolerable without explanation.
 
 What I think is this: Geometry Dash players are too quick to forgive hackers. And I think I have a reason as to why.
@@ -46,13 +45,13 @@ What I think is this: Geometry Dash players are too quick to forgive hackers. An
 
 Hackers of earlier eras in the game have since been glorified. Hackers like Cyclic have had their stories romanticized. Just look at how many documentaries portray the Riot vs Cyclic rivalry.
 
-Andromeda has had his story told using common story devices. The rise, fall, and rise again model, where the fall is them being exposed for hacking, and the rise is them returning to the game to play legitimately.
+Andromeda has had his story told using common story blocks. The generic three act structure. I like to call it the "rise, fall, and rise again" model, where the "fall" is them being exposed for hacking, and the "rise" is them returning to the game to play legitimately.
 
 One thing is sure: Geometry Dash players sure love a good redemption story.
 
-And this is a problem. Instead of focusing on cheaters redeeming themselves, we should instead focus on the players they robbed of achievements. We should focus on legitimate top players, not reminisce about hackers.
+And this is a problem. Instead of focusing on cheaters redeeming themselves, we should instead focus on the players they robbed of achievements. We should focus on legitimate top players rather than reminisce about hackers.
 
----
+# Final Word
 
 I think liars and cheaters, including SpaceUK, NoctaFly, Cyclic, Andromeda, SaRy, 3xotiC, and many others, shouldn't be glorified.
 
@@ -62,4 +61,4 @@ But even looking at players like Cyclic and Andromeda, I think we think too posi
 
 And perhaps that is for the best. I would rather us look towards a legitimate player instead.
 
-Cyclic and Andromeda have greatly impacted this game. But so has SpaceUK.
+SpaceUK, Cyclic, and Andromeda have greatly impacted this game. But maybe not for the better. They all stole achievements from others. They took attention that would have otherwise went to legitimate players. Especially in the case of SpaceUK, legitimate players lost potentially thousands of dollars in ad revenue.
