@@ -36,6 +36,7 @@ Notable Event Levels include Back on Dash by AudieoVisual, Citadel by Subwoofer,
 11. Boogie by Connot
 12. Button Masher by Viprin
 13. Heave Ho by Magpipe
+14. GD GANGSTER RAP by BoomKitty
 
 # First Event Level
 
@@ -43,7 +44,9 @@ The first Event Level is Back on Dash by AudieoVisual. It kickstarted the NCS Al
 
 Citadel by Serponge was also the first Event Level to be rated Legendary and Button Masher by Viprin and more was the first Event level to be rated Mythic.
 
-Heave Ho by Magpipe was also the first Event Level to not be made for the Geometry Dash and NCS collaboration. 
+Heave Ho by Magpipe was also the first Event Level to not be made for the Geometry Dash and NCS collaboration.
+
+GD GANGSTER RAP was the first April Fools event level. It is also not only BoomKitty's first rated level, but his first Mythic level.
 
 # How to beat Event Levels
 
