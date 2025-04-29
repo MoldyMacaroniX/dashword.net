@@ -18,7 +18,7 @@ In April 2023, the top Geometry Dash player in the world was exposed for cheatin
 
 But regardless of [how SpaceUK managed to cheat](/posts/top-1-geometry-dash-player-spaceuk-exposed-for-hacking-achievements/), we're not here to talk about that. Instead, I want to talk about the community's reaction to SpaceUK cheating. In particular, I want to bring up the concerning amount of [people who are seemingly okay with SpaceUK cheating](/posts/spaceuk-retrospective-on-the-biggest-hacking-scandal-in-geometry-dash-history/) and ruining years of Geometry Dash history.
 
-But it isn't just SpaceUK. Hackers like NoctaFly, Cyclic, Andromeda, SaRy, 3xotiC, and others have since been glorified.
+But it isn't just SpaceUK. Hackers like NoctaFly, [Cyclic](/posts/geometry-dash-cyclic-streams-bloodbath-for-first-time-in-2-years/), Andromeda, SaRy, [3xotiC](/posts/popular-geometry-dash-player-3xotic-did-not-die/), and others have since been glorified.
 
 # Geometry Dash Players Support Hackers
 
