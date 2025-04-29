@@ -1,7 +1,10 @@
 ---
 pageSlug: geometry-dash-players-have-a-forgiveness-problem
 title: Geometry Dash Players Have A Forgiveness Problem
-desc: a
+desc: In April 2023, the top Geometry Dash player in the world was exposed for
+  cheating his entire career. In an era where people thought cheating to be a
+  thing of the past, impossible due to modern day checks, SpaceUK managed to
+  slip through the system.
 date: 2025-04-27T09:17:37.550Z
 tags:
   - opinion
@@ -45,7 +48,7 @@ What I think is this: Geometry Dash players are too quick to forgive hackers. An
 
 Hackers of earlier eras in the game have since been glorified. Hackers like Cyclic have had their stories romanticized. Just look at how many documentaries portray the Riot vs Cyclic rivalry.
 
-Andromeda has had his story told using common story blocks. The generic three act structure. I like to call it the "rise, fall, and rise again" model, where the "fall" is them being exposed for hacking, and the "rise" is them returning to the game to play legitimately.
+Andromeda has had his story told using common story blocks. The reliable three act structure. In Andromeda's case, I like to call it the "rise, fall, and rise again" model, where the "fall" is them being exposed for hacking, and the "rise" is them returning to the game to play legitimately.
 
 One thing is sure: Geometry Dash players sure love a good redemption story.
 
@@ -62,3 +65,7 @@ But even looking at players like Cyclic and Andromeda, I think we think too posi
 And perhaps that is for the best. I would rather us look towards a legitimate player instead.
 
 SpaceUK, Cyclic, and Andromeda have greatly impacted this game. But maybe not for the better. They all stole achievements from others. They took attention that would have otherwise went to legitimate players. Especially in the case of SpaceUK, legitimate players lost potentially thousands of dollars in ad revenue.
+
+---
+
+Going forward, let's try not to support hackers after they get exposed. Let's support legitimate players instead.
