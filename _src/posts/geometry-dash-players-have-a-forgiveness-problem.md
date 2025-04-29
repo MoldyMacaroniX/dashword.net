@@ -37,7 +37,7 @@ This comment summarizes my stance well:
 
 > Whether one stands by and respect SpaceUK's decision, or find oneself at a loss in attempt to forgive him, providing destructive criticism and encouraging him to continue are both ends of a medium that should be avoided. By encouraging him and welcoming him back with open arms, one sets of the impression that cheaters are allowed to be welcomed back to a community without consequences, which encourage others to engage in the act of cheating, as the punishment appears limited.
 
->
+> 
 > However, derogatory comments and abusive language, such as death threats in the extreme cases, are intolerable without explanation.
 
 What I think is this: Geometry Dash players are too quick to forgive hackers. And I think I have a reason as to why.
