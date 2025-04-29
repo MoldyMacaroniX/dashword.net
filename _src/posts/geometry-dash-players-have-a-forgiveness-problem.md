@@ -5,7 +5,7 @@ desc: In April 2023, the top Geometry Dash player in the world was exposed for
   cheating his entire career. In an era where people thought cheating to be a
   thing of the past, impossible due to modern day checks, SpaceUK managed to
   slip through the system.
-date: 2025-04-27T09:17:37.550Z
+date: 2025-04-29T07:34:17.079Z
 tags:
   - opinion
 author: moldy
