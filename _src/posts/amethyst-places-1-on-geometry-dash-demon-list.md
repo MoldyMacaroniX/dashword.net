@@ -1,6 +1,6 @@
 ---
 pageSlug: amethyst-new-hardest-level-in-geometry-dash
-title: "Amethyst Places #1 On Geometry Dash Demon List"
+title: "Amethyst Places #1 on Geometry Dash Demon List"
 desc: The former hardest level in Geometry Dash, Tidal Wave, has been dethroned
   by Amethyst after it was verified by wPopoff on May 24, 2025.
 date: 2025-06-04T23:43:07.556Z
