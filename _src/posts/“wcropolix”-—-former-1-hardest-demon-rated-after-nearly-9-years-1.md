@@ -1,9 +1,9 @@
 ---
 pageSlug: wcropolix-rated-extreme-demon-after-9-years
-title: "“WcropoliX” — Former #1 Hardest Demon, Rated After Nearly 9 Years"
-desc: “WcropoliX,” one of Geometry Dash’s most notorious former Top 1 levels,
+title: '"WcropoliX" — Former #1 Hardest Demon, Rated After Nearly 9 Years'
+desc: '"WcropoliX," one of Geometry Dash’s most notorious former Top 1 levels,
   was officially rated by the developer RobTop Tuesday — nearly 9 years after
-  its original release and verification.
+  its original release and verification.'
 date: 2025-06-18T19:22:51.346Z
 tags:
   - demonlist
@@ -14,9 +14,9 @@ image: https://i.imgur.com/Q0DOjii.png
 affiliateLinks: false
 hideAds: false
 ---
-“WcropoliX,” one of Geometry Dash’s most notorious former Top 1 levels, was officially rated by the developer [RobTop](https://www.dashword.net/posts/robtop-face-reveal-all-known-pictures-of-robtop-games/) Tuesday — nearly 9 years after its original release and verification.
+"WcropoliX," one of Geometry Dash’s most notorious former Top 1 levels, was officially rated by the developer [RobTop](https://www.dashword.net/posts/robtop-face-reveal-all-known-pictures-of-robtop-games/) Tuesday — nearly 9 years after its original release and verification.
 
-**[WcropoliX](https://www.youtube.com/watch?v=MKzbJ0WC8I8&pp=ygUJd2Nyb3BvbGl4)** is an [Extreme Demon](https://www.dashword.net/posts/amethyst-new-hardest-level-in-geometry-dash/) created by BlassCFB, Marpha, Mero and Nifecap in the 2.0 Update. It is a heavily buffed remake of “[Wcropolis](https://www.youtube.com/watch?v=EGmk-h6AomY&pp=ygUJd2Nyb3BvbGlz)” by KeyDashMaster, which was also a remake of the popular Update 1.9 Insane Demon “[Acropolis](https://www.youtube.com/watch?v=SSAfuCZ2cks&pp=ygUMYWNyb3BvbGlzIGdk0gcJCd4JAYcqIYzv)” by [Zobros](https://www.youtube.com/@GeometryDashZobros).
+**[WcropoliX](https://www.youtube.com/watch?v=MKzbJ0WC8I8&pp=ygUJd2Nyb3BvbGl4)** is an [Extreme Demon](https://www.dashword.net/posts/amethyst-new-hardest-level-in-geometry-dash/) created by BlassCFB, Marpha, Mero and Nifecap in the 2.0 Update. It is a heavily buffed remake of "[Wcropolis](https://www.youtube.com/watch?v=EGmk-h6AomY&pp=ygUJd2Nyb3BvbGlz)" by KeyDashMaster, which was also a remake of the popular Update 1.9 Insane Demon "[Acropolis](https://www.youtube.com/watch?v=SSAfuCZ2cks&pp=ygUMYWNyb3BvbGlzIGdk0gcJCd4JAYcqIYzv)" by [Zobros](https://www.youtube.com/@GeometryDashZobros).
 
 Known for its intense straight-fly sections and tight wave spam, WcropoliX was considered the hardest level in the game at the time of its verification. **[BlassCFB](https://www.youtube.com/@BlassCFB)**, a former top player at the time, announced the project on April 12, 2016, with an [early preview](https://www.youtube.com/watch?v=Anax7mAaom0) uploaded to his YouTube channel.
 
