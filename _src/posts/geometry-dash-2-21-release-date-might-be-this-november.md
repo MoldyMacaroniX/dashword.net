@@ -4,7 +4,7 @@ title: Geometry Dash 2.21 Release Date Might Be This November
 desc: Geometry Dash 2.21 was originally expected to release shortly after the
   release of the 2.2 update. But after over a year, no news has been released
   about the Geometry Dash 2.21 update—until now.
-date: 2025-08-12T08:48:16.739Z
+date: 2025-08-12T09:22:15.210Z
 tags:
   - news
   - "2.2"
