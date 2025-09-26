@@ -29,7 +29,7 @@ At the very least, we can confirm that an update will come out on or before Nove
 
 # Will Geometry Dash 2.21 Release This November?
 
-While it is likely Geometry Dash 2.21 could release this November, it could also be another filler update like 2.208. While this would be disapointing, RobTop has release Geometry Dash 2.21 features early in the past, [such as Event Levels](/posts/all-geometry-dash-event-levels/), which came out in [version 2.207](/posts/geometry-dash-2-207-released-on-steam/).
+While it is likely Geometry Dash 2.21 could release this November, it could also be another filler update like 2.208. While this would be disappointing, RobTop has released Geometry Dash 2.21 features early in the past, [such as Event Levels](/posts/all-geometry-dash-event-levels/), which came out in [version 2.207](/posts/geometry-dash-2-207-released-on-steam/) when they were originally scheduled for [version 2.21](/categories/2.2/).
 
 So even if Geometry Dash 2.21 is delayed, we can guarantee that at the very least update 2.208 will release by the end of the Random Gauntlet Contest. There is also a chance that this update brings along 2.21 features like [a new official level "Explorers"](/posts/geometry-dash-new-sneak-peek-analysis/) and [Versus Mode](/posts/robtop-cancels-geometry-dash-2-2-versus-mode-after-6-years-of-development/).
 
