@@ -4,7 +4,7 @@ title: Flamewall Verified, Potential New Top 1 Demon in Geometry Dash
 desc: "The long-awaited Extreme Demon, Flamewall, was verified Sunday by top
   player Cuatriocientos, potentially placing at #1 on the Pointercrate Demon
   List."
-date: 2025-09-23T19:54:00.000Z
+date: 2025-09-26T22:07:58.061Z
 tags:
   - demonlist
   - featured
