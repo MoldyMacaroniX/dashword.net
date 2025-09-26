@@ -39,11 +39,15 @@ Given that Cuatrocientos was a playtester of the level prior to being the verifi
 | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------ |
 | **Jan. 31, 2024**                                                 | **[55-100%](https://www.youtube.com/watch?v=kBS7E-QFHEA)**                                                | ~ 62,000     |
 | **Feb. 11, 2024**                                                 | **[26%, 24-80%](https://www.youtube.com/watch?v=ZYQk8E_nZoc)**                                            | ~ 73,000     |
-| **June 25, 2024[](https://www.youtube.com/watch?v=oLJJrA05aog)**  | **[40%, 39-100%](https://www.youtube.com/watch?v=mD0XEJUNrEk)**                                           | ~ 100,000    |
-| **Sept. 10, 2024[](https://www.youtube.com/watch?v=dlVnGdWRLeQ)** | **[3-86%](https://www.youtube.com/watch?v=dlVnGdWRLeQ)** // One of the Biggest Flukes in Geometry Dash    | ~ 128,000    |
+| **June 25, 2024**[](https://www.youtube.com/watch?v=oLJJrA05aog)  | **[40%, 39-100%](https://www.youtube.com/watch?v=mD0XEJUNrEk)**                                           | ~ 100,000    |
+| **Sept. 10, 2024**[](https://www.youtube.com/watch?v=dlVnGdWRLeQ) | **[3-86%](https://www.youtube.com/watch?v=dlVnGdWRLeQ)** // One of the Biggest Flukes in Geometry Dash    | ~ 128,000    |
 | **Nov. 12, 2024**[](https://www.youtube.com/watch?v=mEruO7nxT_A)  | **[50%](https://www.youtube.com/watch?v=CbpGLYZUKZ8)**                                                    | N/A          |
 | **Jan. 27, 2025**                                                 | **[62%](https://www.youtube.com/watch?v=MV9wSXitcSc)**[](https://www.youtube.com/watch?v=c1qBa3JfeVQ)     | \= 146,524   |
 | **June 2, 2025**                                                  | **[68%](https://www.youtube.com/watch?v=t_Ks2YwxJa0)**[](https://www.youtube.com/watch?v=c1qBa3JfeVQ)     | ~ 171,000    |
-| **July 7, 2025[](https://www.youtube.com/watch?v=xwLGAFfQ-_U)**   | **[76%](https://www.youtube.com/watch?v=xwLGAFfQ-_U)**[](https://www.youtube.com/watch?v=c1qBa3JfeVQ)     | \= 187,660   |
+| **July 7, 2025**[](https://www.youtube.com/watch?v=xwLGAFfQ-_U)   | **[76%](https://www.youtube.com/watch?v=xwLGAFfQ-_U)**[](https://www.youtube.com/watch?v=c1qBa3JfeVQ)     | \= 187,660   |
 | **Aug. 19, 2025**                                                 | **[24-100%](https://www.youtube.com/watch?v=rOIeaaJdYYs)**[](https://www.youtube.com/watch?v=c1qBa3JfeVQ) | \= 194,297   |
-| **Aug. 27, 2025[](https://www.youtube.com/watch?v=oLJJrA05aog)**  | **[80%](https://www.youtube.com/watch?v=oLJJrA05aog)**[](https://www.youtube.com/watch?v=c1qBa3JfeVQ)     | \= 200,870   |
+| **Aug. 27, 2025**[](https://www.youtube.com/watch?v=oLJJrA05aog)  | **[80%](https://www.youtube.com/watch?v=oLJJrA05aog)**[](https://www.youtube.com/watch?v=c1qBa3JfeVQ)     | \= 200,870   |
+
+
+
+Only three days after getting 80%, Cuatrocientos would get the worst death in Geometry Dash history... **[99%](https://www.youtube.com/watch?v=1gZEJI-2yQQ)**, crashing only 0.37% before the end of the level.
