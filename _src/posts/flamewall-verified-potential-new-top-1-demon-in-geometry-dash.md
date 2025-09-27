@@ -2,7 +2,7 @@
 pageSlug: flamewall-verified-new-top-1-hardest-demon-geometry-dash
 title: Flamewall Verified, Potential New Top 1 Demon in Geometry Dash
 desc: "The long-awaited Extreme Demon, Flamewall, was verified Sunday by top
-  player Cuatriocientos, potentially placing at #1 on the Pointercrate Demon
+  player Cuatrocientos, potentially placing at #1 on the Pointercrate Demon
   List."
 date: 2025-09-26T22:07:58.061Z
 tags:
@@ -14,7 +14,7 @@ image: https://i.imgur.com/V9UVhdx.jpeg
 affiliateLinks: false
 hideAds: false
 ---
-The long-awaited Extreme Demon, **Flamewall**, was verified Sunday by top player **Cuatriocientos**, potentially placing at #1 on the [Pointercrate Demon List](https://pointercrate.com/demonlist).
+The long-awaited Extreme Demon, **Flamewall**, was verified Sunday by top player **Cuatrocientos**, potentially placing at #1 on the [Pointercrate Demon List](https://pointercrate.com/demonlist).
 
 Hosted and uploaded by Narwall, with the help of Valentine and over 100 creators and playtesters, *Flamewall* is considered by many to be one of the most ambitious projects in the game's history. Clocking in at 6 minutes 46 seconds, it holds the world record for the longest verified level projected to be the hardest demon in Geometry Dash.
 
