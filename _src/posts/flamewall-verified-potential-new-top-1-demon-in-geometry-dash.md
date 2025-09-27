@@ -48,6 +48,14 @@ Given that Cuatrocientos was a playtester of the level prior to being the verifi
 | **Aug. 19, 2025**                                                 | **[24-100%](https://www.youtube.com/watch?v=rOIeaaJdYYs)**[](https://www.youtube.com/watch?v=c1qBa3JfeVQ) | \= 194,297   |
 | **Aug. 27, 2025**[](https://www.youtube.com/watch?v=oLJJrA05aog)  | **[80%](https://www.youtube.com/watch?v=oLJJrA05aog)**[](https://www.youtube.com/watch?v=c1qBa3JfeVQ)     | \= 200,870   |
 
-
-
 Only three days after getting 80%, Cuatrocientos would get the worst death in Geometry Dash history... **[99%](https://www.youtube.com/watch?v=1gZEJI-2yQQ)**, crashing only 0.37% before the end of the level.
+
+Another week later, on Sept. 6, he unfortunately repeated Geometry Dash history for the second time, getting [**99%** again](https://www.youtube.com/watch?v=5OQkJD4KWTM). In contrast to his first death at 99%, he had nearly zero reaction to failing at the end.
+
+Luckily, fate would eventually be on his side, and on Sept. 21, 2025, Cuatrocientos [verified](https://www.youtube.com/watch?v=x4Io4zkWVRw) *Flamewall*, after 221,703 attempts and 220 livestreams. The community took to social media to give their thoughts on the monumental verification.
+
+Community member [@N3I631X](https://x.com/N3I631X) on *X* *(formerly Twitter)*, said:
+
+> Flamewall is the best top 1 we've had in a long time, personally it's my favorite, just seeing how long and hard it is drives me crazy, i feel so sad that I don't have the ability to enjoy something like that.
+
+*Flamewall* is now out on the Geometry Dash servers and has officially received an [Epic rating](https://www.dashword.net/posts/rate-standards/) from the developer, [RobTop](https://www.dashword.net/posts/robtop-face-reveal-all-known-pictures-of-robtop-games/). The level ID to play is **126242564**.
