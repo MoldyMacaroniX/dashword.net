@@ -37,6 +37,11 @@ Notable Event Levels include Back on Dash by AudieoVisual, Citadel by Subwoofer,
 12. Button Masher by Viprin
 13. Heave Ho by Magpipe
 14. GD GANGSTER RAP by BoomKitty
+15. Skeletal Shenanigans by YoReid
+16. Backbeat Revenge by Darwin
+17. Space Invaders by Subwoofer
+18. FUNHOUSE by Rafer
+19. Eta Carnis by GloryEX
 
 # First Event Level
 
