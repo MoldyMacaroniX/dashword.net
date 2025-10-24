@@ -6,7 +6,9 @@
 		"photo": "/assets/img/dw-avatar.png",
 		"website":"www.dashword.net",
 		"verified":true,
-		"staff":true
+		"staff":true,
+		"twitter":"DashwordGD",
+		"discord":"SqZuGCpHMm"
 	},
 	{
 		"key": "podcast",
@@ -32,7 +34,7 @@
 	{
 		"key":"moldy",
 		"name":"Moldy",
-		"bio": "Not literally, of course.",
+		"bio": "I promise I'm fresh despite the name!",
 		"photo":"/assets/img/moldy-avatar.png",
 		"youtube":"moldygd",
 		"handle":true,
@@ -47,7 +49,7 @@
 		"key":"esmik",
 		"name":"EsmiK",
 		"bio":"I'm a Czech GD YouTuber, artist, editor and pretty much mediocre at everything!",
-		"photo":"https://yt3.ggpht.com/s5TCwDCEl3seKisfyTRk0EqU5hoEn6Qc1T970GSqwE5TO-tlc3N2-zGbN9cSv1A4cRpJ-j7G",
+		"photo":"/assets/img/user.png",
 		"youtube":"UCc-MJ1ijeGtfFdMwRdSGlqw",
 		"twitter":"Esmik15",
 		"discord":"ZUcF8UvUgM",
@@ -57,7 +59,7 @@
 		"key":"cob",
 		"name":"Cob",
 		"bio":"BERP BERP BERP",
-		"photo":"https://yt3.ggpht.com/A7KsEjA1NPKNjZD4idAWyuwjkVIYiV_OnHG11G9ht3CovG6HJVw7b4DNyY-Hla9on-BXQC8C=s900-c-k-c0x00ffffff-no-rj",
+		"photo":"https://i.imgur.com/8mPcgPj.png",
 		"youtube":"Cobgd",
 		"handle":true,
 		"twitch":"gdcob",
@@ -80,7 +82,7 @@
 		"key":"ryli",
 		"name":"Ryli",
 		"bio":"Hey! My name is Ryli, I'm a 16 year old trans girl from Canada. I'm a GD creator and an aspiring in-game moderator.",
-		"photo":"https://yt3.ggpht.com/ytc/AKedOLSiJtREXIl22h_HIif1xJWadekhzjhPRjO68ArbpA=s900-c-k-c0x00ffffff-no-rj",
+		"photo":"/assets/img/user.png",
 		"youtube":"Ryli06",
 		"twitch":"rily06",
 		"gdbrowser":"Ryli06"
@@ -98,7 +100,7 @@
 		"key":"airplaneniner",
 		"name":"AirplaneNiner",
 		"bio":"An aviation enthusiast and a software programmer.",
-		"photo":"https://yt3.ggpht.com/yti/APfAmoFkAG2YFSdG4X8QUXVEc9CDSiqZ8wH8oPlJEgHTvg",
+		"photo":"/assets/img/user.png",
 		"youtube":"UC-hJIJWWxRn9ha-rhGtk7hA",
 		"discord":"MFP4CPVjC9",
 		"gdbrowser":"Airplaneguy9"
@@ -154,7 +156,7 @@
 		"key":"enzote",
 		"name":"Enzote",
 		"bio": "Enzote, aka: MikaKC, is a C++ and Web developer who plays Geometry Dash!",
-		"photo":"https://github.com/MikaKC/mikakc.github.io/blob/main/assets/pfp.png?raw=true",
+		"photo":"/assets/img/user.png",
 		"gdbrowser":"Enzote"
 	},
 	{
@@ -180,7 +182,7 @@
 		"key":"adya",
 		"name":"Adya",
 		"bio": "I'm a Moroccan 17 year old that has been playing gd for 6 years.",
-		"photo":"https://yt3.ggpht.com/E78iw_kY4X64Zl56mPEQ1zVzSPfToMQggvEDNJaZtdM5mcc9DdF0Y_53ZAVuS6tyS20LJqsN=s176-c-k-c0x00ffffff-no-rj",
+		"photo":"/assets/img/user.png",
 		"twitter":"AdyaGD",
 		"gdbrowser":"Adya"
 	},
@@ -227,7 +229,7 @@
 	{
         "key": "ender",
         "name": "Ender",
-        "photo": "https://yt3.ggpht.com/ytc/AMLnZu-aWjeOk3_7S7eMIawSjPP3hv3xo_-SUElCzL6lrw=s900-c-k-c0x00ffffff-no-rj",
+        "photo": "https://i.imgur.com/CXme70e.png",
         "verified":true
     },
     {
@@ -246,20 +248,20 @@
 	{
 		"key":"tride",
 		"name":"Tride",
-		"photo":"https://yt3.ggpht.com/tBsA3U91wEOC7RC6pUHOORv6X_ei98o64CKf7FB-KpCkv62FJeIzWrjwls4NxNAdkSrPjRKQOiY=s900-c-k-c0x00ffffff-no-rj",
+		"photo":"https://i.imgur.com/m0NAyl0.jpeg",
 		"verified":true
 	},
 	{
 		"key":"electrify",
 		"name":"Electrify",
-		"photo":"https://yt3.ggpht.com/ytc/AMLnZu9TwJUtC-8FDu9TaYnShdYFPKAjWy_26c_e01eX9w=s900-c-k-c0x00ffffff-no-rj",
+		"photo":"/assets/img/user.png",
 		"verified":true
 	},
 	{
 		"key":"herozer",
 		"name":"herozer",
 		"bio": "crazy",
-		"photo":"https://yt3.googleusercontent.com/n6xJxYinm4b1m4tN9q0-XeK_PfBJAZhja7iQng8chRqSffEcgLbM6FpXQ0jkcyTUBXvz7Lf61cs=s160-c-k-c0x00ffffff-no-rj",
+		"photo":"/assets/img/user.png",
 		"youtube":"UCQaSBzSycKka6lktsw2j7zw",
 		"twitch":"herozerrr",
 		"twitter":"herozer7",
@@ -280,7 +282,7 @@
 		"key":"wbilgini",
 		"name":"WBilgini",
 		"bio":"chaos",
-		"photo":"https://yt3.ggpht.com/ytc/AKedOLQr8KPiI594vmcI02OJ-1eIHRwESVuzCRm1bsauNA=s900-c-k-c0x00ffffff-no-rj",
+		"photo":"/assets/img/user.png",
 		"youtube":"wbilgini",
 		"handle":true,
 		"twitch":"wbilgini",
