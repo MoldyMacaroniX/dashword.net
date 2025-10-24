@@ -78,7 +78,7 @@ window.__h82AlnkH6D91__("WyJwdWItNDk3MTU0NDI0MjgwNDY2NSIsW251bGwsbnVsbCxudWxsLCJ
     <title>
     {% if pageID !== "authorPosts" %}{{ title or metadata.title }}{% else %}{{ myAuthor.name }}{% endif %} |{% if course %} {{ coursename }}, a course on{% endif %} {{ metadata.title }}
     </title>
-    {% if %}
+    {% if page.url == "/" %}
     <script type="application/ld+json">
     {
         "@context" : "https://schema.org",
