@@ -16,7 +16,7 @@ After getting into Geometry Dash, popular streamer Jynxzi has completed Clubstep
 
 Jynxzi began getting into Geometry Dash several weeks ago. But on November 3, 2025, [he received coaching](https://www.youtube.com/live/HFLYip2FiiU) from the current best Geometry Dash player, Zoink.
 
-Two weeks later on November 22, 2025, Jynxzi has beaten his [first ever demon level](https://www.youtube.com/live/kUdkpJ8OHfw), Clubstep.
+Two weeks later on November 22, 2025, Jynxzi has beaten his [first ever demon level](https://www.youtube.com/live/kUdkpJ8OHfw), Clubstep. This feat took him 3,620 attempts.
 
 While Clubstep is the first official demon level in Geometry Dash, it is not the easiest demon. [There are many online levels that are considered easier](/posts/10-easiest-geometry-dash-demons-to-get-100-free-stars/), so Clubstep being Jynxzi's first ever demon is an incredible feat for someone who has only been playing for a short while.
 
