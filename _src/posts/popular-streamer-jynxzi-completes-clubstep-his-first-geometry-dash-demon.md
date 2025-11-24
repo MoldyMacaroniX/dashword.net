@@ -6,6 +6,7 @@ desc: After getting into Geometry Dash, popular streamer Jynxzi has completed
 date: 2025-11-23T20:43:23.757Z
 tags:
   - news
+  - featured
 author: moldy
 image: https://img.youtube.com/vi/8LzyFMaUvDs/maxresdefault.jpg
 imageSource: https://www.youtube.com/live/8LzyFMaUvDs?si=a4d7yA4cyz4FI69U
