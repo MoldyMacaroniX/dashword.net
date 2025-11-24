@@ -8,7 +8,7 @@ tags:
   - news
   - featured
 author: moldy
-image: https://img.youtube.com/vi/8LzyFMaUvDs/maxresdefault.jpg
+image: https://i.imgur.com/97F5Mm2.png
 imageSource: https://www.youtube.com/live/8LzyFMaUvDs?si=a4d7yA4cyz4FI69U
 affiliateLinks: false
 hideAds: false
