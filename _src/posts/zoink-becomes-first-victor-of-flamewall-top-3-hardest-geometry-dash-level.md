@@ -1,7 +1,9 @@
 ---
 pageSlug: zoink-first-victor-of-flamewall-top-3-hardest-geometry-dash-level
 title: "Zoink Becomes First Victor of Flamewall: Top 3 Hardest Geometry Dash Level"
-desc: a
+desc: After a 99% fail, Zoink has become the first victor of Flamewall, the top
+  three hardest demon in Geometry Dash. This makes him the second player to ever
+  beat this level, with the first being the verifier, Cuatrocientos.
 date: 2025-12-05T17:55:10.051Z
 tags:
   - news
