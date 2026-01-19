@@ -4,7 +4,7 @@ title: Geometry Dash 2.208 Released On Steam
 desc: After over a year since the previous update, Geometry Dash 2.208 has been
   released! This update adds the famous Click Between Frames mod, more
   leaderboards, new Gauntlets, and more.
-date: 2026-01-19T23:37:21.018Z
+date: 2026-01-19T23:59:11.348Z
 tags:
   - news
   - "2.2"
@@ -21,14 +21,14 @@ Currently, the update is only available on Steam, but it will release for mobile
 
 # Geometry Dash 2.208 Features
 
-- Click Between Frames, called Click Between / On Steps in-game
+- [Click Between Frames](/posts/geometry-dash-click-between-frames-mod-download-and-install/), called Click Between / On Steps in-game
 - Leaderboards for Moons, Demons, and User Coins
 - New Gauntlets
 - New trace system in the editor
 - More social media buttons on account profiles
 - Bug fixes and other small tweaks
 
-The official Geometry Dash Discord server also noted that update 2.209 will release soon and add more community-requested features.
+The [official Geometry Dash Discord server](https://discord.com/invite/geometrydash) also noted that update 2.209 will release soon and add more community-requested features.
 
 The next major content update, either 2.21 or 2.3, is also "actively in development and progressing well."
 
