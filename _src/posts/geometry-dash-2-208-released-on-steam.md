@@ -4,7 +4,7 @@ title: Geometry Dash 2.208 Released On Steam
 desc: After over a year since the previous update, Geometry Dash 2.208 has been
   released! This update adds the famous Click Between Frames mod, more
   leaderboards, new Gauntlets, and more.
-date: 2026-01-19T23:59:11.348Z
+date: 2026-01-20T00:00:35.075Z
 tags:
   - news
   - "2.2"
