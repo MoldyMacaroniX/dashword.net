@@ -62,7 +62,7 @@ This update also adds a next free group ID offset, which allows you to offset wh
 
 # More Social Media Buttons
 
-Update 2.208 also added the ability to add your Instagram and TikTok profiles to your Geometry Dash account. A small but welcome change that no doubt some members of the community will appreciate.
+Update 2.208 also added the ability to add your Instagram, TikTok and Discord profiles to your Geometry Dash account. In addition, you can also add a custom link, such as to a website. A small but welcome change that no doubt some members of the community will appreciate.
 
 ---
 
