@@ -36,7 +36,7 @@ The next major content update, either 2.21 or 2.3, is also "actively in developm
 
 Geometry Dash 2.208 added the Click Between Frames mod, although it is officially called Click Between / On Steps in-game.
 
-That being said, this is not the *exact* same as Click Between Frames. While top players have noted it allows more precise inputs, the inputs are not as precise as what the Click Between Frames mod could do.
+That being said, this is not the *exact* same as Click Between Frames. While top players have noted it allows more precise inputs, the inputs are not as precise as what the Click Between Frames mod could do. But it is possible this is a bug and will be fixed in the future.
 
 Either way, this is a massive development for top play, or even for regular players who want their inputs to feel more precise.
 
