@@ -92,4 +92,8 @@ While existing moderators have responsed, their responses have been criticized f
 
 As the ultimate person in charge, RobTop has been criticized for the Mod Team's shortcomings. It reportedly required Viprin to push Geomaniac's situation all the way up to RobTop to get him unbanned. Stellar is still banned as of the publishing of this article.
 
-But one thing is clear: with Pauze and Viprin being the two most powerful Moderators, but also the two most controversial, there isn't much hope for any reform within the Mod Team. Instead, the only person who could do it is RobTop, but as stated earlier, he is clearly checked out of the situation.
+But one thing is clear: with Pauze and Viprin being the two most powerful Moderators, but also the two most controversial, there isn't much hope for any reform within the Mod Team. Instead, the only person who could do anything is RobTop, but as stated earlier, he seems to be checked out of the situation.
+
+---
+
+It is clear that Stellar shouldn't have abused a compromised account to send levels. But it is also clear that the Mod Team has some problems. Both sides have made mistakes. The question is whether or not any changes will be made going forward.
