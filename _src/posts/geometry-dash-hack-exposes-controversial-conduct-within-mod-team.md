@@ -45,8 +45,7 @@ Upon the banning of Stellar and Geomaniac, the community was quick to voice thei
 
 After Stellar went to contact Pauze about what they believe to be their unjust suspension, [Pauze responded with the following](https://x.com/geomaniac_/status/2011963727621525850):
 
-> i dont owe you shit
-> <br>
+> i dont owe you shit  
 > thanks for your cooperation with my investigation
 
 Regardless of whether or not Stellar's ban was justified, this is an inappropriate response. Members of the community were quick to note that this is not how situations involving a potential unjust suspension of a player should be handled.
