@@ -96,4 +96,6 @@ But one thing is clear: with Pauze and Viprin being the two most powerful Modera
 
 ---
 
-It is clear that Stellar shouldn't have abused a compromised account to send levels. But it is also clear that the Mod Team has some problems. Both sides have made mistakes. The question is whether or not any changes will be made going forward.
+It is clear that Stellar shouldn't have abused a compromised account to send levels. But it is also clear that the Mod Team has some problems. Both sides have made mistakes.
+
+The question is whether or not any changes will be made going forward.
