@@ -1,6 +1,6 @@
 ---
 pageSlug: geometry-dash-hack-exposes-controversial-conduct-within-mod-team
-title: Geometry Dash Hack Exposes Controversial Conduct Within Mod Team
+title: Geometry Dash Hacker Exposes Controversial Conduct Within Mod Team
 desc: After a Geometry Dash Moderator's in-game and Discord accounts were
   hacked, the latest six months of activity in Mod Chat, a private Discord
   server only for Geometry Dash Moderators, was leaked and multiple in-game
