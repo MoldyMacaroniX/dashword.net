@@ -1,8 +1,11 @@
 ---
 pageSlug: geometry-dash-hack-exposes-controversial-conduct-within-mod-team
 title: Geometry Dash Hack Exposes Controversial Conduct Within Mod Team
-desc: a
-date: 2026-01-22T21:38:22.990Z
+desc: After a Geometry Dash Moderator's in-game and Discord accounts were
+  hacked, the latest six months of activity in Mod Chat, a private Discord
+  server only for Geometry Dash Moderators, was leaked and multiple in-game
+  accounts were banned.
+date: 2026-01-22T22:45:25.956Z
 tags:
   - news
 author: dashword
@@ -14,7 +17,9 @@ After a Geometry Dash Moderator's in-game and Discord accounts were hacked, the 
 
 This has led the community to criticize the Mod Team's handling of the situation. Further developments also reveal controversial conduct within the Mod Team.
 
+{% alert %}
 Please note that this is very much a developing situation. Things may change as more information is revealed.
+{% endalert %}
 
 # The Hacking
 
@@ -31,6 +36,8 @@ After this, Stellar had their account banned, reportedly for [sending levels via
 From what we've managed to piece together, Stellar was not the person who hacked into the account, but they did use the compromised account to send levels to get rated.
 
 Another player, Geomaniac, also had their account banned. Geomaniac claims that [they never sent any levels](https://x.com/geomaniac_/status/2011963720990372328), but there's sources that contradict this. Either way, Geomaniac's involvement is believed to be very small, if any.
+
+It is unclear if the actual hackers were ever banned.
 
 # Community Reaction
 
@@ -66,7 +73,7 @@ That being said, it is worth noting that this information has been known prior t
 
 This also led to information about Viprin exposed in 2023 to be brought back up. In specific, Viprin was exposed for dating someone nearly [five years younger than him](/posts/geometry-dash-elder-moderator-viprin-exposed-for-a-lot-of-things-actually/).
 
-# Systemic Flaws in the Mod Team
+# Response From Former Moderators
 
 This situation has prompted some former Geometry Dash Moderators to come out and criticize the Mod Team.
 
@@ -77,3 +84,13 @@ This situation has prompted some former Geometry Dash Moderators to come out and
 > I can see these problems are still rampant, and it just makes me sad. I just want the best for this community, and while I know I’m not very active these days, I still love the game with a passion.
 
 After this, former Geometry Dash Moderator [YakobNugget noted](https://x.com/yakobnugget_/status/2014370428702101898) that Pauze "really needs to step down if he doesn't want to be the bridge between us and [RobTop] that his role requires, out of everyone in this situation he seems to perform actions based on spite and vibes while completely disregarding what actually happened."
+
+While most of the community believes Pauze is mostly to blame, statements from former Moderators like Danzmen suggest a systemic issue that has been going on for a while.
+
+While existing moderators have responsed, their responses have been criticized for not being genuine and [deflecting blame](https://x.com/ThighHighs/status/2013517714044940409).
+
+# RobTop's Involvement
+
+As the ultimate person in charge, RobTop has been criticized for the Mod Team's shortcomings. It reportedly required Viprin to push Geomaniac's situation all the way up to RobTop to get him unbanned. Stellar is still banned as of the publishing of this article.
+
+But one thing is clear: with Pauze and Viprin being the two most powerful Moderators, but also the two most controversial, there isn't much hope for any reform within the Mod Team. Instead, the only person who could do it is RobTop, but as stated earlier, he is clearly checked out of the situation.
