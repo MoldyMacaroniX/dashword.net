@@ -19,7 +19,7 @@ Geometry Dash is among one of the hardest mobile games available. It can take mo
 In case you're looking for easy icons to add to your kit, here is how to unlock every Geometry Dash vault and secret area.
 
 - [The Vault](#the-vault)
-- [The Vault](#wraith-vault)
+- [Wraith Vault](#wraith-vault)
 - [Vault of Secrets](#vault-of-secrets)
 - [Chamber of Time](#chamber-of-time)
 - [Treasure Room](#treasure-room)
