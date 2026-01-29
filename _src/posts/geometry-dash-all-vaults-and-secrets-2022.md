@@ -1,5 +1,5 @@
 ---
-title: "Geometry Dash Vaults & Secrets: How To Unlock Every Secret Area (2025)"
+title: "Geometry Dash Vaults & Secrets: How To Unlock Every Secret Area (2026)"
 desc: If you're looking for free icons, colors, and rewards, every Geometry Dash
   secret area has something to offer.
 date: 2022-09-18
