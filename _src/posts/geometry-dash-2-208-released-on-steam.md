@@ -1,6 +1,6 @@
 ---
 pageSlug: geometry-dash-2-208-released
-title: Geometry Dash 2.208 Released On Steam
+title: Geometry Dash 2.208 Released On iOS, Android, & Steam
 desc: After over a year since the previous update, Geometry Dash 2.208 has been
   released! This update adds the famous Click Between Frames mod, more
   leaderboards, new Gauntlets, and more.
@@ -17,7 +17,7 @@ hideAds: false
 ---
 After over a year since the previous update, Geometry Dash 2.208 has been released! This update adds the famous Click Between Frames mod, more leaderboards, new Gauntlets, and more.
 
-Currently, the update is only available on Steam, but it will release for mobile platforms in the coming days.
+While originally only being available on Steam, the update has now been released on iOS and Android.
 
 # Geometry Dash 2.208 Features
 
