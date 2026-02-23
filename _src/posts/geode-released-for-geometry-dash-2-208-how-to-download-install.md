@@ -4,7 +4,7 @@ title: "Geode Released For Geometry Dash 2.208: How To Download & Install"
 desc: Geode, the most popular Geometry Dash modloader, is now available for
   version 2.208 after a nearly month long wait. Mods are still being updated but
   Geode is now available to download and install again.
-date: 2026-02-23T18:08:15.571Z
+date: 2026-02-23T18:13:30.010Z
 tags:
   - news
   - mods
@@ -26,7 +26,7 @@ However, Geometry Dash 2.208 adds support for Click On Steps, which is the new o
 While originally only available on their [GitHub Repo](https://github.com/geode-sdk/geode/releases), you can now download and install Geode directly from the Geode website!
 
 1. [Backup your save data](/posts/backup-gd-data-steam/). This is always a good idea when modding anything!
-2. Download the Geode Installer for your device from [the official Geode website](https://geode-sdk.org/install). Version 5 is the latest version of Geode, an upgrade from the previous version 4.
+2. Download the Geode Installer for your device from [the official Geode website](https://geode-sdk.org/install). Version 5 is the latest version of Geode, which is an upgrade from the previous 4.10.2 version.
 3. Run the installer.
 4. Open Geometry Dash and download mods using the in-game Geode button!
 
