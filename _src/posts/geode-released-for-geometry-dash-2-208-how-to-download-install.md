@@ -8,6 +8,7 @@ date: 2026-02-23T17:53:29.000Z
 tags:
   - news
   - mods
+  - featured
 author: moldy
 image: https://i.imgur.com/jRa4cUK.jpeg
 imageSource: https://imgur.com/a/krU21Ps
