@@ -9,7 +9,7 @@ date: 2026-01-22T22:45:25.956Z
 tags:
   - news
 author: dashword
-image: /assets/img/main2.png
+image: /assets/img/main2.webp
 affiliateLinks: false
 hideAds: false
 ---

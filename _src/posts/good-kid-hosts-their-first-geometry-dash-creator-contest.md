@@ -12,7 +12,7 @@ tags:
   - news
   - featured
 author: dashword
-image: /assets/img/good-kid-geometry-dash-level-contest-0-2-screenshot.png
+image: /assets/img/good-kid-geometry-dash-level-contest-0-2-screenshot.webp
 affiliateLinks: false
 hideAds: false
 ---
