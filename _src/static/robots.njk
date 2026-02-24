@@ -1,0 +1,8 @@
+---
+permalink: robots.txt
+---
+Sitemap: https://www.dashword.net/sitemap.xml
+{% for agent in agents %}
+User-agent: {{ agent }}
+Disallow: /
+{% endfor %}
