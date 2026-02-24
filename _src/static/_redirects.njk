@@ -42,10 +42,3 @@ https://gd-website.netlify.com/*   https://www.dashword.net/:splat   301!
 /authors/moldymacaronix/ /authors/moldy/
 
 # Block
-{% for agent in agents %}
-/*  /404.html  403  Role={{ agent }}
-{% endfor %}
-
-/* /404.html 403 User-Agent=GPTBot*
-/* /404.html 403 User-Agent=ChatGPT-User*
-/* /404.html 403 User-Agent=Bytespider*
