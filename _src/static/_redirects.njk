@@ -1,3 +1,6 @@
+---
+permalink: _redirects
+---
 # https://johnkavanagh.co.uk/writing/redirect-a-default-netlify-subdomain-to-your-custom-domain/
 
 https://gd-website.netlify.com/*   https://www.dashword.net/:splat   301! 
@@ -37,3 +40,8 @@ https://gd-website.netlify.com/*   https://www.dashword.net/:splat   301!
 # Author page redirects
 
 /authors/moldymacaronix/ /authors/moldy/
+
+# Block
+{% for agent in agents %}
+/*  /404.html  403  Role={{ agent }}
+{% endfor %}
