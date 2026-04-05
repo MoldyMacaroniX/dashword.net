@@ -18,6 +18,7 @@ The Geometry Dash fanbase reacted with heavy backlash after YouTuber Waboo uploa
 The level contains many advertisements for "Skeletal Plushies," a product Waboo is using this level to promote. But despite being based on and marketed using the work of Yoreid and Airz—the two original creators of Skeletal Shenanigans—Waboo did not get permission from them to monetize their work.
 
 Waboo claims Skeletal Extremigans and the plushie business associated with it cost him a total of $115,000 to create, a staggering figure that no doubt attracts eyes to this level and his plushie business.
+
 Yoreid, one of the creators of Skeletan Shenanigans, gave this statement in response to Skeletan Extremigans:
 
 > I actually feel so trapped rn
