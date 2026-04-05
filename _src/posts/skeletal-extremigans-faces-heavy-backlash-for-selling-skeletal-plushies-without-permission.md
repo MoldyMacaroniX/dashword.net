@@ -1,7 +1,9 @@
 ---
 title: Skeletal Extremigans Faces Heavy Backlash For Selling Skeletal Plushies
   Without Permission
-desc: a
+desc: The Geometry Dash fanbase reacted with heavy backlash after YouTuber Waboo
+  uploaded a showcase of an eight minute long extension to the popular level
+  "Skeletal Shenanigans" he calls "Skeletal Extremigans."
 date: 2026-04-05T21:10:42.971Z
 tags:
   - news
