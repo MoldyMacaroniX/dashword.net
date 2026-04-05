@@ -7,7 +7,7 @@ tags:
   - news
   - featured
 author: moldy
-image: a
+image: /assets/img/skele.webp
 affiliateLinks: false
 hideAds: false
 ---
