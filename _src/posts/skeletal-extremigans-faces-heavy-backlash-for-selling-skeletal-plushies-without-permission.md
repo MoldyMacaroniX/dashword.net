@@ -19,7 +19,7 @@ The level contains many advertisements for "Skeletal Plushies," a product Waboo 
 
 Waboo claims Skeletal Extremigans and the plushie business associated with it cost him a total of $115,000 to create, a staggering figure that no doubt attracts eyes to this level and his plushie business.
 
-Yoreid, one of the creators of Skeletan Shenanigans, gave this statement in response to Skeletan Extremigans:
+Yoreid, one of the creators of Skeletan Shenanigans, [gave this statement](https://www.youtube.com/post/Ugkx_gkaZT46A1PSanIoRoBhfcwvnUiXfmfI) in response to Skeletan Extremigans:
 
 > I actually feel so trapped rn
 >
@@ -40,3 +40,5 @@ Yoreid, one of the creators of Skeletan Shenanigans, gave this statement in resp
 >
 
 > I care way too much about my public image and I hate it so much. I made something I should just be proud of and nothing else but instead it has this never-ending nightmare of a tumor attached to it that just keeps growing.
+
+Despite the fact that Waboo's plushie business is arguably copyright infringement, [he has shown no plans to stop what he's doing](https://x.com/motleyorc/status/2040079359923437838).
