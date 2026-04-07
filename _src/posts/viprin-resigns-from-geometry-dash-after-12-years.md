@@ -7,6 +7,7 @@ desc: Viprin, a Geometry Dash moderator and community manager, has announced his
 date: 2026-04-07T19:56:41.190Z
 tags:
   - news
+  - featured
 author: moldy
 image: https://i.imgur.com/NnGPEEx.png
 imageSource: https://imgur.com/NnGPEEx
