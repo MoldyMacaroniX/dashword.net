@@ -42,6 +42,9 @@ Notable Event Levels include Back on Dash by AudieoVisual, Citadel by Subwoofer,
 17. Space Invaders by Subwoofer
 18. FUNHOUSE by Rafer
 19. Eta Carnis by GloryEX
+20. Stronghold by Debihan
+21. EASTSIDE by Vegtam
+22. RESONATE by Bpi
 
 # First Event Level
 
