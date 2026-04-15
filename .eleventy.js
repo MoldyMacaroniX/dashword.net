@@ -278,6 +278,34 @@ module.exports = (config) => {
     `;
     });
 
+    config.addPairedShortcode("reviewWrapper", function(content, name, creator, id, rating) {
+        return `
+<div class="review">
+    <div class="review-rating">${rating}<span>/10</span></div>
+    <h1 class="review-title">${name} by ${creator}</h1>
+        <div class="cols">
+            ${content}
+        </div>
+    <a class="button button-wide" href="https://gdbrowser.com/${id}">Play Death Moon</a>
+</div>\n\n`
+    });
+
+    config.addPairedShortcode("review", function(content, like) {
+        if (like) {
+            return `
+<div class="col">
+    <h2>What I liked:</h2>
+    ${content}
+</div>`
+        } else {
+            return `
+<div class="col">
+    <h2>What I'd like to see:</h2>
+    ${content}
+</div>`
+        }
+    });
+
     config.addPairedShortcode("percent", function(title, percent) {
     return `
 <div class="percent">

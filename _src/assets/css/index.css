@@ -1815,6 +1815,72 @@ details[open] .details-icon.ri-add-line:before {
     z-index: 900;
 }
 
+/* Review */
+
+.review {
+    padding: var(--gap);
+    border: 1px solid var(--grey);
+    border-radius: var(--radius);
+    position: relative;
+    margin: 15px 0;
+}
+
+.review-rating {
+    width: 75px;
+    height: 75px;
+    background-color: var(--primary);
+    border-radius: var(--radius);
+    z-index: 3;
+    top: calc(-0.5 * var(--gap));
+    right: calc(-0.5 * var(--gap));
+    position: absolute;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: var(--white);
+    font-size: 2rem;
+}
+
+.review-rating span {
+    font-size: 1rem !important;
+    font-weight: normal !important;
+}
+
+.review h1, .review h2 {
+    margin: 0;
+    padding: 0;
+}
+
+.review .button {
+    margin-top: 0;
+}
+
+.review h1 {
+    margin-bottom: var(--gap);
+    padding-right: calc(1.75 * var(--gap));
+    font-size: 1.5rem !important;
+}
+
+.review h2 {
+    font-size: 1.2rem;
+}
+
+.review .button {
+    text-decoration: none !important;
+    color: var(--white) !important;
+}
+
+.review .cols {
+    gap: 0;
+}
+
+/* .review br, .review p {
+    display: none !important;
+} */
+
 /* Panel */
 
 .panel {
