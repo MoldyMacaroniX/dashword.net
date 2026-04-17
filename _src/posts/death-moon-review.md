@@ -1,7 +1,9 @@
 ---
 pageSlug: geometry-dash-death-moon-review
 title: "Review: Death Moon Holds Up Deathly Well"
-desc: Is it controversial to say Death Moon doesn't look like a 1.9 level? I thought surely yes, but as I replayed the level for this review, I remembered exactly why this level is so fondly remembered.
+desc: Is it controversial to say Death Moon doesn't look like a 1.9 level? I
+  thought surely yes, but as I replayed the level for this review, I remembered
+  exactly why this level is so fondly remembered.
 date: 2026-04-14
 tags:
   - review
@@ -69,7 +71,7 @@ I couldn't tell you if FunnyGame promoted this level on his main account or if D
 
 I want to believe Death Moon was just so good of a level that it attracted all its attention all on its own, but I couldn't tell you if that's what actually happened.
 
-Either way, the fact that such a level as famous and memorable as this was one uploaded under an alternate name shows that FunnyGame never cared about fame. He just cared about making art. And he certainly did with this level.
+Either way, the fact that a level this memorable was uploaded under an alternate name shows that FunnyGame never cared about fame. He just cared about making art. And he certainly did with this level.
 
 I could go on and talk about how some parts don't hold up as well as others. And talk about even more gameplay quirks and nitpicks. But all of that has already been covered to death in other reviews. So instead, I'll end this review here, giving this level a 10/10 despite its flaws because I can't think of many other levels that deserve it.
 
