@@ -22,7 +22,7 @@ In Geometry Dash, one of the available vaults is the Wraith Vault. This guide wi
 
 Here are all the Wraith Vault codes in Geometry Dash:
 
-- **GD2025**
+- **geometrydash.com**
 - **Back on Dash**
 - **Geometry**
 - **Citadel**
@@ -46,6 +46,7 @@ Here are all the Wraith Vault codes in Geometry Dash:
 - **ThickOfIt**
 - **Bussin**
 - **TouchGrass**
+- **GD2025**
 
 Note that you have to be connected to the internet for these codes to work.
 
