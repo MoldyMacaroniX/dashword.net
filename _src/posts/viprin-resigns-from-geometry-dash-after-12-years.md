@@ -28,7 +28,7 @@ But Viprin is also a controversial figure. While responsible for hosting many Ge
 
 People [praise him for being responsible for taking Geometry Dash in the direction it is headed now](https://x.com/dreameatergd/status/2041541852180951254). He is believed to be largely responsible for making the moderator system what it is now and for creating many events that are now officially endorsed by RobTop.
 
-However, there are those who dislike the bureaucratic direction Viprin took Geometry Dash in. He is criticized for making all these decisions himself and for [creating private, groupthink environments like Mod Chat](/posts/geometry-dash-hack-exposes-controversial-conduct-within-mod-team/) for people to confirm his decisions. Danzmen, for one, criticized the moderator team for consisting of "toxicity, power trips, deep-seated insecurity."
+However, there are those who dislike the "bureaucratic" direction Viprin took Geometry Dash in. He is criticized for making all these decisions himself and for [creating private, groupthink environments like Mod Chat](/posts/geometry-dash-hack-exposes-controversial-conduct-within-mod-team/) for people to confirm his decisions. Danzmen, for one, criticized the moderator team for consisting of "toxicity, power trips, [and] deep-seated insecurity."
 
 **But regardless of whether or not you love or hate Viprin, to say he is either all perfect or all evil is misleading.** The situation is nuance. He created many beloved community events and no doubt helped the game a lot. But he also made many mistakes.
 

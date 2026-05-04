@@ -12,6 +12,7 @@ author: dashword
 image: /assets/img/main2.webp
 affiliateLinks: false
 hideAds: false
+outdated: true
 ---
 After a Geometry Dash Moderator's in-game and Discord accounts were hacked, the latest six months of activity in Mod Chat, a private Discord server only for Geometry Dash Moderators, was leaked and multiple in-game accounts were banned.
 
@@ -72,27 +73,27 @@ That being said, it is worth noting that this information has been known prior t
 
 This also led to information about Viprin exposed in 2023 to be brought back up. In specific, Viprin was exposed for dating someone nearly [five years younger than him](/posts/geometry-dash-elder-moderator-viprin-exposed-for-a-lot-of-things-actually/).
 
-# Response From Former Moderators
+# Response From The Community
 
-This situation has prompted some former Geometry Dash Moderators to come out and criticize the Mod Team.
+This situation has prompted some former Geometry Dash Moderators and other community figures to come out and criticize the Mod Team.
 
-[Danzmen reported](https://x.com/RealDanZmeN/status/2014394399317492161) that the Mod Team consisted of "The toxicity, power trips, deep-seated insecurity" and more things that made him "absolutely miserable."
+Danzmen, a former Geometry Dash Moderator, [reported](https://x.com/RealDanZmeN/status/2014394399317492161) that the Mod Team consisted of "toxicity, power trips, deep-seated insecurity" and more things that made him "absolutely miserable."
 
 [He went on to say](https://x.com/RealDanZmeN/status/2014394433056424127):
 
 > I can see these problems are still rampant, and it just makes me sad. I just want the best for this community, and while I know I’m not very active these days, I still love the game with a passion.
 
-After this, former Geometry Dash Moderator [YakobNugget noted](https://x.com/yakobnugget_/status/2014370428702101898) that Pauze "really needs to step down if he doesn't want to be the bridge between us and [RobTop] that his role requires, out of everyone in this situation he seems to perform actions based on spite and vibes while completely disregarding what actually happened."
+After this, [YakobNugget noted](https://x.com/yakobnugget_/status/2014370428702101898) that Pauze "really needs to step down if he doesn't want to be the bridge between us and [RobTop] that his role requires, out of everyone in this situation he seems to perform actions based on spite and vibes while completely disregarding what actually happened."
 
-While most of the community believes Pauze is mostly to blame, statements from former Moderators like Danzmen suggest a systemic issue that has been going on for a while.
+While much of the community believes Pauze is to blame, statements from former Moderators like Danzmen suggest a systemic issue that has been going on for a while.
 
-While existing moderators have responsed, their responses have been criticized for not being genuine and [deflecting blame](https://x.com/ThighHighs/status/2013517714044940409).
+While existing moderators have responded, their responses have been criticized for not being genuine and [deflecting blame](https://x.com/ThighHighs/status/2013517714044940409).
 
 # RobTop's Involvement
 
 As the ultimate person in charge, RobTop has been criticized for the Mod Team's shortcomings. It reportedly required Viprin to push Geomaniac's situation all the way up to RobTop to get him unbanned. Stellar is still banned as of the publishing of this article.
 
-But one thing is clear: with Pauze and Viprin being the two most powerful Moderators, but also the two most controversial, there isn't much hope for any reform within the Mod Team. Instead, the only person who could do anything is RobTop, but as stated earlier, he seems to be checked out of the situation.
+But one thing is clear: with Pauze and Viprin being the two most powerful Moderators, but also the two most controversial, there isn't much hope for any reform within the Mod Team. Instead, the only person who could do anything is RobTop. But as stated earlier, he seems to be checked out of the situation.
 
 ---
 

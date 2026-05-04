@@ -14,8 +14,13 @@ imageSource: https://www.youtube.com/@viprin
 videoID: ""
 affiliateLinks: false
 hideAds: false
+outdated: true
 ---
 What started as a rather uneventful day is now ending with the head Geometry Dash Elder Moderator, Viprin, being accused of... well, a lot of things.
+
+{% alert %}
+Viprin has since responded to most of these allegations. As such, we recommend [reading our coverage of his response](/posts/geometry-dash-elder-moderator-viprin-responds-to-allegations-about-blackmail-spyware-and-inappropriate-encounters/).
+{% endalert %}
 
 Let's start from the top.
 

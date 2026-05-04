@@ -188,7 +188,22 @@ Sharect.init();
 </script>
 
 <article{%if not (podcast or quiz) %} class="article"{% endif %} id="article">
-{{ content | safe }}
+
+	{% if outdated %}
+	<aside>
+		<details>
+			<summary><span class="details-summary"><span class="details-title">This article may be outdated. It should only be used to see how the community felt at this point in time rather than as an accurate assessment of the situation.</span><span class="ri-add-line details-icon"></span></span></summary>
+			
+			<p>As part of our <a href="/ethics-statement/">Ethics Statement</a>, we may report on controversial topics, such as allegations against certain players or groups.</p>
+
+			<p>However, in situations like this, facts change quickly. As such, we're showing you this notice. Instead of using this article as an absolute and final assessment of the situation, treat it more as a summary of the community's immediate reaction to the topic in question.</p>
+
+		</details>
+	</aside>
+	{% endif %}
+
+	{{ content | safe }}
+
 </article>
 
 {% if article or podcast or quiz %}
