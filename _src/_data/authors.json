@@ -322,5 +322,14 @@
 		"youtube":"BlooXen",
 		"handle":true,
 		"gdbrowser":"BlooXen"
+	},
+	{
+		"key":"oxycodine",
+		"name":"oxycodine",
+		"photo":"https://i.imgur.com/EWfZ6dO.png",
+		"youtube":"oxycodinegd",
+		"twitter":"oxycodined",
+		"handle":true,
+		"gdbrowser":"oxycodine"
 	}
 ]
