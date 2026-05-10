@@ -30,7 +30,7 @@ People [praise him for being responsible for taking Geometry Dash in the directi
 
 However, there are those who dislike the "bureaucratic" direction Viprin took Geometry Dash in. He is criticized for making all these decisions himself and for [creating private, groupthink environments like Mod Chat](/posts/geometry-dash-hack-exposes-controversial-conduct-within-mod-team/) for people to confirm his decisions. Danzmen, for one, criticized the moderator team for consisting of "toxicity, power trips, [and] deep-seated insecurity."
 
-**But regardless of whether or not you love or hate Viprin, to say he is either all perfect or all evil is misleading.** The situation is nuance. He created many beloved community events and no doubt helped the game a lot. But he also made many mistakes.
+**But regardless of whether or not you love or hate Viprin, to say he is either all perfect or all evil is misleading.** The situation is nuance. He created many beloved community events and no doubt helped the game a lot. But he also made some mistakes.
 
 As [this Twitter/X user](https://x.com/ItsAndreXtar/status/2041538794483044380) points out:
 
