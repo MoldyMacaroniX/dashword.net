@@ -54,8 +54,16 @@ He suggests that many moderators were scared of Viprin and that's why they didn'
 
 Sink says he is unable to provide evidence for these accusations because the private spaces where they communicate about these things are constantly wiped or "behind so many closed doors."
 
-In response
+In response to a question about the moderator team being an echo chamber, Sink said that there was a lot of arguing in the team, saying they "would often argue in circles." He suggests that the reason for so much arguing is that nothing ever got done. He says RobTop would never listen to them whenever they asked him to do something.
 
+He says that the Moderator position grew into something very community focused and that RobTop just wanted it to be something where people send him stuff. Sink claims he would be fine with this if the demotions didn't "line up perfectly with what Discord server you were in."
+
+
+
+
+Sink said that he will likely get kicked out of a lot of community spaces for saying these things. He has also since said that a lot of the things he said were only speculative.
+
+He also said that he doesn't think these events will affect the game. He also argues that this isn't RobTop's fault, only that he has been used by other people.
 
 # Concerns
 
