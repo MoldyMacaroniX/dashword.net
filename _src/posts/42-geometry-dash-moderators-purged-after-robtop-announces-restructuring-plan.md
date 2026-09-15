@@ -7,7 +7,7 @@ desc: A total of 42 Geometry Dash Moderators were demoted today after RobTop
 date: 2026-09-15T00:56:57.207Z
 tags:
   - news
-author: moldy
+author: dashword
 image: https://pbs.twimg.com/media/GFRFihcbIAA9kfX?format=jpg&name=large
 imageSource: https://x.com/zadoveee/status/1753102780557058509
 affiliateLinks: false
