@@ -58,7 +58,9 @@ In response to a question about the moderator team being an echo chamber, Sink s
 
 He says that the Moderator position grew into something very community focused and that RobTop just wanted it to be something where people send him stuff. Sink claims he would be fine with this if the demotions didn't "line up perfectly with what Discord server you were in." He claims that you would only keep your position if you were "friends with certain people."
 
-Sink also said he had a difficult relationship with Pauze and Viprin. He also suggests that Viprin convinced others to avoid him and barred him from judging official contests and joining some private community spaces.
+Sink also said he had a difficult relationship with Pauze and Viprin. He also suggests that Viprin convinced others to avoid him and barred him from judging official contests and joining some private community spaces. He claims that because he called out the bad behavior of others, he was excluded from things, especially when Viprin was in charge.
+
+He said that RobTop only listens to those really close to him rather than the wider team, and that some players like Viprin took advantage of that.
 
 
 
@@ -68,6 +70,8 @@ Sink also said he had a difficult relationship with Pauze and Viprin. He also su
 Sink said that he will likely get kicked out of a lot of community spaces for saying these things. He has also since said that a lot of the things he said were only speculative.
 
 He also said that he doesn't think these events will affect the game. He also argues that this isn't RobTop's fault, only that he has been used by other people. He also says he doesn't believe there is a "shadow government" running the game.
+
+Sink also said that because most people who do level request streams got demoted, players might have a harder time getting their levels sent to RobTop. Although he admits that he is unsure how the moderation team will work going forward.
 
 # Concerns
 
