@@ -36,7 +36,7 @@ Sink also criticized those who stayed on the team for protecting community membe
 
 Sink also said that the reason a lot of moderators were demoted is because they were repeatedly "calling out people for this bad stuff that they were doing." In specific, he says he repeatedly called out Pauze for alleged wrongful actions such as his recently discovered Counter Strike messages.
 
-He also claims that this decision to purge the moderator team was discussed by Viprin three years ago. He claims Elder Moderators and other "maintenance members" kept telling them that Viprin was only joking. Sink also claims to have asked these upper members a week ago whether or not this was happening, and he was told that it wouldn't.
+He also claims that this decision to purge the moderator team was discussed by Viprin three years ago. He claims Elder Moderators and other "maintenance members" kept telling them that Viprin was only joking. Sink also claims to have asked these upper members a week ago whether or not this was happening, and he was told that it wouldn't. He also said that moderators only found out they were going to get demoted earlier this morning.
 
 Sink also claims that if he wasn't demoted, he would have left anyway in protest. He criticizes RobTop for "protecting the people who were against you all in the first place."
 
@@ -46,7 +46,7 @@ Sink also leaked an alleged private message from RobTop to moderators.
 
 Sink criticizes this statement in light of the "Pauze situation."
 
-Sink said that he doesn't think there should be a "rediculous amount of secrecy at the top of the game" and that those at the top of the game shouldn't be defending players who engage in inapropriate behavior. He claims that "a person who was second in command to [RobTop]" was in a relationship with a 16 or 17 year old while in their twenties. Sink doesn't confirms who this is [but he is likely referring to Viprin](/posts/geometry-dash-elder-moderator-viprin-exposed-for-a-lot-of-things-actually/).
+Sink said that he doesn't think there should be a "ridiculous amount of secrecy at the top of the game" and that those at the top of the game shouldn't be defending players who engage in inapropriate behavior. He claims that "a person who was second in command to [RobTop]" was in a relationship with a 16 or 17 year old while in their twenties. Sink doesn't confirms who this is [but he is likely referring to Viprin](/posts/geometry-dash-elder-moderator-viprin-exposed-for-a-lot-of-things-actually/).
 
 He claims RobTop knew about this but did nothing about it for two years. This could suggest that Viprin didn't resign, but was actually demoted. This is coberated by the fact that another recently demoted moderator, Yrax, said they were [given the option to resign rather than be demoted]().
 
@@ -56,14 +56,18 @@ Sink says he is unable to provide evidence for these accusations because the pri
 
 In response to a question about the moderator team being an echo chamber, Sink said that there was a lot of arguing in the team, saying they "would often argue in circles." He suggests that the reason for so much arguing is that nothing ever got done. He says RobTop would never listen to them whenever they asked him to do something.
 
-He says that the Moderator position grew into something very community focused and that RobTop just wanted it to be something where people send him stuff. Sink claims he would be fine with this if the demotions didn't "line up perfectly with what Discord server you were in."
+He says that the Moderator position grew into something very community focused and that RobTop just wanted it to be something where people send him stuff. Sink claims he would be fine with this if the demotions didn't "line up perfectly with what Discord server you were in." He claims that you would only keep your position if you were "friends with certain people."
+
+Sink also said he had a difficult relationship with Pauze and Viprin. He also suggests that Viprin convinced others to avoid him and barred him from judging official contests and joining some private community spaces.
+
+
 
 
 
 
 Sink said that he will likely get kicked out of a lot of community spaces for saying these things. He has also since said that a lot of the things he said were only speculative.
 
-He also said that he doesn't think these events will affect the game. He also argues that this isn't RobTop's fault, only that he has been used by other people.
+He also said that he doesn't think these events will affect the game. He also argues that this isn't RobTop's fault, only that he has been used by other people. He also says he doesn't believe there is a "shadow government" running the game.
 
 # Concerns
 
