@@ -8,6 +8,7 @@ date: 2026-10-06T09:29:13.543Z
 tags:
   - demonlist
   - news
+  - featured
 author: moldy
 image: https://img.youtube.com/vi/gB8slBPlOjc/maxresdefault.jpg
 imageSource: https://youtu.be/gB8slBPlOjc?si=YiE0su4gGXJPM9YL
